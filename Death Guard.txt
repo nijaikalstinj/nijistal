@@ -10,7 +10,10 @@
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -24,14 +27,20 @@
           "optionName" : "Blight Grenades",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1772,
           "optionName" : "Contaminated Monstrosity",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -45,7 +54,10 @@
           "optionName" : "Plaguechosen",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -59,7 +71,10 @@
         "unitID" : 1808,
         "autoAddDictionary" : { },
         "startingModels" : 1,
-        "listOfCurrencies" : { }
+        "listOfCurrencies" : {
+          "Power level" : 5,
+          "Command points" : 0
+        }
       }, {
         "unitName" : "[1]Chaos Predator",
         "listOfOptions" : [ {
@@ -68,42 +83,60 @@
           "optionName" : "Two lascannons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1810,
           "optionName" : "Two heavy bolters",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1772,
           "optionName" : "Contaminated Monstrosity",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
         }, {
           "optionCost" : 5.0,
           "optionID" : 1736,
           "optionName" : "Havoc launcher",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 40.0,
           "optionID" : 1809,
           "optionName" : "Predator autocannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1737,
           "optionName" : "Smoke launchers",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "Heavy Support",
         "unitCost" : 90.0,
@@ -112,7 +145,10 @@
           "1809" : 1
         },
         "startingModels" : 1,
-        "listOfCurrencies" : { }
+        "listOfCurrencies" : {
+          "Power level" : 9,
+          "Command points" : 0
+        }
       }, {
         "unitName" : "[0]Chaos Spawn",
         "listOfOptions" : [ {
@@ -121,14 +157,20 @@
           "optionName" : "Chaos Spawn",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 1,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1772,
           "optionName" : "Contaminated Monstrosity",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
         } ],
         "unitCategory" : "Fast Attack",
         "unitCost" : 0.0,
@@ -137,7 +179,10 @@
           "1813" : 1
         },
         "startingModels" : 0,
-        "listOfCurrencies" : { }
+        "listOfCurrencies" : {
+          "Power level" : 0,
+          "Command points" : 0
+        }
       }, {
         "unitName" : "[1]Defiler",
         "listOfOptions" : [ {
@@ -146,28 +191,40 @@
           "optionName" : "Defiler scourge",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1815,
           "optionName" : "Defiler claws",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1772,
           "optionName" : "Contaminated Monstrosity",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
         }, {
           "optionCost" : 5.0,
           "optionID" : 1736,
           "optionName" : "Havoc launcher",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -181,7 +238,10 @@
           "optionName" : "Smoke launchers",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "Heavy Support",
         "unitCost" : 120.0,
@@ -191,7 +251,10 @@
           "1816" : 1
         },
         "startingModels" : 1,
-        "listOfCurrencies" : { }
+        "listOfCurrencies" : {
+          "Power level" : 9,
+          "Command points" : 0
+        }
       }, {
         "unitName" : "[1]Sorcerer [Legends]",
         "listOfOptions" : [ {
@@ -200,7 +263,10 @@
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -221,21 +287,30 @@
           "optionName" : "Sevenfold Blessings",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1772,
           "optionName" : "Contaminated Monstrosity",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
         }, {
           "optionCost" : 24.0,
           "optionID" : 1818,
           "optionName" : "Jump Pack",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 1,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -249,7 +324,10 @@
           "optionName" : "Plaguechosen",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -263,7 +341,10 @@
         "unitID" : 1819,
         "autoAddDictionary" : { },
         "startingModels" : 1,
-        "listOfCurrencies" : { }
+        "listOfCurrencies" : {
+          "Power level" : 6,
+          "Command points" : 0
+        }
       }, {
         "unitName" : "[0]Poxwalkers",
         "listOfOptions" : [ {
@@ -272,7 +353,10 @@
           "optionName" : "Poxwalker",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "Troops",
         "unitCost" : 0.0,
@@ -281,7 +365,10 @@
           "1820" : 10
         },
         "startingModels" : 0,
-        "listOfCurrencies" : { }
+        "listOfCurrencies" : {
+          "Power level" : 3,
+          "Command points" : 0
+        }
       }, {
         "unitName" : "[1]Foetid Bloat-drone",
         "listOfOptions" : [ {
@@ -290,28 +377,40 @@
           "optionName" : "2x Plaguespitter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 25.0,
           "optionID" : 1823,
           "optionName" : "Heavy blight launcher",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1822,
           "optionName" : "Plague probe",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 10.0,
           "optionID" : 1824,
           "optionName" : "Fleshmower",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "Other",
         "unitCost" : 115.0,
@@ -321,7 +420,10 @@
           "1823" : 1
         },
         "startingModels" : 1,
-        "listOfCurrencies" : { }
+        "listOfCurrencies" : {
+          "Power level" : 7,
+          "Command points" : 0
+        }
       }, {
         "unitName" : "[1]Chaos Lord in Terminator Armour",
         "listOfOptions" : [ {
@@ -330,7 +432,10 @@
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -344,7 +449,10 @@
           "optionName" : "Contaminated Monstrosity",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -358,7 +466,10 @@
           "optionName" : "Plaguechosen",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -372,7 +483,10 @@
         "unitID" : 1826,
         "autoAddDictionary" : { },
         "startingModels" : 1,
-        "listOfCurrencies" : { }
+        "listOfCurrencies" : {
+          "Power level" : 6,
+          "Command points" : 0
+        }
       }, {
         "unitName" : "[1]Chaos Lord on Palanquin of Nurgle [Legends]",
         "listOfOptions" : [ {
@@ -381,7 +495,10 @@
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -395,14 +512,20 @@
           "optionName" : "Nurglings' claws and teeth",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1772,
           "optionName" : "Contaminated Monstrosity",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -416,7 +539,10 @@
           "optionName" : "Plaguechosen",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -432,7 +558,10 @@
           "1827" : 1
         },
         "startingModels" : 1,
-        "listOfCurrencies" : { }
+        "listOfCurrencies" : {
+          "Power level" : 6,
+          "Command points" : 0
+        }
       }, {
         "unitName" : "[1]Chaos Lord with Jump Pack [Legends]",
         "listOfOptions" : [ {
@@ -441,7 +570,10 @@
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -455,7 +587,10 @@
           "optionName" : "Contaminated Monstrosity",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -469,7 +604,10 @@
           "optionName" : "Plaguechosen",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -483,7 +621,10 @@
         "unitID" : 1829,
         "autoAddDictionary" : { },
         "startingModels" : 1,
-        "listOfCurrencies" : { }
+        "listOfCurrencies" : {
+          "Power level" : 6,
+          "Command points" : 0
+        }
       }, {
         "unitName" : "[1]Sorcerer in Terminator Armour",
         "listOfOptions" : [ {
@@ -492,7 +633,10 @@
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -513,14 +657,20 @@
           "optionName" : "Sevenfold Blessings",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1772,
           "optionName" : "Contaminated Monstrosity",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -534,7 +684,10 @@
           "optionName" : "Plaguechosen",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -548,7 +701,10 @@
         "unitID" : 1830,
         "autoAddDictionary" : { },
         "startingModels" : 1,
-        "listOfCurrencies" : { }
+        "listOfCurrencies" : {
+          "Power level" : 6,
+          "Command points" : 0
+        }
       }, {
         "unitName" : "[1]Sorcerer with Jump Pack",
         "listOfOptions" : [ {
@@ -557,7 +713,10 @@
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -578,14 +737,20 @@
           "optionName" : "Sevenfold Blessings",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1772,
           "optionName" : "Contaminated Monstrosity",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -599,14 +764,20 @@
           "optionName" : "Plaguechosen",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 114.0,
         "unitID" : 1831,
         "autoAddDictionary" : { },
         "startingModels" : 1,
-        "listOfCurrencies" : { }
+        "listOfCurrencies" : {
+          "Power level" : 7,
+          "Command points" : 0
+        }
       }, {
         "unitName" : "[0]Possessed",
         "listOfOptions" : [ {
@@ -615,7 +786,10 @@
           "optionName" : "Possessed",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 0.0,
@@ -624,7 +798,10 @@
           "1832" : 5
         },
         "startingModels" : 0,
-        "listOfCurrencies" : { }
+        "listOfCurrencies" : {
+          "Power level" : 5,
+          "Command points" : 0
+        }
       }, {
         "unitName" : "[1]Helbrute",
         "listOfOptions" : [ {
@@ -633,35 +810,50 @@
           "optionName" : "Power scourge",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 20.0,
           "optionID" : 1836,
           "optionName" : "Helbrute plasma cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 30.0,
           "optionID" : 1834,
           "optionName" : "Helbrute hammer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 20.0,
           "optionID" : 1767,
           "optionName" : "Helbrute fist",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1772,
           "optionName" : "Contaminated Monstrosity",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 70.0,
@@ -671,7 +863,10 @@
           "1834" : 1
         },
         "startingModels" : 1,
-        "listOfCurrencies" : { }
+        "listOfCurrencies" : {
+          "Power level" : 7,
+          "Command points" : 0
+        }
       }, {
         "unitName" : "[1]Chaos Rhino",
         "listOfOptions" : [ {
@@ -680,7 +875,10 @@
           "optionName" : "Contaminated Monstrosity",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -694,7 +892,10 @@
         "unitID" : 1838,
         "autoAddDictionary" : { },
         "startingModels" : 1,
-        "listOfCurrencies" : { }
+        "listOfCurrencies" : {
+          "Power level" : 4,
+          "Command points" : 0
+        }
       }, {
         "unitName" : "[1]Typhus",
         "listOfOptions" : [ {
@@ -703,14 +904,20 @@
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1840,
           "optionName" : "Master-crafted manreaper",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -724,28 +931,40 @@
           "optionName" : "Blight Grenades",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1771,
           "optionName" : "Plaguechosen",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1773,
           "optionName" : "Harbinger of Nurgle",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1839,
           "optionName" : "The Destroyer Hive",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 165.0,
@@ -755,7 +974,10 @@
           "1839" : 1
         },
         "startingModels" : 1,
-        "listOfCurrencies" : { }
+        "listOfCurrencies" : {
+          "Power level" : 9,
+          "Command points" : 0
+        }
       }, {
         "unitName" : "[1]Lord of Contagion",
         "listOfOptions" : [ {
@@ -764,21 +986,30 @@
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 20.0,
           "optionID" : 1842,
           "optionName" : "Plaguereaper",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 15.0,
           "optionID" : 1843,
           "optionName" : "Manreaper",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -792,14 +1023,20 @@
           "optionName" : "Plaguechosen",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1773,
           "optionName" : "Harbinger of Nurgle",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -815,7 +1052,10 @@
           "1842" : 1
         },
         "startingModels" : 1,
-        "listOfCurrencies" : { }
+        "listOfCurrencies" : {
+          "Power level" : 6,
+          "Command points" : 0
+        }
       }, {
         "unitName" : "[1]Malignant Plaguecaster",
         "listOfOptions" : [ {
@@ -824,7 +1064,10 @@
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -838,21 +1081,30 @@
           "optionName" : "Sevenfold Blessings",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1741,
           "optionName" : "Blight Grenades",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1845,
           "optionName" : "Corrupted staff",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -866,7 +1118,10 @@
           "optionName" : "Plaguechosen",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -882,7 +1137,10 @@
           "1845" : 1
         },
         "startingModels" : 1,
-        "listOfCurrencies" : { }
+        "listOfCurrencies" : {
+          "Power level" : 5,
+          "Command points" : 0
+        }
       }, {
         "unitName" : "[0]Chaos Cultists",
         "listOfOptions" : [ {
@@ -891,28 +1149,40 @@
           "optionName" : "Chaos Cultist w/ autopistol and brutal assault weapon",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1745,
           "optionName" : "Brutal assault weapon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1851,
           "optionName" : "Brutal assault weapon and Autopistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 6.0,
           "optionID" : 1848,
           "optionName" : "Chaos Cultist w/ special weapon",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 6.0,
           "optionID" : 1847,
@@ -921,14 +1191,20 @@
             "1851" : 1
           },
           "modelsAdded" : 1,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 6.0,
           "optionID" : 1850,
           "optionName" : "Chaos Cultist w/ Autogun",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "Troops",
         "unitCost" : 0.0,
@@ -938,7 +1214,10 @@
           "1847" : 1
         },
         "startingModels" : 0,
-        "listOfCurrencies" : { }
+        "listOfCurrencies" : {
+          "Power level" : 3,
+          "Command points" : 0
+        }
       }, {
         "unitName" : "[1]Noxious Blightbringer",
         "listOfOptions" : [ {
@@ -947,14 +1226,20 @@
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1741,
           "optionName" : "Blight Grenades",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -968,14 +1253,20 @@
           "optionName" : "Plaguechosen",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1853,
           "optionName" : "Cursed plague bell",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -991,7 +1282,10 @@
           "1853" : 1
         },
         "startingModels" : 1,
-        "listOfCurrencies" : { }
+        "listOfCurrencies" : {
+          "Power level" : 3,
+          "Command points" : 0
+        }
       }, {
         "unitName" : "[1]Chaos Land Raider",
         "listOfOptions" : [ {
@@ -1000,14 +1294,20 @@
           "optionName" : "Contaminated Monstrosity",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
         }, {
           "optionCost" : 5.0,
           "optionID" : 1736,
           "optionName" : "Havoc launcher",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -1021,14 +1321,20 @@
           "optionName" : "Smoke launchers",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "Heavy Support",
         "unitCost" : 175.0,
         "unitID" : 1855,
         "autoAddDictionary" : { },
         "startingModels" : 1,
-        "listOfCurrencies" : { }
+        "listOfCurrencies" : {
+          "Power level" : 15,
+          "Command points" : 0
+        }
       }, {
         "unitName" : "[1]Sorcerer on Palanquin of Nurgle",
         "listOfOptions" : [ {
@@ -1037,7 +1343,10 @@
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -1051,14 +1360,20 @@
           "optionName" : "Nurglings' claws and teeth",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1774,
           "optionName" : "Sevenfold Blessings",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -1079,7 +1394,10 @@
           "optionName" : "Contaminated Monstrosity",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -1093,7 +1411,10 @@
           "optionName" : "Plaguechosen",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -1109,7 +1430,10 @@
           "1856" : 1
         },
         "startingModels" : 1,
-        "listOfCurrencies" : { }
+        "listOfCurrencies" : {
+          "Power level" : 8,
+          "Command points" : 0
+        }
       }, {
         "unitName" : "[1]Mortarion",
         "listOfOptions" : [ {
@@ -1118,21 +1442,30 @@
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1860,
           "optionName" : "Attendant's claws and teeth",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1858,
           "optionName" : "Silence",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -1146,14 +1479,20 @@
           "optionName" : "Plaguechosen",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1859,
           "optionName" : "The Lantern",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "",
         "unitCost" : 490.0,
@@ -1164,7 +1503,10 @@
           "1858" : 1
         },
         "startingModels" : 1,
-        "listOfCurrencies" : { }
+        "listOfCurrencies" : {
+          "Power level" : 25,
+          "Command points" : 0
+        }
       }, {
         "unitName" : "[0]Deathshroud Terminators",
         "listOfOptions" : [ {
@@ -1173,14 +1515,20 @@
           "optionName" : "Deathshroud Champion",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 32.0,
           "optionID" : 1863,
           "optionName" : "Deathshroud Terminator",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 0.0,
@@ -1190,7 +1538,10 @@
           "1862" : 1
         },
         "startingModels" : 0,
-        "listOfCurrencies" : { }
+        "listOfCurrencies" : {
+          "Power level" : 7,
+          "Command points" : 0
+        }
       }, {
         "unitName" : "[0]Plague Marines",
         "listOfOptions" : [ {
@@ -1199,28 +1550,40 @@
           "optionName" : "Bubotic Axe",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 18.0,
           "optionID" : 1867,
           "optionName" : "Plague Marine w/ special weapon",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 15.0,
           "optionID" : 1873,
           "optionName" : "Flail of Corruption",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 18.0,
           "optionID" : 1865,
           "optionName" : "Plague Champion",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 18.0,
           "optionID" : 1868,
@@ -1229,7 +1592,10 @@
             "1869" : 1
           },
           "modelsAdded" : 1,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 18.0,
           "optionID" : 1866,
@@ -1238,56 +1604,80 @@
             "1765" : 1
           },
           "modelsAdded" : 1,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 10.0,
           "optionID" : 1871,
           "optionName" : "Mace of Contagion and bubotic axe",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 10.0,
           "optionID" : 1731,
           "optionName" : "Icon of Despair",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1741,
           "optionName" : "Blight Grenades",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1870,
           "optionName" : "2nd Plague knife",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 10.0,
           "optionID" : 1760,
           "optionName" : "Blight launcher",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1765,
           "optionName" : "Plague knife",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 15.0,
           "optionID" : 1872,
           "optionName" : "Great plague cleaver",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "Troops",
         "unitCost" : 0.0,
@@ -1297,7 +1687,10 @@
           "1865" : 1
         },
         "startingModels" : 0,
-        "listOfCurrencies" : { }
+        "listOfCurrencies" : {
+          "Power level" : 6,
+          "Command points" : 0
+        }
       }, {
         "unitName" : "[0]Blightlord Terminators",
         "listOfOptions" : [ {
@@ -1313,14 +1706,20 @@
           "optionName" : "Flail of Corruption",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 35.0,
           "optionID" : 1875,
           "optionName" : "Blightlord Champion",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 35.0,
           "optionID" : 1876,
@@ -1329,7 +1728,10 @@
             "1877" : 2
           },
           "modelsAdded" : 1,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 0.0,
@@ -1339,7 +1741,10 @@
           "1875" : 1
         },
         "startingModels" : 0,
-        "listOfCurrencies" : { }
+        "listOfCurrencies" : {
+          "Power level" : 11,
+          "Command points" : 0
+        }
       }, {
         "unitName" : "[0]Myphitic Blight-haulers",
         "listOfOptions" : [ {
@@ -1348,7 +1753,10 @@
           "optionName" : "Myphitic Blight-hauler",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 5,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "Fast Attack",
         "unitCost" : 0.0,
@@ -1357,7 +1765,10 @@
           "1879" : 1
         },
         "startingModels" : 0,
-        "listOfCurrencies" : { }
+        "listOfCurrencies" : {
+          "Power level" : 0,
+          "Command points" : 0
+        }
       }, {
         "unitName" : "[1]Biologus Putrifier",
         "listOfOptions" : [ {
@@ -1366,21 +1777,30 @@
           "optionName" : "Injector pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1768,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1765,
           "optionName" : "Plague knife",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -1394,7 +1814,10 @@
           "optionName" : "Plaguechosen",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -1410,7 +1833,10 @@
           "1881" : 1
         },
         "startingModels" : 1,
-        "listOfCurrencies" : { }
+        "listOfCurrencies" : {
+          "Power level" : 4,
+          "Command points" : 0
+        }
       }, {
         "unitName" : "[1]Plague Surgeon",
         "listOfOptions" : [ {
@@ -1419,28 +1845,40 @@
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1741,
           "optionName" : "Blight Grenades",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 5.0,
           "optionID" : 1757,
           "optionName" : "Balesword",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1884,
           "optionName" : "Alembichal Narthecium",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -1454,14 +1892,20 @@
           "optionName" : "Plaguechosen",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1883,
           "optionName" : "Hypertoxic Tinctures",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -1475,7 +1919,10 @@
         "unitID" : 1885,
         "autoAddDictionary" : { },
         "startingModels" : 1,
-        "listOfCurrencies" : { }
+        "listOfCurrencies" : {
+          "Power level" : 4,
+          "Command points" : 0
+        }
       }, {
         "unitName" : "[1]Tallyman",
         "listOfOptions" : [ {
@@ -1484,7 +1931,10 @@
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -1498,14 +1948,20 @@
           "optionName" : "Plaguechosen",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1741,
           "optionName" : "Blight Grenades",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -1519,7 +1975,10 @@
         "unitID" : 1886,
         "autoAddDictionary" : { },
         "startingModels" : 1,
-        "listOfCurrencies" : { }
+        "listOfCurrencies" : {
+          "Power level" : 3,
+          "Command points" : 0
+        }
       }, {
         "unitName" : "[1]Foul Blightspawn",
         "listOfOptions" : [ {
@@ -1528,21 +1987,30 @@
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1887,
           "optionName" : "Plague sprayer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1741,
           "optionName" : "Blight Grenades",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -1556,7 +2024,10 @@
           "optionName" : "Plaguechosen",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -1572,7 +2043,10 @@
           "1887" : 1
         },
         "startingModels" : 1,
-        "listOfCurrencies" : { }
+        "listOfCurrencies" : {
+          "Power level" : 5,
+          "Command points" : 0
+        }
       }, {
         "unitName" : "[0]Felthius' Cohort",
         "listOfOptions" : [ {
@@ -1581,7 +2055,10 @@
           "optionName" : "Blightlord Terminator",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 0.0,
@@ -1590,7 +2067,10 @@
           "1891" : 1
         },
         "startingModels" : 0,
-        "listOfCurrencies" : { }
+        "listOfCurrencies" : {
+          "Power level" : 8,
+          "Command points" : 0
+        }
       }, {
         "unitName" : "[1]Necrosius the Undying",
         "listOfOptions" : [ {
@@ -1599,14 +2079,20 @@
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1894,
           "optionName" : "Tainted force blade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -1620,7 +2106,10 @@
           "optionName" : "Blight Grenades",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -1634,14 +2123,20 @@
           "optionName" : "Plaguechosen",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1893,
           "optionName" : "Pox pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 135.0,
@@ -1651,7 +2146,10 @@
           "1893" : 1
         },
         "startingModels" : 1,
-        "listOfCurrencies" : { }
+        "listOfCurrencies" : {
+          "Power level" : 7,
+          "Command points" : 0
+        }
       }, {
         "unitName" : "[1]Mamon Transfigured",
         "listOfOptions" : [ {
@@ -1660,28 +2158,40 @@
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1896,
           "optionName" : "Contagion spray",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1898,
           "optionName" : "Fist of decay",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1897,
           "optionName" : "Pustulent stomp",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -1695,7 +2205,10 @@
           "optionName" : "Plaguechosen",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 200.0,
@@ -1706,7 +2219,10 @@
           "1896" : 1
         },
         "startingModels" : 1,
-        "listOfCurrencies" : { }
+        "listOfCurrencies" : {
+          "Power level" : 10,
+          "Command points" : 0
+        }
       }, {
         "unitName" : "[1]Chaos Lord",
         "listOfOptions" : [ {
@@ -1715,7 +2231,10 @@
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -1729,14 +2248,20 @@
           "optionName" : "Blight Grenades",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1772,
           "optionName" : "Contaminated Monstrosity",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -1750,7 +2275,10 @@
           "optionName" : "Plaguechosen",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -1764,7 +2292,10 @@
         "unitID" : 1900,
         "autoAddDictionary" : { },
         "startingModels" : 1,
-        "listOfCurrencies" : { }
+        "listOfCurrencies" : {
+          "Power level" : 5,
+          "Command points" : 0
+        }
       }, {
         "unitName" : "[1]Sorcerer",
         "listOfOptions" : [ {
@@ -1773,7 +2304,10 @@
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -1794,14 +2328,20 @@
           "optionName" : "Sevenfold Blessings",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1772,
           "optionName" : "Contaminated Monstrosity",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -1815,7 +2355,10 @@
           "optionName" : "Plaguechosen",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -1829,7 +2372,10 @@
         "unitID" : 1901,
         "autoAddDictionary" : { },
         "startingModels" : 1,
-        "listOfCurrencies" : { }
+        "listOfCurrencies" : {
+          "Power level" : 5,
+          "Command points" : 0
+        }
       } ],
       "listOfEquipmentOptions" : [ {
         "listOfOptions" : [ {
@@ -1838,14 +2384,20 @@
           "optionName" : "Bubotic Axe",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 5.0,
           "optionID" : 1757,
           "optionName" : "Balesword",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "equipmentName" : "$Blightlord Terminator Melee Weapons"
       }, {
@@ -1858,49 +2410,70 @@
           "optionName" : "Death Hex",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1750,
           "optionName" : "Diabolic Strength",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1751,
           "optionName" : "Gift of Chaos",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1744,
           "optionName" : "Prescience",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1742,
           "optionName" : "Infernal Gaze",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1752,
           "optionName" : "1. Miasma of Pestilence",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1743,
           "optionName" : "Warptime",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "equipmentName" : "$Dark Hereticus Discipline"
       }, {
@@ -1910,21 +2483,30 @@
           "optionName" : "Lightning Claw",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 1.0,
           "optionID" : 1732,
           "optionName" : "Chainaxe",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 5.0,
           "optionID" : 1757,
           "optionName" : "Balesword",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "equipmentName" : "$Melee Weapons"
       }, {
@@ -1934,14 +2516,20 @@
           "optionName" : "Lightning Claw",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 5.0,
           "optionID" : 1757,
           "optionName" : "Balesword",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "equipmentName" : "$Champion Equipment"
       }, {
@@ -1954,91 +2542,130 @@
           "optionName" : "5. Rotten Constitution",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1801,
           "optionName" : "The Droning",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1800,
           "optionName" : "6. Arch-Contaminator",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1797,
           "optionName" : "3. Tainted Regeneration",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1802,
           "optionName" : "Gloaming Rot",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1798,
           "optionName" : "4. Hulking Physique",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1804,
           "optionName" : "Sanguous Flux",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1807,
           "optionName" : "Eater Plague",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1803,
           "optionName" : "Shamblerot",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1795,
           "optionName" : "1. Revoltingly Resilient",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1806,
           "optionName" : "Crawling Pustulence",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1805,
           "optionName" : "Ferric Blight",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1796,
           "optionName" : "2. Living Plague",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "equipmentName" : "$Death Guard Warlord Traits"
       }, {
@@ -2057,7 +2684,10 @@
           "optionName" : "6. Curse of the Leper",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "equipmentName" : "$Contagion Discipline"
       }, {
@@ -2079,133 +2709,190 @@
           "optionName" : "The Putrid Periapt",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1787,
           "optionName" : "The Ferryman's Scythe",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1779,
           "optionName" : "The Plague Skull of Glothila",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1777,
           "optionName" : "The Pandemic Staff",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1780,
           "optionName" : "Fugaris' Helm",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1793,
           "optionName" : "Vomitryx",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1791,
           "optionName" : "Ironclot Furnace",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1776,
           "optionName" : "The Suppurating Plate",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1788,
           "optionName" : "Rotskull Bomb",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1778,
           "optionName" : "Dolorous Knell",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1784,
           "optionName" : "The Epidemicyst Blade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1783,
           "optionName" : "The Daemon's Toll",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1782,
           "optionName" : "Allwyther",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1786,
           "optionName" : "Wormspitter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1789,
           "optionName" : "The Daemon's Favour",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1764,
           "optionName" : "Plaguebringer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1781,
           "optionName" : "The Ague Stone",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1790,
           "optionName" : "Tollkeeper",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1792,
           "optionName" : "The Leechspore Casket",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "equipmentName" : "$Relics of Decay"
       } ],
@@ -2214,6 +2901,6 @@
     } ],
     "gameCategories" : [ "Flyers", "Dedicated Transport", "Heavy Support", "Lords of War", "HQ", "Elites", "Fast Attack", "Troops", "Fortification" ],
     "listOfEquipmentOptions" : null,
-    "listOfCurrencies" : [ ]
+    "listOfCurrencies" : [ "Power level", "Command points" ]
   } ]
 }

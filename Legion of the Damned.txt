@@ -17,7 +17,10 @@
         "unitID" : 4996,
         "autoAddDictionary" : { },
         "startingModels" : 1,
-        "listOfCurrencies" : { }
+        "listOfCurrencies" : {
+          "Power level" : 8,
+          "Command points" : 0
+        }
       }, {
         "unitName" : "[1]Legionnaire Sergeant",
         "listOfOptions" : [ {
@@ -33,7 +36,10 @@
         "unitID" : 4997,
         "autoAddDictionary" : { },
         "startingModels" : 1,
-        "listOfCurrencies" : { }
+        "listOfCurrencies" : {
+          "Power level" : 0,
+          "Command points" : 0
+        }
       }, {
         "unitName" : "[1]Legionnaire",
         "listOfOptions" : null,
@@ -42,7 +48,10 @@
         "unitID" : 4998,
         "autoAddDictionary" : { },
         "startingModels" : 1,
-        "listOfCurrencies" : { }
+        "listOfCurrencies" : {
+          "Power level" : 0,
+          "Command points" : 0
+        }
       }, {
         "unitName" : "[1]Legionnaire (Heavy Weapon)",
         "listOfOptions" : null,
@@ -51,7 +60,10 @@
         "unitID" : 4999,
         "autoAddDictionary" : { },
         "startingModels" : 1,
-        "listOfCurrencies" : { }
+        "listOfCurrencies" : {
+          "Power level" : 0,
+          "Command points" : 0
+        }
       }, {
         "unitName" : "[1]Legionnaire (Special Weapon)",
         "listOfOptions" : null,
@@ -60,7 +72,10 @@
         "unitID" : 5000,
         "autoAddDictionary" : { },
         "startingModels" : 1,
-        "listOfCurrencies" : { }
+        "listOfCurrencies" : {
+          "Power level" : 0,
+          "Command points" : 0
+        }
       } ],
       "listOfEquipmentOptions" : [ {
         "listOfOptions" : [ {
@@ -69,14 +84,20 @@
           "optionName" : "Plasma gun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 6.0,
           "optionID" : 4993,
           "optionName" : "Flamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "equipmentName" : "$Legionnaire Special Weapons"
       }, {
@@ -89,7 +110,10 @@
           "optionName" : "Power fist",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "equipmentName" : "$Legionnaire Sergeant Weapons"
       }, {
@@ -104,6 +128,6 @@
     } ],
     "gameCategories" : [ "Flyers", "Dedicated Transport", "Heavy Support", "Lords of War", "HQ", "Elites", "Fast Attack", "Troops", "Fortification" ],
     "listOfEquipmentOptions" : null,
-    "listOfCurrencies" : [ ]
+    "listOfCurrencies" : [ "Power level", "Command points" ]
   } ]
 }

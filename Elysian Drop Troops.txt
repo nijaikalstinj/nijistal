@@ -17,7 +17,10 @@
           "optionName" : "Display Elysian Orders",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -31,7 +34,10 @@
         "unitID" : 4450,
         "autoAddDictionary" : { },
         "startingModels" : 1,
-        "listOfCurrencies" : { }
+        "listOfCurrencies" : {
+          "Power level" : 3,
+          "Command points" : 0
+        }
       }, {
         "unitName" : "[1]Elysian Lord Commissar",
         "listOfOptions" : [ {
@@ -47,7 +53,10 @@
           "optionName" : "Display Elysian Orders",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -61,7 +70,10 @@
         "unitID" : 4451,
         "autoAddDictionary" : { },
         "startingModels" : 1,
-        "listOfCurrencies" : { }
+        "listOfCurrencies" : {
+          "Power level" : 4,
+          "Command points" : 0
+        }
       }, {
         "unitName" : "[0]Elysian Drop Trooper Squad",
         "listOfOptions" : [ {
@@ -70,42 +82,60 @@
           "optionName" : "Breacher Charge",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 10.0,
           "optionID" : 4455,
           "optionName" : "Guardsman w/ Vox Caster",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 4437,
           "optionName" : "Krak Grenades",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 5.0,
           "optionID" : 4452,
           "optionName" : "Sergeant",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 5.0,
           "optionID" : 4456,
           "optionName" : "Guardsman w/Breacher Charge",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 4433,
           "optionName" : "Frag Grenades",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -119,28 +149,40 @@
           "optionName" : "Guardsman w/Special Weapon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 5.0,
           "optionID" : 4453,
           "optionName" : "Guardsman w/Lasgun and Frag Grenades",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 5.0,
           "optionID" : 4457,
           "optionName" : "Guardsman w/Lasgun, Frag & Krak Grenades",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 4432,
           "optionName" : "Lasgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "",
         "unitCost" : 0.0,
@@ -150,7 +192,10 @@
           "4453" : 9
         },
         "startingModels" : 0,
-        "listOfCurrencies" : { }
+        "listOfCurrencies" : {
+          "Power level" : 4,
+          "Command points" : 0
+        }
       }, {
         "unitName" : "[0]Elysian Special Weapons Squad",
         "listOfOptions" : [ {
@@ -159,14 +204,20 @@
           "optionName" : "Breacher Charge",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 5.0,
           "optionID" : 4460,
           "optionName" : "Guardsmen w/ Special Weapon",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -180,7 +231,10 @@
           "optionName" : "Guardsmen",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "",
         "unitCost" : 0.0,
@@ -190,7 +244,10 @@
           "4459" : 3
         },
         "startingModels" : 0,
-        "listOfCurrencies" : { }
+        "listOfCurrencies" : {
+          "Power level" : 3,
+          "Command points" : 0
+        }
       }, {
         "unitName" : "[1]Elysian Veteran Squad",
         "listOfOptions" : [ {
@@ -199,7 +256,10 @@
           "optionName" : "Veteran w/ Special Weapon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 14.0,
           "optionID" : 4466,
@@ -208,21 +268,30 @@
             "4435" : 2
           },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 7.0,
           "optionID" : 4467,
           "optionName" : "Veteran W/ Heavy Flamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 4435,
           "optionName" : "Shotgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -236,21 +305,30 @@
           "optionName" : "Breacher Charge",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 7.0,
           "optionID" : 4468,
           "optionName" : "Veteran w/ Shotgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 7.0,
           "optionID" : 4462,
           "optionName" : "Veteran Sergeant",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -264,7 +342,10 @@
           "optionName" : "Veteran w/ Lasgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -280,7 +361,10 @@
             "4435" : 1
           },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 7.0,
           "optionID" : 4469,
@@ -289,14 +373,20 @@
             "4435" : 1
           },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 4432,
           "optionName" : "Lasgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "",
         "unitCost" : 0.0,
@@ -306,7 +396,10 @@
           "4463" : 9
         },
         "startingModels" : 1,
-        "listOfCurrencies" : { }
+        "listOfCurrencies" : {
+          "Power level" : 6,
+          "Command points" : 0
+        }
       }, {
         "unitName" : "[1]Elysian Command Squad",
         "listOfOptions" : [ {
@@ -315,14 +408,20 @@
           "optionName" : "Veteran w/ Medi-pack",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 7.0,
           "optionID" : 4481,
           "optionName" : "Veteran w/ Special Weapon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -336,7 +435,10 @@
           "optionName" : "Veteran Weapon Team",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -350,28 +452,40 @@
           "optionName" : "Veteran",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 7.0,
           "optionID" : 4480,
           "optionName" : "Veteran w/ Regimental Standard",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 12.0,
           "optionID" : 4477,
           "optionName" : "Veteran w/ Vox-caster",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 4432,
           "optionName" : "Lasgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "",
         "unitCost" : 0.0,
@@ -380,7 +494,10 @@
           "4477" : 4
         },
         "startingModels" : 1,
-        "listOfCurrencies" : { }
+        "listOfCurrencies" : {
+          "Power level" : 4,
+          "Command points" : 0
+        }
       }, {
         "unitName" : "[1]Elysian Drop Sentinels",
         "listOfOptions" : [ {
@@ -389,7 +506,10 @@
           "optionName" : "Elysian Drop Sentinel",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 3,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "",
         "unitCost" : 0.0,
@@ -398,7 +518,10 @@
           "4484" : 1
         },
         "startingModels" : 1,
-        "listOfCurrencies" : { }
+        "listOfCurrencies" : {
+          "Power level" : 0,
+          "Command points" : 0
+        }
       }, {
         "unitName" : "[1]Elysian Platoon Commander",
         "listOfOptions" : [ {
@@ -421,7 +544,10 @@
         "unitID" : 4486,
         "autoAddDictionary" : { },
         "startingModels" : 1,
-        "listOfCurrencies" : { }
+        "listOfCurrencies" : {
+          "Power level" : 2,
+          "Command points" : 0
+        }
       }, {
         "unitName" : "[1]Elysian Sniper Squad",
         "listOfOptions" : [ {
@@ -430,7 +556,10 @@
           "optionName" : "Elysian Sniper Team",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "",
         "unitCost" : 0.0,
@@ -439,7 +568,10 @@
           "4487" : 3
         },
         "startingModels" : 1,
-        "listOfCurrencies" : { }
+        "listOfCurrencies" : {
+          "Power level" : 3,
+          "Command points" : 0
+        }
       }, {
         "unitName" : "[1]Elysian Heavy Weapon Squad",
         "listOfOptions" : [ {
@@ -448,7 +580,10 @@
           "optionName" : "Heavy Weapon Team",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "",
         "unitCost" : 0.0,
@@ -457,7 +592,10 @@
           "4489" : 3
         },
         "startingModels" : 1,
-        "listOfCurrencies" : { }
+        "listOfCurrencies" : {
+          "Power level" : 3,
+          "Command points" : 0
+        }
       }, {
         "unitName" : "[1]Valkyrie Sky Talon",
         "listOfOptions" : [ {
@@ -473,7 +611,10 @@
         "unitID" : 4491,
         "autoAddDictionary" : { },
         "startingModels" : 1,
-        "listOfCurrencies" : { }
+        "listOfCurrencies" : {
+          "Power level" : 10,
+          "Command points" : 0
+        }
       } ],
       "listOfEquipmentOptions" : [ {
         "listOfOptions" : null,
@@ -485,14 +626,20 @@
           "optionName" : "Lascutter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 3.0,
           "optionID" : 4442,
           "optionName" : "Grenade Launcher",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "equipmentName" : "$Elysian Special weapons"
       }, {
@@ -502,14 +649,20 @@
           "optionName" : "Lascutter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 3.0,
           "optionID" : 4444,
           "optionName" : "Grenade Launcher",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "equipmentName" : "$Elysian Special weapons BS3"
       }, {
@@ -519,7 +672,10 @@
           "optionName" : "Mortar",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "equipmentName" : "$Elysian Heavy Weapons"
       }, {
@@ -529,14 +685,20 @@
           "optionName" : "Shotgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 4441,
           "optionName" : "Lasgun and Auxiliary Grenade Launcher",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "equipmentName" : "$Elysian Ranged weapons"
       }, {
@@ -546,14 +708,20 @@
           "optionName" : "Brood Brothers",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 4448,
           "optionName" : "Elysian",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "equipmentName" : "$Regimental Doctrine"
       }, {
@@ -563,14 +731,20 @@
           "optionName" : "2x Multiple Rocket Pods",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 24.0,
           "optionID" : 4446,
           "optionName" : "2x Hellstrike Missiles",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "equipmentName" : "$Wing-mounted Weapons Sky Talon"
       } ],
@@ -579,6 +753,6 @@
     } ],
     "gameCategories" : [ "Flyers", "Dedicated Transport", "Heavy Support", "Lords of War", "HQ", "Elites", "Fast Attack", "Troops", "Fortification" ],
     "listOfEquipmentOptions" : null,
-    "listOfCurrencies" : [ ]
+    "listOfCurrencies" : [ "Power level", "Command points" ]
   } ]
 }
