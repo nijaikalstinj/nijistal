@@ -6,7 +6,7 @@
         "unitName" : "[1]Janus Draik",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 3605,
+          "optionID" : 4538,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -16,7 +16,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3607,
+          "optionID" : 4540,
           "optionName" : "Monomolecular rapier",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -26,7 +26,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3606,
+          "optionID" : 4539,
           "optionName" : "Heirloom pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -43,7 +43,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3608,
+          "optionID" : 4541,
           "optionName" : "Archeotech grenade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -54,11 +54,11 @@
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 45.0,
-        "unitID" : 3609,
+        "unitID" : 4542,
         "autoAddDictionary" : {
-          "3608" : 1,
-          "3607" : 1,
-          "3606" : 1
+          "4540" : 1,
+          "4541" : 1,
+          "4539" : 1
         },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -69,7 +69,7 @@
         "unitName" : "[1]Espern Locarno",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 3610,
+          "optionID" : 4543,
           "optionName" : "Force-orb cane",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -79,7 +79,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3605,
+          "optionID" : 4538,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -97,9 +97,9 @@
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 35.0,
-        "unitID" : 3611,
+        "unitID" : 4544,
         "autoAddDictionary" : {
-          "3610" : 1
+          "4543" : 1
         },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -110,7 +110,7 @@
         "unitName" : "[1]UR-025",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 3613,
+          "optionID" : 4546,
           "optionName" : "Power claw",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -120,7 +120,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3605,
+          "optionID" : 4538,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -130,7 +130,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3612,
+          "optionID" : 4545,
           "optionName" : "Mk I assault cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -148,10 +148,10 @@
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 45.0,
-        "unitID" : 3614,
+        "unitID" : 4547,
         "autoAddDictionary" : {
-          "3613" : 1,
-          "3612" : 1
+          "4545" : 1,
+          "4546" : 1
         },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -162,7 +162,7 @@
         "unitName" : "[0]Spindle Drones",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 3615,
+          "optionID" : 4548,
           "optionName" : "Spindle Drone",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -173,9 +173,9 @@
         } ],
         "unitCategory" : "Troops",
         "unitCost" : 65.0,
-        "unitID" : 3616,
+        "unitID" : 4549,
         "autoAddDictionary" : {
-          "3615" : 4
+          "4548" : 4
         },
         "startingModels" : 0,
         "listOfCurrencies" : {
@@ -190,7 +190,7 @@
       "armyName" : "Blackstone Fortress",
       "armyCategories" : [ ]
     } ],
-    "gameCategories" : [ "Flyers", "Dedicated Transport", "Heavy Support", "Lords of War", "HQ", "Elites", "Fast Attack", "Troops", "Fortification" ],
+    "gameCategories" : [ "HQ", "Elites", "Troops", "Fast Attack", "Heavy Support", "Flyers", "Dedicated Transport", "Lords of War", "Fortification" ],
     "listOfEquipmentOptions" : null,
     "listOfCurrencies" : [ "Power level", "Command points" ]
   } ]
