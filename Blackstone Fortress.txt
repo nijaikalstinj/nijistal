@@ -1,0 +1,199 @@
+{
+  "games" : [ {
+    "gameName" : "Warhammer 40k 8th Edition",
+    "armies" : [ {
+      "listOfUnits" : [ {
+        "unitName" : "[1]Janus Draik",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "Warlord",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "Monomolecular rapier",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "Heirloom pistol",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Warlord Traits",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "Archeotech grenade",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "unitCategory" : "HQ",
+        "unitCost" : 45.0,
+        "unitID" : 0,
+        "autoAddDictionary" : {
+          "Monomolecular rapier" : 1,
+          "Heirloom pistol" : 1,
+          "Archeotech grenade" : 1
+        },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 2,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "[1]Espern Locarno",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "Force-orb cane",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "Warlord",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Warlord Traits",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        } ],
+        "unitCategory" : "Elites",
+        "unitCost" : 35.0,
+        "unitID" : 0,
+        "autoAddDictionary" : {
+          "Force-orb cane" : 1
+        },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 2,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "[1]UR-025",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "Power claw",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "Warlord",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "Mk I assault cannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Warlord Traits",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        } ],
+        "unitCategory" : "Elites",
+        "unitCost" : 45.0,
+        "unitID" : 0,
+        "autoAddDictionary" : {
+          "Power claw" : 1,
+          "Mk I assault cannon" : 1
+        },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 2,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "[0]Spindle Drones",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "Spindle Drone",
+          "autoAddDictionary" : {
+            "Drone pulse" : 1
+          },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "unitCategory" : "Troops",
+        "unitCost" : 65.0,
+        "unitID" : 0,
+        "autoAddDictionary" : {
+          "Spindle Drone" : 4
+        },
+        "startingModels" : 0,
+        "listOfCurrencies" : {
+          "Power level" : 3,
+          "Command points" : 0
+        }
+      } ],
+      "listOfEquipmentOptions" : [ {
+        "listOfOptions" : null,
+        "equipmentName" : "$Warlord Traits"
+      } ],
+      "armyName" : "Blackstone Fortress",
+      "armyCategories" : [ ]
+    } ],
+    "gameCategories" : [ "Flyers", "Dedicated Transport", "Heavy Support", "Lords of War", "HQ", "Elites", "Fast Attack", "Troops", "Fortification" ],
+    "listOfEquipmentOptions" : null,
+    "listOfCurrencies" : [ "Power level", "Command points" ]
+  } ]
+}

@@ -1,0 +1,133 @@
+{
+  "games" : [ {
+    "gameName" : "Warhammer 40k 8th Edition",
+    "armies" : [ {
+      "listOfUnits" : [ {
+        "unitName" : "[1]Damned Legionnaires",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Legionnaires",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        } ],
+        "unitCategory" : "Elites",
+        "unitCost" : 0.0,
+        "unitID" : 0,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 8,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "[1]Legionnaire Sergeant",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Legionnaire Sergeant Weapons",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        } ],
+        "unitCategory" : "",
+        "unitCost" : 25.0,
+        "unitID" : 0,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 0,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "[1]Legionnaire",
+        "listOfOptions" : null,
+        "unitCategory" : "",
+        "unitCost" : 25.0,
+        "unitID" : 0,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 0,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "[1]Legionnaire (Heavy Weapon)",
+        "listOfOptions" : null,
+        "unitCategory" : "",
+        "unitCost" : 25.0,
+        "unitID" : 0,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 0,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "[1]Legionnaire (Special Weapon)",
+        "listOfOptions" : null,
+        "unitCategory" : "",
+        "unitCost" : 25.0,
+        "unitID" : 0,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 0,
+          "Command points" : 0
+        }
+      } ],
+      "listOfEquipmentOptions" : [ {
+        "listOfOptions" : [ {
+          "optionCost" : 11.0,
+          "optionID" : 0,
+          "optionName" : "Plasma gun",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 6.0,
+          "optionID" : 0,
+          "optionName" : "Flamer",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "equipmentName" : "$Legionnaire Special Weapons"
+      }, {
+        "listOfOptions" : null,
+        "equipmentName" : "$Legionnaire Heavy Weapons"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 9.0,
+          "optionID" : 0,
+          "optionName" : "Power fist",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "equipmentName" : "$Legionnaire Sergeant Weapons"
+      }, {
+        "listOfOptions" : null,
+        "equipmentName" : "$Legionnaire Sergeant Pistols"
+      }, {
+        "listOfOptions" : null,
+        "equipmentName" : "$Legionnaires"
+      } ],
+      "armyName" : "Legion of the Damned",
+      "armyCategories" : [ ]
+    } ],
+    "gameCategories" : [ "Flyers", "Dedicated Transport", "Heavy Support", "Lords of War", "HQ", "Elites", "Fast Attack", "Troops", "Fortification" ],
+    "listOfEquipmentOptions" : null,
+    "listOfCurrencies" : [ "Power level", "Command points" ]
+  } ]
+}

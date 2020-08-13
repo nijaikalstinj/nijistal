@@ -1,0 +1,36 @@
+{
+  "games" : [ {
+    "gameName" : "Warhammer 40k 8th Edition",
+    "armies" : [ {
+      "listOfUnits" : null,
+      "listOfEquipmentOptions" : [ {
+        "listOfOptions" : null,
+        "equipmentName" : "$Disciplines"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "Medusan Furore",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "equipmentName" : "$Litanies"
+      }, {
+        "listOfOptions" : null,
+        "equipmentName" : "$Chapter Relics"
+      }, {
+        "listOfOptions" : null,
+        "equipmentName" : "$Warlord Traits"
+      } ],
+      "armyName" : "Iron Hands",
+      "armyCategories" : [ ]
+    } ],
+    "gameCategories" : [ "Flyers", "Dedicated Transport", "Heavy Support", "Lords of War", "HQ", "Elites", "Fast Attack", "Troops", "Fortification" ],
+    "listOfEquipmentOptions" : null,
+    "listOfCurrencies" : [ "Power level", "Command points" ]
+  } ]
+}
