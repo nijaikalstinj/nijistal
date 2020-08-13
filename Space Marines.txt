@@ -6,7 +6,7 @@
         "unitName" : "[1]Servitors",
         "listOfOptions" : [ {
           "optionCost" : 7.0,
-          "optionID" : 0,
+          "optionID" : 5367,
           "optionName" : "Servitor",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -14,9 +14,9 @@
         } ],
         "unitCategory" : "",
         "unitCost" : 0.0,
-        "unitID" : 0,
+        "unitID" : 5368,
         "autoAddDictionary" : {
-          "Servitor" : 4
+          "5367" : 4
         },
         "startingModels" : 1,
         "listOfCurrencies" : { }
@@ -39,7 +39,7 @@
         } ],
         "unitCategory" : "",
         "unitCost" : 70.0,
-        "unitID" : 0,
+        "unitID" : 5369,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : { }
@@ -62,7 +62,7 @@
         } ],
         "unitCategory" : "",
         "unitCost" : 85.0,
-        "unitID" : 0,
+        "unitID" : 5370,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : { }
@@ -70,7 +70,7 @@
         "unitName" : "[1]Inceptor Squad",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5124,
           "optionName" : "Plasma Exterminator x2",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -84,21 +84,21 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5125,
           "optionName" : "Assault bolter x2",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 40.0,
-          "optionID" : 0,
+          "optionID" : 5371,
           "optionName" : "Inceptor",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 40.0,
-          "optionID" : 0,
+          "optionID" : 5372,
           "optionName" : "Inceptor Sergeant",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -106,7 +106,7 @@
         } ],
         "unitCategory" : "",
         "unitCost" : 0.0,
-        "unitID" : 0,
+        "unitID" : 5373,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : { }
@@ -114,29 +114,25 @@
         "unitName" : "[0]Suppressor Squad",
         "listOfOptions" : [ {
           "optionCost" : 33.0,
-          "optionID" : 0,
+          "optionID" : 5374,
           "optionName" : "Suppressor Sergeant",
-          "autoAddDictionary" : {
-            "Grav-chute" : 1
-          },
+          "autoAddDictionary" : { },
           "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 33.0,
-          "optionID" : 0,
+          "optionID" : 5375,
           "optionName" : "Suppressor",
-          "autoAddDictionary" : {
-            "Grav-chute" : 1
-          },
+          "autoAddDictionary" : { },
           "modelsAdded" : 1,
           "listOfCurrencies" : { }
         } ],
         "unitCategory" : "Fast Attack",
         "unitCost" : 0.0,
-        "unitID" : 0,
+        "unitID" : 5376,
         "autoAddDictionary" : {
-          "Suppressor Sergeant" : 1,
-          "Suppressor" : 2
+          "5374" : 1,
+          "5375" : 2
         },
         "startingModels" : 0,
         "listOfCurrencies" : { }
@@ -144,75 +140,70 @@
         "unitName" : "[1]Lieutenant in Phobos Armour",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5378,
           "optionName" : "Heavy Bolt Pistol and Combat Knife",
-          "autoAddDictionary" : {
-            "Smoke Grenades" : 1
-          },
+          "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5154,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5192,
           "optionName" : "Paired Combat Blades",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5199,
           "optionName" : "Stratagem: Hero of the Chapter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5224,
           "optionName" : "Stratagem: Tempered by Wisdom",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5377,
           "optionName" : "Occulus Bolt Carbine and Bolt Pistol",
-          "autoAddDictionary" : {
-            "Grav-chute" : 1,
-            "Master-crafted occulus bolt carbine" : 1
-          },
+          "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5193,
           "optionName" : "Heavy Bolt Pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5223,
           "optionName" : "Stratagem: Master of the Trifold Path",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5226,
           "optionName" : "Stratagem: Sentinel of Terra",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5218,
           "optionName" : "Stratagem: Paragon of Iron",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -220,9 +211,9 @@
         } ],
         "unitCategory" : "",
         "unitCost" : 78.0,
-        "unitID" : 0,
+        "unitID" : 5379,
         "autoAddDictionary" : {
-          "Occulus Bolt Carbine and Bolt Pistol" : 1
+          "5377" : 1
         },
         "startingModels" : 1,
         "listOfCurrencies" : { }
@@ -230,56 +221,56 @@
         "unitName" : "[1]Librarian in Phobos Armour",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5154,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5199,
           "optionName" : "Stratagem: Hero of the Chapter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5224,
           "optionName" : "Stratagem: Tempered by Wisdom",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5223,
           "optionName" : "Stratagem: Master of the Trifold Path",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 2.0,
-          "optionID" : 0,
+          "optionID" : 5175,
           "optionName" : "Camo cloak",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5226,
           "optionName" : "Stratagem: Sentinel of Terra",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5218,
           "optionName" : "Stratagem: Paragon of Iron",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5180,
           "optionName" : "Stratagem: Chief Librarian",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -287,7 +278,7 @@
         } ],
         "unitCategory" : "",
         "unitCost" : 98.0,
-        "unitID" : 0,
+        "unitID" : 5380,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : { }
@@ -295,28 +286,28 @@
         "unitName" : "[0]Infiltrator Squad",
         "listOfOptions" : [ {
           "optionCost" : 24.0,
-          "optionID" : 0,
+          "optionID" : 5383,
           "optionName" : "Infiltrator",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 0,
+          "optionID" : 5384,
           "optionName" : "Infiltrator Comms Array",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 34.0,
-          "optionID" : 0,
+          "optionID" : 5382,
           "optionName" : "Infiltrator Helix Adept",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 24.0,
-          "optionID" : 0,
+          "optionID" : 5381,
           "optionName" : "Infiltrator Sergeant",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -324,10 +315,10 @@
         } ],
         "unitCategory" : "",
         "unitCost" : 0.0,
-        "unitID" : 0,
+        "unitID" : 5385,
         "autoAddDictionary" : {
-          "Infiltrator" : 4,
-          "Infiltrator Sergeant" : 1
+          "5383" : 4,
+          "5381" : 1
         },
         "startingModels" : 0,
         "listOfCurrencies" : { }
@@ -335,63 +326,63 @@
         "unitName" : "[1]Captain in Phobos Armour",
         "listOfOptions" : [ {
           "optionCost" : 5.0,
-          "optionID" : 0,
+          "optionID" : 5386,
           "optionName" : "Master-crafted instigator bolt carbine",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5154,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5199,
           "optionName" : "Stratagem: Hero of the Chapter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5224,
           "optionName" : "Stratagem: Tempered by Wisdom",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5223,
           "optionName" : "Stratagem: Master of the Trifold Path",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5212,
           "optionName" : "Stratagem: Chapter Master",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 2.0,
-          "optionID" : 0,
+          "optionID" : 5175,
           "optionName" : "Camo cloak",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5226,
           "optionName" : "Stratagem: Sentinel of Terra",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5218,
           "optionName" : "Stratagem: Paragon of Iron",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -399,9 +390,9 @@
         } ],
         "unitCategory" : "",
         "unitCost" : 93.0,
-        "unitID" : 0,
+        "unitID" : 5387,
         "autoAddDictionary" : {
-          "Master-crafted instigator bolt carbine" : 1
+          "5386" : 1
         },
         "startingModels" : 1,
         "listOfCurrencies" : { }
@@ -409,14 +400,14 @@
         "unitName" : "[1]Eliminator Squad",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5195,
           "optionName" : "Instigator Bolt Carbine",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 28.0,
-          "optionID" : 0,
+          "optionID" : 5389,
           "optionName" : "Eliminator with Las Fusil",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -430,35 +421,35 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 28.0,
-          "optionID" : 0,
+          "optionID" : 5390,
           "optionName" : "Eliminator Sergeant",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 0,
+          "optionID" : 5214,
           "optionName" : "Las Fusil",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 2.0,
-          "optionID" : 0,
+          "optionID" : 5175,
           "optionName" : "Camo cloak",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 28.0,
-          "optionID" : 0,
+          "optionID" : 5388,
           "optionName" : "Eliminator with Bolt Sniper",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5205,
           "optionName" : "Bolt sniper rifle",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -466,7 +457,7 @@
         } ],
         "unitCategory" : "",
         "unitCost" : 0.0,
-        "unitID" : 0,
+        "unitID" : 5391,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : { }
@@ -474,70 +465,70 @@
         "unitName" : "[1]Repulsor Executioner",
         "listOfOptions" : [ {
           "optionCost" : 5.0,
-          "optionID" : 0,
+          "optionID" : 5128,
           "optionName" : "Icarus Rocket Pod",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 0,
+          "optionID" : 5117,
           "optionName" : "Fragstorm Grenade Launcher",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 3.0,
-          "optionID" : 0,
+          "optionID" : 5153,
           "optionName" : "Storm bolter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 30.0,
-          "optionID" : 0,
+          "optionID" : 5177,
           "optionName" : "Twin Heavy Bolter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 0,
+          "optionID" : 5133,
           "optionName" : "Ironhail Heavy Stubber",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5178,
           "optionName" : "Twin Icarus Ironhail Heavy Stubber",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 30.0,
-          "optionID" : 0,
+          "optionID" : 5127,
           "optionName" : "Heavy Onslaught Gatling Cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 30.0,
-          "optionID" : 0,
+          "optionID" : 5129,
           "optionName" : "Macro Plasma Incinerator",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 40.0,
-          "optionID" : 0,
+          "optionID" : 5176,
           "optionName" : "Heavy Laser Destroyer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5135,
           "optionName" : "Auto Launchers",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -545,7 +536,7 @@
         } ],
         "unitCategory" : "",
         "unitCost" : 250.0,
-        "unitID" : 0,
+        "unitID" : 5392,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : { }
@@ -553,63 +544,63 @@
         "unitName" : "[1]Ancient in Terminator Armor",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5154,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 0,
+          "optionID" : 5149,
           "optionName" : "Power fist",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5199,
           "optionName" : "Stratagem: Hero of the Chapter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 3.0,
-          "optionID" : 0,
+          "optionID" : 5153,
           "optionName" : "Storm bolter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5224,
           "optionName" : "Stratagem: Tempered by Wisdom",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5236,
           "optionName" : "Stratagem: Chapter Ancient",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5223,
           "optionName" : "Stratagem: Master of the Trifold Path",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5226,
           "optionName" : "Stratagem: Sentinel of Terra",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5218,
           "optionName" : "Stratagem: Paragon of Iron",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -617,7 +608,7 @@
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 90.0,
-        "unitID" : 0,
+        "unitID" : 5393,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : { }
@@ -625,42 +616,42 @@
         "unitName" : "[1]Impulsor",
         "listOfOptions" : [ {
           "optionCost" : 20.0,
-          "optionID" : 0,
+          "optionID" : 5396,
           "optionName" : "Bellicatus Missile Array",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 25.0,
-          "optionID" : 0,
+          "optionID" : 5394,
           "optionName" : "Shield Dome",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 0,
+          "optionID" : 5397,
           "optionName" : "Ironhail Skytalon Array",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 0,
+          "optionID" : 5133,
           "optionName" : "Ironhail Heavy Stubber",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 20.0,
-          "optionID" : 0,
+          "optionID" : 5395,
           "optionName" : "Orbital Comms Array",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 6.0,
-          "optionID" : 0,
+          "optionID" : 5137,
           "optionName" : "2x Storm Bolters",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -668,7 +659,7 @@
         } ],
         "unitCategory" : "Dedicated Transport",
         "unitCost" : 100.0,
-        "unitID" : 0,
+        "unitID" : 5398,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : { }
@@ -676,7 +667,7 @@
         "unitName" : "[1]Honour Guard [Legends]",
         "listOfOptions" : [ {
           "optionCost" : 21.0,
-          "optionID" : 0,
+          "optionID" : 5399,
           "optionName" : "Honour Guard",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -684,9 +675,9 @@
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 0.0,
-        "unitID" : 0,
+        "unitID" : 5400,
         "autoAddDictionary" : {
-          "Honour Guard" : 2
+          "5399" : 2
         },
         "startingModels" : 1,
         "listOfCurrencies" : { }
@@ -694,42 +685,42 @@
       "listOfEquipmentOptions" : [ {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5274,
           "optionName" : "3) Telepathic Assault",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5272,
           "optionName" : "1) Precognition",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5275,
           "optionName" : "4) Storm of the Emperor's Wrath",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5276,
           "optionName" : "5) Psychic Shackles",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5273,
           "optionName" : "2) Scryer's Gaze",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5277,
           "optionName" : "6) Empyric Channeling",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -739,14 +730,14 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5335,
           "optionName" : "Pennant of the Fallen",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5336,
           "optionName" : "Standard of Righteous Hatred",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -756,14 +747,14 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5313,
           "optionName" : "Psychic Mastery",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5312,
           "optionName" : "High Scholar of the Librarius",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -773,42 +764,42 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5287,
           "optionName" : "3) Spectral Blade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5288,
           "optionName" : "2) Enveloping Darkness",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5289,
           "optionName" : "1) Umbral Form",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5284,
           "optionName" : "6) The Darkness Within",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5286,
           "optionName" : "4) Shadowstep",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5285,
           "optionName" : "5) The Abyss",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -818,7 +809,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 5.0,
-          "optionID" : 0,
+          "optionID" : 5208,
           "optionName" : "Hand Flamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -828,14 +819,14 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5355,
           "optionName" : "The Endurant Protector",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5354,
           "optionName" : "Mortis Machina",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -848,7 +839,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 10.0,
-          "optionID" : 0,
+          "optionID" : 5186,
           "optionName" : "Grav-gun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -858,14 +849,14 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5352,
           "optionName" : "The Emperor's Judgement",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5353,
           "optionName" : "Sacrosanct Rosarius",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -875,14 +866,14 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5320,
           "optionName" : "Wise Orator",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5321,
           "optionName" : "Bellowing Firebrand",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -892,105 +883,105 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5349,
           "optionName" : "Benediction of Fury",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5160,
           "optionName" : "The Shield Eternal",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5159,
           "optionName" : "Teeth of Terra",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5345,
           "optionName" : "Reliquary of Gathalamor",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5347,
           "optionName" : "Lament",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5162,
           "optionName" : "The Primarch's Wrath",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5350,
           "optionName" : "The Honor Vehement",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5179,
           "optionName" : "Purgatorus",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5348,
           "optionName" : "Ghostweave Cloak",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5351,
           "optionName" : "The Vox Espiritum",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5161,
           "optionName" : "The Burning Blade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5343,
           "optionName" : "The Armour Indomitus",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5346,
           "optionName" : "Bellicos Bolt Rifle",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5344,
           "optionName" : "Tome of Malcador",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5152,
           "optionName" : "Standard of the Emperor Ascendant",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1000,42 +991,42 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5291,
           "optionName" : "5) Reforge",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5295,
           "optionName" : "1) Blessing of the Machine God",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5292,
           "optionName" : "4) Psysteel Armor",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5290,
           "optionName" : "6) Machine Flense",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5293,
           "optionName" : "3) Fury of Medusa",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5294,
           "optionName" : "2) Objuration Mechanicum",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1045,42 +1036,42 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5316,
           "optionName" : "Iron Resolve",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5317,
           "optionName" : "Rites of War",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5319,
           "optionName" : "The Imperium's Sword",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5315,
           "optionName" : "Champion of Humanity",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5314,
           "optionName" : "Fear Made Manifest",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5318,
           "optionName" : "Storm of Fire",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1090,42 +1081,42 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5334,
           "optionName" : "6. Marksman's Honors",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5331,
           "optionName" : "3. Master of the Vanguard",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5330,
           "optionName" : "2. Lord of Deceit",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5329,
           "optionName" : "1. Shoot and Fade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5332,
           "optionName" : "4. Stealth Adept",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5333,
           "optionName" : "5. Target Priority",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1135,14 +1126,14 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5311,
           "optionName" : "Father of the Future",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5310,
           "optionName" : "Selfless Healer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1152,7 +1143,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 10.0,
-          "optionID" : 0,
+          "optionID" : 5185,
           "optionName" : "Grav-cannon and grav-amp",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1162,42 +1153,42 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5299,
           "optionName" : "4) Drakeskin",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5301,
           "optionName" : "6) Draconic Aspect",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5300,
           "optionName" : "5) Fury of Nocturne",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5298,
           "optionName" : "3) Burning Hands",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5297,
           "optionName" : "2) Fire Shield",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5296,
           "optionName" : "1) Flaming Blast",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1207,14 +1198,14 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5359,
           "optionName" : "Martial Exemplar",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5360,
           "optionName" : "Master Duelist",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1224,14 +1215,14 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 20.0,
-          "optionID" : 0,
+          "optionID" : 5191,
           "optionName" : "Dreadnought combat weapon w/Storm Bolter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 20.0,
-          "optionID" : 0,
+          "optionID" : 5190,
           "optionName" : "Dreadnought combat weapon w/Heavy Flamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1241,14 +1232,14 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5308,
           "optionName" : "Steadfast Example",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5309,
           "optionName" : "Singular Presence",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1261,14 +1252,14 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5322,
           "optionName" : "Master of the Machine",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5323,
           "optionName" : "Warden of the Ancients",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1278,28 +1269,28 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 5.0,
-          "optionID" : 0,
+          "optionID" : 5145,
           "optionName" : "Lightning Claw",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 0,
+          "optionID" : 5149,
           "optionName" : "Power fist",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 15.0,
-          "optionID" : 0,
+          "optionID" : 5151,
           "optionName" : "Thunder hammer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 0,
+          "optionID" : 5208,
           "optionName" : "Hand Flamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1312,42 +1303,42 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5361,
           "optionName" : "1. Litany of Faith",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5365,
           "optionName" : "5. Recitation of Focus",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5362,
           "optionName" : "2. Catechism of Fire",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5366,
           "optionName" : "6. Canticle of Hate",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5363,
           "optionName" : "3. Exhortation of Rage",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5364,
           "optionName" : "4. Mantra of Strength",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1357,21 +1348,21 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 5.0,
-          "optionID" : 0,
+          "optionID" : 5145,
           "optionName" : "Lightning Claw",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 0,
+          "optionID" : 5149,
           "optionName" : "Power fist",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 15.0,
-          "optionID" : 0,
+          "optionID" : 5151,
           "optionName" : "Thunder hammer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1381,7 +1372,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5259,
           "optionName" : "Cyclone Missile Launcher and Storm Bolter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1391,14 +1382,14 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5342,
           "optionName" : "Vinculum Vitae",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5341,
           "optionName" : "Neural Shroud",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1408,14 +1399,14 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5337,
           "optionName" : "The Angel Artifice",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5338,
           "optionName" : "Blade of Triumph",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1425,14 +1416,14 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5339,
           "optionName" : "Healer's Aegis",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5340,
           "optionName" : "Acquittal",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1442,21 +1433,21 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5356,
           "optionName" : "The Holy Orb",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5357,
           "optionName" : "The Vengeful Arbiter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5358,
           "optionName" : "Standard of the Ultima Founding",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1466,35 +1457,35 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5324,
           "optionName" : "Greyshield",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5325,
           "optionName" : "Warden of Ultramar",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5327,
           "optionName" : "Expert Instructor",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5326,
           "optionName" : "Indomitable",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5328,
           "optionName" : "Master Swordsman",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1504,7 +1495,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 3.0,
-          "optionID" : 0,
+          "optionID" : 5153,
           "optionName" : "Storm bolter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1523,35 +1514,35 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5167,
           "optionName" : "Indomitus Crusaders",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5240,
           "optionName" : "Victrix Guard",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5171,
           "optionName" : "Black Templars Sword Brethren",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5169,
           "optionName" : "Imperial Fists Siegebreaker Cohort",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5170,
           "optionName" : "Crimson Fists Liberator Strike Force",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1561,42 +1552,42 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5262,
           "optionName" : "3) Null Zone",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5265,
           "optionName" : "6) Psychic Fortress",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5263,
           "optionName" : "4) Psychic Scourge",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5264,
           "optionName" : "5) Fury of the Ancients",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5261,
           "optionName" : "2) Might of Heroes",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5260,
           "optionName" : "1) Veil of Time",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1606,42 +1597,42 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5266,
           "optionName" : "1) Shrouding",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5270,
           "optionName" : "5) Tenebrous Curse",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5271,
           "optionName" : "3) Mind Raid",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5269,
           "optionName" : "4) Hallucination",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5267,
           "optionName" : "2) Soul Sight",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5268,
           "optionName" : "6) Temporal Corridor",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1651,21 +1642,21 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 5.0,
-          "optionID" : 0,
+          "optionID" : 5145,
           "optionName" : "Lightning Claw",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 0,
+          "optionID" : 5149,
           "optionName" : "Power fist",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 15.0,
-          "optionID" : 0,
+          "optionID" : 5151,
           "optionName" : "Thunder hammer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1678,42 +1669,42 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5281,
           "optionName" : "3) Ride the Winds",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5282,
           "optionName" : "2) Lightning Call",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5278,
           "optionName" : "6) Eye of the Storm",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5283,
           "optionName" : "1) Blasting Gale",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5279,
           "optionName" : "5) Spirits of Chogoris",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5280,
           "optionName" : "4) Storm-wreathed",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1723,42 +1714,42 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5303,
           "optionName" : "2) Wrack and Ruin",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5307,
           "optionName" : "6) Chasm",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5306,
           "optionName" : "5) Aspect of Stone",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5305,
           "optionName" : "4) Fortify",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5302,
           "optionName" : "1) Tectonic Purge",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5304,
           "optionName" : "3) Iron Inferno",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,

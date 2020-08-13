@@ -6,14 +6,14 @@
         "unitName" : "[0]Prosecutors",
         "listOfOptions" : [ {
           "optionCost" : 12.0,
-          "optionID" : 0,
+          "optionID" : 5021,
           "optionName" : "Prosecutor",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 12.0,
-          "optionID" : 0,
+          "optionID" : 5022,
           "optionName" : "Sister Superior",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -21,10 +21,10 @@
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 0.0,
-        "unitID" : 0,
+        "unitID" : 5023,
         "autoAddDictionary" : {
-          "Prosecutor" : 4,
-          "Sister Superior" : 1
+          "5021" : 4,
+          "5022" : 1
         },
         "startingModels" : 0,
         "listOfCurrencies" : { }
@@ -33,7 +33,7 @@
         "listOfOptions" : null,
         "unitCategory" : "Dedicated Transport",
         "unitCost" : 75.0,
-        "unitID" : 0,
+        "unitID" : 5024,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : { }
@@ -41,14 +41,14 @@
         "unitName" : "[0]Vigilators",
         "listOfOptions" : [ {
           "optionCost" : 17.0,
-          "optionID" : 0,
+          "optionID" : 5025,
           "optionName" : "Vigilator",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 17.0,
-          "optionID" : 0,
+          "optionID" : 5026,
           "optionName" : "Sister Superior",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -56,10 +56,10 @@
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 0.0,
-        "unitID" : 0,
+        "unitID" : 5027,
         "autoAddDictionary" : {
-          "Vigilator" : 4,
-          "Sister Superior" : 1
+          "5025" : 4,
+          "5026" : 1
         },
         "startingModels" : 0,
         "listOfCurrencies" : { }
@@ -67,27 +67,25 @@
         "unitName" : "[0]Witchseekers",
         "listOfOptions" : [ {
           "optionCost" : 18.0,
-          "optionID" : 0,
+          "optionID" : 5029,
           "optionName" : "Sister Superior",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 18.0,
-          "optionID" : 0,
+          "optionID" : 5028,
           "optionName" : "Witchseeker",
-          "autoAddDictionary" : {
-            "Flamer" : 1
-          },
+          "autoAddDictionary" : { },
           "modelsAdded" : 1,
           "listOfCurrencies" : { }
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 0.0,
-        "unitID" : 0,
+        "unitID" : 5030,
         "autoAddDictionary" : {
-          "Sister Superior" : 1,
-          "Witchseeker" : 4
+          "5028" : 4,
+          "5029" : 1
         },
         "startingModels" : 0,
         "listOfCurrencies" : { }
