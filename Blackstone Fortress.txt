@@ -6,17 +6,7 @@
         "unitName" : "[1]Janus Draik",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 4641,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 4631,
+          "optionID" : 1799,
           "optionName" : "Monomolecular rapier",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -26,7 +16,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4630,
+          "optionID" : 1798,
           "optionName" : "Heirloom pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -43,7 +33,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4632,
+          "optionID" : 1800,
           "optionName" : "Archeotech grenade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -54,11 +44,11 @@
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 45.0,
-        "unitID" : 4633,
+        "unitID" : 1801,
         "autoAddDictionary" : {
-          "4630" : 1,
-          "4631" : 1,
-          "4632" : 1
+          "1800" : 1,
+          "1799" : 1,
+          "1798" : 1
         },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -66,51 +56,10 @@
           "Command points" : 0
         }
       }, {
-        "unitName" : "[1]Espern Locarno",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 4634,
-          "optionName" : "Force-orb cane",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 4641,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Warlord Traits",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
-        "unitCategory" : "Elites",
-        "unitCost" : 35.0,
-        "unitID" : 4635,
-        "autoAddDictionary" : {
-          "4634" : 1
-        },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 2,
-          "Command points" : 0
-        }
-      }, {
         "unitName" : "[1]UR-025",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 4637,
+          "optionID" : 1805,
           "optionName" : "Power claw",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -120,17 +69,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4641,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 4636,
+          "optionID" : 1804,
           "optionName" : "Mk I assault cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -148,10 +87,10 @@
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 45.0,
-        "unitID" : 4638,
+        "unitID" : 1806,
         "autoAddDictionary" : {
-          "4636" : 1,
-          "4637" : 1
+          "1805" : 1,
+          "1804" : 1
         },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -159,10 +98,41 @@
           "Command points" : 0
         }
       }, {
+        "unitName" : "[1]Espern Locarno",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 1802,
+          "optionName" : "Force-orb cane",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Warlord Traits",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        } ],
+        "unitCategory" : "Elites",
+        "unitCost" : 35.0,
+        "unitID" : 1803,
+        "autoAddDictionary" : {
+          "1802" : 1
+        },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 2,
+          "Command points" : 0
+        }
+      }, {
         "unitName" : "[0]Spindle Drones",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 4639,
+          "optionID" : 1807,
           "optionName" : "Spindle Drone",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -173,15 +143,33 @@
         } ],
         "unitCategory" : "Troops",
         "unitCost" : 65.0,
-        "unitID" : 4640,
+        "unitID" : 1808,
         "autoAddDictionary" : {
-          "4639" : 4
+          "1807" : 4
         },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 3,
           "Command points" : 0
         }
+      }, {
+        "unitName" : "[1]Operative Requisition Sanctioned",
+        "listOfOptions" : null,
+        "unitCategory" : "",
+        "unitCost" : 0.0,
+        "unitID" : 6112,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "[1]Ephrael Stern and Kyganil of the Bloody Tears",
+        "listOfOptions" : null,
+        "unitCategory" : "Other",
+        "unitCost" : 0.0,
+        "unitID" : 6113,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : { }
       } ],
       "listOfEquipmentOptions" : [ {
         "listOfOptions" : [ {

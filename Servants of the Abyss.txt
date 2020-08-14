@@ -3,11 +3,11 @@
     "gameName" : "Warhammer 40k 8th Edition",
     "armies" : [ {
       "listOfUnits" : [ {
-        "unitName" : "[1]Obsidius Mallex",
+        "unitName" : "[0]Traitor Guardsmen",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 2562,
-          "optionName" : "Warlord",
+          "optionID" : 1164,
+          "optionName" : "Traitor Guardsman",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -16,7 +16,113 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2539,
+          "optionID" : 1160,
+          "optionName" : "Traitor Sergeant",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "unitCategory" : "Troops",
+        "unitCost" : 40.0,
+        "unitID" : 1165,
+        "autoAddDictionary" : {
+          "1164" : 2,
+          "1160" : 1
+        },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 2,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "[0]Cultists of the Abyss",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 1175,
+          "optionName" : "Cultist w/ Grenade Launcher",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 1173,
+          "optionName" : "Cultists",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 1174,
+          "optionName" : "Cultist w/ Heavy Stubber",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 1172,
+          "optionName" : "Cultist Champion",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "unitCategory" : "Troops",
+        "unitCost" : 40.0,
+        "unitID" : 1176,
+        "autoAddDictionary" : {
+          "1175" : 1,
+          "1174" : 1,
+          "1173" : 4,
+          "1172" : 1
+        },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 2,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "[0]Negavolt Cultists",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 1156,
+          "optionName" : "Negavolt Cultist",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "unitCategory" : "Elites",
+        "unitCost" : 50.0,
+        "unitID" : 1157,
+        "autoAddDictionary" : {
+          "1156" : 4
+        },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 2,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "[1]Obsidius Mallex",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 1154,
           "optionName" : "Thunder hammer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -34,9 +140,9 @@
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 130.0,
-        "unitID" : 2540,
+        "unitID" : 1155,
         "autoAddDictionary" : {
-          "2539" : 1
+          "1154" : 1
         },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -44,93 +150,29 @@
           "Command points" : 0
         }
       }, {
-        "unitName" : "[0]Negavolt Cultists",
+        "unitName" : "[1]Traitor Commissar",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 2541,
-          "optionName" : "Negavolt Cultist",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Elites",
-        "unitCost" : 50.0,
-        "unitID" : 2542,
-        "autoAddDictionary" : {
-          "2541" : 4
-        },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 2,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[0]Black Legionnaires",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 2543,
-          "optionName" : "Black Legionnaire",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Other",
-        "unitCost" : 28.0,
-        "unitID" : 2544,
-        "autoAddDictionary" : {
-          "2543" : 2
-        },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 1,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[0]Traitor Guardsmen",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 2549,
-          "optionName" : "Traitor Guardsman",
+          "optionID" : 0,
+          "optionName" : "$Warlord Traits",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 2545,
-          "optionName" : "Traitor Sergeant",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
+          "listOfCurrencies" : { }
         } ],
-        "unitCategory" : "Troops",
-        "unitCost" : 40.0,
-        "unitID" : 2550,
-        "autoAddDictionary" : {
-          "2545" : 1,
-          "2549" : 2
-        },
+        "unitCategory" : "HQ",
+        "unitCost" : 55.0,
+        "unitID" : 1168,
+        "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
-          "Power level" : 2,
+          "Power level" : 3,
           "Command points" : 0
         }
       }, {
         "unitName" : "[1]Chaos Beastmen",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 2551,
+          "optionID" : 1166,
           "optionName" : "Chaos Beastman",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -141,9 +183,9 @@
         } ],
         "unitCategory" : "Troops",
         "unitCost" : 26.0,
-        "unitID" : 2552,
+        "unitID" : 1167,
         "autoAddDictionary" : {
-          "2551" : 4
+          "1166" : 4
         },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -151,39 +193,34 @@
           "Command points" : 0
         }
       }, {
-        "unitName" : "[1]Traitor Commissar",
+        "unitName" : "[0]Black Legionnaires",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 2562,
-          "optionName" : "Warlord",
+          "optionID" : 1158,
+          "optionName" : "Black Legionnaire",
           "autoAddDictionary" : { },
-          "modelsAdded" : 0,
+          "modelsAdded" : 1,
           "listOfCurrencies" : {
             "Power level" : 0,
             "Command points" : 0
           }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Warlord Traits",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
         } ],
-        "unitCategory" : "HQ",
-        "unitCost" : 55.0,
-        "unitID" : 2553,
-        "autoAddDictionary" : { },
+        "unitCategory" : "Other",
+        "unitCost" : 28.0,
+        "unitID" : 1159,
+        "autoAddDictionary" : {
+          "1158" : 2
+        },
         "startingModels" : 1,
         "listOfCurrencies" : {
-          "Power level" : 3,
+          "Power level" : 1,
           "Command points" : 0
         }
       }, {
         "unitName" : "[1]Chaos Ogryn",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 2554,
+          "optionID" : 1169,
           "optionName" : "Scavenged Maul",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -193,7 +230,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2555,
+          "optionID" : 1170,
           "optionName" : "Mutant claw",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -204,10 +241,10 @@
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 70.0,
-        "unitID" : 2556,
+        "unitID" : 1171,
         "autoAddDictionary" : {
-          "2555" : 1,
-          "2554" : 1
+          "1169" : 1,
+          "1170" : 1
         },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -215,72 +252,14 @@
           "Command points" : 0
         }
       }, {
-        "unitName" : "[0]Cultists of the Abyss",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 2560,
-          "optionName" : "Cultist w/ Grenade Launcher",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 2563,
-          "optionName" : "Autogun",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 2558,
-          "optionName" : "Cultists",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 2559,
-          "optionName" : "Cultist w/ Heavy Stubber",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 2557,
-          "optionName" : "Cultist Champion",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Troops",
-        "unitCost" : 40.0,
-        "unitID" : 2561,
-        "autoAddDictionary" : {
-          "2559" : 1,
-          "2558" : 4,
-          "2557" : 1,
-          "2560" : 1
-        },
+        "unitName" : "[1]Rogue Psyker",
+        "listOfOptions" : null,
+        "unitCategory" : "Other",
+        "unitCost" : 0.0,
+        "unitID" : 4665,
+        "autoAddDictionary" : { },
         "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 2,
-          "Command points" : 0
-        }
+        "listOfCurrencies" : { }
       } ],
       "listOfEquipmentOptions" : [ {
         "listOfOptions" : [ {
