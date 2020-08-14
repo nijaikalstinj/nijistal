@@ -6,7 +6,7 @@
         "unitName" : "[1]Ambull",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 10195,
+          "optionID" : 12998,
           "optionName" : "Enormous claws",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -17,9 +17,9 @@
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 75.0,
-        "unitID" : 10196,
+        "unitID" : 12999,
         "autoAddDictionary" : {
-          "10195" : 1
+          "12998" : 1
         },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -30,7 +30,7 @@
         "unitName" : "[0]Borewyrm Infestations",
         "listOfOptions" : [ {
           "optionCost" : 15.0,
-          "optionID" : 10197,
+          "optionID" : 13000,
           "optionName" : "Borewyrm Infestation",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -41,9 +41,9 @@
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 0.0,
-        "unitID" : 10198,
+        "unitID" : 13001,
         "autoAddDictionary" : {
-          "10197" : 1
+          "13000" : 1
         },
         "startingModels" : 0,
         "listOfCurrencies" : {
@@ -54,7 +54,7 @@
         "unitName" : "[0]Spindle Drones",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 10199,
+          "optionID" : 13002,
           "optionName" : "Spindle Drone",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -65,11 +65,11 @@
         } ],
         "unitCategory" : "Troops",
         "unitCost" : 65.0,
-        "unitID" : 10200,
+        "unitID" : 13003,
         "autoAddDictionary" : {
-          "10199" : 4
+          "13002" : 4
         },
-        "startingModels" : 0,
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 3,
           "Command points" : 0
@@ -78,7 +78,7 @@
         "unitName" : "[1]The Archivist",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 10201,
+          "optionID" : 13004,
           "optionName" : "Atomic dissassembler",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -88,7 +88,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10202,
+          "optionID" : 13005,
           "optionName" : "Eradicator glove",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -99,10 +99,10 @@
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 90.0,
-        "unitID" : 10203,
+        "unitID" : 13006,
         "autoAddDictionary" : {
-          "10202" : 1,
-          "10201" : 1
+          "13004" : 1,
+          "13005" : 1
         },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -114,7 +114,7 @@
       "armyName" : "Monsters and Gribblies",
       "armyCategories" : [ ]
     } ],
-    "gameCategories" : [ "HQ", "Elites", "Troops", "Fast Attack", "Heavy Support", "Flyers", "Dedicated Transport", "Lords of War", "Fortification" ],
+    "gameCategories" : [ "HQ", "Elites", "Troops", "Fast Attack", "Heavy Support", "Flyers", "Dedicated Transport", "Lords of War", "Fortification", "Other" ],
     "listOfEquipmentOptions" : null,
     "listOfCurrencies" : [ "Power level", "Command points" ]
   } ]

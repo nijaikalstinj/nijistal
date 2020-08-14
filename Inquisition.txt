@@ -6,7 +6,7 @@
         "unitName" : "[1]Inquisitor Coteaz",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 6604,
+          "optionID" : 9323,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -16,7 +16,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6599,
+          "optionID" : 11225,
           "optionName" : "Stratagem: Inquisitorial Mandate",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -26,7 +26,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6625,
+          "optionID" : 8020,
           "optionName" : "Master-crafted Nemesis Daemon hammer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -36,7 +36,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6624,
+          "optionID" : 8019,
           "optionName" : "Psyber-eagle",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -54,10 +54,10 @@
         } ],
         "unitCategory" : "Other",
         "unitCost" : 95.0,
-        "unitID" : 6626,
+        "unitID" : 8021,
         "autoAddDictionary" : {
-          "6625" : 1,
-          "6624" : 1
+          "8019" : 1,
+          "8020" : 1
         },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -68,7 +68,7 @@
         "unitName" : "[1]Inquisitor Karamazov",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 6604,
+          "optionID" : 9323,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -78,7 +78,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6599,
+          "optionID" : 11225,
           "optionName" : "Stratagem: Inquisitorial Mandate",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -88,7 +88,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6629,
+          "optionID" : 8024,
           "optionName" : "Master-Crafted Power Sword",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -98,7 +98,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6627,
+          "optionID" : 8022,
           "optionName" : "Throne of Judgement",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -108,7 +108,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6628,
+          "optionID" : 8023,
           "optionName" : "Master-Crafted Multi-Melta",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -119,11 +119,11 @@
         } ],
         "unitCategory" : "Other",
         "unitCost" : 125.0,
-        "unitID" : 6630,
+        "unitID" : 8025,
         "autoAddDictionary" : {
-          "6627" : 1,
-          "6629" : 1,
-          "6628" : 1
+          "8024" : 1,
+          "8022" : 1,
+          "8023" : 1
         },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -134,7 +134,7 @@
         "unitName" : "[1]Inquisitor",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 6604,
+          "optionID" : 9323,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -144,7 +144,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6599,
+          "optionID" : 11225,
           "optionName" : "Stratagem: Inquisitorial Mandate",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -154,7 +154,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6631,
+          "optionID" : 8026,
           "optionName" : "Psyker",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -199,7 +199,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6605,
+          "optionID" : 11246,
           "optionName" : "Alpha-Class Psyker",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -230,7 +230,7 @@
         } ],
         "unitCategory" : "Other",
         "unitCost" : 60.0,
-        "unitID" : 6632,
+        "unitID" : 8027,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -247,8 +247,15 @@
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Acolyte Weapon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
           "optionCost" : 9.0,
-          "optionID" : 6633,
+          "optionID" : 8028,
           "optionName" : "Acolyte",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -259,9 +266,9 @@
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 0.0,
-        "unitID" : 6634,
+        "unitID" : 8029,
         "autoAddDictionary" : {
-          "6633" : 1
+          "8028" : 1
         },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -272,7 +279,7 @@
         "unitName" : "[1]Daemonhost",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 6635,
+          "optionID" : 8030,
           "optionName" : "Unholy Gaze",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -282,7 +289,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6636,
+          "optionID" : 8031,
           "optionName" : "Warp Grasp",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -293,10 +300,10 @@
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 25.0,
-        "unitID" : 6637,
+        "unitID" : 8032,
         "autoAddDictionary" : {
-          "6636" : 1,
-          "6635" : 1
+          "8031" : 1,
+          "8030" : 1
         },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -307,7 +314,7 @@
         "unitName" : "[1]Jokaero Weaponsmith",
         "listOfOptions" : [ {
           "optionCost" : 4.0,
-          "optionID" : 6638,
+          "optionID" : 8033,
           "optionName" : "Jokaero Weapons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -325,9 +332,9 @@
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 20.0,
-        "unitID" : 6639,
+        "unitID" : 8034,
         "autoAddDictionary" : {
-          "6638" : 1
+          "8033" : 1
         },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -338,7 +345,7 @@
         "unitName" : "[1]Inquisitor Greyfax",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 6604,
+          "optionID" : 9323,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -348,7 +355,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6599,
+          "optionID" : 11225,
           "optionName" : "Stratagem: Inquisitorial Mandate",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -358,7 +365,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6640,
+          "optionID" : 8035,
           "optionName" : "Master-Crafted Power Sword",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -368,7 +375,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6641,
+          "optionID" : 8036,
           "optionName" : "Master-Crafted Condemnor Boltgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -378,7 +385,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6603,
+          "optionID" : 11298,
           "optionName" : "Psyk-out grenades",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -388,7 +395,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6642,
+          "optionID" : 8037,
           "optionName" : "Hereticus - No Escape",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -406,10 +413,10 @@
         } ],
         "unitCategory" : "Other",
         "unitCost" : 90.0,
-        "unitID" : 6643,
+        "unitID" : 8038,
         "autoAddDictionary" : {
-          "6641" : 1,
-          "6640" : 1
+          "8035" : 1,
+          "8036" : 1
         },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -420,7 +427,7 @@
         "unitName" : "[1]Ordo Malleus Inquisitor in Terminator Armour",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 6604,
+          "optionID" : 9323,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -430,7 +437,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6599,
+          "optionID" : 11225,
           "optionName" : "Stratagem: Inquisitorial Mandate",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -454,7 +461,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6603,
+          "optionID" : 11298,
           "optionName" : "Psyk-out grenades",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -464,7 +471,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6605,
+          "optionID" : 11246,
           "optionName" : "Alpha-Class Psyker",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -474,7 +481,7 @@
         } ],
         "unitCategory" : "Other",
         "unitCost" : 95.0,
-        "unitID" : 6644,
+        "unitID" : 8039,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -485,7 +492,7 @@
         "unitName" : "[1]Inquisitor-Lord Solomon Lok",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 6646,
+          "optionID" : 8041,
           "optionName" : "Psibolt Pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -495,7 +502,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6604,
+          "optionID" : 9323,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -505,7 +512,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6599,
+          "optionID" : 11225,
           "optionName" : "Stratagem: Inquisitorial Mandate",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -515,7 +522,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6645,
+          "optionID" : 8040,
           "optionName" : "Blade of Surety",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -533,10 +540,10 @@
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 75.0,
-        "unitID" : 6647,
+        "unitID" : 8042,
         "autoAddDictionary" : {
-          "6645" : 1,
-          "6646" : 1
+          "8040" : 1,
+          "8041" : 1
         },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -554,7 +561,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 60.0,
-          "optionID" : 6648,
+          "optionID" : 8043,
           "optionName" : "Quad Heavy Bolters",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -565,9 +572,9 @@
         } ],
         "unitCategory" : "Heavy Support",
         "unitCost" : 180.0,
-        "unitID" : 6649,
+        "unitID" : 8044,
         "autoAddDictionary" : {
-          "6648" : 2
+          "8043" : 2
         },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -578,7 +585,7 @@
         "unitName" : "[1]Inquisitor Eisenhorn",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 6652,
+          "optionID" : 8047,
           "optionName" : "Runestaff",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -588,7 +595,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6604,
+          "optionID" : 9323,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -598,7 +605,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6599,
+          "optionID" : 11225,
           "optionName" : "Stratagem: Inquisitorial Mandate",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -608,7 +615,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6651,
+          "optionID" : 8046,
           "optionName" : "Artificer Bolt Pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -618,7 +625,7 @@
           }
         }, {
           "optionCost" : 25.0,
-          "optionID" : 6654,
+          "optionID" : 8049,
           "optionName" : "Malus Codicium Daemonhost",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -628,7 +635,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6650,
+          "optionID" : 8045,
           "optionName" : "Barbarisater",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -638,7 +645,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6653,
+          "optionID" : 8048,
           "optionName" : "Electrobane Grenades",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -656,12 +663,12 @@
         } ],
         "unitCategory" : "Other",
         "unitCost" : 85.0,
-        "unitID" : 6655,
+        "unitID" : 8050,
         "autoAddDictionary" : {
-          "6650" : 1,
-          "6652" : 1,
-          "6651" : 1,
-          "6653" : 1
+          "8046" : 1,
+          "8047" : 1,
+          "8045" : 1,
+          "8048" : 1
         },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -672,7 +679,7 @@
         "unitName" : "[1]Lord Inquisitor Kyria Draxus",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 6604,
+          "optionID" : 9323,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -682,7 +689,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6599,
+          "optionID" : 11225,
           "optionName" : "Stratagem: Inquisitorial Mandate",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -692,7 +699,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6656,
+          "optionID" : 8051,
           "optionName" : "Dirgesinger",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -710,9 +717,9 @@
         } ],
         "unitCategory" : "Other",
         "unitCost" : 85.0,
-        "unitID" : 6657,
+        "unitID" : 8052,
         "autoAddDictionary" : {
-          "6656" : 1
+          "8051" : 1
         },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -723,7 +730,7 @@
       "listOfEquipmentOptions" : [ {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 6620,
+          "optionID" : 0,
           "optionName" : "Ordo Minoris",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -733,7 +740,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6618,
+          "optionID" : 0,
           "optionName" : "Ordo Hereticus",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -743,7 +750,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6617,
+          "optionID" : 0,
           "optionName" : "Ordo Malleus",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -753,7 +760,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6619,
+          "optionID" : 0,
           "optionName" : "Ordo Xenos",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -772,7 +779,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 15.0,
-          "optionID" : 6615,
+          "optionID" : 0,
           "optionName" : "Incinerator",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -785,27 +792,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 6600,
-          "optionName" : "Blade of the Ordo",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 6602,
-          "optionName" : "Tainted Blade",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 6622,
+          "optionID" : 0,
           "optionName" : "Blackshroud",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -815,17 +802,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6601,
-          "optionName" : "Ignis Judicium",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 6621,
+          "optionID" : 0,
           "optionName" : "Bio-corrosive Poisons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -835,7 +812,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6623,
+          "optionID" : 0,
           "optionName" : "Digital Weapons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -846,7 +823,14 @@
         } ],
         "equipmentName" : "$Relics of the Inquisition"
       }, {
-        "listOfOptions" : null,
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Warlord Traits (BRB)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        } ],
         "equipmentName" : "$Warlord Traits"
       }, {
         "listOfOptions" : null,
@@ -854,7 +838,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 6610,
+          "optionID" : 0,
           "optionName" : "5) Psychic Pursuit",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -864,7 +848,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6607,
+          "optionID" : 0,
           "optionName" : "2) Psychic Fortitude",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -874,7 +858,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6609,
+          "optionID" : 0,
           "optionName" : "4) Mental Interrogation",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -884,7 +868,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6611,
+          "optionID" : 0,
           "optionName" : "6) Castigation",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -894,7 +878,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6613,
+          "optionID" : 0,
           "optionName" : "Xenos - Psychic Veil",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -904,7 +888,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6606,
+          "optionID" : 0,
           "optionName" : "1) Terrify",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -914,7 +898,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6608,
+          "optionID" : 0,
           "optionName" : "3) Dominate",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -924,7 +908,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6612,
+          "optionID" : 0,
           "optionName" : "Hereticus - Ascertainment",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -934,7 +918,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6614,
+          "optionID" : 0,
           "optionName" : "Malleus - Power Through Knowledge",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -947,7 +931,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 4.0,
-          "optionID" : 6616,
+          "optionID" : 0,
           "optionName" : "Null Rod [Legends]",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -961,7 +945,7 @@
       "armyName" : "Inquisition",
       "armyCategories" : [ ]
     } ],
-    "gameCategories" : [ "HQ", "Elites", "Troops", "Fast Attack", "Heavy Support", "Flyers", "Dedicated Transport", "Lords of War", "Fortification" ],
+    "gameCategories" : [ "HQ", "Elites", "Troops", "Fast Attack", "Heavy Support", "Flyers", "Dedicated Transport", "Lords of War", "Fortification", "Other" ],
     "listOfEquipmentOptions" : null,
     "listOfCurrencies" : [ "Power level", "Command points" ]
   } ]

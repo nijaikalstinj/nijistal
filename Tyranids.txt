@@ -6,7 +6,17 @@
         "unitName" : "[0]Biovores",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 9994,
+          "optionID" : 12890,
+          "optionName" : "Spore Mine Launcher",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 12870,
           "optionName" : "Show Spore Mine Rules",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -16,7 +26,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10010,
+          "optionID" : 12889,
           "optionName" : "Adaptive Physiology",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -26,7 +36,7 @@
           }
         }, {
           "optionCost" : 50.0,
-          "optionID" : 10043,
+          "optionID" : 12754,
           "optionName" : "Biovore",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -37,11 +47,11 @@
         } ],
         "unitCategory" : "Heavy Support",
         "unitCost" : 0.0,
-        "unitID" : 10044,
+        "unitID" : 12755,
         "autoAddDictionary" : {
-          "10043" : 1
+          "12754" : 1
         },
-        "startingModels" : 0,
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 2,
           "Command points" : 0
@@ -50,7 +60,7 @@
         "unitName" : "[1]Broodlord",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 10007,
+          "optionID" : 12851,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -67,7 +77,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9961,
+          "optionID" : 12881,
           "optionName" : "Monstrous Rending Claws",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -77,7 +87,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10012,
+          "optionID" : 12927,
           "optionName" : "Power: Smite",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -101,7 +111,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10010,
+          "optionID" : 12889,
           "optionName" : "Adaptive Physiology",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -112,7 +122,7 @@
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 125.0,
-        "unitID" : 10045,
+        "unitID" : 12756,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -123,7 +133,7 @@
         "unitName" : "[0]Carnifexes",
         "listOfOptions" : [ {
           "optionCost" : 5.0,
-          "optionID" : 9999,
+          "optionID" : 12877,
           "optionName" : "Spine Banks",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -132,8 +142,28 @@
             "Command points" : 0
           }
         }, {
+          "optionCost" : 1.0,
+          "optionID" : 12900,
+          "optionName" : "Adrenal Glands",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 5.0,
-          "optionID" : 9950,
+          "optionID" : 12903,
+          "optionName" : "Toxin Sacs",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 12882,
           "optionName" : "Bone Mace",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -143,7 +173,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 10003,
+          "optionID" : 12883,
           "optionName" : "Enhanced Senses",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -153,7 +183,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 9970,
+          "optionID" : 12907,
           "optionName" : "Thresher Scythe",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -163,7 +193,7 @@
           }
         }, {
           "optionCost" : 15.0,
-          "optionID" : 10047,
+          "optionID" : 12758,
           "optionName" : "2x Monstrous Scything Talons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -173,7 +203,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 10004,
+          "optionID" : 12857,
           "optionName" : "Tusks",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -183,7 +213,7 @@
           }
         }, {
           "optionCost" : 14.0,
-          "optionID" : 9963,
+          "optionID" : 12911,
           "optionName" : "Monstrous Scything Talons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -192,8 +222,28 @@
             "Command points" : 0
           }
         }, {
+          "optionCost" : 5.0,
+          "optionID" : 12859,
+          "optionName" : "Chitin Thorns",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 12889,
+          "optionName" : "Adaptive Physiology",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 10.0,
-          "optionID" : 10000,
+          "optionID" : 12862,
           "optionName" : "Monstrous Acid Maw",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -203,7 +253,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 10001,
+          "optionID" : 12918,
           "optionName" : "Spore Cysts",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -220,7 +270,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 15.0,
-          "optionID" : 9962,
+          "optionID" : 12921,
           "optionName" : "Monstrous Crushing Claws",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -230,7 +280,7 @@
           }
         }, {
           "optionCost" : 80.0,
-          "optionID" : 10046,
+          "optionID" : 12757,
           "optionName" : "Carnifex",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -240,7 +290,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 9919,
+          "optionID" : 12872,
           "optionName" : "Bio-plasma",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -251,11 +301,11 @@
         } ],
         "unitCategory" : "Heavy Support",
         "unitCost" : 0.0,
-        "unitID" : 10048,
+        "unitID" : 12759,
         "autoAddDictionary" : {
-          "10046" : 1
+          "12757" : 1
         },
-        "startingModels" : 0,
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 6,
           "Command points" : 0
@@ -264,7 +314,7 @@
         "unitName" : "[1]Exocrine",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 9964,
+          "optionID" : 12934,
           "optionName" : "Powerful Limbs",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -274,7 +324,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9920,
+          "optionID" : 12910,
           "optionName" : "Bio-plasmic Cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -284,7 +334,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10010,
+          "optionID" : 12889,
           "optionName" : "Adaptive Physiology",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -295,7 +345,7 @@
         } ],
         "unitCategory" : "Heavy Support",
         "unitCost" : 170.0,
-        "unitID" : 10049,
+        "unitID" : 12760,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -305,8 +355,18 @@
       }, {
         "unitName" : "[0]Gargoyles",
         "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 12865,
+          "optionName" : "Fleshborer",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 7.0,
-          "optionID" : 10050,
+          "optionID" : 12761,
           "optionName" : "Gargoyle",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -316,7 +376,17 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10010,
+          "optionID" : 12856,
+          "optionName" : "Blinding Venom",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 12889,
           "optionName" : "Adaptive Physiology",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -327,11 +397,11 @@
         } ],
         "unitCategory" : "Fast Attack",
         "unitCost" : 0.0,
-        "unitID" : 10051,
+        "unitID" : 12762,
         "autoAddDictionary" : {
-          "10050" : 10
+          "12761" : 10
         },
-        "startingModels" : 0,
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 3,
           "Command points" : 0
@@ -340,7 +410,7 @@
         "unitName" : "[0]Genestealers",
         "listOfOptions" : [ {
           "optionCost" : 5.0,
-          "optionID" : 9978,
+          "optionID" : 12903,
           "optionName" : "Toxin Sacs",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -350,7 +420,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10006,
+          "optionID" : 12936,
           "optionName" : "Acid Maw",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -360,7 +430,7 @@
           }
         }, {
           "optionCost" : 15.0,
-          "optionID" : 10052,
+          "optionID" : 12763,
           "optionName" : "Genestealer",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -370,7 +440,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9980,
+          "optionID" : 12867,
           "optionName" : "Scything Talons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -379,8 +449,18 @@
             "Command points" : 0
           }
         }, {
+          "optionCost" : 2.0,
+          "optionID" : 12869,
+          "optionName" : "Rending Claws",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 3.0,
-          "optionID" : 9979,
+          "optionID" : 12895,
           "optionName" : "Flesh Hooks",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -390,7 +470,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10010,
+          "optionID" : 12889,
           "optionName" : "Adaptive Physiology",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -401,11 +481,11 @@
         } ],
         "unitCategory" : "Troops",
         "unitCost" : 0.0,
-        "unitID" : 10053,
+        "unitID" : 12764,
         "autoAddDictionary" : {
-          "10052" : 5
+          "12763" : 5
         },
-        "startingModels" : 0,
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 4,
           "Command points" : 0
@@ -414,7 +494,7 @@
         "unitName" : "[1]Harpy",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 9969,
+          "optionID" : 12896,
           "optionName" : "Scything Wings",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -424,7 +504,7 @@
           }
         }, {
           "optionCost" : 15.0,
-          "optionID" : 9942,
+          "optionID" : 12860,
           "optionName" : "Stranglethorn Cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -434,7 +514,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9941,
+          "optionID" : 12863,
           "optionName" : "Stinger Salvo",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -444,7 +524,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9994,
+          "optionID" : 12870,
           "optionName" : "Show Spore Mine Rules",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -454,7 +534,7 @@
           }
         }, {
           "optionCost" : 20.0,
-          "optionID" : 9932,
+          "optionID" : 12855,
           "optionName" : "Heavy Venom Cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -464,7 +544,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10010,
+          "optionID" : 12889,
           "optionName" : "Adaptive Physiology",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -475,7 +555,7 @@
         } ],
         "unitCategory" : "Flyers",
         "unitCost" : 125.0,
-        "unitID" : 10054,
+        "unitID" : 12765,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -486,7 +566,7 @@
         "unitName" : "[1]Haruspex",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 9967,
+          "optionID" : 12913,
           "optionName" : "Shovelling Claws",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -496,7 +576,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9931,
+          "optionID" : 12920,
           "optionName" : "Grasping Tongue",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -506,7 +586,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9966,
+          "optionID" : 12853,
           "optionName" : "Ravenous Maw",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -516,7 +596,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10010,
+          "optionID" : 12889,
           "optionName" : "Adaptive Physiology",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -527,7 +607,7 @@
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 170.0,
-        "unitID" : 10055,
+        "unitID" : 12766,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -538,7 +618,7 @@
         "unitName" : "[1]Hive Crone",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 9969,
+          "optionID" : 12896,
           "optionName" : "Scything Wings",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -548,7 +628,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9973,
+          "optionID" : 12932,
           "optionName" : "Wicked Spur",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -558,7 +638,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9941,
+          "optionID" : 12863,
           "optionName" : "Stinger Salvo",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -568,7 +648,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9944,
+          "optionID" : 12874,
           "optionName" : "Tentaclids",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -578,7 +658,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9926,
+          "optionID" : 12929,
           "optionName" : "Drool Cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -588,7 +668,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10010,
+          "optionID" : 12889,
           "optionName" : "Adaptive Physiology",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -599,7 +679,7 @@
         } ],
         "unitCategory" : "Flyers",
         "unitCost" : 155.0,
-        "unitID" : 10056,
+        "unitID" : 12767,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -610,7 +690,7 @@
         "unitName" : "[0]Hive Guard",
         "listOfOptions" : [ {
           "optionCost" : 1.0,
-          "optionID" : 9977,
+          "optionID" : 12900,
           "optionName" : "Adrenal Glands",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -620,7 +700,7 @@
           }
         }, {
           "optionCost" : 40.0,
-          "optionID" : 10058,
+          "optionID" : 12769,
           "optionName" : "Hive Guard (Shock)",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -630,7 +710,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 9978,
+          "optionID" : 12903,
           "optionName" : "Toxin Sacs",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -640,7 +720,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 9933,
+          "optionID" : 12884,
           "optionName" : "Impaler Cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -650,7 +730,7 @@
           }
         }, {
           "optionCost" : 40.0,
-          "optionID" : 10057,
+          "optionID" : 12768,
           "optionName" : "Hive Guard (Impaler)",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -660,7 +740,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10010,
+          "optionID" : 12889,
           "optionName" : "Adaptive Physiology",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -670,7 +750,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9936,
+          "optionID" : 12858,
           "optionName" : "Shockcannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -681,11 +761,11 @@
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 0.0,
-        "unitID" : 10059,
+        "unitID" : 12770,
         "autoAddDictionary" : {
-          "10057" : 3
+          "12768" : 3
         },
-        "startingModels" : 0,
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 6,
           "Command points" : 0
@@ -694,7 +774,7 @@
         "unitName" : "[1]Hive Tyrant",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 10007,
+          "optionID" : 12851,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -704,7 +784,7 @@
           }
         }, {
           "optionCost" : 1.0,
-          "optionID" : 9977,
+          "optionID" : 12900,
           "optionName" : "Adrenal Glands",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -714,7 +794,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 9978,
+          "optionID" : 12903,
           "optionName" : "Toxin Sacs",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -724,7 +804,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10012,
+          "optionID" : 12927,
           "optionName" : "Power: Smite",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -734,7 +814,7 @@
           }
         }, {
           "optionCost" : 20.0,
-          "optionID" : 10061,
+          "optionID" : 12772,
           "optionName" : "2x Monstrous Scything Talons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -744,7 +824,7 @@
           }
         }, {
           "optionCost" : 14.0,
-          "optionID" : 9963,
+          "optionID" : 12911,
           "optionName" : "Monstrous Scything Talons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -754,7 +834,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9965,
+          "optionID" : 12912,
           "optionName" : "Prehensile Pincer Tail",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -771,7 +851,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10010,
+          "optionID" : 12889,
           "optionName" : "Adaptive Physiology",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -788,7 +868,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 45.0,
-          "optionID" : 10060,
+          "optionID" : 12771,
           "optionName" : "Wings",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -813,7 +893,7 @@
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 155.0,
-        "unitID" : 10062,
+        "unitID" : 12773,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -824,7 +904,7 @@
         "unitName" : "[0]Hormagaunts",
         "listOfOptions" : [ {
           "optionCost" : 1.0,
-          "optionID" : 9977,
+          "optionID" : 12900,
           "optionName" : "Adrenal Glands",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -834,7 +914,7 @@
           }
         }, {
           "optionCost" : 6.0,
-          "optionID" : 10063,
+          "optionID" : 12774,
           "optionName" : "Hormagaunt",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -844,7 +924,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 9978,
+          "optionID" : 12903,
           "optionName" : "Toxin Sacs",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -854,7 +934,17 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10010,
+          "optionID" : 12867,
+          "optionName" : "Scything Talons",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 12889,
           "optionName" : "Adaptive Physiology",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -865,11 +955,11 @@
         } ],
         "unitCategory" : "Troops",
         "unitCost" : 0.0,
-        "unitID" : 10064,
+        "unitID" : 12775,
         "autoAddDictionary" : {
-          "10063" : 10
+          "12774" : 10
         },
-        "startingModels" : 0,
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 3,
           "Command points" : 0
@@ -878,7 +968,7 @@
         "unitName" : "[1]Lictor",
         "listOfOptions" : [ {
           "optionCost" : 2.0,
-          "optionID" : 10013,
+          "optionID" : 12869,
           "optionName" : "Rending Claws",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -888,7 +978,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9955,
+          "optionID" : 12852,
           "optionName" : "Grasping Talons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -898,7 +988,7 @@
           }
         }, {
           "optionCost" : 3.0,
-          "optionID" : 9979,
+          "optionID" : 12895,
           "optionName" : "Flesh Hooks",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -908,7 +998,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10010,
+          "optionID" : 12889,
           "optionName" : "Adaptive Physiology",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -919,7 +1009,7 @@
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 32.0,
-        "unitID" : 10065,
+        "unitID" : 12776,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -930,7 +1020,7 @@
         "unitName" : "[1]Maleceptor",
         "listOfOptions" : [ {
           "optionCost" : 1.0,
-          "optionID" : 9977,
+          "optionID" : 12900,
           "optionName" : "Adrenal Glands",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -947,7 +1037,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10012,
+          "optionID" : 12927,
           "optionName" : "Power: Smite",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -957,7 +1047,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 9959,
+          "optionID" : 12917,
           "optionName" : "Massive Scything Talons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -967,7 +1057,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10010,
+          "optionID" : 12889,
           "optionName" : "Adaptive Physiology",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -978,7 +1068,7 @@
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 160.0,
-        "unitID" : 10066,
+        "unitID" : 12777,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -989,7 +1079,7 @@
         "unitName" : "[1]Mawloc",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 9954,
+          "optionID" : 12878,
           "optionName" : "Distensible Jaws",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -999,7 +1089,7 @@
           }
         }, {
           "optionCost" : 1.0,
-          "optionID" : 9977,
+          "optionID" : 12900,
           "optionName" : "Adrenal Glands",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1009,7 +1099,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 9978,
+          "optionID" : 12903,
           "optionName" : "Toxin Sacs",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1019,7 +1109,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9948,
+          "optionID" : 12880,
           "optionName" : "Biostatic Rattle",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1029,7 +1119,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9980,
+          "optionID" : 12867,
           "optionName" : "Scything Talons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1039,7 +1129,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9972,
+          "optionID" : 12923,
           "optionName" : "Toxinspike",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1049,7 +1139,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10010,
+          "optionID" : 12889,
           "optionName" : "Adaptive Physiology",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1059,7 +1149,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9965,
+          "optionID" : 12912,
           "optionName" : "Prehensile Pincer Tail",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1070,7 +1160,7 @@
         } ],
         "unitCategory" : "Heavy Support",
         "unitCost" : 125.0,
-        "unitID" : 10067,
+        "unitID" : 12778,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -1081,7 +1171,7 @@
         "unitName" : "[0]Mucolid Spores",
         "listOfOptions" : [ {
           "optionCost" : 22.0,
-          "optionID" : 10068,
+          "optionID" : 12779,
           "optionName" : "Mucolid Spore",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -1092,11 +1182,11 @@
         } ],
         "unitCategory" : "Fast Attack",
         "unitCost" : 0.0,
-        "unitID" : 10069,
+        "unitID" : 12780,
         "autoAddDictionary" : {
-          "10068" : 1
+          "12779" : 1
         },
-        "startingModels" : 0,
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 1,
           "Command points" : 0
@@ -1104,8 +1194,28 @@
       }, {
         "unitName" : "[0]Pyrovores",
         "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 12936,
+          "optionName" : "Acid Maw",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 12925,
+          "optionName" : "Flamespurt",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 28.0,
-          "optionID" : 10070,
+          "optionID" : 12781,
           "optionName" : "Pyrovore",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -1115,7 +1225,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10010,
+          "optionID" : 12889,
           "optionName" : "Adaptive Physiology",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1126,11 +1236,11 @@
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 0.0,
-        "unitID" : 10071,
+        "unitID" : 12782,
         "autoAddDictionary" : {
-          "10070" : 1
+          "12781" : 1
         },
-        "startingModels" : 0,
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 1,
           "Command points" : 0
@@ -1139,7 +1249,7 @@
         "unitName" : "[0]Raveners",
         "listOfOptions" : [ {
           "optionCost" : 4.0,
-          "optionID" : 9924,
+          "optionID" : 12931,
           "optionName" : "Devourer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1149,7 +1259,7 @@
           }
         }, {
           "optionCost" : 6.0,
-          "optionID" : 9922,
+          "optionID" : 12899,
           "optionName" : "Deathspitter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1159,7 +1269,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9980,
+          "optionID" : 12867,
           "optionName" : "Scything Talons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1169,7 +1279,7 @@
           }
         }, {
           "optionCost" : 2.0,
-          "optionID" : 10013,
+          "optionID" : 12869,
           "optionName" : "Rending Claws",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1179,7 +1289,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9938,
+          "optionID" : 12873,
           "optionName" : "Spinefists",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1189,7 +1299,7 @@
           }
         }, {
           "optionCost" : 22.0,
-          "optionID" : 10072,
+          "optionID" : 12783,
           "optionName" : "Ravener",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -1199,7 +1309,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10010,
+          "optionID" : 12889,
           "optionName" : "Adaptive Physiology",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1210,11 +1320,11 @@
         } ],
         "unitCategory" : "Fast Attack",
         "unitCost" : 0.0,
-        "unitID" : 10073,
+        "unitID" : 12784,
         "autoAddDictionary" : {
-          "10072" : 3
+          "12783" : 3
         },
-        "startingModels" : 0,
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 4,
           "Command points" : 0
@@ -1223,7 +1333,17 @@
         "unitName" : "[0]Ripper Swarms",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 9939,
+          "optionID" : 12894,
+          "optionName" : "Claws and Teeth",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 12888,
           "optionName" : "Spinemaws",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1233,7 +1353,7 @@
           }
         }, {
           "optionCost" : 12.0,
-          "optionID" : 10074,
+          "optionID" : 12785,
           "optionName" : "Ripper Swarm",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -1244,9 +1364,9 @@
         } ],
         "unitCategory" : "Troops",
         "unitCost" : 0.0,
-        "unitID" : 10075,
+        "unitID" : 12786,
         "autoAddDictionary" : {
-          "10074" : 3
+          "12785" : 3
         },
         "startingModels" : 0,
         "listOfCurrencies" : {
@@ -1257,7 +1377,7 @@
         "unitName" : "[0]Sky-slasher Swarms",
         "listOfOptions" : [ {
           "optionCost" : 15.0,
-          "optionID" : 10076,
+          "optionID" : 12787,
           "optionName" : "Sky-slasher Swarm",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -1267,7 +1387,17 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9939,
+          "optionID" : 12894,
+          "optionName" : "Claws and Teeth",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 12888,
           "optionName" : "Spinemaws",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1278,11 +1408,11 @@
         } ],
         "unitCategory" : "Fast Attack",
         "unitCost" : 0.0,
-        "unitID" : 10077,
+        "unitID" : 12788,
         "autoAddDictionary" : {
-          "10076" : 3
+          "12787" : 3
         },
-        "startingModels" : 0,
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 2,
           "Command points" : 0
@@ -1291,7 +1421,7 @@
         "unitName" : "[0]Spore Mines",
         "listOfOptions" : [ {
           "optionCost" : 10.0,
-          "optionID" : 10078,
+          "optionID" : 12789,
           "optionName" : "Spore Mine",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -1302,11 +1432,11 @@
         } ],
         "unitCategory" : "Fast Attack",
         "unitCost" : 0.0,
-        "unitID" : 10079,
+        "unitID" : 12790,
         "autoAddDictionary" : {
-          "10078" : 3
+          "12789" : 3
         },
-        "startingModels" : 0,
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 1,
           "Command points" : 0
@@ -1315,7 +1445,7 @@
         "unitName" : "[1]Sporocyst",
         "listOfOptions" : [ {
           "optionCost" : 6.0,
-          "optionID" : 9922,
+          "optionID" : 12899,
           "optionName" : "Deathspitter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1325,7 +1455,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 9916,
+          "optionID" : 12864,
           "optionName" : "Barbed Strangler",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1335,7 +1465,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10080,
+          "optionID" : 12791,
           "optionName" : "Spore Node",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1345,7 +1475,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10081,
+          "optionID" : 12792,
           "optionName" : "Show Mucolid Spore Rules",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1355,7 +1485,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10082,
+          "optionID" : 12793,
           "optionName" : "Show Spore Mine Rules",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1365,7 +1495,7 @@
           }
         }, {
           "optionCost" : 15.0,
-          "optionID" : 9946,
+          "optionID" : 12885,
           "optionName" : "Venom Cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1375,7 +1505,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10010,
+          "optionID" : 12889,
           "optionName" : "Adaptive Physiology",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1386,9 +1516,9 @@
         } ],
         "unitCategory" : "Fortification",
         "unitCost" : 85.0,
-        "unitID" : 10083,
+        "unitID" : 12794,
         "autoAddDictionary" : {
-          "10080" : 1
+          "12791" : 1
         },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -1399,7 +1529,7 @@
         "unitName" : "[0]Termagants",
         "listOfOptions" : [ {
           "optionCost" : 5.0,
-          "optionID" : 10086,
+          "optionID" : 12797,
           "optionName" : "Termagant (Spinefists)",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -1409,7 +1539,7 @@
           }
         }, {
           "optionCost" : 1.0,
-          "optionID" : 9977,
+          "optionID" : 12900,
           "optionName" : "Adrenal Glands",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1419,7 +1549,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 9978,
+          "optionID" : 12903,
           "optionName" : "Toxin Sacs",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1429,7 +1559,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9929,
+          "optionID" : 12865,
           "optionName" : "Fleshborer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1439,7 +1569,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 10088,
+          "optionID" : 12799,
           "optionName" : "Termagant (Strangleweb) [Legends]",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -1449,7 +1579,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 10084,
+          "optionID" : 12795,
           "optionName" : "Termagant (Devourer)",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -1459,7 +1589,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 10087,
+          "optionID" : 12798,
           "optionName" : "Termagant (Spike Rifle) [Legends]",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -1469,7 +1599,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 10085,
+          "optionID" : 12796,
           "optionName" : "Termagant (Fleshborer)",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -1479,7 +1609,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10010,
+          "optionID" : 12889,
           "optionName" : "Adaptive Physiology",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1490,11 +1620,11 @@
         } ],
         "unitCategory" : "Troops",
         "unitCost" : 0.0,
-        "unitID" : 10089,
+        "unitID" : 12800,
         "autoAddDictionary" : {
-          "10085" : 10
+          "12796" : 10
         },
-        "startingModels" : 0,
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 3,
           "Command points" : 0
@@ -1503,7 +1633,7 @@
         "unitName" : "[1]Tervigon",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 10007,
+          "optionID" : 12851,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1513,7 +1643,7 @@
           }
         }, {
           "optionCost" : 1.0,
-          "optionID" : 9977,
+          "optionID" : 12900,
           "optionName" : "Adrenal Glands",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1523,7 +1653,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 9978,
+          "optionID" : 12903,
           "optionName" : "Toxin Sacs",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1533,7 +1663,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9941,
+          "optionID" : 12863,
           "optionName" : "Stinger Salvo",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1543,7 +1673,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 9959,
+          "optionID" : 12917,
           "optionName" : "Massive Scything Talons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1553,7 +1683,7 @@
           }
         }, {
           "optionCost" : 20.0,
-          "optionID" : 9958,
+          "optionID" : 12866,
           "optionName" : "Massive Crushing Claws",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1563,7 +1693,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10012,
+          "optionID" : 12927,
           "optionName" : "Power: Smite",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1587,7 +1717,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10010,
+          "optionID" : 12889,
           "optionName" : "Adaptive Physiology",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1598,7 +1728,7 @@
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 200.0,
-        "unitID" : 10090,
+        "unitID" : 12801,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -1609,7 +1739,7 @@
         "unitName" : "[1]Toxicrene",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 9934,
+          "optionID" : 12887,
           "optionName" : "Massive Toxic Lashes",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1619,7 +1749,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9921,
+          "optionID" : 12891,
           "optionName" : "Chocking Spores",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1629,7 +1759,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10010,
+          "optionID" : 12889,
           "optionName" : "Adaptive Physiology",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1640,7 +1770,7 @@
         } ],
         "unitCategory" : "Heavy Support",
         "unitCost" : 150.0,
-        "unitID" : 10091,
+        "unitID" : 12802,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -1651,7 +1781,7 @@
         "unitName" : "[1]Trygon",
         "listOfOptions" : [ {
           "optionCost" : 1.0,
-          "optionID" : 9977,
+          "optionID" : 12900,
           "optionName" : "Adrenal Glands",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1661,7 +1791,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 9959,
+          "optionID" : 12917,
           "optionName" : "Massive Scything Talons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1671,7 +1801,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 9978,
+          "optionID" : 12903,
           "optionName" : "Toxin Sacs",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1681,7 +1811,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9948,
+          "optionID" : 12880,
           "optionName" : "Biostatic Rattle",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1691,7 +1821,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9972,
+          "optionID" : 12923,
           "optionName" : "Toxinspike",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1701,7 +1831,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9917,
+          "optionID" : 12941,
           "optionName" : "Bio-electric Pulse",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1711,7 +1841,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10010,
+          "optionID" : 12889,
           "optionName" : "Adaptive Physiology",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1721,7 +1851,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9965,
+          "optionID" : 12912,
           "optionName" : "Prehensile Pincer Tail",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1732,7 +1862,7 @@
         } ],
         "unitCategory" : "Heavy Support",
         "unitCost" : 120.0,
-        "unitID" : 10092,
+        "unitID" : 12803,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -1743,7 +1873,7 @@
         "unitName" : "[1]Trygon Prime",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 10007,
+          "optionID" : 12851,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1753,7 +1883,7 @@
           }
         }, {
           "optionCost" : 1.0,
-          "optionID" : 9977,
+          "optionID" : 12900,
           "optionName" : "Adrenal Glands",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1763,7 +1893,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 9959,
+          "optionID" : 12917,
           "optionName" : "Massive Scything Talons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1773,7 +1903,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 9978,
+          "optionID" : 12903,
           "optionName" : "Toxin Sacs",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1783,7 +1913,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9948,
+          "optionID" : 12880,
           "optionName" : "Biostatic Rattle",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1793,7 +1923,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9918,
+          "optionID" : 12940,
           "optionName" : "Bio-electric Pulse with Containment Spines",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1803,7 +1933,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9972,
+          "optionID" : 12923,
           "optionName" : "Toxinspike",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1827,7 +1957,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10010,
+          "optionID" : 12889,
           "optionName" : "Adaptive Physiology",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1837,7 +1967,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9965,
+          "optionID" : 12912,
           "optionName" : "Prehensile Pincer Tail",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1848,7 +1978,7 @@
         } ],
         "unitCategory" : "Heavy Support",
         "unitCost" : 160.0,
-        "unitID" : 10093,
+        "unitID" : 12804,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -1859,7 +1989,7 @@
         "unitName" : "[0]Tyranid Shrikes",
         "listOfOptions" : [ {
           "optionCost" : 1.0,
-          "optionID" : 9977,
+          "optionID" : 12900,
           "optionName" : "Adrenal Glands",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1869,7 +1999,7 @@
           }
         }, {
           "optionCost" : 6.0,
-          "optionID" : 9922,
+          "optionID" : 12899,
           "optionName" : "Deathspitter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1879,7 +2009,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 9978,
+          "optionID" : 12903,
           "optionName" : "Toxin Sacs",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1889,7 +2019,7 @@
           }
         }, {
           "optionCost" : 24.0,
-          "optionID" : 10095,
+          "optionID" : 12806,
           "optionName" : "Tyranid Shrike (Bio-cannon)",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -1899,7 +2029,7 @@
           }
         }, {
           "optionCost" : 3.0,
-          "optionID" : 9951,
+          "optionID" : 12906,
           "optionName" : "Boneswords",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1909,7 +2039,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10010,
+          "optionID" : 12889,
           "optionName" : "Adaptive Physiology",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1919,7 +2049,7 @@
           }
         }, {
           "optionCost" : 4.0,
-          "optionID" : 9924,
+          "optionID" : 12931,
           "optionName" : "Devourer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1929,7 +2059,7 @@
           }
         }, {
           "optionCost" : 24.0,
-          "optionID" : 10094,
+          "optionID" : 12805,
           "optionName" : "Tyranid Shrike",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -1939,7 +2069,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9980,
+          "optionID" : 12867,
           "optionName" : "Scything Talons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1949,7 +2079,7 @@
           }
         }, {
           "optionCost" : 2.0,
-          "optionID" : 10013,
+          "optionID" : 12869,
           "optionName" : "Rending Claws",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1966,7 +2096,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 3.0,
-          "optionID" : 9979,
+          "optionID" : 12895,
           "optionName" : "Flesh Hooks",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1976,7 +2106,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9938,
+          "optionID" : 12873,
           "optionName" : "Spinefists",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1986,7 +2116,7 @@
           }
         }, {
           "optionCost" : 3.0,
-          "optionID" : 10015,
+          "optionID" : 12875,
           "optionName" : "Lash Whip and Bonesword",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1997,11 +2127,11 @@
         } ],
         "unitCategory" : "Fast Attack",
         "unitCost" : 0.0,
-        "unitID" : 10096,
+        "unitID" : 12807,
         "autoAddDictionary" : {
-          "10094" : 3
+          "12805" : 3
         },
-        "startingModels" : 0,
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 5,
           "Command points" : 0
@@ -2010,7 +2140,7 @@
         "unitName" : "[0]Tyranid Warriors",
         "listOfOptions" : [ {
           "optionCost" : 21.0,
-          "optionID" : 10098,
+          "optionID" : 12809,
           "optionName" : "Tyranid Warrior (Bio-cannon)",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -2020,7 +2150,7 @@
           }
         }, {
           "optionCost" : 1.0,
-          "optionID" : 9977,
+          "optionID" : 12900,
           "optionName" : "Adrenal Glands",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2030,7 +2160,7 @@
           }
         }, {
           "optionCost" : 6.0,
-          "optionID" : 9922,
+          "optionID" : 12899,
           "optionName" : "Deathspitter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2040,7 +2170,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 9978,
+          "optionID" : 12903,
           "optionName" : "Toxin Sacs",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2050,7 +2180,7 @@
           }
         }, {
           "optionCost" : 3.0,
-          "optionID" : 9951,
+          "optionID" : 12906,
           "optionName" : "Boneswords",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2060,7 +2190,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10010,
+          "optionID" : 12889,
           "optionName" : "Adaptive Physiology",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2070,7 +2200,7 @@
           }
         }, {
           "optionCost" : 4.0,
-          "optionID" : 9924,
+          "optionID" : 12931,
           "optionName" : "Devourer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2080,7 +2210,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9980,
+          "optionID" : 12867,
           "optionName" : "Scything Talons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2090,7 +2220,7 @@
           }
         }, {
           "optionCost" : 21.0,
-          "optionID" : 10097,
+          "optionID" : 12808,
           "optionName" : "Tyranid Warrior",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -2100,7 +2230,7 @@
           }
         }, {
           "optionCost" : 2.0,
-          "optionID" : 10013,
+          "optionID" : 12869,
           "optionName" : "Rending Claws",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2117,7 +2247,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 3.0,
-          "optionID" : 9979,
+          "optionID" : 12895,
           "optionName" : "Flesh Hooks",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2127,7 +2257,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9938,
+          "optionID" : 12873,
           "optionName" : "Spinefists",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2137,7 +2267,7 @@
           }
         }, {
           "optionCost" : 3.0,
-          "optionID" : 10015,
+          "optionID" : 12875,
           "optionName" : "Lash Whip and Bonesword",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2148,11 +2278,11 @@
         } ],
         "unitCategory" : "Troops",
         "unitCost" : 0.0,
-        "unitID" : 10099,
+        "unitID" : 12810,
         "autoAddDictionary" : {
-          "10097" : 3
+          "12808" : 3
         },
-        "startingModels" : 0,
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 4,
           "Command points" : 0
@@ -2161,7 +2291,7 @@
         "unitName" : "[1]Tyrannocyte",
         "listOfOptions" : [ {
           "optionCost" : 6.0,
-          "optionID" : 9922,
+          "optionID" : 12899,
           "optionName" : "Deathspitter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2171,7 +2301,7 @@
           }
         }, {
           "optionCost" : 15.0,
-          "optionID" : 9946,
+          "optionID" : 12885,
           "optionName" : "Venom Cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2181,7 +2311,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 9916,
+          "optionID" : 12864,
           "optionName" : "Barbed Strangler",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2191,7 +2321,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10010,
+          "optionID" : 12889,
           "optionName" : "Adaptive Physiology",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2202,7 +2332,7 @@
         } ],
         "unitCategory" : "Dedicated Transport",
         "unitCost" : 65.0,
-        "unitID" : 10100,
+        "unitID" : 12811,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -2213,7 +2343,7 @@
         "unitName" : "[1]Tyrannofex",
         "listOfOptions" : [ {
           "optionCost" : 1.0,
-          "optionID" : 9977,
+          "optionID" : 12900,
           "optionName" : "Adrenal Glands",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2223,7 +2353,7 @@
           }
         }, {
           "optionCost" : 20.0,
-          "optionID" : 9935,
+          "optionID" : 12933,
           "optionName" : "Rupture Cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2233,7 +2363,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9964,
+          "optionID" : 12934,
           "optionName" : "Powerful Limbs",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2243,7 +2373,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 9915,
+          "optionID" : 12901,
           "optionName" : "Acid Spray",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2253,7 +2383,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9941,
+          "optionID" : 12863,
           "optionName" : "Stinger Salvo",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2263,7 +2393,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 9978,
+          "optionID" : 12903,
           "optionName" : "Toxin Sacs",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2273,7 +2403,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9930,
+          "optionID" : 12919,
           "optionName" : "Fleshborer Hive",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2283,7 +2413,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10010,
+          "optionID" : 12889,
           "optionName" : "Adaptive Physiology",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2294,7 +2424,7 @@
         } ],
         "unitCategory" : "Heavy Support",
         "unitCost" : 190.0,
-        "unitID" : 10101,
+        "unitID" : 12812,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -2305,7 +2435,7 @@
         "unitName" : "[0]Tyrant Guard",
         "listOfOptions" : [ {
           "optionCost" : 38.0,
-          "optionID" : 10102,
+          "optionID" : 12813,
           "optionName" : "Tyrant Guard (Scything)",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -2315,7 +2445,7 @@
           }
         }, {
           "optionCost" : 38.0,
-          "optionID" : 10103,
+          "optionID" : 12814,
           "optionName" : "Tyrant Guard (Crushing)",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -2325,7 +2455,7 @@
           }
         }, {
           "optionCost" : 1.0,
-          "optionID" : 9977,
+          "optionID" : 12900,
           "optionName" : "Adrenal Glands",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2335,7 +2465,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 10014,
+          "optionID" : 12902,
           "optionName" : "Crushing Claws",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2345,7 +2475,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 9978,
+          "optionID" : 12903,
           "optionName" : "Toxin Sacs",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2355,7 +2485,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9980,
+          "optionID" : 12867,
           "optionName" : "Scything Talons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2365,7 +2495,7 @@
           }
         }, {
           "optionCost" : 2.0,
-          "optionID" : 10013,
+          "optionID" : 12869,
           "optionName" : "Rending Claws",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2375,7 +2505,7 @@
           }
         }, {
           "optionCost" : 38.0,
-          "optionID" : 10104,
+          "optionID" : 12815,
           "optionName" : "Tyrant Guard (Lash/Sword)",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -2385,7 +2515,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10010,
+          "optionID" : 12889,
           "optionName" : "Adaptive Physiology",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2395,7 +2525,7 @@
           }
         }, {
           "optionCost" : 3.0,
-          "optionID" : 10015,
+          "optionID" : 12875,
           "optionName" : "Lash Whip and Bonesword",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2406,11 +2536,11 @@
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 0.0,
-        "unitID" : 10105,
+        "unitID" : 12816,
         "autoAddDictionary" : {
-          "10102" : 3
+          "12813" : 3
         },
-        "startingModels" : 0,
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 7,
           "Command points" : 0
@@ -2419,7 +2549,7 @@
         "unitName" : "[0]Venomthropes",
         "listOfOptions" : [ {
           "optionCost" : 33.0,
-          "optionID" : 10106,
+          "optionID" : 12817,
           "optionName" : "Venomthrope",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -2429,7 +2559,17 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10010,
+          "optionID" : 12854,
+          "optionName" : "Toxic Lashes",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 12889,
           "optionName" : "Adaptive Physiology",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2440,11 +2580,11 @@
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 0.0,
-        "unitID" : 10107,
+        "unitID" : 12818,
         "autoAddDictionary" : {
-          "10106" : 3
+          "12817" : 3
         },
-        "startingModels" : 0,
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 5,
           "Command points" : 0
@@ -2460,7 +2600,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 45.0,
-          "optionID" : 10108,
+          "optionID" : 12819,
           "optionName" : "Zoanthrope",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -2470,7 +2610,17 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10012,
+          "optionID" : 12894,
+          "optionName" : "Claws and Teeth",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 12927,
           "optionName" : "Power: Smite",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2480,7 +2630,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10010,
+          "optionID" : 12889,
           "optionName" : "Adaptive Physiology",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2491,11 +2641,11 @@
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 0.0,
-        "unitID" : 10109,
+        "unitID" : 12820,
         "autoAddDictionary" : {
-          "10108" : 3
+          "12819" : 3
         },
-        "startingModels" : 0,
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 0,
           "Command points" : 0
@@ -2504,7 +2654,7 @@
         "unitName" : "[1]Deathleaper",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 10007,
+          "optionID" : 12851,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2514,7 +2664,7 @@
           }
         }, {
           "optionCost" : 2.0,
-          "optionID" : 10013,
+          "optionID" : 12869,
           "optionName" : "Rending Claws",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2524,7 +2674,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9955,
+          "optionID" : 12852,
           "optionName" : "Grasping Talons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2541,7 +2691,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 3.0,
-          "optionID" : 9979,
+          "optionID" : 12895,
           "optionName" : "Flesh Hooks",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2552,7 +2702,7 @@
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 65.0,
-        "unitID" : 10110,
+        "unitID" : 12821,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -2563,7 +2713,7 @@
         "unitName" : "[1]Old One Eye",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 10007,
+          "optionID" : 12851,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2573,7 +2723,7 @@
           }
         }, {
           "optionCost" : 15.0,
-          "optionID" : 9962,
+          "optionID" : 12921,
           "optionName" : "Monstrous Crushing Claws",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2583,7 +2733,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 9970,
+          "optionID" : 12907,
           "optionName" : "Thresher Scythe",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2600,7 +2750,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 14.0,
-          "optionID" : 9963,
+          "optionID" : 12911,
           "optionName" : "Monstrous Scything Talons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2611,7 +2761,7 @@
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 220.0,
-        "unitID" : 10111,
+        "unitID" : 12822,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -2622,7 +2772,7 @@
         "unitName" : "[1]The Red Terror",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 10007,
+          "optionID" : 12851,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2639,7 +2789,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9980,
+          "optionID" : 12867,
           "optionName" : "Scything Talons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2649,7 +2799,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9965,
+          "optionID" : 12912,
           "optionName" : "Prehensile Pincer Tail",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2660,7 +2810,7 @@
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 55.0,
-        "unitID" : 10112,
+        "unitID" : 12823,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -2671,7 +2821,7 @@
         "unitName" : "[1]The Swarmlord",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 10007,
+          "optionID" : 12851,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2688,7 +2838,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10113,
+          "optionID" : 12824,
           "optionName" : "Bone Sabres",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2698,7 +2848,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10012,
+          "optionID" : 12927,
           "optionName" : "Power: Smite",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2715,7 +2865,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9965,
+          "optionID" : 12912,
           "optionName" : "Prehensile Pincer Tail",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2726,9 +2876,9 @@
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 270.0,
-        "unitID" : 10114,
+        "unitID" : 12825,
         "autoAddDictionary" : {
-          "10113" : 1
+          "12824" : 1
         },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -2739,7 +2889,7 @@
         "unitName" : "[1]Tyranid Prime",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 10007,
+          "optionID" : 12851,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2749,7 +2899,7 @@
           }
         }, {
           "optionCost" : 1.0,
-          "optionID" : 9977,
+          "optionID" : 12900,
           "optionName" : "Adrenal Glands",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2759,7 +2909,7 @@
           }
         }, {
           "optionCost" : 6.0,
-          "optionID" : 9922,
+          "optionID" : 12899,
           "optionName" : "Deathspitter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2769,7 +2919,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 9978,
+          "optionID" : 12903,
           "optionName" : "Toxin Sacs",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2779,7 +2929,7 @@
           }
         }, {
           "optionCost" : 3.0,
-          "optionID" : 9951,
+          "optionID" : 12906,
           "optionName" : "Boneswords",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2796,7 +2946,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10010,
+          "optionID" : 12889,
           "optionName" : "Adaptive Physiology",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2806,7 +2956,7 @@
           }
         }, {
           "optionCost" : 4.0,
-          "optionID" : 9924,
+          "optionID" : 12931,
           "optionName" : "Devourer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2816,7 +2966,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9980,
+          "optionID" : 12867,
           "optionName" : "Scything Talons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2826,7 +2976,7 @@
           }
         }, {
           "optionCost" : 2.0,
-          "optionID" : 10013,
+          "optionID" : 12869,
           "optionName" : "Rending Claws",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2843,7 +2993,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 3.0,
-          "optionID" : 9979,
+          "optionID" : 12895,
           "optionName" : "Flesh Hooks",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2853,7 +3003,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9938,
+          "optionID" : 12873,
           "optionName" : "Spinefists",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2863,7 +3013,7 @@
           }
         }, {
           "optionCost" : 3.0,
-          "optionID" : 10015,
+          "optionID" : 12875,
           "optionName" : "Lash Whip and Bonesword",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2874,7 +3024,7 @@
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 75.0,
-        "unitID" : 10115,
+        "unitID" : 12826,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -2885,7 +3035,7 @@
         "unitName" : "[1]Barbed Hierodule",
         "listOfOptions" : [ {
           "optionCost" : 10.0,
-          "optionID" : 9959,
+          "optionID" : 12917,
           "optionName" : "Massive Scything Talons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2895,7 +3045,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10010,
+          "optionID" : 12889,
           "optionName" : "Adaptive Physiology",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2905,7 +3055,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9983,
+          "optionID" : 12868,
           "optionName" : "Bio-cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2916,7 +3066,7 @@
         } ],
         "unitCategory" : "Lords of War",
         "unitCost" : 460.0,
-        "unitID" : 10116,
+        "unitID" : 12827,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -2927,7 +3077,7 @@
         "unitName" : "[1]Dimachaeron",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 9990,
+          "optionID" : 12935,
           "optionName" : "Sickle Claws",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2937,7 +3087,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9988,
+          "optionID" : 12908,
           "optionName" : "Grasping Talons and Thorax Spine-maw",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2947,7 +3097,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10010,
+          "optionID" : 12889,
           "optionName" : "Adaptive Physiology",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2958,7 +3108,7 @@
         } ],
         "unitCategory" : "Fast Attack",
         "unitCost" : 210.0,
-        "unitID" : 10117,
+        "unitID" : 12828,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -2969,7 +3119,7 @@
         "unitName" : "[1]Harridan",
         "listOfOptions" : [ {
           "optionCost" : 10.0,
-          "optionID" : 9959,
+          "optionID" : 12917,
           "optionName" : "Massive Scything Talons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2979,7 +3129,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10010,
+          "optionID" : 12889,
           "optionName" : "Adaptive Physiology",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2989,7 +3139,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9983,
+          "optionID" : 12868,
           "optionName" : "Bio-cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3000,7 +3150,7 @@
         } ],
         "unitCategory" : "Lords of War",
         "unitCost" : 760.0,
-        "unitID" : 10118,
+        "unitID" : 12829,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -3011,7 +3161,7 @@
         "unitName" : "[0]Malanthropes",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 10007,
+          "optionID" : 12851,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3021,7 +3171,7 @@
           }
         }, {
           "optionCost" : 135.0,
-          "optionID" : 10119,
+          "optionID" : 12830,
           "optionName" : "Malanthrope",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -3031,7 +3181,7 @@
           }
         }, {
           "optionCost" : 135.0,
-          "optionID" : 10120,
+          "optionID" : 12831,
           "optionName" : "Malanthrope (Custom Character)",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -3055,7 +3205,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10010,
+          "optionID" : 12889,
           "optionName" : "Adaptive Physiology",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3065,7 +3215,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9987,
+          "optionID" : 12942,
           "optionName" : "Grasping Tail",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3076,11 +3226,11 @@
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 0.0,
-        "unitID" : 10121,
+        "unitID" : 12832,
         "autoAddDictionary" : {
-          "10119" : 1
+          "12830" : 1
         },
-        "startingModels" : 0,
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 7,
           "Command points" : 0
@@ -3089,7 +3239,7 @@
         "unitName" : "[0]Meiotic Spores",
         "listOfOptions" : [ {
           "optionCost" : 20.0,
-          "optionID" : 10122,
+          "optionID" : 12833,
           "optionName" : "Meiotic Spore",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -3100,11 +3250,11 @@
         } ],
         "unitCategory" : "Fast Attack",
         "unitCost" : 0.0,
-        "unitID" : 10123,
+        "unitID" : 12834,
         "autoAddDictionary" : {
-          "10122" : 3
+          "12833" : 3
         },
-        "startingModels" : 0,
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 3,
           "Command points" : 0
@@ -3113,7 +3263,7 @@
         "unitName" : "[1]Scythed Hierodule",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 9982,
+          "optionID" : 12937,
           "optionName" : "Bio-acid Spray",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3123,7 +3273,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 9959,
+          "optionID" : 12917,
           "optionName" : "Massive Scything Talons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3133,7 +3283,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10010,
+          "optionID" : 12889,
           "optionName" : "Adaptive Physiology",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3144,7 +3294,7 @@
         } ],
         "unitCategory" : "Lords of War",
         "unitCost" : 410.0,
-        "unitID" : 10124,
+        "unitID" : 12835,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -3155,7 +3305,7 @@
         "unitName" : "[1]Hierophant Bio-titan",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 9985,
+          "optionID" : 12916,
           "optionName" : "Dire Bio-cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3165,7 +3315,7 @@
           }
         }, {
           "optionCost" : 60.0,
-          "optionID" : 10125,
+          "optionID" : 12836,
           "optionName" : "Gargantuan Scything Talons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3175,7 +3325,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10127,
+          "optionID" : 12838,
           "optionName" : "Swarm Incubation Chamber",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3185,7 +3335,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10126,
+          "optionID" : 12837,
           "optionName" : "Incendiary Ichor",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3195,7 +3345,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9984,
+          "optionID" : 12886,
           "optionName" : "Bio-plasma Torrent",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3205,7 +3355,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9989,
+          "optionID" : 12928,
           "optionName" : "Lashwhip Pods",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3215,7 +3365,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10010,
+          "optionID" : 12889,
           "optionName" : "Adaptive Physiology",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3226,9 +3376,9 @@
         } ],
         "unitCategory" : "Lords of War",
         "unitCost" : 2000.0,
-        "unitID" : 10128,
+        "unitID" : 12839,
         "autoAddDictionary" : {
-          "10125" : 1
+          "12836" : 1
         },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -3239,7 +3389,7 @@
         "unitName" : "[0]Stone Crusher Carnifex Brood",
         "listOfOptions" : [ {
           "optionCost" : 90.0,
-          "optionID" : 10129,
+          "optionID" : 12840,
           "optionName" : "Stone Crusher Carnifex",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -3249,7 +3399,7 @@
           }
         }, {
           "optionCost" : 15.0,
-          "optionID" : 10130,
+          "optionID" : 12841,
           "optionName" : "2x Wrecker Claws",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3259,7 +3409,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 10131,
+          "optionID" : 12842,
           "optionName" : "Wrecker Claw & Bio-flail",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3269,7 +3419,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 9950,
+          "optionID" : 12882,
           "optionName" : "Bone Mace",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3279,8 +3429,28 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 9970,
+          "optionID" : 12907,
           "optionName" : "Thresher Scythe",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 10.0,
+          "optionID" : 12872,
+          "optionName" : "Bio-plasma",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 12889,
+          "optionName" : "Adaptive Physiology",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -3290,11 +3460,11 @@
         } ],
         "unitCategory" : "Heavy Support",
         "unitCost" : 0.0,
-        "unitID" : 10132,
+        "unitID" : 12843,
         "autoAddDictionary" : {
-          "10129" : 1
+          "12840" : 1
         },
-        "startingModels" : 0,
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 6,
           "Command points" : 0
@@ -3302,8 +3472,38 @@
       }, {
         "unitName" : "[0]Screamer-Killers",
         "listOfOptions" : [ {
+          "optionCost" : 1.0,
+          "optionID" : 12900,
+          "optionName" : "Adrenal Glands",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 12903,
+          "optionName" : "Toxin Sacs",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 10.0,
+          "optionID" : 12918,
+          "optionName" : "Spore Cysts",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 105.0,
-          "optionID" : 10133,
+          "optionID" : 12844,
           "optionName" : "Screamer-Killer",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -3311,12 +3511,22 @@
             "Power level" : 0,
             "Command points" : 0
           }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 12889,
+          "optionName" : "Adaptive Physiology",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "",
         "unitCost" : 0.0,
-        "unitID" : 10134,
+        "unitID" : 12845,
         "autoAddDictionary" : {
-          "10133" : 1
+          "12844" : 1
         },
         "startingModels" : 0,
         "listOfCurrencies" : {
@@ -3327,7 +3537,7 @@
         "unitName" : "[1]Neurothrope",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 10007,
+          "optionID" : 12851,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3344,7 +3554,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9952,
+          "optionID" : 12894,
           "optionName" : "Claws and Teeth",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3354,7 +3564,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10012,
+          "optionID" : 12927,
           "optionName" : "Power: Smite",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3378,7 +3588,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10010,
+          "optionID" : 12889,
           "optionName" : "Adaptive Physiology",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3389,7 +3599,7 @@
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 95.0,
-        "unitID" : 10135,
+        "unitID" : 12846,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -3399,8 +3609,28 @@
       }, {
         "unitName" : "[0]Thornbacks",
         "listOfOptions" : [ {
+          "optionCost" : 5.0,
+          "optionID" : 12877,
+          "optionName" : "Spine Banks",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 1.0,
+          "optionID" : 12900,
+          "optionName" : "Adrenal Glands",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 15.0,
-          "optionID" : 9942,
+          "optionID" : 12860,
           "optionName" : "Stranglethorn Cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3409,8 +3639,28 @@
             "Command points" : 0
           }
         }, {
+          "optionCost" : 5.0,
+          "optionID" : 12903,
+          "optionName" : "Toxin Sacs",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 10.0,
+          "optionID" : 12883,
+          "optionName" : "Enhanced Senses",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 80.0,
-          "optionID" : 10136,
+          "optionID" : 12847,
           "optionName" : "Thornback",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -3420,7 +3670,7 @@
           }
         }, {
           "optionCost" : 20.0,
-          "optionID" : 10138,
+          "optionID" : 12849,
           "optionName" : "Two Devourers with Brainleech Worms",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3429,8 +3679,18 @@
             "Command points" : 0
           }
         }, {
+          "optionCost" : 5.0,
+          "optionID" : 12907,
+          "optionName" : "Thresher Scythe",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 20.0,
-          "optionID" : 10137,
+          "optionID" : 12848,
           "optionName" : "Two Deathspitters with Slimer Maggots",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3440,8 +3700,28 @@
           }
         }, {
           "optionCost" : 14.0,
-          "optionID" : 9963,
+          "optionID" : 12911,
           "optionName" : "Monstrous Scything Talons",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 12859,
+          "optionName" : "Chitin Thorns",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 12889,
+          "optionName" : "Adaptive Physiology",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -3451,11 +3731,11 @@
         } ],
         "unitCategory" : "Heavy Support",
         "unitCost" : 0.0,
-        "unitID" : 10139,
+        "unitID" : 12850,
         "autoAddDictionary" : {
-          "10136" : 1
+          "12847" : 1
         },
-        "startingModels" : 0,
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 7,
           "Command points" : 0
@@ -3463,29 +3743,9 @@
       } ],
       "listOfEquipmentOptions" : [ {
         "listOfOptions" : [ {
-          "optionCost" : 6.0,
-          "optionID" : 9922,
-          "optionName" : "Deathspitter",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
           "optionCost" : 0.0,
-          "optionID" : 10016,
+          "optionID" : 0,
           "optionName" : "Scything Talons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 9938,
-          "optionName" : "Spinefists",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -3497,7 +3757,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 10023,
+          "optionID" : 0,
           "optionName" : "Hydra: Death Shriek",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3507,17 +3767,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9998,
-          "optionName" : "5. Paroxysm",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 10020,
+          "optionID" : 0,
           "optionName" : "Kraken: Synaptic Lure",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3527,17 +3777,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9997,
-          "optionName" : "1. Dominion",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 10022,
+          "optionID" : 0,
           "optionName" : "Gorgon: Poisonous Influence",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3547,17 +3787,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9996,
-          "optionName" : "6. Psychic Scream",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 10024,
+          "optionID" : 0,
           "optionName" : "Kronos: Symbiostorm",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3567,7 +3797,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10025,
+          "optionID" : 0,
           "optionName" : "Jormungandr: Lurking Maws",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3577,7 +3807,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10021,
+          "optionID" : 0,
           "optionName" : "Leviathan: Hive Nexus",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3587,18 +3817,8 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10019,
+          "optionID" : 0,
           "optionName" : "Behemoth: Unstoppable Hunger",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 9992,
-          "optionName" : "2. Catalyst",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -3608,42 +3828,12 @@
         } ],
         "equipmentName" : "$Hive Mind Discipline"
       }, {
-        "listOfOptions" : [ {
-          "optionCost" : 2.0,
-          "optionID" : 10013,
-          "optionName" : "Rending Claws",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 3.0,
-          "optionID" : 9951,
-          "optionName" : "Boneswords",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 3.0,
-          "optionID" : 10015,
-          "optionName" : "Lash Whip and Bonesword",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
+        "listOfOptions" : null,
         "equipmentName" : "$Melee Bio-weapons"
       }, {
         "listOfOptions" : [ {
           "optionCost" : 20.0,
-          "optionID" : 10018,
+          "optionID" : 0,
           "optionName" : "Two Devourers with Brainleech Worms",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3653,7 +3843,7 @@
           }
         }, {
           "optionCost" : 20.0,
-          "optionID" : 10017,
+          "optionID" : 0,
           "optionName" : "Two Deathspitters with Slimer Maggots",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3664,35 +3854,22 @@
         } ],
         "equipmentName" : "$Monstrous Bio-cannons"
       }, {
-        "listOfOptions" : [ {
-          "optionCost" : 10.0,
-          "optionID" : 9916,
-          "optionName" : "Barbed Strangler",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 15.0,
-          "optionID" : 9946,
-          "optionName" : "Venom Cannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
+        "listOfOptions" : null,
         "equipmentName" : "$Basic Bio-cannons"
       }, {
-        "listOfOptions" : null,
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Warlord Traits (BRB)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        } ],
         "equipmentName" : "$Warlord Traits"
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 10041,
+          "optionID" : 0,
           "optionName" : "Pathogenesis",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3702,7 +3879,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10033,
+          "optionID" : 0,
           "optionName" : "Chameleonic Mutation",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3712,7 +3889,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10042,
+          "optionID" : 0,
           "optionName" : "Arachnacyte Gland",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3722,7 +3899,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10036,
+          "optionID" : 0,
           "optionName" : "The Norn Crown",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3732,7 +3909,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10027,
+          "optionID" : 0,
           "optionName" : "Slimer Maggot Infestation",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3742,7 +3919,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10029,
+          "optionID" : 0,
           "optionName" : "Hyper-adaptive Biology",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3752,7 +3929,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10034,
+          "optionID" : 0,
           "optionName" : "Slayer Sabres",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3762,7 +3939,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10031,
+          "optionID" : 0,
           "optionName" : "The Ymgarl Factor",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3772,7 +3949,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10038,
+          "optionID" : 0,
           "optionName" : "Resonance Barb",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3782,7 +3959,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10040,
+          "optionID" : 0,
           "optionName" : "The Venomthorn Parasite",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3792,7 +3969,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10035,
+          "optionID" : 0,
           "optionName" : "The Maw-claws of Thyrax",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3802,7 +3979,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10039,
+          "optionID" : 0,
           "optionName" : "Xenogenic Acid",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3812,7 +3989,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10037,
+          "optionID" : 0,
           "optionName" : "Infrasonic Roar",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3822,7 +3999,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10026,
+          "optionID" : 0,
           "optionName" : "Balethorn Cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3832,7 +4009,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10028,
+          "optionID" : 0,
           "optionName" : "The Miasma Cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3842,7 +4019,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10030,
+          "optionID" : 0,
           "optionName" : "Scythes of Tyran",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3852,7 +4029,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10032,
+          "optionID" : 0,
           "optionName" : "The Reaper of Obilterax",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3863,43 +4040,13 @@
         } ],
         "equipmentName" : "$Bio-artefacts"
       }, {
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 9961,
-          "optionName" : "Monstrous Rending Claws",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 15.0,
-          "optionID" : 9957,
-          "optionName" : "Lash Whip and Monstrous Bonesword",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 20.0,
-          "optionID" : 9960,
-          "optionName" : "Monstrous Boneswords",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
+        "listOfOptions" : null,
         "equipmentName" : "$Monstrous Bio-weapons"
       } ],
       "armyName" : "Tyranids",
       "armyCategories" : [ ]
     } ],
-    "gameCategories" : [ "HQ", "Elites", "Troops", "Fast Attack", "Heavy Support", "Flyers", "Dedicated Transport", "Lords of War", "Fortification" ],
+    "gameCategories" : [ "HQ", "Elites", "Troops", "Fast Attack", "Heavy Support", "Flyers", "Dedicated Transport", "Lords of War", "Fortification", "Other" ],
     "listOfEquipmentOptions" : null,
     "listOfCurrencies" : [ "Power level", "Command points" ]
   } ]

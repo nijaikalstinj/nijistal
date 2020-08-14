@@ -6,7 +6,7 @@
         "unitName" : "[0]Battle Sister Squad",
         "listOfOptions" : [ {
           "optionCost" : 11.0,
-          "optionID" : 3151,
+          "optionID" : 2888,
           "optionName" : "Battle Sister",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -16,7 +16,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3075,
+          "optionID" : 2984,
           "optionName" : "Boltgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -26,7 +26,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 3116,
+          "optionID" : 3006,
           "optionName" : "Incensor Cherub",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -36,7 +36,14 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3078,
+          "optionID" : 0,
+          "optionName" : "$Additional Melee Weapon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 3020,
           "optionName" : "Bolt pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -46,10 +53,20 @@
           }
         }, {
           "optionCost" : 11.0,
-          "optionID" : 3152,
+          "optionID" : 2889,
           "optionName" : "Battle Sister w/ Simulacrum",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 3012,
+          "optionName" : "Frag & Krak grenades",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Power level" : 0,
             "Command points" : 0
@@ -63,7 +80,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 11.0,
-          "optionID" : 3148,
+          "optionID" : 2885,
           "optionName" : "Sister Superior",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -73,7 +90,7 @@
           }
         }, {
           "optionCost" : 11.0,
-          "optionID" : 3149,
+          "optionID" : 2886,
           "optionName" : "Battle Sister w/ Special Weapon",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -83,7 +100,7 @@
           }
         }, {
           "optionCost" : 11.0,
-          "optionID" : 3150,
+          "optionID" : 2887,
           "optionName" : "Battle Sister w/ Special or Heavy Weapon",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -93,7 +110,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 3101,
+          "optionID" : 2990,
           "optionName" : "Simulacrum Imperialis",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -104,12 +121,12 @@
         } ],
         "unitCategory" : "Troops",
         "unitCost" : 0.0,
-        "unitID" : 3153,
+        "unitID" : 2890,
         "autoAddDictionary" : {
-          "3148" : 1,
-          "3151" : 4
+          "2888" : 4,
+          "2885" : 1
         },
-        "startingModels" : 0,
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 4,
           "Command points" : 0
@@ -118,7 +135,7 @@
         "unitName" : "[1]Canoness",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 3126,
+          "optionID" : 2980,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -128,7 +145,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 3154,
+          "optionID" : 2891,
           "optionName" : "Rod of Office",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -138,7 +155,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 3099,
+          "optionID" : 3003,
           "optionName" : "Power sword",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -148,7 +165,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3100,
+          "optionID" : 3012,
           "optionName" : "Frag & Krak grenades",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -165,7 +182,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 3155,
+          "optionID" : 2892,
           "optionName" : "Null Rod",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -175,7 +192,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 3082,
+          "optionID" : 3028,
           "optionName" : "Condemnor Boltgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -185,7 +202,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 3157,
+          "optionID" : 2894,
           "optionName" : "Blessed Blade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -195,7 +212,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3125,
+          "optionID" : 3032,
           "optionName" : "Heroine in the Making",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -205,7 +222,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3078,
+          "optionID" : 3020,
           "optionName" : "Bolt pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -215,7 +232,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3095,
+          "optionID" : 3036,
           "optionName" : "Chainsword",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -232,7 +249,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 3156,
+          "optionID" : 2893,
           "optionName" : "Brazier of Holy Fire",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -243,9 +260,9 @@
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 50.0,
-        "unitID" : 3158,
+        "unitID" : 2895,
         "autoAddDictionary" : {
-          "3154" : 0
+          "2891" : 0
         },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -256,7 +273,7 @@
         "unitName" : "[0]Dominion Squad",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 3075,
+          "optionID" : 2984,
           "optionName" : "Boltgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -266,7 +283,7 @@
           }
         }, {
           "optionCost" : 12.0,
-          "optionID" : 3162,
+          "optionID" : 2899,
           "optionName" : "Dominion w/ Simulacrum",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -276,7 +293,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 3116,
+          "optionID" : 3006,
           "optionName" : "Incensor Cherub",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -286,7 +303,14 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3078,
+          "optionID" : 0,
+          "optionName" : "$Additional Melee Weapon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 3020,
           "optionName" : "Bolt pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -295,8 +319,18 @@
             "Command points" : 0
           }
         }, {
+          "optionCost" : 0.0,
+          "optionID" : 3012,
+          "optionName" : "Frag & Krak grenades",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 12.0,
-          "optionID" : 3160,
+          "optionID" : 2897,
           "optionName" : "Dominion",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -306,7 +340,7 @@
           }
         }, {
           "optionCost" : 12.0,
-          "optionID" : 3161,
+          "optionID" : 2898,
           "optionName" : "Dominion w/ Special Weapon",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -316,7 +350,7 @@
           }
         }, {
           "optionCost" : 12.0,
-          "optionID" : 3159,
+          "optionID" : 2896,
           "optionName" : "Dominion Superior",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -326,7 +360,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 3101,
+          "optionID" : 2990,
           "optionName" : "Simulacrum Imperialis",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -337,12 +371,12 @@
         } ],
         "unitCategory" : "Fast Attack",
         "unitCost" : 0.0,
-        "unitID" : 3163,
+        "unitID" : 2900,
         "autoAddDictionary" : {
-          "3159" : 1,
-          "3160" : 4
+          "2897" : 4,
+          "2896" : 1
         },
-        "startingModels" : 0,
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 5,
           "Command points" : 0
@@ -351,7 +385,7 @@
         "unitName" : "[1]Exorcist",
         "listOfOptions" : [ {
           "optionCost" : 5.0,
-          "optionID" : 3086,
+          "optionID" : 3015,
           "optionName" : "Hunter-killer missile",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -361,7 +395,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 3084,
+          "optionID" : 3018,
           "optionName" : "Heavy bolter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -371,7 +405,7 @@
           }
         }, {
           "optionCost" : 30.0,
-          "optionID" : 3164,
+          "optionID" : 2901,
           "optionName" : "Exorcist Missile Launcher",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -381,7 +415,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3165,
+          "optionID" : 2902,
           "optionName" : "Excorcist Conflagration Rockets",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -392,7 +426,7 @@
         } ],
         "unitCategory" : "Heavy Support",
         "unitCost" : 150.0,
-        "unitID" : 3166,
+        "unitID" : 2903,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -403,7 +437,7 @@
         "unitName" : "[0]Penitent Engines",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 3117,
+          "optionID" : 3029,
           "optionName" : "Penitent buzz-blades",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -413,7 +447,7 @@
           }
         }, {
           "optionCost" : 20.0,
-          "optionID" : 3167,
+          "optionID" : 2904,
           "optionName" : "Penitent Engine",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -423,7 +457,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3118,
+          "optionID" : 3027,
           "optionName" : "Penitent Flails",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -434,11 +468,11 @@
         } ],
         "unitCategory" : "Heavy Support",
         "unitCost" : 0.0,
-        "unitID" : 3168,
+        "unitID" : 2905,
         "autoAddDictionary" : {
-          "3167" : 1
+          "2904" : 1
         },
-        "startingModels" : 0,
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 0,
           "Command points" : 0
@@ -447,7 +481,7 @@
         "unitName" : "[0]Sisters Repentia",
         "listOfOptions" : [ {
           "optionCost" : 15.0,
-          "optionID" : 3169,
+          "optionID" : 2906,
           "optionName" : "Sisters Repentia",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -458,9 +492,9 @@
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 0.0,
-        "unitID" : 3170,
+        "unitID" : 2907,
         "autoAddDictionary" : {
-          "3169" : 4
+          "2906" : 4
         },
         "startingModels" : 0,
         "listOfCurrencies" : {
@@ -470,8 +504,59 @@
       }, {
         "unitName" : "[0]Retributor Squad",
         "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Ranged Weapons",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 2984,
+          "optionName" : "Boltgun",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Additional Melee Weapon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Melee Weapons",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 3012,
+          "optionName" : "Frag & Krak grenades",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 2990,
+          "optionName" : "Simulacrum Imperialis",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 12.0,
-          "optionID" : 3172,
+          "optionID" : 2909,
           "optionName" : "Retributor",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -481,7 +566,7 @@
           }
         }, {
           "optionCost" : 12.0,
-          "optionID" : 3173,
+          "optionID" : 2910,
           "optionName" : "Retributor w/ Heavy Weapon",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -490,28 +575,11 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Ranged Weapons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
           "optionCost" : 12.0,
-          "optionID" : 3174,
+          "optionID" : 2911,
           "optionName" : "Retributor w/ Simulacrum",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3075,
-          "optionName" : "Boltgun",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Power level" : 0,
             "Command points" : 0
@@ -525,7 +593,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 12.0,
-          "optionID" : 3171,
+          "optionID" : 2908,
           "optionName" : "Retributor Superior",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -535,14 +603,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Melee Weapons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3078,
+          "optionID" : 3020,
           "optionName" : "Bolt pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -552,18 +613,8 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 3127,
+          "optionID" : 2999,
           "optionName" : "Armourium Cherub",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 5.0,
-          "optionID" : 3101,
-          "optionName" : "Simulacrum Imperialis",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -573,10 +624,10 @@
         } ],
         "unitCategory" : "Heavy Support",
         "unitCost" : 0.0,
-        "unitID" : 3175,
+        "unitID" : 2912,
         "autoAddDictionary" : {
-          "3172" : 4,
-          "3171" : 1
+          "2909" : 4,
+          "2908" : 1
         },
         "startingModels" : 0,
         "listOfCurrencies" : {
@@ -587,7 +638,7 @@
         "unitName" : "[1]Uriah Jacobus [Legends]",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 3126,
+          "optionID" : 2980,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -597,7 +648,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3114,
+          "optionID" : 3014,
           "optionName" : "Warlord Trait: 2. Righteous Rage",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -607,7 +658,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3176,
+          "optionID" : 2913,
           "optionName" : "The Redeemer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -617,7 +668,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3078,
+          "optionID" : 3020,
           "optionName" : "Bolt pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -628,9 +679,9 @@
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 50.0,
-        "unitID" : 3177,
+        "unitID" : 2914,
         "autoAddDictionary" : {
-          "3176" : 1
+          "2913" : 1
         },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -641,7 +692,7 @@
         "unitName" : "[1]Missionary",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 3126,
+          "optionID" : 2980,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -651,7 +702,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3114,
+          "optionID" : 3014,
           "optionName" : "Warlord Trait: 2. Righteous Rage",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -661,7 +712,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3077,
+          "optionID" : 3001,
           "optionName" : "Autogun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -671,7 +722,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3088,
+          "optionID" : 3019,
           "optionName" : "Laspistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -681,7 +732,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3093,
+          "optionID" : 2988,
           "optionName" : "Shotgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -691,7 +742,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3095,
+          "optionID" : 3036,
           "optionName" : "Chainsword",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -701,7 +752,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3078,
+          "optionID" : 3020,
           "optionName" : "Bolt pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -711,7 +762,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3100,
+          "optionID" : 3012,
           "optionName" : "Frag & Krak grenades",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -721,7 +772,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3178,
+          "optionID" : 2915,
           "optionName" : "Autogun and Laspistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -731,7 +782,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3179,
+          "optionID" : 2916,
           "optionName" : "Bolt Pistol and Shotgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -742,7 +793,7 @@
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 45.0,
-        "unitID" : 3180,
+        "unitID" : 2917,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -753,7 +804,7 @@
         "unitName" : "[1]Repentia Superior",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 3126,
+          "optionID" : 2980,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -763,7 +814,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3181,
+          "optionID" : 2918,
           "optionName" : "Neural Whips",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -773,7 +824,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3125,
+          "optionID" : 3032,
           "optionName" : "Heroine in the Making",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -783,7 +834,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3078,
+          "optionID" : 3020,
           "optionName" : "Bolt pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -793,7 +844,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3100,
+          "optionID" : 3012,
           "optionName" : "Frag & Krak grenades",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -811,9 +862,9 @@
         } ],
         "unitCategory" : "",
         "unitCost" : 40.0,
-        "unitID" : 3182,
+        "unitID" : 2919,
         "autoAddDictionary" : {
-          "3181" : 1
+          "2918" : 1
         },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -824,7 +875,7 @@
         "unitName" : "[0]Arco-Flagellants",
         "listOfOptions" : [ {
           "optionCost" : 15.0,
-          "optionID" : 3183,
+          "optionID" : 2920,
           "optionName" : "Endurant",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -834,7 +885,7 @@
           }
         }, {
           "optionCost" : 15.0,
-          "optionID" : 3184,
+          "optionID" : 2921,
           "optionName" : "Arco Flagellant",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -845,11 +896,11 @@
         } ],
         "unitCategory" : "Other",
         "unitCost" : 0.0,
-        "unitID" : 3185,
+        "unitID" : 2922,
         "autoAddDictionary" : {
-          "3184" : 3
+          "2921" : 3
         },
-        "startingModels" : 0,
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 2,
           "Command points" : 0
@@ -857,8 +908,18 @@
       }, {
         "unitName" : "[0]Crusaders",
         "listOfOptions" : [ {
+          "optionCost" : 5.0,
+          "optionID" : 3003,
+          "optionName" : "Power sword",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 11.0,
-          "optionID" : 3186,
+          "optionID" : 2923,
           "optionName" : "Crusaders",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -869,11 +930,11 @@
         } ],
         "unitCategory" : "Other",
         "unitCost" : 0.0,
-        "unitID" : 3187,
+        "unitID" : 2924,
         "autoAddDictionary" : {
-          "3186" : 2
+          "2923" : 2
         },
-        "startingModels" : 0,
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 1,
           "Command points" : 0
@@ -882,7 +943,7 @@
         "unitName" : "[0]Death Cult Assassins",
         "listOfOptions" : [ {
           "optionCost" : 13.0,
-          "optionID" : 3188,
+          "optionID" : 2925,
           "optionName" : "Death Cult Assassins",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -893,11 +954,11 @@
         } ],
         "unitCategory" : "Other",
         "unitCost" : 0.0,
-        "unitID" : 3189,
+        "unitID" : 2926,
         "autoAddDictionary" : {
-          "3188" : 2
+          "2925" : 2
         },
-        "startingModels" : 0,
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 1,
           "Command points" : 0
@@ -906,7 +967,7 @@
         "unitName" : "[0]Seraphim Squad",
         "listOfOptions" : [ {
           "optionCost" : 4.0,
-          "optionID" : 3193,
+          "optionID" : 2930,
           "optionName" : "2x Hand Flamers",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -916,7 +977,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 3194,
+          "optionID" : 2931,
           "optionName" : "2x Inferno Pistols",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -926,7 +987,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 3099,
+          "optionID" : 3003,
           "optionName" : "Power sword",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -936,7 +997,7 @@
           }
         }, {
           "optionCost" : 15.0,
-          "optionID" : 3191,
+          "optionID" : 2928,
           "optionName" : "Seraphim",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -946,7 +1007,7 @@
           }
         }, {
           "optionCost" : 15.0,
-          "optionID" : 3192,
+          "optionID" : 2929,
           "optionName" : "Seraphim w/ Special Weapons",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -956,7 +1017,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 3092,
+          "optionID" : 2994,
           "optionName" : "Plasma pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -966,7 +1027,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3078,
+          "optionID" : 3020,
           "optionName" : "Bolt pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -976,7 +1037,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3095,
+          "optionID" : 3036,
           "optionName" : "Chainsword",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -986,7 +1047,7 @@
           }
         }, {
           "optionCost" : 15.0,
-          "optionID" : 3190,
+          "optionID" : 2927,
           "optionName" : "Seraphim Superior",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -997,10 +1058,10 @@
         } ],
         "unitCategory" : "Fast Attack",
         "unitCost" : 0.0,
-        "unitID" : 3195,
+        "unitID" : 2932,
         "autoAddDictionary" : {
-          "3191" : 4,
-          "3190" : 1
+          "2928" : 4,
+          "2927" : 1
         },
         "startingModels" : 0,
         "listOfCurrencies" : {
@@ -1011,7 +1072,7 @@
         "unitName" : "[1]Immolator",
         "listOfOptions" : [ {
           "optionCost" : 30.0,
-          "optionID" : 3196,
+          "optionID" : 2933,
           "optionName" : "Immolation Flamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1021,7 +1082,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 3086,
+          "optionID" : 3015,
           "optionName" : "Hunter-killer missile",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1031,7 +1092,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 3084,
+          "optionID" : 3018,
           "optionName" : "Heavy bolter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1041,7 +1102,7 @@
           }
         }, {
           "optionCost" : 30.0,
-          "optionID" : 3094,
+          "optionID" : 3004,
           "optionName" : "Twin heavy bolter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1052,7 +1113,7 @@
         } ],
         "unitCategory" : "Dedicated Transport",
         "unitCost" : 80.0,
-        "unitID" : 3197,
+        "unitID" : 2934,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -1063,7 +1124,7 @@
         "unitName" : "[1]Celestine",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 3126,
+          "optionID" : 2980,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1073,7 +1134,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3112,
+          "optionID" : 3016,
           "optionName" : "Warlord Trait: 4. Beacon of Faith",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1083,7 +1144,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3198,
+          "optionID" : 2935,
           "optionName" : "The Ardent Blade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1094,9 +1155,9 @@
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 170.0,
-        "unitID" : 3199,
+        "unitID" : 2936,
         "autoAddDictionary" : {
-          "3198" : 1
+          "2935" : 1
         },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -1107,7 +1168,7 @@
         "unitName" : "[1]Imagifier",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 3126,
+          "optionID" : 2980,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1117,7 +1178,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3201,
+          "optionID" : 2938,
           "optionName" : "Tale of the Warrior",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1127,7 +1188,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3075,
+          "optionID" : 2984,
           "optionName" : "Boltgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1137,7 +1198,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3203,
+          "optionID" : 2940,
           "optionName" : "Tale of the Stoic",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1147,7 +1208,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3125,
+          "optionID" : 3032,
           "optionName" : "Heroine in the Making",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1157,7 +1218,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3200,
+          "optionID" : 2937,
           "optionName" : "Venerated Saint",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1167,7 +1228,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3202,
+          "optionID" : 2939,
           "optionName" : "Tale of the Faithful",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1185,7 +1246,7 @@
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 45.0,
-        "unitID" : 3204,
+        "unitID" : 2941,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -1196,7 +1257,7 @@
         "unitName" : "[1]Dialogus",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 3126,
+          "optionID" : 2980,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1206,7 +1267,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3125,
+          "optionID" : 3032,
           "optionName" : "Heroine in the Making",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1216,7 +1277,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3205,
+          "optionID" : 2942,
           "optionName" : "Dialogus Staff",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1226,7 +1287,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3078,
+          "optionID" : 3020,
           "optionName" : "Bolt pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1244,9 +1305,9 @@
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 40.0,
-        "unitID" : 3206,
+        "unitID" : 2943,
         "autoAddDictionary" : {
-          "3205" : 1
+          "2942" : 1
         },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -1257,7 +1318,7 @@
         "unitName" : "[1]Hospitaller",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 3207,
+          "optionID" : 2944,
           "optionName" : "Chirurgeon's tools",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1267,7 +1328,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3126,
+          "optionID" : 2980,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1277,7 +1338,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3125,
+          "optionID" : 3032,
           "optionName" : "Heroine in the Making",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1287,7 +1348,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3078,
+          "optionID" : 3020,
           "optionName" : "Bolt pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1305,9 +1366,9 @@
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 40.0,
-        "unitID" : 3208,
+        "unitID" : 2945,
         "autoAddDictionary" : {
-          "3207" : 1
+          "2944" : 1
         },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -1318,7 +1379,7 @@
         "unitName" : "[0]Celestian Squad",
         "listOfOptions" : [ {
           "optionCost" : 12.0,
-          "optionID" : 3213,
+          "optionID" : 2950,
           "optionName" : "Celestian w/ Simulacrum",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -1328,7 +1389,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3075,
+          "optionID" : 2984,
           "optionName" : "Boltgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1338,7 +1399,7 @@
           }
         }, {
           "optionCost" : 12.0,
-          "optionID" : 3211,
+          "optionID" : 2948,
           "optionName" : "Celestian w/ Special or Heavy Weapon",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -1348,7 +1409,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 3116,
+          "optionID" : 3006,
           "optionName" : "Incensor Cherub",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1357,8 +1418,15 @@
             "Command points" : 0
           }
         }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Additional Melee Weapon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
           "optionCost" : 12.0,
-          "optionID" : 3209,
+          "optionID" : 2946,
           "optionName" : "Celestian Superior",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -1368,7 +1436,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3078,
+          "optionID" : 3020,
           "optionName" : "Bolt pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1377,8 +1445,18 @@
             "Command points" : 0
           }
         }, {
+          "optionCost" : 0.0,
+          "optionID" : 3012,
+          "optionName" : "Frag & Krak grenades",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 12.0,
-          "optionID" : 3210,
+          "optionID" : 2947,
           "optionName" : "Celestian w/ Special Weapon",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -1388,7 +1466,7 @@
           }
         }, {
           "optionCost" : 12.0,
-          "optionID" : 3212,
+          "optionID" : 2949,
           "optionName" : "Celestian",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -1398,7 +1476,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 3101,
+          "optionID" : 2990,
           "optionName" : "Simulacrum Imperialis",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1409,9 +1487,9 @@
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 0.0,
-        "unitID" : 3214,
+        "unitID" : 2951,
         "autoAddDictionary" : {
-          "3212" : 5
+          "2949" : 5
         },
         "startingModels" : 0,
         "listOfCurrencies" : {
@@ -1422,7 +1500,7 @@
         "unitName" : "[1]Sororitas Repressor",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 3215,
+          "optionID" : 2952,
           "optionName" : "Dozer ram",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1432,7 +1510,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 3086,
+          "optionID" : 3015,
           "optionName" : "Hunter-killer missile",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1442,7 +1520,7 @@
           }
         }, {
           "optionCost" : 3.0,
-          "optionID" : 3076,
+          "optionID" : 2982,
           "optionName" : "Storm bolter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1452,7 +1530,7 @@
           }
         }, {
           "optionCost" : 15.0,
-          "optionID" : 3085,
+          "optionID" : 3011,
           "optionName" : "Heavy flamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1463,9 +1541,9 @@
         } ],
         "unitCategory" : "Dedicated Transport",
         "unitCost" : 91.0,
-        "unitID" : 3216,
+        "unitID" : 2953,
         "autoAddDictionary" : {
-          "3215" : 1
+          "2952" : 1
         },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -1476,7 +1554,7 @@
         "unitName" : "[1]Taddeus the Purifier",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 3126,
+          "optionID" : 2980,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1486,7 +1564,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3088,
+          "optionID" : 3019,
           "optionName" : "Laspistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1496,7 +1574,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 3098,
+          "optionID" : 2996,
           "optionName" : "Power maul",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1506,7 +1584,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3217,
+          "optionID" : 2954,
           "optionName" : "Servo-stubber",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1524,9 +1602,9 @@
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 55.0,
-        "unitID" : 3218,
+        "unitID" : 2955,
         "autoAddDictionary" : {
-          "3217" : 1
+          "2954" : 1
         },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -1537,7 +1615,7 @@
         "unitName" : "[1]Pious Vorne",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 3126,
+          "optionID" : 2980,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1547,7 +1625,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3219,
+          "optionID" : 2956,
           "optionName" : "Vindictor",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1565,9 +1643,9 @@
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 30.0,
-        "unitID" : 3220,
+        "unitID" : 2957,
         "autoAddDictionary" : {
-          "3219" : 1
+          "2956" : 1
         },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -1578,7 +1656,7 @@
         "unitName" : "[1]Preacher",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 3126,
+          "optionID" : 2980,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1588,7 +1666,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3077,
+          "optionID" : 3001,
           "optionName" : "Autogun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1598,7 +1676,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3075,
+          "optionID" : 2984,
           "optionName" : "Boltgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1608,7 +1686,7 @@
           }
         }, {
           "optionCost" : 11.0,
-          "optionID" : 3096,
+          "optionID" : 2985,
           "optionName" : "Eviscerator",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1618,7 +1696,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 3099,
+          "optionID" : 3003,
           "optionName" : "Power sword",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1628,7 +1706,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3093,
+          "optionID" : 2988,
           "optionName" : "Shotgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1638,7 +1716,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 3097,
+          "optionID" : 3024,
           "optionName" : "Power axe",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1648,7 +1726,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 3082,
+          "optionID" : 3028,
           "optionName" : "Condemnor Boltgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1658,7 +1736,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3114,
+          "optionID" : 3014,
           "optionName" : "Warlord Trait: 2. Righteous Rage",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1675,7 +1753,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 2.0,
-          "optionID" : 3223,
+          "optionID" : 2960,
           "optionName" : "Storm bolter [Legends]",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1685,7 +1763,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3221,
+          "optionID" : 2958,
           "optionName" : "Frag & Krak Grenades",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1695,7 +1773,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 3092,
+          "optionID" : 2994,
           "optionName" : "Plasma pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1705,7 +1783,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 3087,
+          "optionID" : 3033,
           "optionName" : "Inferno pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1715,7 +1793,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3224,
+          "optionID" : 2961,
           "optionName" : "Laspistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1725,7 +1803,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 3098,
+          "optionID" : 2996,
           "optionName" : "Power maul",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1735,7 +1813,7 @@
           }
         }, {
           "optionCost" : 13.0,
-          "optionID" : 3091,
+          "optionID" : 3035,
           "optionName" : "Plasma gun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1745,7 +1823,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3222,
+          "optionID" : 2959,
           "optionName" : "Chainsword",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1755,7 +1833,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3078,
+          "optionID" : 3020,
           "optionName" : "Bolt pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1766,7 +1844,7 @@
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 35.0,
-        "unitID" : 3225,
+        "unitID" : 2962,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -1776,8 +1854,18 @@
       }, {
         "unitName" : "[0]Geminae Superia",
         "listOfOptions" : [ {
+          "optionCost" : 5.0,
+          "optionID" : 3003,
+          "optionName" : "Power sword",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 18.0,
-          "optionID" : 3226,
+          "optionID" : 2963,
           "optionName" : "Geminae Superia",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -1788,11 +1876,11 @@
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 0.0,
-        "unitID" : 3227,
+        "unitID" : 2964,
         "autoAddDictionary" : {
-          "3226" : 1
+          "2963" : 1
         },
-        "startingModels" : 0,
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 0,
           "Command points" : 0
@@ -1801,7 +1889,7 @@
         "unitName" : "[1]Gotfret de Montbard",
         "listOfOptions" : [ {
           "optionCost" : 5.0,
-          "optionID" : 3099,
+          "optionID" : 3003,
           "optionName" : "Power sword",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1812,7 +1900,7 @@
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 40.0,
-        "unitID" : 3228,
+        "unitID" : 2965,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -1823,7 +1911,7 @@
         "unitName" : "[1]Triumph of Saint Katherine",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 3126,
+          "optionID" : 2980,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1833,7 +1921,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3229,
+          "optionID" : 2966,
           "optionName" : "The Martyr's Sword",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1843,7 +1931,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3110,
+          "optionID" : 3005,
           "optionName" : "Warlord Trait: 6. Pure of Will",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1853,7 +1941,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3230,
+          "optionID" : 2967,
           "optionName" : "Relic weapons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1863,7 +1951,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3078,
+          "optionID" : 3020,
           "optionName" : "Bolt pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1873,7 +1961,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3100,
+          "optionID" : 3012,
           "optionName" : "Frag & Krak grenades",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1884,10 +1972,10 @@
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 195.0,
-        "unitID" : 3231,
+        "unitID" : 2968,
         "autoAddDictionary" : {
-          "3229" : 1,
-          "3230" : 1
+          "2966" : 1,
+          "2967" : 1
         },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -1898,7 +1986,7 @@
         "unitName" : "[1]Junith Eruita",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 3126,
+          "optionID" : 2980,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1908,7 +1996,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3115,
+          "optionID" : 2979,
           "optionName" : "Warlord Trait: 1. Inspiring Orator",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1918,7 +2006,7 @@
           }
         }, {
           "optionCost" : 15.0,
-          "optionID" : 3085,
+          "optionID" : 3011,
           "optionName" : "Heavy flamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1929,7 +2017,7 @@
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 115.0,
-        "unitID" : 3232,
+        "unitID" : 2969,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -1941,7 +2029,7 @@
         "listOfOptions" : null,
         "unitCategory" : "Fortification",
         "unitCost" : 55.0,
-        "unitID" : 3233,
+        "unitID" : 2970,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -1952,7 +2040,7 @@
         "unitName" : "[0]Zephyrim Squad",
         "listOfOptions" : [ {
           "optionCost" : 15.0,
-          "optionID" : 3235,
+          "optionID" : 2972,
           "optionName" : "Zephyrim",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -1962,7 +2050,7 @@
           }
         }, {
           "optionCost" : 15.0,
-          "optionID" : 3234,
+          "optionID" : 2971,
           "optionName" : "Zephyrim Superior",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -1972,7 +2060,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 3099,
+          "optionID" : 3003,
           "optionName" : "Power sword",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1982,7 +2070,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 3092,
+          "optionID" : 2994,
           "optionName" : "Plasma pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1993,12 +2081,12 @@
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 0.0,
-        "unitID" : 3236,
+        "unitID" : 2973,
         "autoAddDictionary" : {
-          "3235" : 4,
-          "3234" : 1
+          "2972" : 4,
+          "2971" : 1
         },
-        "startingModels" : 0,
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 5,
           "Command points" : 0
@@ -2007,7 +2095,7 @@
         "unitName" : "[0]Mortifiers",
         "listOfOptions" : [ {
           "optionCost" : 15.0,
-          "optionID" : 3240,
+          "optionID" : 2977,
           "optionName" : "Heavy Flamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2017,7 +2105,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3117,
+          "optionID" : 3029,
           "optionName" : "Penitent buzz-blades",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2027,7 +2115,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 3084,
+          "optionID" : 3018,
           "optionName" : "Heavy bolter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2037,7 +2125,7 @@
           }
         }, {
           "optionCost" : 35.0,
-          "optionID" : 3237,
+          "optionID" : 2974,
           "optionName" : "Anchorite",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -2047,7 +2135,7 @@
           }
         }, {
           "optionCost" : 30.0,
-          "optionID" : 3238,
+          "optionID" : 2975,
           "optionName" : "Mortifiers",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -2057,7 +2145,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3118,
+          "optionID" : 3027,
           "optionName" : "Penitent Flails",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2068,11 +2156,11 @@
         } ],
         "unitCategory" : "Heavy Support",
         "unitCost" : 0.0,
-        "unitID" : 3241,
+        "unitID" : 2978,
         "autoAddDictionary" : {
-          "3238" : 1
+          "2975" : 1
         },
-        "startingModels" : 0,
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 0,
           "Command points" : 0
@@ -2082,132 +2170,12 @@
         "listOfOptions" : null,
         "equipmentName" : "$Special Weapons"
       }, {
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 3115,
-          "optionName" : "Warlord Trait: 1. Inspiring Orator",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3114,
-          "optionName" : "Warlord Trait: 2. Righteous Rage",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3122,
-          "optionName" : "Warlord Trait: Blazing Ire",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3112,
-          "optionName" : "Warlord Trait: 4. Beacon of Faith",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3124,
-          "optionName" : "Warlord Trait: Shield Bearer",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3110,
-          "optionName" : "Warlord Trait: 6. Pure of Will",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3123,
-          "optionName" : "Warlord Trait: Impervious to Pain",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3121,
-          "optionName" : "Warlord Trait: Terrible Knowledge",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3119,
-          "optionName" : "Warlord Trait: Light of The Emperor",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3120,
-          "optionName" : "Warlord Trait: Selfless Heroism",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3111,
-          "optionName" : "Warlord Trait: 5. Indomitable Belief",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3113,
-          "optionName" : "Warlord Trait: 3. Executioner of Heretics",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
+        "listOfOptions" : null,
         "equipmentName" : "$Warlord Traits Adepta Sororitas"
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 3147,
+          "optionID" : 0,
           "optionName" : "Relic: Book of St. Lucius",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2219,39 +2187,9 @@
         "equipmentName" : "$Relics of the Ecclesiarchy (Ministorum Priest)"
       }, {
         "listOfOptions" : [ {
-          "optionCost" : 10.0,
-          "optionID" : 3079,
-          "optionName" : "Combi-flamer",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
           "optionCost" : 2.0,
-          "optionID" : 3130,
+          "optionID" : 0,
           "optionName" : "Storm bolter [Legends]",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3078,
-          "optionName" : "Bolt pistol",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 5.0,
-          "optionID" : 3082,
-          "optionName" : "Condemnor Boltgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -2263,68 +2201,8 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 3104,
-          "optionName" : "Order: Argent Shroud",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3105,
-          "optionName" : "Order: Ebon Chalice",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3102,
-          "optionName" : "Order: Sacred Rose",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3107,
-          "optionName" : "Order: Valorous Heart",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3103,
-          "optionName" : "Order: Bloody Rose",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3146,
+          "optionID" : 0,
           "optionName" : "Adeptus Ministorum",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3106,
-          "optionName" : "Order: Our Martyred Lady",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -2334,73 +2212,13 @@
         } ],
         "equipmentName" : "$Order Convictions"
       }, {
-        "listOfOptions" : [ {
-          "optionCost" : 10.0,
-          "optionID" : 3084,
-          "optionName" : "Heavy bolter",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 20.0,
-          "optionID" : 3090,
-          "optionName" : "Multi-melta",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 15.0,
-          "optionID" : 3085,
-          "optionName" : "Heavy flamer",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
+        "listOfOptions" : null,
         "equipmentName" : "$Heavy Weapons"
       }, {
         "listOfOptions" : [ {
           "optionCost" : 5.0,
-          "optionID" : 3099,
-          "optionName" : "Power sword",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 5.0,
-          "optionID" : 3131,
+          "optionID" : 0,
           "optionName" : "Power axe [Legends]",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 5.0,
-          "optionID" : 3098,
-          "optionName" : "Power maul",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3095,
-          "optionName" : "Chainsword",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -2415,37 +2233,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 5.0,
-          "optionID" : 3092,
-          "optionName" : "Plasma pistol",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 5.0,
-          "optionID" : 3087,
-          "optionName" : "Inferno pistol",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3078,
-          "optionName" : "Bolt pistol",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 5.0,
-          "optionID" : 3129,
+          "optionID" : 0,
           "optionName" : "Hand Flamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2456,12 +2244,26 @@
         } ],
         "equipmentName" : "$Pistols"
       }, {
-        "listOfOptions" : null,
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Warlord Traits Adepta Sororitas",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Warlord Traits (BRB)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        } ],
         "equipmentName" : "$Warlord Traits"
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 3140,
+          "optionID" : 0,
           "optionName" : "Relic: Litanies of Faith",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2471,7 +2273,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3141,
+          "optionID" : 0,
           "optionName" : "Relic: Mantle of Ophelia",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2481,7 +2283,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3144,
+          "optionID" : 0,
           "optionName" : "Relic: Triptych of the Macharian Crusade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2491,7 +2293,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3136,
+          "optionID" : 0,
           "optionName" : "Relic: Braizer of Eternal Flame",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2501,7 +2303,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3142,
+          "optionID" : 0,
           "optionName" : "Relic: Martyr's Vengance",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2511,7 +2313,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3135,
+          "optionID" : 0,
           "optionName" : "Relic: Blade of Admonition",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2521,7 +2323,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3143,
+          "optionID" : 0,
           "optionName" : "Relic: Quicksilver Veil",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2531,7 +2333,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3139,
+          "optionID" : 0,
           "optionName" : "Relic: Light of St Agnaetha ",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2541,7 +2343,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3134,
+          "optionID" : 0,
           "optionName" : "Relic: Beneficence",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2551,7 +2353,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3137,
+          "optionID" : 0,
           "optionName" : "Relic: Casket of Penance",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2561,7 +2363,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3138,
+          "optionID" : 0,
           "optionName" : "Relic: Iron Surplice of St Istaela",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2571,7 +2373,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3132,
+          "optionID" : 0,
           "optionName" : "Relic: Book of St. Lucius",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2581,7 +2383,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3145,
+          "optionID" : 0,
           "optionName" : "Relic: Wrath of The Emperor",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2591,7 +2393,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3133,
+          "optionID" : 0,
           "optionName" : "Relic: Annunciation of The Creed",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2605,7 +2407,7 @@
       "armyName" : "Adepta Sororitas",
       "armyCategories" : [ ]
     } ],
-    "gameCategories" : [ "HQ", "Elites", "Troops", "Fast Attack", "Heavy Support", "Flyers", "Dedicated Transport", "Lords of War", "Fortification" ],
+    "gameCategories" : [ "HQ", "Elites", "Troops", "Fast Attack", "Heavy Support", "Flyers", "Dedicated Transport", "Lords of War", "Fortification", "Other" ],
     "listOfEquipmentOptions" : null,
     "listOfCurrencies" : [ "Power level", "Command points" ]
   } ]

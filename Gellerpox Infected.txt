@@ -6,7 +6,7 @@
         "unitName" : "[1]Vulgrar Thrice-Cursed",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 2714,
+          "optionID" : 2511,
           "optionName" : "Belly-flamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -16,7 +16,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2711,
+          "optionID" : 2527,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -33,7 +33,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2715,
+          "optionID" : 2512,
           "optionName" : "Fleshripper claws",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -44,10 +44,10 @@
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 70.0,
-        "unitID" : 2716,
+        "unitID" : 2513,
         "autoAddDictionary" : {
-          "2715" : 1,
-          "2714" : 1
+          "2512" : 1,
+          "2511" : 1
         },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -58,7 +58,7 @@
         "unitName" : "[0]The Vox Shamblers",
         "listOfOptions" : [ {
           "optionCost" : 9.0,
-          "optionID" : 2717,
+          "optionID" : 2514,
           "optionName" : "Gellerpox Mutant",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -69,9 +69,9 @@
         } ],
         "unitCategory" : "",
         "unitCost" : 0.0,
-        "unitID" : 2718,
+        "unitID" : 2515,
         "autoAddDictionary" : {
-          "2717" : 3
+          "2514" : 3
         },
         "startingModels" : 0,
         "listOfCurrencies" : {
@@ -82,7 +82,7 @@
         "unitName" : "[0]Glitchlings",
         "listOfOptions" : [ {
           "optionCost" : 5.0,
-          "optionID" : 2719,
+          "optionID" : 2516,
           "optionName" : "Glitchling",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -93,11 +93,11 @@
         } ],
         "unitCategory" : "Troops",
         "unitCost" : 0.0,
-        "unitID" : 2720,
+        "unitID" : 2517,
         "autoAddDictionary" : {
-          "2719" : 4
+          "2516" : 4
         },
-        "startingModels" : 0,
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 1,
           "Command points" : 0
@@ -105,8 +105,18 @@
       }, {
         "unitName" : "[0]The Hullbreakers",
         "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 2528,
+          "optionName" : "Hideous Mutations",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 35.0,
-          "optionID" : 2722,
+          "optionID" : 2519,
           "optionName" : "Nightmare Hulk",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -116,7 +126,7 @@
           }
         }, {
           "optionCost" : 35.0,
-          "optionID" : 2721,
+          "optionID" : 2518,
           "optionName" : "Gnasher-Screamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -127,10 +137,10 @@
         } ],
         "unitCategory" : "",
         "unitCost" : 0.0,
-        "unitID" : 2723,
+        "unitID" : 2520,
         "autoAddDictionary" : {
-          "2722" : 2,
-          "2721" : 1
+          "2519" : 2,
+          "2518" : 1
         },
         "startingModels" : 0,
         "listOfCurrencies" : {
@@ -141,7 +151,7 @@
         "unitName" : "[0]Cursemites",
         "listOfOptions" : [ {
           "optionCost" : 5.0,
-          "optionID" : 2724,
+          "optionID" : 2521,
           "optionName" : "Cursemite",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -152,11 +162,11 @@
         } ],
         "unitCategory" : "Other",
         "unitCost" : 0.0,
-        "unitID" : 2725,
+        "unitID" : 2522,
         "autoAddDictionary" : {
-          "2724" : 4
+          "2521" : 4
         },
-        "startingModels" : 0,
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 1,
           "Command points" : 0
@@ -165,7 +175,7 @@
         "unitName" : "[0]Eyestinger Swarms",
         "listOfOptions" : [ {
           "optionCost" : 5.0,
-          "optionID" : 2726,
+          "optionID" : 2523,
           "optionName" : "Eyestinger Swarm",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -176,11 +186,11 @@
         } ],
         "unitCategory" : "Fast Attack",
         "unitCost" : 0.0,
-        "unitID" : 2727,
+        "unitID" : 2524,
         "autoAddDictionary" : {
-          "2726" : 4
+          "2523" : 4
         },
-        "startingModels" : 0,
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 1,
           "Command points" : 0
@@ -189,7 +199,7 @@
         "unitName" : "[0]Sludge-grubs",
         "listOfOptions" : [ {
           "optionCost" : 5.0,
-          "optionID" : 2728,
+          "optionID" : 2525,
           "optionName" : "Sludge-grub",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -200,11 +210,11 @@
         } ],
         "unitCategory" : "Fast Attack",
         "unitCost" : 0.0,
-        "unitID" : 2729,
+        "unitID" : 2526,
         "autoAddDictionary" : {
-          "2728" : 4
+          "2525" : 4
         },
-        "startingModels" : 0,
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 1,
           "Command points" : 0
@@ -213,7 +223,7 @@
       "listOfEquipmentOptions" : [ {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 2713,
+          "optionID" : 0,
           "optionName" : "Twisted Brilliance",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -221,13 +231,20 @@
             "Power level" : 0,
             "Command points" : 0
           }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Warlord Traits (BRB)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
         } ],
         "equipmentName" : "$Warlord Traits"
       } ],
       "armyName" : "Gellerpox Infected",
       "armyCategories" : [ ]
     } ],
-    "gameCategories" : [ "HQ", "Elites", "Troops", "Fast Attack", "Heavy Support", "Flyers", "Dedicated Transport", "Lords of War", "Fortification" ],
+    "gameCategories" : [ "HQ", "Elites", "Troops", "Fast Attack", "Heavy Support", "Flyers", "Dedicated Transport", "Lords of War", "Fortification", "Other" ],
     "listOfEquipmentOptions" : null,
     "listOfCurrencies" : [ "Power level", "Command points" ]
   } ]

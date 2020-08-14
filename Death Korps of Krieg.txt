@@ -6,7 +6,17 @@
         "unitName" : "[1]Death Korps Marshal Karis Venner",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 5710,
+          "optionID" : 9323,
+          "optionName" : "Warlord",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 6852,
           "optionName" : "Hot-shot Laspistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -16,7 +26,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 5720,
+          "optionID" : 6937,
           "optionName" : "Momento Mori",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -26,7 +36,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 5724,
+          "optionID" : 6918,
           "optionName" : "Frag & Krak grenades",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -43,7 +53,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 5725,
+          "optionID" : 6887,
           "optionName" : "Death Korps Orders",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -54,7 +64,7 @@
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 65.0,
-        "unitID" : 5756,
+        "unitID" : 6776,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -65,6 +75,16 @@
         "unitName" : "[1]Death Korps Marshal",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
+          "optionID" : 9323,
+          "optionName" : "Warlord",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "$Heirlooms of Conquest",
           "autoAddDictionary" : { },
@@ -72,7 +92,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 5726,
+          "optionID" : 6853,
           "optionName" : "Laspistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -96,7 +116,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 5724,
+          "optionID" : 6918,
           "optionName" : "Frag & Krak grenades",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -113,7 +133,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 5725,
+          "optionID" : 6887,
           "optionName" : "Death Korps Orders",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -124,7 +144,7 @@
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 35.0,
-        "unitID" : 5757,
+        "unitID" : 6777,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -134,6 +154,16 @@
       }, {
         "unitName" : "[1]Death Korps Field Officer",
         "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 9323,
+          "optionName" : "Warlord",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "$Heirlooms of Conquest",
@@ -149,7 +179,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 5726,
+          "optionID" : 6853,
           "optionName" : "Laspistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -166,7 +196,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 5724,
+          "optionID" : 6918,
           "optionName" : "Frag & Krak grenades",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -183,7 +213,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 5725,
+          "optionID" : 6887,
           "optionName" : "Death Korps Orders",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -194,7 +224,7 @@
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 30.0,
-        "unitID" : 5758,
+        "unitID" : 6778,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -204,28 +234,8 @@
       }, {
         "unitName" : "[0]Death Korps Grenadier Storm Squad",
         "listOfOptions" : [ {
-          "optionCost" : 7.0,
-          "optionID" : 5761,
-          "optionName" : "Grenadier w/Special Weapon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 7.0,
-          "optionID" : 5759,
-          "optionName" : "Grenadier Watch Master",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
           "optionCost" : 14.0,
-          "optionID" : 5763,
+          "optionID" : 6783,
           "optionName" : "Grenadier Weapons Team",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -242,7 +252,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 7.0,
-          "optionID" : 5760,
+          "optionID" : 6780,
           "optionName" : "Death Korps Grenadier",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -252,7 +262,7 @@
           }
         }, {
           "optionCost" : 7.0,
-          "optionID" : 5762,
+          "optionID" : 6782,
           "optionName" : "Grenadier Vox-caster",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -262,18 +272,8 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 5722,
+          "optionID" : 6811,
           "optionName" : "Hot-Shot Lasgun",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 5710,
-          "optionName" : "Hot-shot Laspistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -296,7 +296,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 5724,
+          "optionID" : 6918,
           "optionName" : "Frag & Krak grenades",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -306,8 +306,48 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 5705,
+          "optionID" : 6919,
           "optionName" : "Death Korps Vox-caster",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 7.0,
+          "optionID" : 6781,
+          "optionName" : "Grenadier w/Special Weapon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 7.0,
+          "optionID" : 6779,
+          "optionName" : "Grenadier Watch Master",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 6852,
+          "optionName" : "Hot-shot Laspistol",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 7166,
+          "optionName" : "Chainsword",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -317,12 +357,12 @@
         } ],
         "unitCategory" : "Troops",
         "unitCost" : 0.0,
-        "unitID" : 5764,
+        "unitID" : 6784,
         "autoAddDictionary" : {
-          "5760" : 4,
-          "5759" : 1
+          "6780" : 4,
+          "6779" : 1
         },
-        "startingModels" : 0,
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 2,
           "Command points" : 0
@@ -332,7 +372,7 @@
         "listOfOptions" : null,
         "unitCategory" : "Dedicated Transport",
         "unitCost" : 50.0,
-        "unitID" : 5765,
+        "unitID" : 6785,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -343,7 +383,7 @@
         "unitName" : "[1]Death Korps Storm Chimera",
         "listOfOptions" : [ {
           "optionCost" : 10.0,
-          "optionID" : 5766,
+          "optionID" : 6786,
           "optionName" : "Storm Armour and Mine Plough",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -353,7 +393,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 5734,
+          "optionID" : 6901,
           "optionName" : "Emperor's Blade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -363,7 +403,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 5767,
+          "optionID" : 6787,
           "optionName" : "Lasgun Arrays",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -374,9 +414,9 @@
         } ],
         "unitCategory" : "Dedicated Transport",
         "unitCost" : 65.0,
-        "unitID" : 5768,
+        "unitID" : 6788,
         "autoAddDictionary" : {
-          "5767" : 2
+          "6787" : 2
         },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -387,7 +427,7 @@
         "unitName" : "[1]Death Korps Command Squad",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 5734,
+          "optionID" : 6901,
           "optionName" : "Emperor's Blade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -397,7 +437,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 5715,
+          "optionID" : 6831,
           "optionName" : "Death Korps Regimental Standard",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -407,7 +447,7 @@
           }
         }, {
           "optionCost" : 7.0,
-          "optionID" : 5771,
+          "optionID" : 6791,
           "optionName" : "Veteran w/Vox-caster",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -417,7 +457,7 @@
           }
         }, {
           "optionCost" : 7.0,
-          "optionID" : 5769,
+          "optionID" : 6789,
           "optionName" : "Command Squad Veterans",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -427,7 +467,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 5735,
+          "optionID" : 6820,
           "optionName" : "Emperor's Conclave",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -444,7 +484,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 5724,
+          "optionID" : 6918,
           "optionName" : "Frag & Krak grenades",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -454,7 +494,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 5706,
+          "optionID" : 6948,
           "optionName" : "Death Korps Platoon Standard",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -464,7 +504,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 5705,
+          "optionID" : 6919,
           "optionName" : "Death Korps Vox-caster",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -474,7 +514,7 @@
           }
         }, {
           "optionCost" : 7.0,
-          "optionID" : 5770,
+          "optionID" : 6790,
           "optionName" : "Standard Bearer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -484,7 +524,7 @@
           }
         }, {
           "optionCost" : 7.0,
-          "optionID" : 5772,
+          "optionID" : 6792,
           "optionName" : "Veteran w/Special Weapon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -494,7 +534,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 5723,
+          "optionID" : 6838,
           "optionName" : "Lasgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -505,7 +545,7 @@
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 0.0,
-        "unitID" : 5773,
+        "unitID" : 6793,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -515,6 +555,16 @@
       }, {
         "unitName" : "[1]Death Korps Commissar",
         "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 9323,
+          "optionName" : "Warlord",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "$Heirlooms of Conquest",
@@ -530,7 +580,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 5726,
+          "optionID" : 6853,
           "optionName" : "Laspistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -547,7 +597,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 5724,
+          "optionID" : 6918,
           "optionName" : "Frag & Krak grenades",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -564,7 +614,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 5725,
+          "optionID" : 6887,
           "optionName" : "Death Korps Orders",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -575,7 +625,7 @@
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 20.0,
-        "unitID" : 5774,
+        "unitID" : 6794,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -585,8 +635,25 @@
       }, {
         "unitName" : "[1]Death Korps Quartermaster Cadre",
         "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 9323,
+          "optionName" : "Warlord",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Heirlooms of Conquest",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
           "optionCost" : 5.0,
-          "optionID" : 5718,
+          "optionID" : 6928,
           "optionName" : "Death Korps Medicae-servitor",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -596,7 +663,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 5710,
+          "optionID" : 6852,
           "optionName" : "Hot-shot Laspistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -607,14 +674,58 @@
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
+          "optionName" : "$DKOK Melee Weapons",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
           "optionName" : "$DKOK Ranged Weapons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 50.0,
-          "optionID" : 5775,
+          "optionID" : 6795,
           "optionName" : "Death Korps Quartermaster Revenant",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 6918,
+          "optionName" : "Frag & Krak grenades",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Warlord Traits",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 6887,
+          "optionName" : "Death Korps Orders",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 6891,
+          "optionName" : "Medi-pack",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -624,9 +735,9 @@
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 0.0,
-        "unitID" : 5776,
+        "unitID" : 6796,
         "autoAddDictionary" : {
-          "5775" : 1
+          "6795" : 1
         },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -637,7 +748,7 @@
         "unitName" : "[1]Death Korps Death Rider Command Squadron",
         "listOfOptions" : [ {
           "optionCost" : 13.0,
-          "optionID" : 5777,
+          "optionID" : 6797,
           "optionName" : "Death Korps Death Rider Veterans",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -647,8 +758,38 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 5724,
+          "optionID" : 6913,
+          "optionName" : "Krieg Steed",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 6853,
+          "optionName" : "Laspistol",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 6918,
           "optionName" : "Frag & Krak grenades",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 2.0,
+          "optionID" : 6940,
+          "optionName" : "Death Korps Hunting Lance",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -658,9 +799,9 @@
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 0.0,
-        "unitID" : 5778,
+        "unitID" : 6798,
         "autoAddDictionary" : {
-          "5777" : 4
+          "6797" : 4
         },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -670,8 +811,18 @@
       }, {
         "unitName" : "[1]Death Korps Death Rider Commissar",
         "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 9323,
+          "optionName" : "Warlord",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 5.0,
-          "optionID" : 5730,
+          "optionID" : 6846,
           "optionName" : "Plasma Pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -688,7 +839,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 5707,
+          "optionID" : 6913,
           "optionName" : "Krieg Steed",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -698,7 +849,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 5726,
+          "optionID" : 6853,
           "optionName" : "Laspistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -715,7 +866,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 2.0,
-          "optionID" : 5731,
+          "optionID" : 6932,
           "optionName" : "Bolt pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -725,7 +876,17 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 5724,
+          "optionID" : 7166,
+          "optionName" : "Chainsword",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 6918,
           "optionName" : "Frag & Krak grenades",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -742,7 +903,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 5725,
+          "optionID" : 6887,
           "optionName" : "Death Korps Orders",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -753,7 +914,7 @@
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 35.0,
-        "unitID" : 5779,
+        "unitID" : 6799,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -764,7 +925,7 @@
         "unitName" : "[0]Death Korps Leman Russ Mars-Alpha Battle Tanks",
         "listOfOptions" : [ {
           "optionCost" : 130.0,
-          "optionID" : 5787,
+          "optionID" : 6807,
           "optionName" : "Leman Russ Mars-Alpha Conqueror",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -774,7 +935,7 @@
           }
         }, {
           "optionCost" : 130.0,
-          "optionID" : 5781,
+          "optionID" : 6801,
           "optionName" : "Leman Russ Mars-Alpha Eradicator",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -784,7 +945,7 @@
           }
         }, {
           "optionCost" : 130.0,
-          "optionID" : 5783,
+          "optionID" : 6803,
           "optionName" : "Leman Russ Mars-Alpha Vanquisher",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -794,7 +955,7 @@
           }
         }, {
           "optionCost" : 130.0,
-          "optionID" : 5785,
+          "optionID" : 6805,
           "optionName" : "Leman Russ Mars-Alpha Executioner",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -804,7 +965,7 @@
           }
         }, {
           "optionCost" : 130.0,
-          "optionID" : 5788,
+          "optionID" : 6808,
           "optionName" : "Leman Russ Mars-Alpha Annihilator",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -820,8 +981,18 @@
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
+          "optionCost" : 0.0,
+          "optionID" : 7071,
+          "optionName" : "Stat Damage (Leman Russ)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 130.0,
-          "optionID" : 5782,
+          "optionID" : 6802,
           "optionName" : "Leman Russ Mars-Alpha Exterminator",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -831,7 +1002,7 @@
           }
         }, {
           "optionCost" : 130.0,
-          "optionID" : 5780,
+          "optionID" : 6800,
           "optionName" : "Leman Russ Mars-Alpha Battle Tank",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -841,7 +1012,7 @@
           }
         }, {
           "optionCost" : 130.0,
-          "optionID" : 5784,
+          "optionID" : 6804,
           "optionName" : "Leman Russ Mars-Alpha Demolisher",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -851,7 +1022,7 @@
           }
         }, {
           "optionCost" : 130.0,
-          "optionID" : 5786,
+          "optionID" : 6806,
           "optionName" : "Leman Russ Mars-Alpha Punisher",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -861,7 +1032,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 5736,
+          "optionID" : 6856,
           "optionName" : "Emperor's Fist",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -872,11 +1043,11 @@
         } ],
         "unitCategory" : "Heavy Support",
         "unitCost" : 0.0,
-        "unitID" : 5789,
+        "unitID" : 6809,
         "autoAddDictionary" : {
-          "5780" : 1
+          "6800" : 1
         },
-        "startingModels" : 0,
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 0,
           "Command points" : 0
@@ -885,7 +1056,7 @@
       "listOfEquipmentOptions" : [ {
         "listOfOptions" : [ {
           "optionCost" : 5.0,
-          "optionID" : 5742,
+          "optionID" : 0,
           "optionName" : "Grenade Launcher",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -898,7 +1069,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 5.0,
-          "optionID" : 5744,
+          "optionID" : 0,
           "optionName" : "Grenade Launcher",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -911,7 +1082,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 5.0,
-          "optionID" : 5746,
+          "optionID" : 0,
           "optionName" : "Dozer blade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -921,7 +1092,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 5747,
+          "optionID" : 0,
           "optionName" : "Track guards",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -931,7 +1102,7 @@
           }
         }, {
           "optionCost" : 6.0,
-          "optionID" : 5748,
+          "optionID" : 0,
           "optionName" : "Hunter-Killer Missile",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -941,7 +1112,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 5745,
+          "optionID" : 0,
           "optionName" : "Augur array",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -957,7 +1128,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 9.0,
-          "optionID" : 5737,
+          "optionID" : 0,
           "optionName" : "Mortar",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -970,7 +1141,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 15.0,
-          "optionID" : 5753,
+          "optionID" : 0,
           "optionName" : "Heavy Flamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -980,7 +1151,7 @@
           }
         }, {
           "optionCost" : 20.0,
-          "optionID" : 5752,
+          "optionID" : 0,
           "optionName" : "Lascannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -990,7 +1161,7 @@
           }
         }, {
           "optionCost" : 25.0,
-          "optionID" : 5754,
+          "optionID" : 0,
           "optionName" : "Multi-melta",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1000,7 +1171,7 @@
           }
         }, {
           "optionCost" : 20.0,
-          "optionID" : 5755,
+          "optionID" : 0,
           "optionName" : "Plasma Cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1010,7 +1181,7 @@
           }
         }, {
           "optionCost" : 15.0,
-          "optionID" : 5751,
+          "optionID" : 0,
           "optionName" : "Heavy Bolter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1023,7 +1194,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 5.0,
-          "optionID" : 5743,
+          "optionID" : 0,
           "optionName" : "Grenade Launcher",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1039,7 +1210,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 5741,
+          "optionID" : 0,
           "optionName" : "2 Laspistols",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1048,28 +1219,8 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 5.0,
-          "optionID" : 5730,
-          "optionName" : "Plasma Pistol",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
           "optionCost" : 0.0,
-          "optionID" : 5722,
-          "optionName" : "Hot-Shot Lasgun",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 5738,
+          "optionID" : 0,
           "optionName" : "Hot-shot Laspistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1079,7 +1230,7 @@
           }
         }, {
           "optionCost" : 4.0,
-          "optionID" : 5740,
+          "optionID" : 0,
           "optionName" : "2 Bolt Pistols",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1089,27 +1240,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 5726,
-          "optionName" : "Laspistol",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 2.0,
-          "optionID" : 5731,
-          "optionName" : "Bolt pistol",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 5739,
+          "optionID" : 0,
           "optionName" : "2 Hot-shot Laspistols",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1120,12 +1251,19 @@
         } ],
         "equipmentName" : "$DKOK Ranged Weapons"
       }, {
-        "listOfOptions" : null,
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Warlord Traits (BRB)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        } ],
         "equipmentName" : "$Warlord Traits"
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 5749,
+          "optionID" : 0,
           "optionName" : "Death Korps of Krieg",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1135,7 +1273,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 5750,
+          "optionID" : 0,
           "optionName" : "Brood Brothers",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1149,7 +1287,7 @@
       "armyName" : "Death Korps of Krieg",
       "armyCategories" : [ ]
     } ],
-    "gameCategories" : [ "HQ", "Elites", "Troops", "Fast Attack", "Heavy Support", "Flyers", "Dedicated Transport", "Lords of War", "Fortification" ],
+    "gameCategories" : [ "HQ", "Elites", "Troops", "Fast Attack", "Heavy Support", "Flyers", "Dedicated Transport", "Lords of War", "Fortification", "Other" ],
     "listOfEquipmentOptions" : null,
     "listOfCurrencies" : [ "Power level", "Command points" ]
   } ]
