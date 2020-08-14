@@ -3,7 +3,7 @@
     "gameName" : "Warhammer 40k 8th Edition",
     "armies" : [ {
       "listOfUnits" : [ {
-        "unitName" : "[1]Aberrants",
+        "unitName" : "[0]Aberrants",
         "listOfOptions" : [ {
           "optionCost" : 22.0,
           "optionID" : 9806,
@@ -61,7 +61,7 @@
         "autoAddDictionary" : {
           "9805" : 5
         },
-        "startingModels" : 1,
+        "startingModels" : 0,
         "listOfCurrencies" : {
           "Power level" : 9,
           "Command points" : 0
@@ -233,7 +233,6 @@
         "unitCost" : 0.0,
         "unitID" : 9812,
         "autoAddDictionary" : {
-          "9809" : 4,
           "9808" : 1
         },
         "startingModels" : 0,
@@ -818,9 +817,7 @@
           "optionCost" : 11.0,
           "optionID" : 9824,
           "optionName" : "Metamorph Leader",
-          "autoAddDictionary" : {
-            "9829" : 1
-          },
+          "autoAddDictionary" : { },
           "modelsAdded" : 1,
           "listOfCurrencies" : {
             "Power level" : 0,
@@ -880,9 +877,7 @@
           "optionCost" : 11.0,
           "optionID" : 9823,
           "optionName" : "Hybrid Metamorph",
-          "autoAddDictionary" : {
-            "9829" : 1
-          },
+          "autoAddDictionary" : { },
           "modelsAdded" : 1,
           "listOfCurrencies" : {
             "Power level" : 0,
@@ -1273,7 +1268,6 @@
         "unitCost" : 0.0,
         "unitID" : 9846,
         "autoAddDictionary" : {
-          "9843" : 9,
           "9842" : 1
         },
         "startingModels" : 0,
@@ -1433,8 +1427,7 @@
         "unitCost" : 0.0,
         "unitID" : 9854,
         "autoAddDictionary" : {
-          "9850" : 1,
-          "9851" : 9
+          "9850" : 1
         },
         "startingModels" : 0,
         "listOfCurrencies" : {
