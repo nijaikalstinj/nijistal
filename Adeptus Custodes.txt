@@ -11,7 +11,7 @@
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
           "listOfCurrencies" : {
-            "Power level" : 3,
+            "Power level" : 0,
             "Command points" : 0
           }
         }, {
@@ -43,7 +43,7 @@
         },
         "startingModels" : 0,
         "listOfCurrencies" : {
-          "Power level" : 0,
+          "Power level" : 8,
           "Command points" : 0
         }
       }, {
@@ -105,11 +105,11 @@
         "autoAddDictionary" : {
           "3390" : 1,
           "3389" : 1,
-          "3391" : 1
+          "3392" : 1
         },
         "startingModels" : 1,
         "listOfCurrencies" : {
-          "Power level" : 10,
+          "Power level" : 8,
           "Command points" : 0
         }
       }, {
@@ -164,7 +164,7 @@
         },
         "startingModels" : 1,
         "listOfCurrencies" : {
-          "Power level" : 21,
+          "Power level" : 16,
           "Command points" : 0
         }
       }, {
@@ -324,7 +324,7 @@
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
-          "Power level" : 7,
+          "Power level" : 6,
           "Command points" : 0
         }
       }, {
@@ -420,7 +420,7 @@
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
-          "Power level" : 8,
+          "Power level" : 6,
           "Command points" : 0
         }
       }, {
@@ -654,7 +654,7 @@
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
           "listOfCurrencies" : {
-            "Power level" : 4,
+            "Power level" : 0,
             "Command points" : 0
           }
         }, {
@@ -676,7 +676,7 @@
         },
         "startingModels" : 0,
         "listOfCurrencies" : {
-          "Power level" : 0,
+          "Power level" : 8,
           "Command points" : 0
         }
       }, {
@@ -797,7 +797,7 @@
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
           "listOfCurrencies" : {
-            "Power level" : 5,
+            "Power level" : 3,
             "Command points" : 0
           }
         } ],
@@ -989,7 +989,7 @@
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
-          "Power level" : 13,
+          "Power level" : 14,
           "Command points" : 0
         }
       }, {
@@ -1063,7 +1063,7 @@
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
           "listOfCurrencies" : {
-            "Power level" : 3,
+            "Power level" : 0,
             "Command points" : 0
           }
         }, {
@@ -1095,8 +1095,36 @@
         },
         "startingModels" : 0,
         "listOfCurrencies" : {
-          "Power level" : 0,
+          "Power level" : 8,
           "Command points" : 0
+        }
+      }, {
+        "unitName" : "[0]Valerian and Aleya",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 3418,
+          "optionName" : "Aleya",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 3419,
+          "optionName" : "Valerian",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : { }
+        } ],
+        "unitCategory" : "HQ",
+        "unitCost" : 20.0,
+        "unitID" : 3420,
+        "autoAddDictionary" : {
+          "3419" : 1,
+          "3418" : 1
+        },
+        "startingModels" : 0,
+        "listOfCurrencies" : {
+          "Power level" : 10
         }
       } ],
       "listOfEquipmentOptions" : [ {

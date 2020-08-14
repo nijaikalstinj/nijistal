@@ -6,7 +6,7 @@
         "unitName" : "[0]Prosecutors",
         "listOfOptions" : [ {
           "optionCost" : 12.0,
-          "optionID" : 7226,
+          "optionID" : 7230,
           "optionName" : "Prosecutor",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -16,53 +16,6 @@
           }
         }, {
           "optionCost" : 12.0,
-          "optionID" : 7227,
-          "optionName" : "Sister Superior",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Elites",
-        "unitCost" : 0.0,
-        "unitID" : 7228,
-        "autoAddDictionary" : {
-          "7226" : 4,
-          "7227" : 1
-        },
-        "startingModels" : 0,
-        "listOfCurrencies" : {
-          "Power level" : 3,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Null-Maiden Rhino",
-        "listOfOptions" : null,
-        "unitCategory" : "Dedicated Transport",
-        "unitCost" : 75.0,
-        "unitID" : 7229,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 3,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[0]Vigilators",
-        "listOfOptions" : [ {
-          "optionCost" : 17.0,
-          "optionID" : 7230,
-          "optionName" : "Vigilator",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 17.0,
           "optionID" : 7231,
           "optionName" : "Sister Superior",
           "autoAddDictionary" : { },
@@ -81,6 +34,53 @@
         },
         "startingModels" : 0,
         "listOfCurrencies" : {
+          "Power level" : 3,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "[1]Null-Maiden Rhino",
+        "listOfOptions" : null,
+        "unitCategory" : "Dedicated Transport",
+        "unitCost" : 75.0,
+        "unitID" : 7233,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 4,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "[0]Vigilators",
+        "listOfOptions" : [ {
+          "optionCost" : 17.0,
+          "optionID" : 7234,
+          "optionName" : "Vigilator",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 17.0,
+          "optionID" : 7235,
+          "optionName" : "Sister Superior",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "unitCategory" : "Elites",
+        "unitCost" : 0.0,
+        "unitID" : 7236,
+        "autoAddDictionary" : {
+          "7235" : 1,
+          "7234" : 4
+        },
+        "startingModels" : 0,
+        "listOfCurrencies" : {
           "Power level" : 4,
           "Command points" : 0
         }
@@ -88,7 +88,7 @@
         "unitName" : "[0]Witchseekers",
         "listOfOptions" : [ {
           "optionCost" : 18.0,
-          "optionID" : 7234,
+          "optionID" : 7238,
           "optionName" : "Sister Superior",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -98,7 +98,7 @@
           }
         }, {
           "optionCost" : 18.0,
-          "optionID" : 7233,
+          "optionID" : 7237,
           "optionName" : "Witchseeker",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -109,14 +109,14 @@
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 0.0,
-        "unitID" : 7235,
+        "unitID" : 7239,
         "autoAddDictionary" : {
-          "7233" : 4,
-          "7234" : 1
+          "7237" : 4,
+          "7238" : 1
         },
         "startingModels" : 0,
         "listOfCurrencies" : {
-          "Power level" : 5,
+          "Power level" : 4,
           "Command points" : 0
         }
       } ],

@@ -3,9 +3,9 @@
     "gameName" : "Warhammer 40k 8th Edition",
     "armies" : [ {
       "listOfUnits" : [ {
-        "unitName" : "[0]Corsair Skyreaver Band",
+        "unitName" : "[1]Corsair Skyreaver Band",
         "listOfOptions" : [ {
-          "optionCost" : 10.0,
+          "optionCost" : 13.0,
           "optionID" : 812,
           "optionName" : "Skyreaver w/ Lasblaster",
           "autoAddDictionary" : { },
@@ -15,7 +15,7 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 10.0,
+          "optionCost" : 13.0,
           "optionID" : 815,
           "optionName" : "Skyreaver w/ Shardcarbine",
           "autoAddDictionary" : { },
@@ -25,7 +25,7 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 10.0,
+          "optionCost" : 13.0,
           "optionID" : 813,
           "optionName" : "Skyreaver w/ Heavy Weapon",
           "autoAddDictionary" : { },
@@ -35,7 +35,7 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 10.0,
+          "optionCost" : 13.0,
           "optionID" : 816,
           "optionName" : "Skyreaver w/ Spar-glaive",
           "autoAddDictionary" : { },
@@ -65,7 +65,7 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 15.0,
+          "optionCost" : 13.0,
           "optionID" : 811,
           "optionName" : "Corsair Skyreaver Felarch",
           "autoAddDictionary" : { },
@@ -95,7 +95,7 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 10.0,
+          "optionCost" : 13.0,
           "optionID" : 814,
           "optionName" : "Skyreaver w/ Shuriken Catapult",
           "autoAddDictionary" : { },
@@ -115,7 +115,7 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 2.0,
+          "optionCost" : 5.0,
           "optionID" : 785,
           "optionName" : "Brace of Pistols",
           "autoAddDictionary" : { },
@@ -131,15 +131,15 @@
         "autoAddDictionary" : {
           "812" : 5
         },
-        "startingModels" : 0,
+        "startingModels" : 1,
         "listOfCurrencies" : {
-          "Power level" : 6,
+          "Power level" : 5,
           "Command points" : 0
         }
       }, {
-        "unitName" : "[0]Corsair Reaver Band",
+        "unitName" : "[1]Corsair Reaver Band",
         "listOfOptions" : [ {
-          "optionCost" : 7.0,
+          "optionCost" : 10.0,
           "optionID" : 823,
           "optionName" : "Reaver w/ Spar-glaive",
           "autoAddDictionary" : { },
@@ -149,7 +149,7 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 12.0,
+          "optionCost" : 10.0,
           "optionID" : 818,
           "optionName" : "Corsair Reaver Felarch",
           "autoAddDictionary" : { },
@@ -169,7 +169,7 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 7.0,
+          "optionCost" : 10.0,
           "optionID" : 822,
           "optionName" : "Reaver w/ Shardcarbine",
           "autoAddDictionary" : { },
@@ -179,7 +179,7 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 7.0,
+          "optionCost" : 10.0,
           "optionID" : 821,
           "optionName" : "Reaver w/ Shuriken Catapult",
           "autoAddDictionary" : { },
@@ -199,7 +199,7 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 7.0,
+          "optionCost" : 10.0,
           "optionID" : 819,
           "optionName" : "Reaver w/ Lasblaster",
           "autoAddDictionary" : { },
@@ -226,7 +226,7 @@
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
-          "optionCost" : 7.0,
+          "optionCost" : 10.0,
           "optionID" : 820,
           "optionName" : "Reaver w/ Heavy Weapon",
           "autoAddDictionary" : { },
@@ -256,7 +256,7 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 2.0,
+          "optionCost" : 5.0,
           "optionID" : 785,
           "optionName" : "Brace of Pistols",
           "autoAddDictionary" : { },
@@ -272,7 +272,7 @@
         "autoAddDictionary" : {
           "819" : 5
         },
-        "startingModels" : 0,
+        "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 4,
           "Command points" : 0
@@ -338,7 +338,7 @@
           }
         } ],
         "unitCategory" : "Dedicated Transport",
-        "unitCost" : 55.0,
+        "unitCost" : 60.0,
         "unitID" : 828,
         "autoAddDictionary" : {
           "825" : 1,
@@ -585,7 +585,7 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 7.0,
+          "optionCost" : 10.0,
           "optionID" : 801,
           "optionName" : "Scatter Laser",
           "autoAddDictionary" : { },
