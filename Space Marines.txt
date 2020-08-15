@@ -3,135 +3,41 @@
     "gameName" : "Warhammer 40k 8th Edition",
     "armies" : [ {
       "listOfUnits" : [ {
-        "unitName" : "[1]Land Raider Helios",
+        "unitName" : "[1]Venerable Dreadnought",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Dreadnought Arm Weapons",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Dreadnought Heavy Weapons",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        } ],
+        "unitCategory" : "Elites",
+        "unitCost" : 85.0,
+        "unitID" : 2396,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 8,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "[1]Repulsor Executioner",
         "listOfOptions" : null,
         "unitCategory" : "Heavy Support",
-        "unitCost" : 205.0,
-        "unitID" : 2022,
+        "unitCost" : 250.0,
+        "unitID" : 2418,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
-          "Power level" : 15,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Arch-Centurion Carnac Commodus",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Warlord Traits",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
-        "unitCategory" : "HQ",
-        "unitCost" : 70.0,
-        "unitID" : 1996,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 5,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Mortis Dreadnought",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 2027,
-          "optionName" : "Two twin lascannons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 2028,
-          "optionName" : "Two missile launchers",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 2030,
-          "optionName" : "Two multi-meltas",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 2025,
-          "optionName" : "Two twin heavy bolters",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 2029,
-          "optionName" : "Two assault cannons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 2026,
-          "optionName" : "Two twin autocannons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 2031,
-          "optionName" : "Two heavy plasma cannons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Heavy Support",
-        "unitCost" : 70.0,
-        "unitID" : 2032,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 7,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Captain Zhrukhal Androcles",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Warlord Traits",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
-        "unitCategory" : "HQ",
-        "unitCost" : 110.0,
-        "unitID" : 2017,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 6,
+          "Power level" : 19,
           "Command points" : 0
         }
       }, {
@@ -161,49 +67,48 @@
           "Command points" : 0
         }
       }, {
-        "unitName" : "[1]Chaplain Ivanus Enkomi",
+        "unitName" : "[1]Eliminator Squad",
         "listOfOptions" : [ {
+          "optionCost" : 28.0,
+          "optionID" : 2415,
+          "optionName" : "Eliminator with Las Fusil",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Warlord Traits",
+          "optionName" : "$Special-Issue Wargear",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 28.0,
+          "optionID" : 2416,
+          "optionName" : "Eliminator Sergeant",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 28.0,
+          "optionID" : 2414,
+          "optionName" : "Eliminator with Bolt Sniper",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
-        "unitCategory" : "HQ",
-        "unitCost" : 100.0,
-        "unitID" : 1998,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 5,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Relic Leviathan Dreadnought",
-        "listOfOptions" : null,
         "unitCategory" : "Heavy Support",
-        "unitCost" : 220.0,
-        "unitID" : 2073,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 18,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Armenneus Valthex",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Warlord Traits",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
-        "unitCategory" : "HQ",
-        "unitCost" : 90.0,
-        "unitID" : 1994,
+        "unitCost" : 0.0,
+        "unitID" : 2417,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -226,29 +131,12 @@
         "unitCategory" : "Elites",
         "unitCost" : 0.0,
         "unitID" : 2394,
-        "autoAddDictionary" : { },
+        "autoAddDictionary" : {
+          "2393" : 4
+        },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 2,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Lias Issodon",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Warlord Traits",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
-        "unitCategory" : "HQ",
-        "unitCost" : 150.0,
-        "unitID" : 1991,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 10,
           "Command points" : 0
         }
       }, {
@@ -281,18 +169,6 @@
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 4,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Thunderhawk Assault Gunship",
-        "listOfOptions" : null,
-        "unitCategory" : "Lords of War",
-        "unitCost" : 1350.0,
-        "unitID" : 2088,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 77,
           "Command points" : 0
         }
       }, {
@@ -348,25 +224,6 @@
           "Command points" : 0
         }
       }, {
-        "unitName" : "[1]Lugft Huron",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Warlord Traits",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
-        "unitCategory" : "HQ",
-        "unitCost" : 170.0,
-        "unitID" : 1993,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 9,
-          "Command points" : 0
-        }
-      }, {
         "unitName" : "[0]Infiltrator Squad",
         "listOfOptions" : [ {
           "optionCost" : 24.0,
@@ -419,1204 +276,13 @@
         "unitCategory" : "Troops",
         "unitCost" : 0.0,
         "unitID" : 2411,
-        "autoAddDictionary" : { },
+        "autoAddDictionary" : {
+          "2409" : 4,
+          "2407" : 1
+        },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 6,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Sokar Pattern Stormbird",
-        "listOfOptions" : null,
-        "unitCategory" : "Lords of War",
-        "unitCost" : 2000.0,
-        "unitID" : 2090,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 116,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Chaplain Dreadnought Titus",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Warlord Traits",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
-        "unitCategory" : "HQ",
-        "unitCost" : 130.0,
-        "unitID" : 2001,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 12,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Caestus Assault Ram",
-        "listOfOptions" : null,
-        "unitCategory" : "Flyers",
-        "unitCost" : 250.0,
-        "unitID" : 2087,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 16,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Storm Eagle Assault Gunship",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 2078,
-          "optionName" : "Two twin hellstrike launchers",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 2079,
-          "optionName" : "Two twin lascannons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Flyers",
-        "unitCost" : 230.0,
-        "unitID" : 2080,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 19,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Relic Cerberus Heavy Tank Destroyer",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 2061,
-          "optionName" : "Two lascannons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 2060,
-          "optionName" : "Two heavy bolters",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Lords of War",
-        "unitCost" : 680.0,
-        "unitID" : 2062,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 36,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Captain Pellas Mir'san",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Warlord Traits",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
-        "unitCategory" : "HQ",
-        "unitCost" : 95.0,
-        "unitID" : 2008,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 6,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Captain Silas Alberec",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Warlord Traits",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
-        "unitCategory" : "HQ",
-        "unitCost" : 90.0,
-        "unitID" : 2013,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 6,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[0]Land Speeder Tempest",
-        "listOfOptions" : [ {
-          "optionCost" : 60.0,
-          "optionID" : 2074,
-          "optionName" : "Land Speeder Tempest",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 4,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Fast Attack",
-        "unitCost" : 0.0,
-        "unitID" : 2075,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 0,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Carab Culln the Risen",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Warlord Traits",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
-        "unitCategory" : "HQ",
-        "unitCost" : 400.0,
-        "unitID" : 2109,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 20,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Deimos Pattern Vindicator Laser Destroyer",
-        "listOfOptions" : null,
-        "unitCategory" : "Heavy Support",
-        "unitCost" : 200.0,
-        "unitID" : 2019,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 11,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Termite Assault Drill",
-        "listOfOptions" : null,
-        "unitCategory" : "Dedicated Transport",
-        "unitCost" : 130.0,
-        "unitID" : 2118,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 8,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Storm Eagle Assault Gunship - ROC Pattern",
-        "listOfOptions" : null,
-        "unitCategory" : "Flyers",
-        "unitCost" : 245.0,
-        "unitID" : 2081,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 19,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Infernum Pattern Razorback",
-        "listOfOptions" : null,
-        "unitCategory" : "Dedicated Transport",
-        "unitCost" : 80.0,
-        "unitID" : 2020,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 6,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Tyberos the Red Wake",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Warlord Traits",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
-        "unitCategory" : "HQ",
-        "unitCost" : 175.0,
-        "unitID" : 2000,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 9,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Harath Shen",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Warlord Traits",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
-        "unitCategory" : "HQ",
-        "unitCost" : 75.0,
-        "unitID" : 2010,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 4,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Chaplain Venerable Dreadnought",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 2043,
-          "optionName" : "Melee weapon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "HQ",
-        "unitCost" : 105.0,
-        "unitID" : 2044,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 11,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Siege Dreadnought",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 2033,
-          "optionName" : "Seismic hammer and meltagun",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Heavy Support",
-        "unitCost" : 80.0,
-        "unitID" : 2034,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 8,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Vaylund Cal",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 2015,
-          "optionName" : "Servo harness",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Warlord Traits",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
-        "unitCategory" : "HQ",
-        "unitCost" : 110.0,
-        "unitID" : 2016,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 10,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Relic Javelin Attack Speeder",
-        "listOfOptions" : null,
-        "unitCategory" : "Elites",
-        "unitCost" : 70.0,
-        "unitID" : 2076,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 7,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Hecaton Aiakos",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Warlord Traits",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
-        "unitCategory" : "HQ",
-        "unitCost" : 175.0,
-        "unitID" : 2018,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 9,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Relic Fellblade Super-heavy Tank",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 2063,
-          "optionName" : "Two laser destroyers",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 2064,
-          "optionName" : "Two quad lascannons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Lords of War",
-        "unitCost" : 690.0,
-        "unitID" : 2065,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 44,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Lieutenant Commander Anton Narvaez",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Warlord Traits",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
-        "unitCategory" : "HQ",
-        "unitCost" : 90.0,
-        "unitID" : 2002,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 6,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Fire Raptor Assault Gunship",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 2082,
-          "optionName" : "Two twin hellstrike launchers",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 2083,
-          "optionName" : "Two twin lascannons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 2085,
-          "optionName" : "Two quad heavy bolters",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 2084,
-          "optionName" : "Two twin autocannons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Flyers",
-        "unitCost" : 280.0,
-        "unitID" : 2086,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 23,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Whirlwind Hyperios",
-        "listOfOptions" : null,
-        "unitCategory" : "Heavy Support",
-        "unitCost" : 70.0,
-        "unitID" : 2092,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 6,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Relic Sicaran Battle Tank",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 2046,
-          "optionName" : "Two lascannons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 2045,
-          "optionName" : "Two heavy bolters",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Elites",
-        "unitCost" : 180.0,
-        "unitID" : 2047,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 11,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Land Raider Achilles",
-        "listOfOptions" : null,
-        "unitCategory" : "Heavy Support",
-        "unitCost" : 190.0,
-        "unitID" : 2024,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 17,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Relic Typhon Heavy Siege Tank",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 2058,
-          "optionName" : "Two lascannons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 2057,
-          "optionName" : "Two heavy bolters",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Lords of War",
-        "unitCost" : 720.0,
-        "unitID" : 2059,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 38,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Captain Mordaci Blaylock",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Warlord Traits",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
-        "unitCategory" : "HQ",
-        "unitCost" : 135.0,
-        "unitID" : 2007,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 7,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[0]Tarantula Air Defence Battery",
-        "listOfOptions" : [ {
-          "optionCost" : 70.0,
-          "optionID" : 2099,
-          "optionName" : "Tarantula Air Defence Battery",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 4,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Fast Attack",
-        "unitCost" : 0.0,
-        "unitID" : 2100,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 0,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[0]Tarantula Sentry Gun",
-        "listOfOptions" : [ {
-          "optionCost" : 20.0,
-          "optionID" : 2097,
-          "optionName" : "Tarantula Sentry Gun",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 3,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Fast Attack",
-        "unitCost" : 0.0,
-        "unitID" : 2098,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 0,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Honour Guard [Legends]",
-        "listOfOptions" : [ {
-          "optionCost" : 21.0,
-          "optionID" : 2425,
-          "optionName" : "Honour Guard",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Elites",
-        "unitCost" : 0.0,
-        "unitID" : 2426,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 3,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Relic Sicaran Arcus Strike Tank",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 2116,
-          "optionName" : "Two lascannons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 2115,
-          "optionName" : "Two heavy bolters",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Elites",
-        "unitCost" : 175.0,
-        "unitID" : 2117,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 11,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[0]Rapier Carrier",
-        "listOfOptions" : [ {
-          "optionCost" : 20.0,
-          "optionID" : 2094,
-          "optionName" : "Rapier Carrier",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 15.0,
-          "optionID" : 2095,
-          "optionName" : "Space Marine Gunner",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Heavy Support",
-        "unitCost" : 0.0,
-        "unitID" : 2096,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 4,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Captain Tarnus Vale",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Warlord Traits",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
-        "unitCategory" : "HQ",
-        "unitCost" : 90.0,
-        "unitID" : 2003,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 6,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Venerable Dreadnought",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Dreadnought Arm Weapons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Dreadnought Heavy Weapons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
-        "unitCategory" : "Elites",
-        "unitCost" : 85.0,
-        "unitID" : 2396,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 8,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Relic Deredeo Dreadnought",
-        "listOfOptions" : null,
-        "unitCategory" : "Elites",
-        "unitCost" : 150.0,
-        "unitID" : 2072,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 13,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Eliminator Squad",
-        "listOfOptions" : [ {
-          "optionCost" : 28.0,
-          "optionID" : 2415,
-          "optionName" : "Eliminator with Las Fusil",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Special-Issue Wargear",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 28.0,
-          "optionID" : 2416,
-          "optionName" : "Eliminator Sergeant",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 28.0,
-          "optionID" : 2414,
-          "optionName" : "Eliminator with Bolt Sniper",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Heavy Support",
-        "unitCost" : 0.0,
-        "unitID" : 2417,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 5,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Astraeus Super-heavy Tank",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 2107,
-          "optionName" : "Two plasma eradicators",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 2106,
-          "optionName" : "Two las-rippers",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Lords of War",
-        "unitCost" : 500.0,
-        "unitID" : 2108,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 36,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Deathstorm Drop Pod",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
-        "unitCategory" : "Fast Attack",
-        "unitCost" : 120.0,
-        "unitID" : 2102,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 6,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Knight-Captain Elam Courbray",
-        "listOfOptions" : null,
-        "unitCategory" : "HQ",
-        "unitCost" : 100.0,
-        "unitID" : 2014,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 6,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Relic Sicaran Punisher Assault Tank",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 2052,
-          "optionName" : "Two lascannons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 2051,
-          "optionName" : "Two heavy bolters",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Elites",
-        "unitCost" : 180.0,
-        "unitID" : 2053,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 11,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Ahazra Redth",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Warlord Traits",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Librarius discipline",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
-        "unitCategory" : "HQ",
-        "unitCost" : 115.0,
-        "unitID" : 2011,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 6,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Relic Sicaran Venator Tank Destroyer",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 2049,
-          "optionName" : "Two lascannons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 2048,
-          "optionName" : "Two heavy bolters",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Elites",
-        "unitCost" : 200.0,
-        "unitID" : 2050,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 12,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]High Chaplain Thulsa Kane",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Warlord Traits",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
-        "unitCategory" : "HQ",
-        "unitCost" : 155.0,
-        "unitID" : 2012,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 9,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Magister Sevrin Loth",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Warlord Traits",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
-        "unitCategory" : "HQ",
-        "unitCost" : 150.0,
-        "unitID" : 1999,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 8,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Captain Corien Sumatris",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Warlord Traits",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
-        "unitCategory" : "HQ",
-        "unitCost" : 90.0,
-        "unitID" : 1995,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 7,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Relic Mastodon Super-heavy Siege Transport",
-        "listOfOptions" : null,
-        "unitCategory" : "Lords of War",
-        "unitCost" : 915.0,
-        "unitID" : 2069,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 52,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Relic Spartan Assault Tank",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 2054,
-          "optionName" : "Two laser destroyers",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 2055,
-          "optionName" : "Two quad lascannons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Lords of War",
-        "unitCost" : 320.0,
-        "unitID" : 2056,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 25,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[0]Castellum Stronghold",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 2103,
-          "optionName" : "Tacticus Bunker",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 2104,
-          "optionName" : "Bunker Annex",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Fortification",
-        "unitCost" : 550.0,
-        "unitID" : 2105,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 40,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Lord Asterion Moloc",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Warlord Traits",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
-        "unitCategory" : "HQ",
-        "unitCost" : 165.0,
-        "unitID" : 1997,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 9,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Repulsor Executioner",
-        "listOfOptions" : null,
-        "unitCategory" : "Heavy Support",
-        "unitCost" : 250.0,
-        "unitID" : 2418,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 19,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Lord High Commander Carab Culln",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Warlord Traits",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
-        "unitCategory" : "HQ",
-        "unitCost" : 140.0,
-        "unitID" : 1992,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 10,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Lucius Pattern Dreadnought Drop Pod",
-        "listOfOptions" : null,
-        "unitCategory" : "Dedicated Transport",
-        "unitCost" : 80.0,
-        "unitID" : 2101,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 4,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Land Raider Prometheus",
-        "listOfOptions" : null,
-        "unitCategory" : "Heavy Support",
-        "unitCost" : 180.0,
-        "unitID" : 2023,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 16,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Bray'arth Ashmantle",
-        "listOfOptions" : null,
-        "unitCategory" : "HQ",
-        "unitCost" : 330.0,
-        "unitID" : 2009,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 17,
           "Command points" : 0
         }
       }, {
@@ -1659,38 +325,6 @@
           "Command points" : 0
         }
       }, {
-        "unitName" : "[1]Relic Sicaran Omega Tank Destroyer",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 2113,
-          "optionName" : "Two lascannons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 2112,
-          "optionName" : "Two heavy bolters",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Elites",
-        "unitCost" : 200.0,
-        "unitID" : 2114,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 12,
-          "Command points" : 0
-        }
-      }, {
         "unitName" : "[1]Librarian in Phobos Armour",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
@@ -1715,7 +349,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6365,
+          "optionID" : 6729,
           "optionName" : "Honoured by Baal",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1734,205 +368,11 @@
           "Command points" : 0
         }
       }, {
-        "unitName" : "[1]Damocles Command Rhino",
-        "listOfOptions" : null,
-        "unitCategory" : "HQ",
-        "unitCost" : 120.0,
-        "unitID" : 2091,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 7,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Relic Falchion Super-heavy Tank Destroyer",
+        "unitName" : "[1]Honour Guard [Legends]",
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 2066,
-          "optionName" : "Two laser destroyers",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 2067,
-          "optionName" : "Two quad lascannons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Lords of War",
-        "unitCost" : 790.0,
-        "unitID" : 2068,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 49,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Malakim Phoros",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Warlord Traits",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 2004,
-          "optionName" : "Glaive of Lamentation",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 2005,
-          "optionName" : "Catechist",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "HQ",
-        "unitCost" : 115.0,
-        "unitID" : 2006,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 10,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Contemptor Mortis Dreadnought",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 2037,
-          "optionName" : "Two twin lascannons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 2039,
-          "optionName" : "Two multi-meltas",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 2035,
-          "optionName" : "Two twin heavy bolters",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 2036,
-          "optionName" : "Two twin autocannons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 2038,
-          "optionName" : "Two Kheres assault cannons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 2040,
-          "optionName" : "Two heavy plasma cannons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Heavy Support",
-        "unitCost" : 105.0,
-        "unitID" : 2041,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 9,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Casan Sabius",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Warlord Traits",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
-        "unitCategory" : "HQ",
-        "unitCost" : 185.0,
-        "unitID" : 2110,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 10,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Deimos Pattern Relic Predator",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 1989,
-          "optionName" : "Two lascannons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 1987,
-          "optionName" : "Two heavy bolters",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 1988,
-          "optionName" : "Two heavy flamers",
+          "optionCost" : 21.0,
+          "optionID" : 2425,
+          "optionName" : "Honour Guard",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -1941,12 +381,14 @@
           }
         } ],
         "unitCategory" : "Elites",
-        "unitCost" : 90.0,
-        "unitID" : 1990,
-        "autoAddDictionary" : { },
+        "unitCost" : 0.0,
+        "unitID" : 2426,
+        "autoAddDictionary" : {
+          "2425" : 2
+        },
         "startingModels" : 1,
         "listOfCurrencies" : {
-          "Power level" : 9,
+          "Power level" : 3,
           "Command points" : 0
         }
       }, {
@@ -1982,22 +424,13 @@
         "unitCategory" : "Fast Attack",
         "unitCost" : 0.0,
         "unitID" : 2402,
-        "autoAddDictionary" : { },
+        "autoAddDictionary" : {
+          "2401" : 2,
+          "2400" : 1
+        },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 5,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Relic Land Raider Proteus",
-        "listOfOptions" : null,
-        "unitCategory" : "Heavy Support",
-        "unitCost" : 210.0,
-        "unitID" : 2021,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 16,
           "Command points" : 0
         }
       }, {
@@ -2016,75 +449,12 @@
         "unitCategory" : "HQ",
         "unitCost" : 93.0,
         "unitID" : 2413,
-        "autoAddDictionary" : { },
+        "autoAddDictionary" : {
+          "2412" : 1
+        },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 5,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Sirae Karagon",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Warlord Traits",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
-        "unitCategory" : "Elites",
-        "unitCost" : 72.0,
-        "unitID" : 2111,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 4,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Relic Contemptor Dreadnought",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 2070,
-          "optionName" : "Dreadnought melee weapon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "unitCategory" : "Elites",
-        "unitCost" : 105.0,
-        "unitID" : 2071,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 9,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Relic Whirlwind Scorpius",
-        "listOfOptions" : null,
-        "unitCategory" : "Elites",
-        "unitCost" : 195.0,
-        "unitID" : 2093,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 12,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Xiphon Interceptor",
-        "listOfOptions" : null,
-        "unitCategory" : "Flyers",
-        "unitCost" : 110.0,
-        "unitID" : 2077,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 11,
           "Command points" : 0
         }
       }, {
@@ -2111,18 +481,6 @@
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 5,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]Thunderhawk Transporter",
-        "listOfOptions" : null,
-        "unitCategory" : "Lords of War",
-        "unitCost" : 1000.0,
-        "unitID" : 2089,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 27,
           "Command points" : 0
         }
       } ],
@@ -2301,7 +659,40 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 11754,
+          "optionID" : 15484,
+          "optionName" : "2. Might of Heroes",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15684,
+          "optionName" : "3. Null Zone",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15493,
+          "optionName" : "1. Veil of Time",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "equipmentName" : "$Librarius discipline"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 15495,
           "optionName" : "Bolt pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2311,7 +702,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 11908,
+          "optionID" : 15649,
           "optionName" : "Hand Flamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2347,7 +738,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 20.0,
-          "optionID" : 11917,
+          "optionID" : 15658,
           "optionName" : "Heavy plasma cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2357,7 +748,7 @@
           }
         }, {
           "optionCost" : 30.0,
-          "optionID" : 11914,
+          "optionID" : 15655,
           "optionName" : "Twin autocannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2367,7 +758,7 @@
           }
         }, {
           "optionCost" : 40.0,
-          "optionID" : 11807,
+          "optionID" : 15548,
           "optionName" : "Twin lascannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2377,7 +768,7 @@
           }
         }, {
           "optionCost" : 30.0,
-          "optionID" : 11819,
+          "optionID" : 15560,
           "optionName" : "Twin heavy bolter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2387,7 +778,7 @@
           }
         }, {
           "optionCost" : 30.0,
-          "optionID" : 11669,
+          "optionID" : 15410,
           "optionName" : "Twin heavy flamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2400,7 +791,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 10.0,
-          "optionID" : 11667,
+          "optionID" : 15408,
           "optionName" : "Grav-gun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2410,7 +801,7 @@
           }
         }, {
           "optionCost" : 6.0,
-          "optionID" : 11629,
+          "optionID" : 15370,
           "optionName" : "Flamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2479,7 +870,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11835,
+          "optionID" : 15576,
           "optionName" : "The Shield Eternal",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2489,7 +880,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11836,
+          "optionID" : 15577,
           "optionName" : "Teeth of Terra",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2519,7 +910,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11794,
+          "optionID" : 15535,
           "optionName" : "The Primarch's Wrath",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2539,7 +930,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11824,
+          "optionID" : 15565,
           "optionName" : "Purgatorus",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2569,7 +960,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11613,
+          "optionID" : 15354,
           "optionName" : "The Burning Blade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2609,7 +1000,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11638,
+          "optionID" : 15379,
           "optionName" : "Standard of the Emperor Ascendant",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2834,7 +1225,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 10.0,
-          "optionID" : 11709,
+          "optionID" : 15450,
           "optionName" : "Grav-cannon and grav-amp",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2933,7 +1324,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 20.0,
-          "optionID" : 11620,
+          "optionID" : 15361,
           "optionName" : "Missile launcher",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2943,7 +1334,7 @@
           }
         }, {
           "optionCost" : 20.0,
-          "optionID" : 11673,
+          "optionID" : 15414,
           "optionName" : "Dreadnought combat weapon w/Storm Bolter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2953,7 +1344,7 @@
           }
         }, {
           "optionCost" : 20.0,
-          "optionID" : 11610,
+          "optionID" : 15351,
           "optionName" : "Dreadnought combat weapon w/Heavy Flamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2963,7 +1354,7 @@
           }
         }, {
           "optionCost" : 30.0,
-          "optionID" : 11914,
+          "optionID" : 15655,
           "optionName" : "Twin autocannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3081,7 +1472,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 5.0,
-          "optionID" : 11900,
+          "optionID" : 15641,
           "optionName" : "Lightning Claw",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3091,7 +1482,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 11815,
+          "optionID" : 15556,
           "optionName" : "Power fist",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3101,7 +1492,7 @@
           }
         }, {
           "optionCost" : 15.0,
-          "optionID" : 11892,
+          "optionID" : 15633,
           "optionName" : "Thunder hammer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3111,7 +1502,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 11908,
+          "optionID" : 15649,
           "optionName" : "Hand Flamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3124,7 +1515,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 8.0,
-          "optionID" : 11880,
+          "optionID" : 15621,
           "optionName" : "Combi-flamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3200,7 +1591,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 5.0,
-          "optionID" : 11900,
+          "optionID" : 15641,
           "optionName" : "Lightning Claw",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3210,7 +1601,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 11815,
+          "optionID" : 15556,
           "optionName" : "Power fist",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3220,7 +1611,7 @@
           }
         }, {
           "optionCost" : 15.0,
-          "optionID" : 11892,
+          "optionID" : 15633,
           "optionName" : "Thunder hammer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3233,7 +1624,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 15.0,
-          "optionID" : 11740,
+          "optionID" : 15481,
           "optionName" : "Heavy flamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3253,6 +1644,9 @@
           }
         } ],
         "equipmentName" : "$Terminator Heavy Weapons"
+      }, {
+        "listOfOptions" : null,
+        "equipmentName" : "$Relics"
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
@@ -3411,7 +1805,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 8.0,
-          "optionID" : 11880,
+          "optionID" : 15621,
           "optionName" : "Combi-flamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3421,7 +1815,7 @@
           }
         }, {
           "optionCost" : 3.0,
-          "optionID" : 11694,
+          "optionID" : 15435,
           "optionName" : "Storm bolter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3513,7 +1907,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 11630,
+          "optionID" : 15371,
           "optionName" : "Indomitus Crusaders",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3523,7 +1917,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11749,
+          "optionID" : 15490,
           "optionName" : "Victrix Guard",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3533,7 +1927,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11777,
+          "optionID" : 15518,
           "optionName" : "Black Templars Sword Brethren",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3543,7 +1937,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11660,
+          "optionID" : 15401,
           "optionName" : "Imperial Fists Siegebreaker Cohort",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3553,7 +1947,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11782,
+          "optionID" : 15523,
           "optionName" : "Crimson Fists Liberator Strike Force",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3692,7 +2086,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 5.0,
-          "optionID" : 11900,
+          "optionID" : 15641,
           "optionName" : "Lightning Claw",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3702,7 +2096,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 11815,
+          "optionID" : 15556,
           "optionName" : "Power fist",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3712,7 +2106,7 @@
           }
         }, {
           "optionCost" : 15.0,
-          "optionID" : 11892,
+          "optionID" : 15633,
           "optionName" : "Thunder hammer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3921,6 +2315,189 @@
           }
         } ],
         "equipmentName" : "$Geokinesis Discipline"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "Star Phantoms",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "Red Hunters",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "Astral Claws",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "Sons of Medusa",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "Exorcists",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "Marines Errant",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "Novamarines",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "Blood Ravens",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "Carcharodons",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "Executioners",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "Minotaurs",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "Fire Angels",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "Red Scorpions",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "Raptors",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "Lamenters",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "Howling Gryphons",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "Mantis Warriors",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "Fire Hawks",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "equipmentName" : "$Forge World Chapters"
       } ],
       "armyName" : "Space Marines",
       "armyCategories" : [ ]

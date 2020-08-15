@@ -35,7 +35,10 @@
         "unitCategory" : "Lords of War",
         "unitCost" : 430.0,
         "unitID" : 927,
-        "autoAddDictionary" : { },
+        "autoAddDictionary" : {
+          "925" : 1,
+          "926" : 1
+        },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 22,
@@ -83,7 +86,9 @@
         "unitCategory" : "Heavy Support",
         "unitCost" : 200.0,
         "unitID" : 992,
-        "autoAddDictionary" : { },
+        "autoAddDictionary" : {
+          "991" : 1
+        },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 11,
@@ -168,8 +173,10 @@
         "unitCategory" : "Heavy Support",
         "unitCost" : 0.0,
         "unitID" : 950,
-        "autoAddDictionary" : { },
-        "startingModels" : 1,
+        "autoAddDictionary" : {
+          "949" : 1
+        },
+        "startingModels" : 0,
         "listOfCurrencies" : {
           "Power level" : 0,
           "Command points" : 0
@@ -309,7 +316,10 @@
         "unitCategory" : "Heavy Support",
         "unitCost" : 210.0,
         "unitID" : 987,
-        "autoAddDictionary" : { },
+        "autoAddDictionary" : {
+          "983" : 1,
+          "984" : 1
+        },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 12,
@@ -450,7 +460,12 @@
         "unitCategory" : "Lords of War",
         "unitCost" : 600.0,
         "unitID" : 912,
-        "autoAddDictionary" : { },
+        "autoAddDictionary" : {
+          "908" : 1,
+          "909" : 1,
+          "910" : 1,
+          "911" : 1
+        },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 30,
@@ -895,7 +910,9 @@
         "unitCategory" : "Fast Attack",
         "unitCost" : 180.0,
         "unitID" : 920,
-        "autoAddDictionary" : { },
+        "autoAddDictionary" : {
+          "918" : 1
+        },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 9,
@@ -931,7 +948,9 @@
         "unitCategory" : "Heavy Support",
         "unitCost" : 195.0,
         "unitID" : 937,
-        "autoAddDictionary" : { },
+        "autoAddDictionary" : {
+          "936" : 1
+        },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 13,
@@ -1048,7 +1067,11 @@
         "unitCategory" : "Fast Attack",
         "unitCost" : 255.0,
         "unitID" : 916,
-        "autoAddDictionary" : { },
+        "autoAddDictionary" : {
+          "913" : 1,
+          "914" : 1,
+          "915" : 1
+        },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 13,
@@ -1263,7 +1286,7 @@
           }
         }, {
           "optionCost" : 20.0,
-          "optionID" : 4507,
+          "optionID" : 4425,
           "optionName" : "Helbrute fist",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1276,7 +1299,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 4709,
+          "optionID" : 4560,
           "optionName" : "Gift of Contagion",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1286,7 +1309,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4686,
+          "optionID" : 4537,
           "optionName" : "Blades of Putrefaction",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1296,7 +1319,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4725,
+          "optionID" : 4576,
           "optionName" : "Miasma of Pestilence",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1306,7 +1329,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4735,
+          "optionID" : 4586,
           "optionName" : "Putrescent Vitality",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1316,7 +1339,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4740,
+          "optionID" : 4591,
           "optionName" : "Curse of the Leper",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1326,7 +1349,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4705,
+          "optionID" : 4556,
           "optionName" : "Plague Wind",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,

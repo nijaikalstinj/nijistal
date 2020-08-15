@@ -244,7 +244,9 @@
         "unitCategory" : "HQ",
         "unitCost" : 105.0,
         "unitID" : 2044,
-        "autoAddDictionary" : { },
+        "autoAddDictionary" : {
+          "2043" : 1
+        },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 11,
@@ -432,7 +434,10 @@
         "unitCategory" : "HQ",
         "unitCost" : 115.0,
         "unitID" : 2006,
-        "autoAddDictionary" : { },
+        "autoAddDictionary" : {
+          "2005" : 1,
+          "2004" : 1
+        },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 10,
@@ -466,7 +471,9 @@
         "unitCategory" : "Fast Attack",
         "unitCost" : 0.0,
         "unitID" : 2075,
-        "autoAddDictionary" : { },
+        "autoAddDictionary" : {
+          "2074" : 1
+        },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 0,
@@ -541,7 +548,9 @@
         "unitCategory" : "Fast Attack",
         "unitCost" : 0.0,
         "unitID" : 2098,
-        "autoAddDictionary" : { },
+        "autoAddDictionary" : {
+          "2097" : 1
+        },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 0,
@@ -1164,7 +1173,9 @@
         "unitCategory" : "HQ",
         "unitCost" : 110.0,
         "unitID" : 2016,
-        "autoAddDictionary" : { },
+        "autoAddDictionary" : {
+          "2015" : 1
+        },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 10,
@@ -1297,7 +1308,10 @@
         "unitCategory" : "Fortification",
         "unitCost" : 550.0,
         "unitID" : 2105,
-        "autoAddDictionary" : { },
+        "autoAddDictionary" : {
+          "2104" : 3,
+          "2103" : 1
+        },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 40,
@@ -1616,7 +1630,10 @@
         "unitCategory" : "Heavy Support",
         "unitCost" : 0.0,
         "unitID" : 2096,
-        "autoAddDictionary" : { },
+        "autoAddDictionary" : {
+          "2095" : 2,
+          "2094" : 1
+        },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 4,
@@ -1650,7 +1667,9 @@
         "unitCategory" : "Fast Attack",
         "unitCost" : 0.0,
         "unitID" : 2100,
-        "autoAddDictionary" : { },
+        "autoAddDictionary" : {
+          "2099" : 1
+        },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 0,
@@ -1660,7 +1679,7 @@
       "listOfEquipmentOptions" : [ {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 11743,
+          "optionID" : 15484,
           "optionName" : "2. Might of Heroes",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1670,7 +1689,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11943,
+          "optionID" : 15684,
           "optionName" : "3. Null Zone",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1680,7 +1699,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11752,
+          "optionID" : 15493,
           "optionName" : "1. Veil of Time",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
