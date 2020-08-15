@@ -6,7 +6,7 @@
         "unitName" : "[1]Larsen van der Grauss",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 10425,
+          "optionID" : 9992,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -16,7 +16,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 1978,
+          "optionID" : 9971,
           "optionName" : "Voltaic Pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -26,7 +26,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10431,
+          "optionID" : 9994,
           "optionName" : "Concussion Grenades",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -37,8 +37,10 @@
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 25.0,
-        "unitID" : 1979,
-        "autoAddDictionary" : { },
+        "unitID" : 9973,
+        "autoAddDictionary" : {
+          "9971" : 1
+        },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 2,
@@ -48,7 +50,7 @@
         "unitName" : "[1]Elucia Vhane",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 10425,
+          "optionID" : 9992,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -58,7 +60,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 1972,
+          "optionID" : 9975,
           "optionName" : "Monomolecular Cane-rapier",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -68,7 +70,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10431,
+          "optionID" : 9994,
           "optionName" : "Concussion Grenades",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -78,7 +80,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 1973,
+          "optionID" : 9977,
           "optionName" : "Heirloom Pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -89,8 +91,11 @@
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 50.0,
-        "unitID" : 1974,
-        "autoAddDictionary" : { },
+        "unitID" : 9978,
+        "autoAddDictionary" : {
+          "9975" : 1,
+          "9977" : 1
+        },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 3,
@@ -100,7 +105,7 @@
         "unitName" : "[0]Nitsch's Squad",
         "listOfOptions" : [ {
           "optionCost" : 7.0,
-          "optionID" : 1984,
+          "optionID" : 9979,
           "optionName" : "Voidsman",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -110,7 +115,7 @@
           }
         }, {
           "optionCost" : 7.0,
-          "optionID" : 1985,
+          "optionID" : 9980,
           "optionName" : "Aximillion",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -120,7 +125,7 @@
           }
         }, {
           "optionCost" : 7.0,
-          "optionID" : 1983,
+          "optionID" : 9981,
           "optionName" : "Voidsman",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -130,7 +135,7 @@
           }
         }, {
           "optionCost" : 7.0,
-          "optionID" : 1982,
+          "optionID" : 9982,
           "optionName" : "Voidsmaster Nitsch",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -140,7 +145,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10429,
+          "optionID" : 9993,
           "optionName" : "Laspistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -150,7 +155,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10430,
+          "optionID" : 9984,
           "optionName" : "Lasgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -160,7 +165,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10431,
+          "optionID" : 9994,
           "optionName" : "Concussion Grenades",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -171,8 +176,12 @@
         } ],
         "unitCategory" : "Troops",
         "unitCost" : 0.0,
-        "unitID" : 1986,
-        "autoAddDictionary" : { },
+        "unitID" : 9986,
+        "autoAddDictionary" : {
+          "9982" : 1,
+          "9980" : 1,
+          "9979" : 1
+        },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 2,
@@ -182,7 +191,7 @@
         "unitName" : "[1]Knosso Prond",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 10425,
+          "optionID" : 9992,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -192,7 +201,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10431,
+          "optionID" : 9994,
           "optionName" : "Concussion Grenades",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -202,7 +211,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 1976,
+          "optionID" : 9989,
           "optionName" : "Death Cult Power Blade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -212,7 +221,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 1975,
+          "optionID" : 9990,
           "optionName" : "Dartmask",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -223,8 +232,11 @@
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 28.0,
-        "unitID" : 1977,
-        "autoAddDictionary" : { },
+        "unitID" : 9991,
+        "autoAddDictionary" : {
+          "9989" : 1,
+          "9990" : 1
+        },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 2,
@@ -234,7 +246,7 @@
         "unitName" : "[1]Sanistasia Minst",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 10425,
+          "optionID" : 9992,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -244,7 +256,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10429,
+          "optionID" : 9993,
           "optionName" : "Laspistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -254,7 +266,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10431,
+          "optionID" : 9994,
           "optionName" : "Concussion Grenades",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -264,7 +276,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 1980,
+          "optionID" : 9995,
           "optionName" : "Scalpel Claw",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -275,8 +287,10 @@
         } ],
         "unitCategory" : "Other",
         "unitCost" : 20.0,
-        "unitID" : 1981,
-        "autoAddDictionary" : { },
+        "unitID" : 9996,
+        "autoAddDictionary" : {
+          "9995" : 1
+        },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 1,
@@ -286,7 +300,7 @@
       "listOfEquipmentOptions" : [ {
         "listOfOptions" : [ {
           "optionCost" : 3.0,
-          "optionID" : 18228,
+          "optionID" : 15785,
           "optionName" : "Storm bolter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -296,7 +310,7 @@
           }
         }, {
           "optionCost" : 15.0,
-          "optionID" : 18139,
+          "optionID" : 15786,
           "optionName" : "Incinerator",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -306,7 +320,7 @@
           }
         }, {
           "optionCost" : 6.0,
-          "optionID" : 17868,
+          "optionID" : 15787,
           "optionName" : "Flamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -316,7 +330,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 5220,
+          "optionID" : 15788,
           "optionName" : "Condemnor Boltgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -326,7 +340,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11388,
+          "optionID" : 15789,
           "optionName" : "Combi-plasma",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -336,7 +350,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 17865,
+          "optionID" : 15932,
           "optionName" : "Meltagun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -346,7 +360,7 @@
           }
         }, {
           "optionCost" : 11.0,
-          "optionID" : 13552,
+          "optionID" : 15931,
           "optionName" : "Plasma gun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -356,7 +370,7 @@
           }
         }, {
           "optionCost" : 8.0,
-          "optionID" : 18087,
+          "optionID" : 15933,
           "optionName" : "Combi-flamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -366,7 +380,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16170,
+          "optionID" : 15934,
           "optionName" : "Boltgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -376,7 +390,7 @@
           }
         }, {
           "optionCost" : 15.0,
-          "optionID" : 18229,
+          "optionID" : 15794,
           "optionName" : "Combi-melta",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -386,7 +400,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10860,
+          "optionID" : 15936,
           "optionName" : "Hot-Shot Lasgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -399,7 +413,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 15.0,
-          "optionID" : 18271,
+          "optionID" : 15928,
           "optionName" : "Thunder hammer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -409,7 +423,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11339,
+          "optionID" : 15797,
           "optionName" : "Nemesis Daemon Hammer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -419,7 +433,7 @@
           }
         }, {
           "optionCost" : 4.0,
-          "optionID" : 13559,
+          "optionID" : 15929,
           "optionName" : "Power sword",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -429,7 +443,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 18032,
+          "optionID" : 15930,
           "optionName" : "Power fist",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -439,7 +453,7 @@
           }
         }, {
           "optionCost" : 4.0,
-          "optionID" : 13563,
+          "optionID" : 15935,
           "optionName" : "Power maul",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -449,7 +463,7 @@
           }
         }, {
           "optionCost" : 4.0,
-          "optionID" : 18179,
+          "optionID" : 15801,
           "optionName" : "Null Rod [Legends]",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -465,7 +479,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 18020,
+          "optionID" : 15921,
           "optionName" : "Ordo Hereticus",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -475,7 +489,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 18326,
+          "optionID" : 15922,
           "optionName" : "Ordo Minoris",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -485,7 +499,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 18282,
+          "optionID" : 15923,
           "optionName" : "Ordo Malleus",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -495,7 +509,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 18153,
+          "optionID" : 15924,
           "optionName" : "Ordo Xenos",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -508,7 +522,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 18114,
+          "optionID" : 15823,
           "optionName" : "Ignis Judicium",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -518,7 +532,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 18102,
+          "optionID" : 15824,
           "optionName" : "Bio-corrosive Poisons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -528,7 +542,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 17938,
+          "optionID" : 15825,
           "optionName" : "Tainted Blade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -538,7 +552,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 17876,
+          "optionID" : 15826,
           "optionName" : "Digital Weapons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -548,7 +562,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 18142,
+          "optionID" : 15827,
           "optionName" : "Blade of the Ordo",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -558,7 +572,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 17942,
+          "optionID" : 15828,
           "optionName" : "Blackshroud",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -574,7 +588,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 15.0,
-          "optionID" : 18271,
+          "optionID" : 15928,
           "optionName" : "Thunder hammer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -584,7 +598,7 @@
           }
         }, {
           "optionCost" : 4.0,
-          "optionID" : 13559,
+          "optionID" : 15929,
           "optionName" : "Power sword",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -594,7 +608,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 18032,
+          "optionID" : 15930,
           "optionName" : "Power fist",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -604,7 +618,7 @@
           }
         }, {
           "optionCost" : 11.0,
-          "optionID" : 13552,
+          "optionID" : 15931,
           "optionName" : "Plasma gun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -614,7 +628,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 17865,
+          "optionID" : 15932,
           "optionName" : "Meltagun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -624,7 +638,7 @@
           }
         }, {
           "optionCost" : 8.0,
-          "optionID" : 18087,
+          "optionID" : 15933,
           "optionName" : "Combi-flamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -634,7 +648,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16170,
+          "optionID" : 15934,
           "optionName" : "Boltgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -644,7 +658,7 @@
           }
         }, {
           "optionCost" : 4.0,
-          "optionID" : 13563,
+          "optionID" : 15935,
           "optionName" : "Power maul",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -654,7 +668,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10860,
+          "optionID" : 15936,
           "optionName" : "Hot-Shot Lasgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -667,7 +681,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 17908,
+          "optionID" : 15726,
           "optionName" : "Bolt pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -677,7 +691,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 5223,
+          "optionID" : 15902,
           "optionName" : "Inferno pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -687,7 +701,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 13561,
+          "optionID" : 15740,
           "optionName" : "Plasma pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -697,7 +711,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 19414,
+          "optionID" : 17590,
           "optionName" : "Needle Pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -713,7 +727,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 18033,
+          "optionID" : 15909,
           "optionName" : "5) Psychic Pursuit",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -723,7 +737,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 18173,
+          "optionID" : 15910,
           "optionName" : "Hereticus - Ascertainment",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -733,7 +747,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 18286,
+          "optionID" : 15911,
           "optionName" : "2) Psychic Fortitude",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -743,7 +757,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 18027,
+          "optionID" : 15912,
           "optionName" : "4) Mental Interrogation",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -753,7 +767,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 18080,
+          "optionID" : 15913,
           "optionName" : "1) Terrify",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -763,7 +777,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 17936,
+          "optionID" : 15914,
           "optionName" : "Malleus - Power Through Knowledge",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -773,7 +787,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 18157,
+          "optionID" : 15915,
           "optionName" : "3) Dominate",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -783,7 +797,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 17967,
+          "optionID" : 15916,
           "optionName" : "6) Castigation",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -793,7 +807,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 17898,
+          "optionID" : 15917,
           "optionName" : "Xenos - Psychic Veil",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,

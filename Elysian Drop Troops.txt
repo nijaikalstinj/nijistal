@@ -6,7 +6,7 @@
         "unitName" : "[0]Elysian Drop Trooper Squad",
         "listOfOptions" : [ {
           "optionCost" : 10.0,
-          "optionID" : 2158,
+          "optionID" : 11133,
           "optionName" : "Guardsman w/ Vox Caster",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -16,7 +16,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 2155,
+          "optionID" : 11134,
           "optionName" : "Sergeant",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -26,7 +26,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 2159,
+          "optionID" : 11135,
           "optionName" : "Guardsman w/Breacher Charge",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -36,7 +36,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11084,
+          "optionID" : 11210,
           "optionName" : "Lasgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -46,7 +46,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 18015,
+          "optionID" : 11236,
           "optionName" : "Krak grenade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -56,7 +56,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11172,
+          "optionID" : 11138,
           "optionName" : "Krak Grenades",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -66,14 +66,14 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 11139,
           "optionName" : "$Elysian Special weapons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11071,
+          "optionID" : 11204,
           "optionName" : "Frag Grenades",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -83,7 +83,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 2156,
+          "optionID" : 11141,
           "optionName" : "Guardsman w/Lasgun and Frag Grenades",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -93,7 +93,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11062,
+          "optionID" : 11218,
           "optionName" : "Laspistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -103,7 +103,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 2157,
+          "optionID" : 11143,
           "optionName" : "Guardsman w/Special Weapon",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -113,7 +113,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 2160,
+          "optionID" : 11144,
           "optionName" : "Guardsman w/Lasgun, Frag & Krak Grenades",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -123,7 +123,7 @@
           }
         }, {
           "optionCost" : 25.0,
-          "optionID" : 11138,
+          "optionID" : 11219,
           "optionName" : "Breacher Charge",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -133,7 +133,7 @@
           }
         }, {
           "optionCost" : 4.0,
-          "optionID" : 13559,
+          "optionID" : 15929,
           "optionName" : "Power sword",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -143,7 +143,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11206,
+          "optionID" : 11203,
           "optionName" : "Lasgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -153,7 +153,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 13561,
+          "optionID" : 15740,
           "optionName" : "Plasma pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -164,8 +164,11 @@
         } ],
         "unitCategory" : "Troops",
         "unitCost" : 0.0,
-        "unitID" : 2161,
-        "autoAddDictionary" : { },
+        "unitID" : 11149,
+        "autoAddDictionary" : {
+          "11141" : 9,
+          "11134" : 1
+        },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 4,
@@ -175,7 +178,7 @@
         "unitName" : "[0]Elysian Command Squad",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 18172,
+          "optionID" : 11231,
           "optionName" : "Frag grenade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -185,7 +188,7 @@
           }
         }, {
           "optionCost" : 14.0,
-          "optionID" : 2185,
+          "optionID" : 11151,
           "optionName" : "Veteran Weapon Team",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -195,7 +198,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11062,
+          "optionID" : 11218,
           "optionName" : "Laspistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -205,14 +208,14 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 11153,
           "optionName" : "$Elysian Special weapons BS3",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 12.0,
-          "optionID" : 2182,
+          "optionID" : 11154,
           "optionName" : "Veteran w/ Medi-pack",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -222,14 +225,14 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 11155,
           "optionName" : "$Elysian Heavy Weapons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 18015,
+          "optionID" : 11236,
           "optionName" : "Krak grenade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -239,7 +242,7 @@
           }
         }, {
           "optionCost" : 7.0,
-          "optionID" : 2184,
+          "optionID" : 11157,
           "optionName" : "Veteran w/ Special Weapon",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -249,7 +252,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11206,
+          "optionID" : 11203,
           "optionName" : "Lasgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -259,7 +262,7 @@
           }
         }, {
           "optionCost" : 12.0,
-          "optionID" : 2180,
+          "optionID" : 11159,
           "optionName" : "Veteran w/ Vox-caster",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -269,7 +272,7 @@
           }
         }, {
           "optionCost" : 7.0,
-          "optionID" : 2181,
+          "optionID" : 11160,
           "optionName" : "Veteran",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -279,7 +282,7 @@
           }
         }, {
           "optionCost" : 7.0,
-          "optionID" : 2183,
+          "optionID" : 11161,
           "optionName" : "Veteran w/ Regimental Standard",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -290,8 +293,10 @@
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 0.0,
-        "unitID" : 2186,
-        "autoAddDictionary" : { },
+        "unitID" : 11162,
+        "autoAddDictionary" : {
+          "11160" : 4
+        },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 4,
@@ -301,7 +306,7 @@
         "unitName" : "[1]Elysian Company Commander",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 18172,
+          "optionID" : 11231,
           "optionName" : "Frag grenade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -311,14 +316,14 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 11164,
           "optionName" : "$Heirlooms of Conquest",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11199,
+          "optionID" : 11233,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -328,7 +333,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11062,
+          "optionID" : 11218,
           "optionName" : "Laspistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -338,14 +343,14 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 11167,
           "optionName" : "$Elysian Ranged weapons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11076,
+          "optionID" : 11235,
           "optionName" : "Display Elysian Orders",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -355,7 +360,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 18015,
+          "optionID" : 11236,
           "optionName" : "Krak grenade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -365,7 +370,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 11170,
           "optionName" : "$Elysian Melee Weapons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -373,7 +378,7 @@
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 40.0,
-        "unitID" : 2153,
+        "unitID" : 11171,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -384,7 +389,7 @@
         "unitName" : "[0]Elysian Special Weapons Squad",
         "listOfOptions" : [ {
           "optionCost" : 25.0,
-          "optionID" : 11138,
+          "optionID" : 11219,
           "optionName" : "Breacher Charge",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -394,7 +399,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11084,
+          "optionID" : 11210,
           "optionName" : "Lasgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -404,7 +409,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 2162,
+          "optionID" : 11174,
           "optionName" : "Guardsmen",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -414,14 +419,14 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 11175,
           "optionName" : "$Elysian Special weapons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11071,
+          "optionID" : 11204,
           "optionName" : "Frag Grenades",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -431,7 +436,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 2163,
+          "optionID" : 11177,
           "optionName" : "Guardsmen w/ Special Weapon",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -442,8 +447,11 @@
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 0.0,
-        "unitID" : 2164,
-        "autoAddDictionary" : { },
+        "unitID" : 11178,
+        "autoAddDictionary" : {
+          "11174" : 3,
+          "11177" : 3
+        },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 3,
@@ -453,7 +461,7 @@
         "unitName" : "[1]Elysian Drop Sentinels",
         "listOfOptions" : [ {
           "optionCost" : 40.0,
-          "optionID" : 2187,
+          "optionID" : 11179,
           "optionName" : "Elysian Drop Sentinel",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -463,7 +471,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 18136,
+          "optionID" : 13632,
           "optionName" : "Hunter-killer missile",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -473,7 +481,7 @@
           }
         }, {
           "optionCost" : 15.0,
-          "optionID" : 18226,
+          "optionID" : 11290,
           "optionName" : "Heavy flamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -483,7 +491,7 @@
           }
         }, {
           "optionCost" : 15.0,
-          "optionID" : 18061,
+          "optionID" : 11265,
           "optionName" : "Heavy bolter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -493,7 +501,7 @@
           }
         }, {
           "optionCost" : 25.0,
-          "optionID" : 11198,
+          "optionID" : 11183,
           "optionName" : "Multi-melta",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -504,8 +512,10 @@
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 0.0,
-        "unitID" : 2188,
-        "autoAddDictionary" : { },
+        "unitID" : 11184,
+        "autoAddDictionary" : {
+          "11179" : 1
+        },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 0,
@@ -515,7 +525,7 @@
         "unitName" : "[1]Elysian Platoon Commander",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 18172,
+          "optionID" : 11231,
           "optionName" : "Frag grenade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -525,14 +535,14 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 11186,
           "optionName" : "$Heirlooms of Conquest",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11199,
+          "optionID" : 11233,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -542,7 +552,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11062,
+          "optionID" : 11218,
           "optionName" : "Laspistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -552,14 +562,14 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 11189,
           "optionName" : "$Elysian Ranged weapons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11076,
+          "optionID" : 11235,
           "optionName" : "Display Elysian Orders",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -569,7 +579,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 18015,
+          "optionID" : 11236,
           "optionName" : "Krak grenade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -579,7 +589,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 11192,
           "optionName" : "$Elysian Melee Weapons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -587,7 +597,7 @@
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 30.0,
-        "unitID" : 2189,
+        "unitID" : 11193,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -598,7 +608,7 @@
         "unitName" : "[1]Elysian Sniper Squad",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 18172,
+          "optionID" : 11231,
           "optionName" : "Frag grenade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -608,7 +618,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11206,
+          "optionID" : 11203,
           "optionName" : "Lasgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -618,7 +628,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 2190,
+          "optionID" : 11196,
           "optionName" : "Elysian Sniper Team",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -629,8 +639,10 @@
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 0.0,
-        "unitID" : 2191,
-        "autoAddDictionary" : { },
+        "unitID" : 11197,
+        "autoAddDictionary" : {
+          "11196" : 3
+        },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 3,
@@ -640,7 +652,7 @@
         "unitName" : "[1]Valkyrie Sky Talon",
         "listOfOptions" : [ {
           "optionCost" : 15.0,
-          "optionID" : 18061,
+          "optionID" : 11265,
           "optionName" : "Heavy bolter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -650,7 +662,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 11199,
           "optionName" : "$Wing-mounted Weapons Sky Talon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -658,7 +670,7 @@
         } ],
         "unitCategory" : "Flyers",
         "unitCost" : 130.0,
-        "unitID" : 2194,
+        "unitID" : 11200,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -669,7 +681,7 @@
         "unitName" : "[1]Elysian Heavy Weapon Squad",
         "listOfOptions" : [ {
           "optionCost" : 5.0,
-          "optionID" : 2192,
+          "optionID" : 11201,
           "optionName" : "Heavy Weapon Team",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -679,14 +691,14 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 11202,
           "optionName" : "$Elysian Heavy Weapons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11206,
+          "optionID" : 11203,
           "optionName" : "Lasgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -696,7 +708,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11071,
+          "optionID" : 11204,
           "optionName" : "Frag Grenades",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -707,8 +719,10 @@
         } ],
         "unitCategory" : "Heavy Support",
         "unitCost" : 0.0,
-        "unitID" : 2193,
-        "autoAddDictionary" : { },
+        "unitID" : 11205,
+        "autoAddDictionary" : {
+          "11201" : 3
+        },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 3,
@@ -718,7 +732,7 @@
         "unitName" : "[0]Elysian Veteran Squad",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 2175,
+          "optionID" : 11206,
           "optionName" : "Shotgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -728,7 +742,7 @@
           }
         }, {
           "optionCost" : 7.0,
-          "optionID" : 2166,
+          "optionID" : 11207,
           "optionName" : "Veteran w/ Lasgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -738,7 +752,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2174,
+          "optionID" : 11208,
           "optionName" : "Lasgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -748,7 +762,7 @@
           }
         }, {
           "optionCost" : 15.0,
-          "optionID" : 18226,
+          "optionID" : 11290,
           "optionName" : "Heavy flamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -758,7 +772,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11084,
+          "optionID" : 11210,
           "optionName" : "Lasgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -768,7 +782,7 @@
           }
         }, {
           "optionCost" : 7.0,
-          "optionID" : 2168,
+          "optionID" : 11211,
           "optionName" : "Veteran w/ Special Weapon",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -778,7 +792,7 @@
           }
         }, {
           "optionCost" : 7.0,
-          "optionID" : 2170,
+          "optionID" : 11212,
           "optionName" : "Veteran W/ Heavy Flamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -788,7 +802,7 @@
           }
         }, {
           "optionCost" : 7.0,
-          "optionID" : 2172,
+          "optionID" : 11213,
           "optionName" : "Veteran w/ Breacher Charge",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -798,7 +812,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2178,
+          "optionID" : 11214,
           "optionName" : "Lasgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -808,7 +822,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2173,
+          "optionID" : 11215,
           "optionName" : "Shotgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -818,7 +832,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11073,
+          "optionID" : 11389,
           "optionName" : "Shotgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -828,14 +842,14 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 11217,
           "optionName" : "$Elysian Special weapons BS3",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11062,
+          "optionID" : 11218,
           "optionName" : "Laspistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -845,7 +859,7 @@
           }
         }, {
           "optionCost" : 25.0,
-          "optionID" : 11138,
+          "optionID" : 11219,
           "optionName" : "Breacher Charge",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -855,28 +869,28 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 11220,
           "optionName" : "$Elysian Ranged weapons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 11221,
           "optionName" : "$Elysian Heavy Weapons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 11222,
           "optionName" : "$Elysian Melee Weapons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 12.0,
-          "optionID" : 2167,
+          "optionID" : 11223,
           "optionName" : "Veteran w/ Vox-caster",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -886,7 +900,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10640,
+          "optionID" : 15713,
           "optionName" : "Frag & Krak grenades",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -896,7 +910,7 @@
           }
         }, {
           "optionCost" : 7.0,
-          "optionID" : 2165,
+          "optionID" : 11225,
           "optionName" : "Veteran Sergeant",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -906,7 +920,7 @@
           }
         }, {
           "optionCost" : 14.0,
-          "optionID" : 2169,
+          "optionID" : 11226,
           "optionName" : "Veteran Weapon Team",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -916,7 +930,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2176,
+          "optionID" : 11227,
           "optionName" : "Lasgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -926,7 +940,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2177,
+          "optionID" : 11228,
           "optionName" : "Shotgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -936,7 +950,7 @@
           }
         }, {
           "optionCost" : 7.0,
-          "optionID" : 2171,
+          "optionID" : 11229,
           "optionName" : "Veteran w/ Shotgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -947,8 +961,11 @@
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 0.0,
-        "unitID" : 2179,
-        "autoAddDictionary" : { },
+        "unitID" : 11230,
+        "autoAddDictionary" : {
+          "11207" : 9,
+          "11225" : 1
+        },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 6,
@@ -958,7 +975,7 @@
         "unitName" : "[1]Elysian Lord Commissar",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 18172,
+          "optionID" : 11231,
           "optionName" : "Frag grenade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -968,14 +985,14 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 11232,
           "optionName" : "$Heirlooms of Conquest",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11199,
+          "optionID" : 11233,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -985,14 +1002,14 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 11234,
           "optionName" : "$Elysian Ranged weapons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11076,
+          "optionID" : 11235,
           "optionName" : "Display Elysian Orders",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1002,7 +1019,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 18015,
+          "optionID" : 11236,
           "optionName" : "Krak grenade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1012,14 +1029,14 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 11237,
           "optionName" : "$Elysian Melee Weapons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 17908,
+          "optionID" : 12570,
           "optionName" : "Bolt pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1029,7 +1046,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16170,
+          "optionID" : 15934,
           "optionName" : "Boltgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1040,7 +1057,7 @@
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 60.0,
-        "unitID" : 2154,
+        "unitID" : 11240,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -1051,7 +1068,7 @@
         "unitName" : "[1]Lightning Strike Fighter",
         "listOfOptions" : [ {
           "optionCost" : 15.0,
-          "optionID" : 1509,
+          "optionID" : 11241,
           "optionName" : "Long Barrelled Autocannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1061,7 +1078,7 @@
           }
         }, {
           "optionCost" : 60.0,
-          "optionID" : 1514,
+          "optionID" : 11242,
           "optionName" : "6 Hellstrike Missiles",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -1071,7 +1088,7 @@
           }
         }, {
           "optionCost" : 60.0,
-          "optionID" : 1512,
+          "optionID" : 11243,
           "optionName" : "4 Hellfury Missiles",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -1081,7 +1098,7 @@
           }
         }, {
           "optionCost" : 90.0,
-          "optionID" : 1513,
+          "optionID" : 11244,
           "optionName" : "6 Skystrike Missiles",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -1091,7 +1108,7 @@
           }
         }, {
           "optionCost" : 20.0,
-          "optionID" : 1510,
+          "optionID" : 11245,
           "optionName" : "Tactical Bombs",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -1101,7 +1118,7 @@
           }
         }, {
           "optionCost" : 40.0,
-          "optionID" : 18194,
+          "optionID" : 11540,
           "optionName" : "Twin lascannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1111,7 +1128,7 @@
           }
         }, {
           "optionCost" : 40.0,
-          "optionID" : 1511,
+          "optionID" : 11247,
           "optionName" : "4 Hellstrike Missiles",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -1122,7 +1139,7 @@
         } ],
         "unitCategory" : "Flyers",
         "unitCost" : 135.0,
-        "unitID" : 1515,
+        "unitID" : 11248,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -1133,7 +1150,7 @@
         "unitName" : "[1]Tauros Venator",
         "listOfOptions" : [ {
           "optionCost" : 5.0,
-          "optionID" : 18136,
+          "optionID" : 13632,
           "optionName" : "Hunter-killer missile",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1143,7 +1160,7 @@
           }
         }, {
           "optionCost" : 46.0,
-          "optionID" : 1521,
+          "optionID" : 11250,
           "optionName" : "Tauros",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1153,7 +1170,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 1522,
+          "optionID" : 11251,
           "optionName" : "Twin Multi-Laser",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1163,7 +1180,7 @@
           }
         }, {
           "optionCost" : 40.0,
-          "optionID" : 18194,
+          "optionID" : 11540,
           "optionName" : "Twin lascannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1174,7 +1191,7 @@
         } ],
         "unitCategory" : "Fast Attack",
         "unitCost" : 0.0,
-        "unitID" : 1523,
+        "unitID" : 11253,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -1185,7 +1202,7 @@
         "unitName" : "[0]Vulture Gunship",
         "listOfOptions" : [ {
           "optionCost" : 20.0,
-          "optionID" : 1536,
+          "optionID" : 11254,
           "optionName" : "Tactical Bombs",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1195,7 +1212,7 @@
           }
         }, {
           "optionCost" : 30.0,
-          "optionID" : 1537,
+          "optionID" : 11255,
           "optionName" : "2 Hellfury Missiles",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1205,7 +1222,7 @@
           }
         }, {
           "optionCost" : 30.0,
-          "optionID" : 17848,
+          "optionID" : 11270,
           "optionName" : "Twin autocannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1215,7 +1232,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 1533,
+          "optionID" : 11257,
           "optionName" : "Twin Multi-Laser",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1225,7 +1242,7 @@
           }
         }, {
           "optionCost" : 30.0,
-          "optionID" : 1539,
+          "optionID" : 11258,
           "optionName" : "6 Hunter-Killer Missiles",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1235,7 +1252,7 @@
           }
         }, {
           "optionCost" : 20.0,
-          "optionID" : 1535,
+          "optionID" : 11259,
           "optionName" : "2 Hellstrike Missiles",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1245,7 +1262,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 1534,
+          "optionID" : 11260,
           "optionName" : "2 Multiple Rocket Pods",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1255,7 +1272,7 @@
           }
         }, {
           "optionCost" : 140.0,
-          "optionID" : 1532,
+          "optionID" : 11261,
           "optionName" : "Vulture Gunship",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -1265,7 +1282,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 1540,
+          "optionID" : 11262,
           "optionName" : "2 Multiple Rocket Pods",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1275,7 +1292,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11163,
+          "optionID" : 11295,
           "optionName" : "Stat Damage (Gunships)",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1285,7 +1302,7 @@
           }
         }, {
           "optionCost" : 90.0,
-          "optionID" : 1538,
+          "optionID" : 11264,
           "optionName" : "6 Skystrike Missiles",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1295,7 +1312,7 @@
           }
         }, {
           "optionCost" : 15.0,
-          "optionID" : 18061,
+          "optionID" : 11265,
           "optionName" : "Heavy bolter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1305,7 +1322,7 @@
           }
         }, {
           "optionCost" : 40.0,
-          "optionID" : 18194,
+          "optionID" : 11540,
           "optionName" : "Twin lascannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1316,7 +1333,7 @@
         } ],
         "unitCategory" : "Flyers",
         "unitCost" : 0.0,
-        "unitID" : 1541,
+        "unitID" : 11267,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -1327,7 +1344,7 @@
         "unitName" : "[1]Thunderbolt Heavy Fighter",
         "listOfOptions" : [ {
           "optionCost" : 40.0,
-          "optionID" : 1525,
+          "optionID" : 11268,
           "optionName" : "4 Hellstrike Missiles",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -1337,7 +1354,7 @@
           }
         }, {
           "optionCost" : 90.0,
-          "optionID" : 1526,
+          "optionID" : 11269,
           "optionName" : "6 Skystrike Missiles",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -1347,7 +1364,7 @@
           }
         }, {
           "optionCost" : 30.0,
-          "optionID" : 17848,
+          "optionID" : 11270,
           "optionName" : "Twin autocannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1357,7 +1374,7 @@
           }
         }, {
           "optionCost" : 40.0,
-          "optionID" : 18194,
+          "optionID" : 11540,
           "optionName" : "Twin lascannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1367,7 +1384,7 @@
           }
         }, {
           "optionCost" : 20.0,
-          "optionID" : 1524,
+          "optionID" : 11272,
           "optionName" : "Tactical Bombs",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -1378,7 +1395,7 @@
         } ],
         "unitCategory" : "Flyers",
         "unitCost" : 125.0,
-        "unitID" : 1527,
+        "unitID" : 11273,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -1389,7 +1406,7 @@
         "unitName" : "[1]Tarantula Battery",
         "listOfOptions" : [ {
           "optionCost" : 40.0,
-          "optionID" : 18194,
+          "optionID" : 11540,
           "optionName" : "Twin lascannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1399,7 +1416,7 @@
           }
         }, {
           "optionCost" : 20.0,
-          "optionID" : 1516,
+          "optionID" : 11275,
           "optionName" : "Tarantula",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1409,7 +1426,7 @@
           }
         }, {
           "optionCost" : 30.0,
-          "optionID" : 18259,
+          "optionID" : 11702,
           "optionName" : "Twin heavy bolter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1420,7 +1437,7 @@
         } ],
         "unitCategory" : "Heavy Support",
         "unitCost" : 0.0,
-        "unitID" : 1517,
+        "unitID" : 11277,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -1431,7 +1448,7 @@
         "unitName" : "[1]Cyclops Demolition Vehicle",
         "listOfOptions" : [ {
           "optionCost" : 60.0,
-          "optionID" : 1507,
+          "optionID" : 11278,
           "optionName" : "Cyclops",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1442,7 +1459,7 @@
         } ],
         "unitCategory" : "Heavy Support",
         "unitCost" : 0.0,
-        "unitID" : 1508,
+        "unitID" : 11279,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -1453,7 +1470,7 @@
         "unitName" : "[0]Valkyries",
         "listOfOptions" : [ {
           "optionCost" : 20.0,
-          "optionID" : 11250,
+          "optionID" : 11299,
           "optionName" : "Lascannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1463,7 +1480,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11214,
+          "optionID" : 11281,
           "optionName" : "Advanced Counter-measures",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1473,7 +1490,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 1479,
+          "optionID" : 11282,
           "optionName" : "Multi-laser",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1483,7 +1500,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11163,
+          "optionID" : 11295,
           "optionName" : "Stat Damage (Gunships)",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1493,14 +1510,14 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 11284,
           "optionName" : "$Wing-mounted Weapons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11125,
+          "optionID" : 11285,
           "optionName" : "Tempestus Drop Force",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1510,7 +1527,7 @@
           }
         }, {
           "optionCost" : 105.0,
-          "optionID" : 1478,
+          "optionID" : 11286,
           "optionName" : "Valkyrie",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -1521,7 +1538,7 @@
         } ],
         "unitCategory" : "Flyers",
         "unitCost" : 0.0,
-        "unitID" : 1480,
+        "unitID" : 11287,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -1532,7 +1549,7 @@
         "unitName" : "[0]Tauros Assault Vehicle",
         "listOfOptions" : [ {
           "optionCost" : 37.0,
-          "optionID" : 1518,
+          "optionID" : 11288,
           "optionName" : "Tauros",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -1542,7 +1559,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 18136,
+          "optionID" : 13632,
           "optionName" : "Hunter-killer missile",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1552,7 +1569,7 @@
           }
         }, {
           "optionCost" : 15.0,
-          "optionID" : 18226,
+          "optionID" : 11290,
           "optionName" : "Heavy flamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1562,7 +1579,7 @@
           }
         }, {
           "optionCost" : 20.0,
-          "optionID" : 1519,
+          "optionID" : 11291,
           "optionName" : "Tauros Grenade Launcher",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1573,7 +1590,7 @@
         } ],
         "unitCategory" : "Fast Attack",
         "unitCost" : 0.0,
-        "unitID" : 1520,
+        "unitID" : 11292,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -1584,7 +1601,7 @@
         "unitName" : "[0]Vendetta Gunship",
         "listOfOptions" : [ {
           "optionCost" : 80.0,
-          "optionID" : 1529,
+          "optionID" : 11293,
           "optionName" : "2 Twin Lascannons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1594,7 +1611,7 @@
           }
         }, {
           "optionCost" : 30.0,
-          "optionID" : 1530,
+          "optionID" : 11294,
           "optionName" : "2 Hellfury missiles",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1604,7 +1621,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11163,
+          "optionID" : 11295,
           "optionName" : "Stat Damage (Gunships)",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1614,7 +1631,7 @@
           }
         }, {
           "optionCost" : 95.0,
-          "optionID" : 1528,
+          "optionID" : 11296,
           "optionName" : "Vendetta",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -1624,7 +1641,7 @@
           }
         }, {
           "optionCost" : 40.0,
-          "optionID" : 18194,
+          "optionID" : 11540,
           "optionName" : "Twin lascannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1635,7 +1652,7 @@
         } ],
         "unitCategory" : "Flyers",
         "unitCost" : 0.0,
-        "unitID" : 1531,
+        "unitID" : 11298,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -1646,7 +1663,7 @@
         "unitName" : "[1]Avenger Strike Fighter",
         "listOfOptions" : [ {
           "optionCost" : 20.0,
-          "optionID" : 11250,
+          "optionID" : 11299,
           "optionName" : "Lascannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1656,7 +1673,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 1499,
+          "optionID" : 11300,
           "optionName" : "Defensive Heavy Stubber",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1666,7 +1683,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 1505,
+          "optionID" : 11301,
           "optionName" : "2 Multi-Lasers",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -1676,7 +1693,7 @@
           }
         }, {
           "optionCost" : 20.0,
-          "optionID" : 1500,
+          "optionID" : 11302,
           "optionName" : "Tactical Bombs",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -1686,7 +1703,7 @@
           }
         }, {
           "optionCost" : 40.0,
-          "optionID" : 1503,
+          "optionID" : 11303,
           "optionName" : "Two Missile Launchers",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -1696,7 +1713,7 @@
           }
         }, {
           "optionCost" : 30.0,
-          "optionID" : 1502,
+          "optionID" : 11304,
           "optionName" : "2 Hellfury Missiles",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -1706,7 +1723,7 @@
           }
         }, {
           "optionCost" : 30.0,
-          "optionID" : 1504,
+          "optionID" : 11305,
           "optionName" : "2 Autocannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -1716,7 +1733,7 @@
           }
         }, {
           "optionCost" : 20.0,
-          "optionID" : 1501,
+          "optionID" : 11306,
           "optionName" : "2 Hellstrike Missiles",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
@@ -1726,7 +1743,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 1498,
+          "optionID" : 11307,
           "optionName" : "Avenger Bolt Cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1737,7 +1754,7 @@
         } ],
         "unitCategory" : "Flyers",
         "unitCost" : 165.0,
-        "unitID" : 1506,
+        "unitID" : 11308,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
@@ -1748,7 +1765,7 @@
       "listOfEquipmentOptions" : [ {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 11067,
+          "optionID" : 11309,
           "optionName" : "Weapon Expert",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1758,7 +1775,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11152,
+          "optionID" : 11310,
           "optionName" : "Up-armoured",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1768,7 +1785,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11070,
+          "optionID" : 11311,
           "optionName" : "Master Mechanic",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1778,7 +1795,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11149,
+          "optionID" : 11312,
           "optionName" : "Armoured Rush",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1788,7 +1805,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11120,
+          "optionID" : 11313,
           "optionName" : "Slow and Purposeful",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1798,7 +1815,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11094,
+          "optionID" : 11314,
           "optionName" : "Steel Commander",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1811,7 +1828,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 3.0,
-          "optionID" : 18228,
+          "optionID" : 15785,
           "optionName" : "Storm bolter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1821,7 +1838,7 @@
           }
         }, {
           "optionCost" : 15.0,
-          "optionID" : 18139,
+          "optionID" : 15786,
           "optionName" : "Incinerator",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1831,7 +1848,7 @@
           }
         }, {
           "optionCost" : 6.0,
-          "optionID" : 17868,
+          "optionID" : 15787,
           "optionName" : "Flamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1841,7 +1858,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 5220,
+          "optionID" : 15788,
           "optionName" : "Condemnor Boltgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1851,7 +1868,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11388,
+          "optionID" : 15789,
           "optionName" : "Combi-plasma",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1861,7 +1878,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 17865,
+          "optionID" : 15932,
           "optionName" : "Meltagun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1871,7 +1888,7 @@
           }
         }, {
           "optionCost" : 11.0,
-          "optionID" : 13552,
+          "optionID" : 15931,
           "optionName" : "Plasma gun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1881,7 +1898,7 @@
           }
         }, {
           "optionCost" : 8.0,
-          "optionID" : 18087,
+          "optionID" : 15933,
           "optionName" : "Combi-flamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1891,7 +1908,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16170,
+          "optionID" : 15934,
           "optionName" : "Boltgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1901,7 +1918,7 @@
           }
         }, {
           "optionCost" : 15.0,
-          "optionID" : 18229,
+          "optionID" : 15794,
           "optionName" : "Combi-melta",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1911,7 +1928,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10860,
+          "optionID" : 15936,
           "optionName" : "Hot-Shot Lasgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1927,7 +1944,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 15.0,
-          "optionID" : 18271,
+          "optionID" : 15928,
           "optionName" : "Thunder hammer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1937,7 +1954,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11339,
+          "optionID" : 15797,
           "optionName" : "Nemesis Daemon Hammer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1947,7 +1964,7 @@
           }
         }, {
           "optionCost" : 4.0,
-          "optionID" : 13559,
+          "optionID" : 15929,
           "optionName" : "Power sword",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1957,7 +1974,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 18032,
+          "optionID" : 15930,
           "optionName" : "Power fist",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1967,7 +1984,7 @@
           }
         }, {
           "optionCost" : 4.0,
-          "optionID" : 13563,
+          "optionID" : 15935,
           "optionName" : "Power maul",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1977,7 +1994,7 @@
           }
         }, {
           "optionCost" : 4.0,
-          "optionID" : 18179,
+          "optionID" : 15801,
           "optionName" : "Null Rod [Legends]",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1990,7 +2007,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 15.0,
-          "optionID" : 11227,
+          "optionID" : 11332,
           "optionName" : "Heavy Bolter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2000,7 +2017,7 @@
           }
         }, {
           "optionCost" : 15.0,
-          "optionID" : 11184,
+          "optionID" : 11333,
           "optionName" : "Heavy Flamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2010,7 +2027,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 11177,
+          "optionID" : 11334,
           "optionName" : "Multi-laser",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2023,7 +2040,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 11126,
+          "optionID" : 11335,
           "optionName" : "Fire from the Hip",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2033,7 +2050,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11168,
+          "optionID" : 11336,
           "optionName" : "Jury-rigged Repairs",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2043,7 +2060,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11044,
+          "optionID" : 11337,
           "optionName" : "Combined Auspex",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2053,7 +2070,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11222,
+          "optionID" : 11338,
           "optionName" : "Slum Fighters",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2063,7 +2080,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11119,
+          "optionID" : 11339,
           "optionName" : "Monster Hunters",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2073,7 +2090,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11077,
+          "optionID" : 11340,
           "optionName" : "Wilderness Survivors",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2083,7 +2100,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11176,
+          "optionID" : 11341,
           "optionName" : "Spotter Details",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2093,7 +2110,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11136,
+          "optionID" : 11342,
           "optionName" : "Agile Warriors",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2103,7 +2120,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11124,
+          "optionID" : 11343,
           "optionName" : "Lord's Approval",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2113,7 +2130,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11155,
+          "optionID" : 11344,
           "optionName" : "Pyromaniacs",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2123,7 +2140,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11134,
+          "optionID" : 11345,
           "optionName" : "Gunnery Experts",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2133,7 +2150,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11113,
+          "optionID" : 11346,
           "optionName" : "Diciplined Shooters",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2146,7 +2163,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 18114,
+          "optionID" : 15823,
           "optionName" : "Ignis Judicium",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2156,7 +2173,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 18102,
+          "optionID" : 15824,
           "optionName" : "Bio-corrosive Poisons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2166,7 +2183,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 17938,
+          "optionID" : 15825,
           "optionName" : "Tainted Blade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2176,7 +2193,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 17876,
+          "optionID" : 15826,
           "optionName" : "Digital Weapons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2186,7 +2203,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 18142,
+          "optionID" : 15827,
           "optionName" : "Blade of the Ordo",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2196,7 +2213,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 17942,
+          "optionID" : 15828,
           "optionName" : "Blackshroud",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2209,7 +2226,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 5.0,
-          "optionID" : 19418,
+          "optionID" : 11509,
           "optionName" : "Flamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2219,7 +2236,7 @@
           }
         }, {
           "optionCost" : 11.0,
-          "optionID" : 13552,
+          "optionID" : 15931,
           "optionName" : "Plasma gun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2229,7 +2246,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 13551,
+          "optionID" : 13029,
           "optionName" : "Meltagun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2239,7 +2256,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 11251,
+          "optionID" : 11356,
           "optionName" : "Grenade Launcher",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2252,7 +2269,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 11192,
+          "optionID" : 11357,
           "optionName" : "Regiment: Armageddon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2262,7 +2279,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11107,
+          "optionID" : 11358,
           "optionName" : "Regiment: Vostroyan",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2272,7 +2289,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11229,
+          "optionID" : 11359,
           "optionName" : "Astra Millitarum",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2282,7 +2299,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11069,
+          "optionID" : 11360,
           "optionName" : "Regiment: Mordian",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2292,7 +2309,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11108,
+          "optionID" : 11361,
           "optionName" : "Regiment: Valhallan",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2302,7 +2319,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11203,
+          "optionID" : 11362,
           "optionName" : "Regiment: Tallarn",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2312,7 +2329,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11164,
+          "optionID" : 11363,
           "optionName" : "Regiment: Catachan",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2322,7 +2339,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11156,
+          "optionID" : 11364,
           "optionName" : "Regiment: Cadian",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2332,7 +2349,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11160,
+          "optionID" : 11365,
           "optionName" : "Brood Brothers",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2345,7 +2362,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 17908,
+          "optionID" : 15726,
           "optionName" : "Bolt pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2355,7 +2372,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 5223,
+          "optionID" : 15902,
           "optionName" : "Inferno pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2365,7 +2382,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 13561,
+          "optionID" : 15740,
           "optionName" : "Plasma pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2375,7 +2392,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 19414,
+          "optionID" : 17590,
           "optionName" : "Needle Pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2388,7 +2405,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 11082,
+          "optionID" : 11370,
           "optionName" : "Shatterer of Will",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2398,7 +2415,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11146,
+          "optionID" : 11371,
           "optionName" : "Well-stocked Magazines",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2408,7 +2425,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11201,
+          "optionID" : 11372,
           "optionName" : "Full Payload",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2421,7 +2438,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 20.0,
-          "optionID" : 0,
+          "optionID" : 11373,
           "optionName" : "Lascannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2431,7 +2448,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 11153,
+          "optionID" : 11374,
           "optionName" : "Mortar",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2441,7 +2458,7 @@
           }
         }, {
           "optionCost" : 20.0,
-          "optionID" : 18036,
+          "optionID" : 15001,
           "optionName" : "Missile launcher",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2451,7 +2468,7 @@
           }
         }, {
           "optionCost" : 15.0,
-          "optionID" : 0,
+          "optionID" : 11376,
           "optionName" : "Autocannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2461,7 +2478,7 @@
           }
         }, {
           "optionCost" : 15.0,
-          "optionID" : 18061,
+          "optionID" : 15013,
           "optionName" : "Heavy bolter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2477,7 +2494,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 6.0,
-          "optionID" : 17868,
+          "optionID" : 11437,
           "optionName" : "Flamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2487,7 +2504,7 @@
           }
         }, {
           "optionCost" : 3.0,
-          "optionID" : 11171,
+          "optionID" : 11379,
           "optionName" : "Grenade Launcher",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2497,7 +2514,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 11200,
+          "optionID" : 11380,
           "optionName" : "Lascutter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2507,7 +2524,7 @@
           }
         }, {
           "optionCost" : 11.0,
-          "optionID" : 13552,
+          "optionID" : 15931,
           "optionName" : "Plasma gun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2517,7 +2534,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 17865,
+          "optionID" : 11440,
           "optionName" : "Meltagun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2530,7 +2547,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 11226,
+          "optionID" : 11383,
           "optionName" : "Nightshroud",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2540,7 +2557,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11139,
+          "optionID" : 11384,
           "optionName" : "Psychic Barrier",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2550,7 +2567,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11241,
+          "optionID" : 11385,
           "optionName" : "Mental Fortitude",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2560,7 +2577,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11216,
+          "optionID" : 11386,
           "optionName" : "Psychic Maelstrom",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2570,7 +2587,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11079,
+          "optionID" : 11387,
           "optionName" : "Gaze of the Emperor",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2580,7 +2597,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11207,
+          "optionID" : 11388,
           "optionName" : "Terrifying Visions",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2593,7 +2610,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 11073,
+          "optionID" : 11389,
           "optionName" : "Shotgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2603,7 +2620,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 17908,
+          "optionID" : 11390,
           "optionName" : "Bolt pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2613,7 +2630,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11159,
+          "optionID" : 11391,
           "optionName" : "Lasgun and Auxiliary Grenade Launcher",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2623,7 +2640,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 13561,
+          "optionID" : 15740,
           "optionName" : "Plasma pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2633,7 +2650,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16170,
+          "optionID" : 15934,
           "optionName" : "Boltgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2649,7 +2666,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 15.0,
-          "optionID" : 11065,
+          "optionID" : 11394,
           "optionName" : "Heavy Flamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2659,7 +2676,7 @@
           }
         }, {
           "optionCost" : 15.0,
-          "optionID" : 11173,
+          "optionID" : 11395,
           "optionName" : "Heavy Bolter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2669,7 +2686,7 @@
           }
         }, {
           "optionCost" : 20.0,
-          "optionID" : 11128,
+          "optionID" : 11396,
           "optionName" : "Lascannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2682,7 +2699,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 11074,
+          "optionID" : 11397,
           "optionName" : "Tempestus Drop Force",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2692,7 +2709,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11096,
+          "optionID" : 11398,
           "optionName" : "Emperor's Conclave Infantry Company",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2702,7 +2719,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11180,
+          "optionID" : 11399,
           "optionName" : "Emperor's Wrath Artillery Company",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2712,7 +2729,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11165,
+          "optionID" : 11400,
           "optionName" : "Emperor's Blade Assault Company",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2722,7 +2739,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11081,
+          "optionID" : 11401,
           "optionName" : "Emperor's Fist Tank Company",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2735,7 +2752,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 10.0,
-          "optionID" : 11175,
+          "optionID" : 11402,
           "optionName" : "2x Multiple Rocket Pods",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2745,7 +2762,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 11091,
+          "optionID" : 11403,
           "optionName" : "Hellstrike Missiles",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2758,7 +2775,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 15.0,
-          "optionID" : 11122,
+          "optionID" : 11404,
           "optionName" : "Turret-mounted Eradicator Nova Cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2768,7 +2785,7 @@
           }
         }, {
           "optionCost" : 20.0,
-          "optionID" : 11183,
+          "optionID" : 11405,
           "optionName" : "Battle Cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2778,7 +2795,7 @@
           }
         }, {
           "optionCost" : 30.0,
-          "optionID" : 11157,
+          "optionID" : 11406,
           "optionName" : "Turret-mounted Exterminator Autocannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2788,7 +2805,7 @@
           }
         }, {
           "optionCost" : 15.0,
-          "optionID" : 11083,
+          "optionID" : 11407,
           "optionName" : "Turret-mounted Executioner Plasma Cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2798,7 +2815,7 @@
           }
         }, {
           "optionCost" : 15.0,
-          "optionID" : 11228,
+          "optionID" : 11408,
           "optionName" : "Turret-mounted Vanquisher Battle Cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2808,7 +2825,7 @@
           }
         }, {
           "optionCost" : 35.0,
-          "optionID" : 11088,
+          "optionID" : 11409,
           "optionName" : "Turret-mounted Punisher Gatling Cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2818,7 +2835,7 @@
           }
         }, {
           "optionCost" : 20.0,
-          "optionID" : 11237,
+          "optionID" : 11410,
           "optionName" : "Turret-mounted Demolisher Siege Cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2831,7 +2848,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 40.0,
-          "optionID" : 11170,
+          "optionID" : 11411,
           "optionName" : "Plasma Cannons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2841,7 +2858,7 @@
           }
         }, {
           "optionCost" : 30.0,
-          "optionID" : 11158,
+          "optionID" : 11412,
           "optionName" : "Heavy Bolters",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2851,7 +2868,7 @@
           }
         }, {
           "optionCost" : 30.0,
-          "optionID" : 11140,
+          "optionID" : 11413,
           "optionName" : "Heavy Flamers",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2861,7 +2878,7 @@
           }
         }, {
           "optionCost" : 50.0,
-          "optionID" : 11234,
+          "optionID" : 11414,
           "optionName" : "Multi-meltas",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2874,7 +2891,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 24.0,
-          "optionID" : 11121,
+          "optionID" : 11415,
           "optionName" : "2x Hellstrike Missiles",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2884,7 +2901,7 @@
           }
         }, {
           "optionCost" : 16.0,
-          "optionID" : 11148,
+          "optionID" : 11416,
           "optionName" : "2x Multiple Rocket Pods",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2897,7 +2914,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 5.0,
-          "optionID" : 11047,
+          "optionID" : 11417,
           "optionName" : "Augur array",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2907,7 +2924,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 11098,
+          "optionID" : 11418,
           "optionName" : "Track guards",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2917,7 +2934,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 11129,
+          "optionID" : 11419,
           "optionName" : "Dozer blade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2927,7 +2944,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 11181,
+          "optionID" : 11420,
           "optionName" : "Hunter-Killer Missile",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2940,7 +2957,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 15.0,
-          "optionID" : 11102,
+          "optionID" : 11421,
           "optionName" : "Heavy Flamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2950,7 +2967,7 @@
           }
         }, {
           "optionCost" : 25.0,
-          "optionID" : 11198,
+          "optionID" : 11422,
           "optionName" : "Multi-melta",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2960,7 +2977,7 @@
           }
         }, {
           "optionCost" : 15.0,
-          "optionID" : 11217,
+          "optionID" : 11423,
           "optionName" : "Heavy Bolter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2973,7 +2990,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 16246,
+          "optionID" : 14669,
           "optionName" : "Bolt pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2983,7 +3000,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 13561,
+          "optionID" : 15740,
           "optionName" : "Plasma pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2993,7 +3010,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16170,
+          "optionID" : 15934,
           "optionName" : "Boltgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3006,7 +3023,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 3.0,
-          "optionID" : 11086,
+          "optionID" : 11427,
           "optionName" : "Storm Bolter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3016,7 +3033,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 11221,
+          "optionID" : 11428,
           "optionName" : "Heavy Stubber",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3029,7 +3046,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 11132,
+          "optionID" : 11429,
           "optionName" : "Steadfast Leviathan",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3039,7 +3056,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11202,
+          "optionID" : 11430,
           "optionName" : "Inspiring Might",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3049,7 +3066,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11167,
+          "optionID" : 11431,
           "optionName" : "Hull-down Deployment",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3065,7 +3082,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 11104,
+          "optionID" : 11432,
           "optionName" : "WT (Emperor's Conclave): Fiery Denouncer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3075,7 +3092,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11068,
+          "optionID" : 11433,
           "optionName" : "WT (Emperor's Wrath): Lord of Ordnance",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3085,7 +3102,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11193,
+          "optionID" : 11434,
           "optionName" : "WT (Tempestus Drop Force): Grave-Chute Commando",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3095,7 +3112,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11055,
+          "optionID" : 11435,
           "optionName" : "WT (Emperor's Blade): Mechanized Commander",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3105,7 +3122,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11142,
+          "optionID" : 11436,
           "optionName" : "WT (Emperor's Fist): Unflinching Resolve",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3118,7 +3135,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 6.0,
-          "optionID" : 17868,
+          "optionID" : 11437,
           "optionName" : "Flamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3128,7 +3145,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 11205,
+          "optionID" : 11438,
           "optionName" : "Lascutter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3138,7 +3155,7 @@
           }
         }, {
           "optionCost" : 11.0,
-          "optionID" : 13552,
+          "optionID" : 15931,
           "optionName" : "Plasma gun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3148,7 +3165,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 17865,
+          "optionID" : 11440,
           "optionName" : "Meltagun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3158,7 +3175,7 @@
           }
         }, {
           "optionCost" : 3.0,
-          "optionID" : 11150,
+          "optionID" : 11441,
           "optionName" : "Grenade Launcher",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3174,7 +3191,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 11182,
+          "optionID" : 11442,
           "optionName" : "55th Kappic Eagles",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3184,7 +3201,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11235,
+          "optionID" : 11443,
           "optionName" : "9th Iotan Gorgonnes",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3194,7 +3211,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11078,
+          "optionID" : 11444,
           "optionName" : "133rd Lambdan Lions",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3204,7 +3221,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11090,
+          "optionID" : 11445,
           "optionName" : "32nd Thetoid Eagles",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3214,7 +3231,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11052,
+          "optionID" : 11446,
           "optionName" : "43rd Iotan Dragons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3224,7 +3241,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11219,
+          "optionID" : 11447,
           "optionName" : "54th Psian Jackals",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3234,7 +3251,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11063,
+          "optionID" : 11448,
           "optionName" : "Storm Troopers",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3247,7 +3264,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 18033,
+          "optionID" : 15909,
           "optionName" : "5) Psychic Pursuit",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3257,7 +3274,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 18173,
+          "optionID" : 15910,
           "optionName" : "Hereticus - Ascertainment",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3267,7 +3284,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 18286,
+          "optionID" : 15911,
           "optionName" : "2) Psychic Fortitude",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3277,7 +3294,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 18027,
+          "optionID" : 15912,
           "optionName" : "4) Mental Interrogation",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3287,7 +3304,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 18080,
+          "optionID" : 15913,
           "optionName" : "1) Terrify",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3297,7 +3314,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 17936,
+          "optionID" : 15914,
           "optionName" : "Malleus - Power Through Knowledge",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3307,7 +3324,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 18157,
+          "optionID" : 15915,
           "optionName" : "3) Dominate",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3317,7 +3334,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 17967,
+          "optionID" : 15916,
           "optionName" : "6) Castigation",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3327,7 +3344,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 17898,
+          "optionID" : 15917,
           "optionName" : "Xenos - Psychic Veil",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3340,7 +3357,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 15.0,
-          "optionID" : 11243,
+          "optionID" : 11458,
           "optionName" : "Heavy Bolter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3350,7 +3367,7 @@
           }
         }, {
           "optionCost" : 15.0,
-          "optionID" : 11089,
+          "optionID" : 11459,
           "optionName" : "Heavy Flamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3363,7 +3380,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 11087,
+          "optionID" : 11460,
           "optionName" : "Relic (Armageddon): Skull Mask of Acheron",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3373,7 +3390,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11049,
+          "optionID" : 11461,
           "optionName" : "Relic (Valhallan): Pietrov's Mk 45 ",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3383,7 +3400,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11051,
+          "optionID" : 11462,
           "optionName" : "Relic (133rd Lambdan Lions): Refractor Field Generator",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3393,7 +3410,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11115,
+          "optionID" : 11463,
           "optionName" : "Relic (Emperor's Wrath): Agripinaa-Class Orbital Tracker",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3403,7 +3420,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11232,
+          "optionID" : 11464,
           "optionName" : "Relic (43rd Iotan Dragons): Emperor's Fury",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3413,7 +3430,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11056,
+          "optionID" : 11465,
           "optionName" : "Relic (Tallarn): Claw of the Desert Tigers",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3423,7 +3440,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11118,
+          "optionID" : 11466,
           "optionName" : "Relic (55th Kappic Eagles): Distraction Charges",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3433,7 +3450,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11188,
+          "optionID" : 11467,
           "optionName" : "Relic: Kurov's Aquila",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3443,7 +3460,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11211,
+          "optionID" : 11468,
           "optionName" : "Relic: The Dagger of Tu'Sakh",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3453,7 +3470,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11064,
+          "optionID" : 11469,
           "optionName" : "Relic (Emperor's Blade): The Shield of Mortwald",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3463,7 +3480,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11099,
+          "optionID" : 11470,
           "optionName" : "Relic (Militarum Tempestus): The Tactical Auto-Reliquary of Tyberius",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3473,7 +3490,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11194,
+          "optionID" : 11471,
           "optionName" : "Relic (Emperor's Conclave): Litanies of The Holy Synod",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3483,7 +3500,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11195,
+          "optionID" : 11472,
           "optionName" : "Relic (Tempestus Drop Force): Cypra Mundi Null-Emitter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3493,7 +3510,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11218,
+          "optionID" : 11473,
           "optionName" : "Relic (32nd Thetoid Eagles): Fire of Judgement",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3503,7 +3520,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11220,
+          "optionID" : 11474,
           "optionName" : "Relic (Catachan): Mamorth Tuskblade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3513,7 +3530,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11197,
+          "optionID" : 11475,
           "optionName" : "Relic (54th Psian Jackals): The Hounds Teeth",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3523,7 +3540,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11106,
+          "optionID" : 11476,
           "optionName" : "Relic (Vostroyan): The Armour of Graf Toschenko",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3533,7 +3550,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11178,
+          "optionID" : 11477,
           "optionName" : "Relic: The Laurels of Command",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3543,7 +3560,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11179,
+          "optionID" : 11478,
           "optionName" : "Relic: The Blade of Conquest",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3553,7 +3570,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11154,
+          "optionID" : 11479,
           "optionName" : "Relic (9th Iotan Gorgonnes): Blessed Boltgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3563,7 +3580,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11109,
+          "optionID" : 11480,
           "optionName" : "Relic (Cadia): Relic of Lost Cadia",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3573,7 +3590,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11224,
+          "optionID" : 11481,
           "optionName" : "Relic (Emperor's Fist): Hammer of Sunderance",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3583,7 +3600,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11131,
+          "optionID" : 11482,
           "optionName" : "Relic: The Emperor's Benediction",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3593,7 +3610,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11112,
+          "optionID" : 11483,
           "optionName" : "Relic: The Deathmask of Ollanius",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3603,7 +3620,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11135,
+          "optionID" : 11484,
           "optionName" : "Relic (Mordian): Order of the Iron Star of Mordian",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3616,7 +3633,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 9.0,
-          "optionID" : 11174,
+          "optionID" : 11485,
           "optionName" : "Mortar",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3626,7 +3643,7 @@
           }
         }, {
           "optionCost" : 20.0,
-          "optionID" : 18036,
+          "optionID" : 11851,
           "optionName" : "Missile launcher",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3636,7 +3653,7 @@
           }
         }, {
           "optionCost" : 15.0,
-          "optionID" : 18061,
+          "optionID" : 11487,
           "optionName" : "Heavy bolter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3649,7 +3666,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 4.0,
-          "optionID" : 13559,
+          "optionID" : 15929,
           "optionName" : "Power sword",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3659,7 +3676,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 17976,
+          "optionID" : 11489,
           "optionName" : "Power fist",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3672,7 +3689,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 18020,
+          "optionID" : 15921,
           "optionName" : "Ordo Hereticus",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3682,7 +3699,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 18326,
+          "optionID" : 15922,
           "optionName" : "Ordo Minoris",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3692,7 +3709,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 18282,
+          "optionID" : 15923,
           "optionName" : "Ordo Malleus",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3702,7 +3719,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 18153,
+          "optionID" : 15924,
           "optionName" : "Ordo Xenos",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3715,7 +3732,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 11239,
+          "optionID" : 11494,
           "optionName" : "Lascannon & Twin Heavy Bolter Sponson",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3725,7 +3742,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11046,
+          "optionID" : 11495,
           "optionName" : "Lascannon & Twin Heavy Flamer Sponson",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3738,7 +3755,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 4.0,
-          "optionID" : 13559,
+          "optionID" : 15929,
           "optionName" : "Power sword",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3748,7 +3765,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 18032,
+          "optionID" : 11890,
           "optionName" : "Power fist",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3761,7 +3778,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 11127,
+          "optionID" : 11498,
           "optionName" : "Brood Brothers",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3771,7 +3788,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 11162,
+          "optionID" : 11499,
           "optionName" : "Elysian",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3784,7 +3801,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 15.0,
-          "optionID" : 18271,
+          "optionID" : 15928,
           "optionName" : "Thunder hammer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3794,7 +3811,7 @@
           }
         }, {
           "optionCost" : 4.0,
-          "optionID" : 13559,
+          "optionID" : 15929,
           "optionName" : "Power sword",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3804,7 +3821,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 18032,
+          "optionID" : 15930,
           "optionName" : "Power fist",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3814,7 +3831,7 @@
           }
         }, {
           "optionCost" : 11.0,
-          "optionID" : 13552,
+          "optionID" : 15931,
           "optionName" : "Plasma gun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3824,7 +3841,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 17865,
+          "optionID" : 15932,
           "optionName" : "Meltagun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3834,7 +3851,7 @@
           }
         }, {
           "optionCost" : 8.0,
-          "optionID" : 18087,
+          "optionID" : 15933,
           "optionName" : "Combi-flamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3844,7 +3861,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16170,
+          "optionID" : 15934,
           "optionName" : "Boltgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3854,7 +3871,7 @@
           }
         }, {
           "optionCost" : 4.0,
-          "optionID" : 13563,
+          "optionID" : 15935,
           "optionName" : "Power maul",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3864,7 +3881,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 10860,
+          "optionID" : 15936,
           "optionName" : "Hot-Shot Lasgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3877,7 +3894,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 5.0,
-          "optionID" : 19418,
+          "optionID" : 11509,
           "optionName" : "Flamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3887,7 +3904,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 11137,
+          "optionID" : 11510,
           "optionName" : "Grenade Launcher",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3897,7 +3914,7 @@
           }
         }, {
           "optionCost" : 11.0,
-          "optionID" : 13552,
+          "optionID" : 15931,
           "optionName" : "Plasma gun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3907,7 +3924,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 13551,
+          "optionID" : 13029,
           "optionName" : "Meltagun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3920,7 +3937,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 20.0,
-          "optionID" : 11212,
+          "optionID" : 11513,
           "optionName" : "Missile Launcher",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3930,7 +3947,7 @@
           }
         }, {
           "optionCost" : 15.0,
-          "optionID" : 11114,
+          "optionID" : 11514,
           "optionName" : "Heavy Flamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3940,7 +3957,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 11245,
+          "optionID" : 11515,
           "optionName" : "Multi-laser",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3950,7 +3967,7 @@
           }
         }, {
           "optionCost" : 20.0,
-          "optionID" : 11250,
+          "optionID" : 11516,
           "optionName" : "Lascannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3960,7 +3977,7 @@
           }
         }, {
           "optionCost" : 15.0,
-          "optionID" : 11057,
+          "optionID" : 11517,
           "optionName" : "Autocannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3970,7 +3987,7 @@
           }
         }, {
           "optionCost" : 20.0,
-          "optionID" : 11161,
+          "optionID" : 11518,
           "optionName" : "Plasma Cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
