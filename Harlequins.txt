@@ -4,14 +4,7 @@
     "armies" : [ {
       "listOfUnits" : [ {
         "unitName" : "[1]Voidweaver",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
+        "listOfOptions" : null,
         "unitCategory" : "Heavy Support",
         "unitCost" : 65.0,
         "unitID" : 381,
@@ -24,13 +17,6 @@
       }, {
         "unitName" : "[1]Shadowseer",
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Custom Character Selections",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
           "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "$Warlord Trait (Ynnari)",
@@ -94,21 +80,14 @@
         "listOfOptions" : [ {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Relics",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Custom Character Selections",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
           "optionName" : "$Pivotal Roles - Solitaire",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Relics",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
@@ -125,13 +104,6 @@
       }, {
         "unitName" : "[0]Skyweavers",
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
           "optionCost" : 35.0,
           "optionID" : 382,
           "optionName" : "Skyweaver",
@@ -165,13 +137,6 @@
             "Power level" : 1,
             "Command points" : 0
           }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
         } ],
         "unitCategory" : "Troops",
         "unitCost" : 0.0,
@@ -186,14 +151,7 @@
         }
       }, {
         "unitName" : "[1]Starweaver",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
+        "listOfOptions" : null,
         "unitCategory" : "Dedicated Transport",
         "unitCost" : 60.0,
         "unitID" : 380,
@@ -206,20 +164,6 @@
       }, {
         "unitName" : "[1]Death Jester",
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Custom Character Selections",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Warlord Trait (Ynnari)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
           "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "$Relics of Ynnead",
@@ -247,6 +191,13 @@
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Warlord Trait (Ynnari)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 50.0,
@@ -260,13 +211,6 @@
       }, {
         "unitName" : "[1]Troupe Master",
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Custom Character Selections",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
           "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "$Warlord Trait (Ynnari)",
@@ -826,23 +770,6 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Warlord Trait (Ynnari)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Warlord Traits (BRB)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
-        "equipmentName" : "$Warlord Traits (Ynnari)"
-      }, {
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
           "optionID" : 3725,
           "optionName" : "Player of the Light",
           "autoAddDictionary" : { },
@@ -911,13 +838,6 @@
             "Power level" : 0,
             "Command points" : 0
           }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Warlord Traits (BRB)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
           "optionID" : 3750,

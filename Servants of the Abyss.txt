@@ -130,13 +130,6 @@
             "Power level" : 0,
             "Command points" : 0
           }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Warlord Traits",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 130.0,
@@ -151,14 +144,7 @@
         }
       }, {
         "unitName" : "[1]Traitor Commissar",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Warlord Traits",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
+        "listOfOptions" : null,
         "unitCategory" : "HQ",
         "unitCost" : 55.0,
         "unitID" : 1168,
@@ -252,17 +238,7 @@
           "Command points" : 0
         }
       } ],
-      "listOfEquipmentOptions" : [ {
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Warlord Traits (BRB)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
-        "equipmentName" : "$Warlord Traits"
-      } ],
+      "listOfEquipmentOptions" : null,
       "armyName" : "Servants of the Abyss",
       "armyCategories" : [ ]
     } ],

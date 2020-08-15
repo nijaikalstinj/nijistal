@@ -19,13 +19,6 @@
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
           "optionCost" : 120.0,
           "optionID" : 1674,
           "optionName" : "Wyvern",
@@ -131,13 +124,6 @@
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
           "optionName" : "$Astra Militarum Special Weapons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -201,13 +187,6 @@
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
           "optionName" : "$Russ Hull Weapon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -246,13 +225,6 @@
         "listOfOptions" : [ {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
           "optionName" : "$Psykana Discipline",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -283,6 +255,16 @@
         "unitName" : "[0]Veterans",
         "listOfOptions" : [ {
           "optionCost" : 6.0,
+          "optionID" : 1658,
+          "optionName" : "Veteran w/ Shotgun",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 6.0,
           "optionID" : 1655,
           "optionName" : "Veteran w/ Special Weapon",
           "autoAddDictionary" : { },
@@ -298,6 +280,16 @@
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 6.0,
+          "optionID" : 1652,
+          "optionName" : "Veteran Sergeant",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -317,59 +309,18 @@
           }
         }, {
           "optionCost" : 6.0,
-          "optionID" : 1657,
-          "optionName" : "Veteran W/ Heavy Flamer",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Astra Militarum Special Weapons BS3",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Astra Militarum Melee Weapons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 6.0,
-          "optionID" : 1658,
-          "optionName" : "Veteran w/ Shotgun",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 6.0,
-          "optionID" : 1652,
-          "optionName" : "Veteran Sergeant",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 6.0,
           "optionID" : 1653,
           "optionName" : "Veteran w/ Lasgun",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 6.0,
+          "optionID" : 1657,
+          "optionName" : "Veteran W/ Heavy Flamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -387,6 +338,13 @@
             "Command points" : 0
           }
         }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Astra Militarum Special Weapons BS3",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
           "optionCost" : 6.0,
           "optionID" : 1654,
           "optionName" : "Veteran w/ Vox-caster",
@@ -396,6 +354,13 @@
             "Power level" : 0,
             "Command points" : 0
           }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Astra Militarum Melee Weapons",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 0.0,
@@ -412,13 +377,6 @@
       }, {
         "unitName" : "[1]Minotaur Artillery Tank",
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
           "optionCost" : 0.0,
           "optionID" : 1732,
           "optionName" : "Twin Earthshaker Cannon",
@@ -459,13 +417,6 @@
             "Power level" : 0,
             "Command points" : 0
           }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
         }, {
           "optionCost" : 40.0,
           "optionID" : 1757,
@@ -511,13 +462,6 @@
           "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "$Vehicle Equipment List",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
@@ -575,13 +519,6 @@
           "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "$Tank Aces",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
@@ -673,13 +610,6 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
           "optionCost" : 8.0,
           "optionID" : 1663,
           "optionName" : "Rough Rider Sergeant",
@@ -754,13 +684,6 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
           "optionCost" : 30.0,
           "optionID" : 1683,
           "optionName" : "Taurox Missile Launcher",
@@ -825,20 +748,6 @@
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Warlord Traits",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Custom Character Selections",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 35.0,
@@ -871,13 +780,6 @@
             "Power level" : 0,
             "Command points" : 0
           }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -988,13 +890,6 @@
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Custom Character Selections",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
           "optionCost" : 5.0,
           "optionID" : 1773,
           "optionName" : "Bullgryn Plate",
@@ -1035,13 +930,6 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
           "optionID" : 1720,
           "optionName" : "Magma Cannon",
           "autoAddDictionary" : { },
@@ -1074,13 +962,6 @@
             "Power level" : 0,
             "Command points" : 0
           }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
         } ],
         "unitCategory" : "Troops",
         "unitCost" : 0.0,
@@ -1108,13 +989,6 @@
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
           "optionName" : "$Astra Militarum Heavy Weapons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1134,6 +1008,33 @@
       }, {
         "unitName" : "[0]Leman Russ Battle Tanks",
         "listOfOptions" : [ {
+          "optionCost" : 130.0,
+          "optionID" : 1713,
+          "optionName" : "Leman Russ Vanquisher",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 11,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 130.0,
+          "optionID" : 1715,
+          "optionName" : "Leman Russ Demolisher",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 11,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Sponson Weapons",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
           "optionCost" : 130.0,
           "optionID" : 1712,
           "optionName" : "Leman Russ Exterminator",
@@ -1166,60 +1067,6 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 130.0,
-          "optionID" : 1714,
-          "optionName" : "Leman Russ Executioner",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 11,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 130.0,
-          "optionID" : 1710,
-          "optionName" : "Leman Russ Battle Tank",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 11,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 130.0,
-          "optionID" : 1713,
-          "optionName" : "Leman Russ Vanquisher",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 11,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 130.0,
-          "optionID" : 1715,
-          "optionName" : "Leman Russ Demolisher",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 11,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Sponson Weapons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 130.0,
           "optionID" : 1716,
           "optionName" : "Leman Russ Punisher",
           "autoAddDictionary" : { },
@@ -1239,12 +1086,32 @@
             "Command points" : 0
           }
         }, {
+          "optionCost" : 130.0,
+          "optionID" : 1714,
+          "optionName" : "Leman Russ Executioner",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 11,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "$Pintle Mount",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 130.0,
+          "optionID" : 1710,
+          "optionName" : "Leman Russ Battle Tank",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 11,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "Heavy Support",
         "unitCost" : 0.0,
@@ -1280,13 +1147,6 @@
           "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "$Tank Aces",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
@@ -1334,13 +1194,6 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Custom Character Selections",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
           "optionID" : 1762,
           "optionName" : "Laspistol",
           "autoAddDictionary" : { },
@@ -1366,13 +1219,6 @@
             "Power level" : 0,
             "Command points" : 0
           }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Warlord Traits",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 50.0,
@@ -1412,14 +1258,7 @@
         }
       }, {
         "unitName" : "[1]Aquilla Lander",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
+        "listOfOptions" : null,
         "unitCategory" : "Flyers",
         "unitCost" : 110.0,
         "unitID" : 1759,
@@ -1471,13 +1310,6 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
           "optionID" : 1718,
           "optionName" : "Turret-mounted Hellhammer Cannon",
           "autoAddDictionary" : { },
@@ -1517,13 +1349,6 @@
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
         } ],
         "unitCategory" : "Lords of War",
         "unitCost" : 380.0,
@@ -1539,13 +1364,6 @@
       }, {
         "unitName" : "[1]Taurox",
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
           "optionCost" : 0.0,
           "optionID" : 1687,
           "optionName" : "Stat Damage (Taurox)",
@@ -1577,13 +1395,6 @@
       }, {
         "unitName" : "[0]Bullgryns",
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
           "optionCost" : 38.0,
           "optionID" : 1614,
           "optionName" : "Bullgryn",
@@ -1628,21 +1439,7 @@
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Warlord Traits",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
           "optionName" : "$HEIRLOOMS OF CONQUEST",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Custom Character Selections",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
@@ -1668,13 +1465,6 @@
             "Power level" : 0,
             "Command points" : 0
           }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 0.0,
@@ -1699,21 +1489,7 @@
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Warlord Traits",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
           "optionName" : "$HEIRLOOMS OF CONQUEST",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Custom Character Selections",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
@@ -1730,13 +1506,6 @@
       }, {
         "unitName" : "[1]Gryphonne Pattern Chimera",
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
           "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "$Pintle Mount",
@@ -1790,13 +1559,6 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Custom Character Selections",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
           "optionID" : 1766,
           "optionName" : "Laspistol",
           "autoAddDictionary" : { },
@@ -1805,13 +1567,6 @@
             "Power level" : 0,
             "Command points" : 0
           }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Warlord Traits",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 40.0,
@@ -1827,13 +1582,6 @@
       }, {
         "unitName" : "[1]Earthshaker Battery",
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
           "optionCost" : 115.0,
           "optionID" : 1745,
           "optionName" : "Earthshaker Platform",
@@ -1858,13 +1606,6 @@
       }, {
         "unitName" : "[1]Special Weapons Squad",
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
           "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "$Astra Militarum Special Weapons",
@@ -1937,13 +1678,6 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
           "optionCost" : 9.0,
           "optionID" : 1694,
           "optionName" : "Scion w/ Special Weapon",
@@ -1999,13 +1733,6 @@
       }, {
         "unitName" : "[0]Artemia Pattern Hellhound",
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
           "optionCost" : 115.0,
           "optionID" : 1751,
           "optionName" : "Artemia Pattern Hellhound",
@@ -2095,20 +1822,6 @@
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Custom Character Selections",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Warlord Traits",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
           "optionName" : "$Astra Militarum Melee Weapons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2129,13 +1842,6 @@
           "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "$Tank Aces",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
@@ -2218,46 +1924,6 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 40.0,
-          "optionID" : 1788,
-          "optionName" : "Twin Lascannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 30.0,
-          "optionID" : 1786,
-          "optionName" : "Two Heavy Flamers",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 30.0,
-          "optionID" : 1789,
-          "optionName" : "Twin Autocannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 5.0,
-          "optionID" : 1781,
-          "optionName" : "Heavy Stubber",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
           "optionCost" : 10.0,
           "optionID" : 1791,
           "optionName" : "Twin Multi-laser",
@@ -2288,16 +1954,49 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
+          "optionCost" : 40.0,
+          "optionID" : 1788,
+          "optionName" : "Twin Lascannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 30.0,
+          "optionID" : 1786,
+          "optionName" : "Two Heavy Flamers",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 30.0,
+          "optionID" : 1789,
+          "optionName" : "Twin Autocannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 10.0,
           "optionID" : 1787,
           "optionName" : "Two Multi-Lasers",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 1781,
+          "optionName" : "Heavy Stubber",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -2326,21 +2025,7 @@
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Warlord Traits",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
           "optionName" : "$HEIRLOOMS OF CONQUEST",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Custom Character Selections",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
@@ -2383,13 +2068,6 @@
             "Power level" : 0,
             "Command points" : 0
           }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
           "optionID" : 1700,
@@ -2442,13 +2120,6 @@
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
           "optionCost" : 30.0,
           "optionID" : 1730,
           "optionName" : "Armoured Sentinel",
@@ -2485,13 +2156,6 @@
       }, {
         "unitName" : "[1]Hydra Battery",
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
           "optionCost" : 75.0,
           "optionID" : 1747,
           "optionName" : "Hydra Platform",
@@ -2519,13 +2183,6 @@
           "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "$Tank Aces",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
@@ -2602,20 +2259,6 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Custom Character Selections",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Projeny of Conflict Warlord Traits",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
           "optionCost" : 2.0,
           "optionID" : 1676,
           "optionName" : "Bolt Pistol",
@@ -2625,13 +2268,6 @@
             "Power level" : 0,
             "Command points" : 0
           }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Warlord Traits",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 40.0,
@@ -2660,13 +2296,6 @@
           "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "$Tank Aces",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
@@ -2702,13 +2331,6 @@
       }, {
         "unitName" : "[0]Ogryns",
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
           "optionCost" : 30.0,
           "optionID" : 1644,
           "optionName" : "Ogryn Bone 'ead",
@@ -2764,13 +2386,6 @@
           "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "$Tank Aces",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
@@ -2839,13 +2454,6 @@
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
           "optionName" : "$Pintle Mount",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2888,13 +2496,6 @@
           "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "$Sentinel Weapon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
@@ -2968,20 +2569,6 @@
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Warlord Traits",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Custom Character Selections",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 25.0,
@@ -2998,13 +2585,6 @@
           "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "$Tank Aces",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
@@ -3044,13 +2624,6 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Warlord Traits",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
           "optionID" : 1793,
           "optionName" : "Rein",
           "autoAddDictionary" : { },
@@ -3078,13 +2651,6 @@
           "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "$Vehicle Equipment List",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
@@ -3160,13 +2726,6 @@
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
           "optionName" : "$Russ Hull Weapon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3195,21 +2754,14 @@
         "listOfOptions" : [ {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Pintle Mount",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
           "optionName" : "$Hull Weapon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Pintle Mount",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
@@ -3245,13 +2797,6 @@
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
           "optionName" : "$Pintle Mount",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3278,13 +2823,6 @@
       }, {
         "unitName" : "[1]Earthshaker Carriage Battery",
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
           "optionCost" : 100.0,
           "optionID" : 1554,
           "optionName" : "Earthshaker Carriage",
@@ -3332,13 +2870,6 @@
           "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "$Tank Aces",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
@@ -3394,13 +2925,6 @@
           "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "$Vehicle Equipment List",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
@@ -3493,21 +3017,7 @@
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Custom Character Selections",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
           "optionName" : "$Pintle Mount",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Warlord Traits",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
@@ -3533,13 +3043,6 @@
             "Power level" : 6,
             "Command points" : 0
           }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
         } ],
         "unitCategory" : "Heavy Support",
         "unitCost" : 0.0,
@@ -3564,13 +3067,6 @@
             "Power level" : 0,
             "Command points" : 0
           }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
         }, {
           "optionCost" : 40.0,
           "optionID" : 1591,
@@ -3611,13 +3107,6 @@
       }, {
         "unitName" : "[0]Valkyries",
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
           "optionCost" : 105.0,
           "optionID" : 1478,
           "optionName" : "Valkyrie",
@@ -3659,13 +3148,6 @@
       }, {
         "unitName" : "[0]Stygies Thunderer Seige Tank",
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
           "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "$Pintle Mount",
@@ -3726,13 +3208,6 @@
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
           "optionName" : "$Pintle Mount",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3782,13 +3257,6 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
           "optionCost" : 30.0,
           "optionID" : 1530,
           "optionName" : "2 Hellfury missiles",
@@ -3833,13 +3301,6 @@
           "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "$Vehicle Equipment List",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
@@ -3902,13 +3363,6 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
           "optionID" : 1482,
           "optionName" : "Stormsword Siege Cannon",
           "autoAddDictionary" : { },
@@ -3942,13 +3396,6 @@
           "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "$Tank Aces",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
@@ -4010,13 +3457,6 @@
             "Power level" : 0,
             "Command points" : 0
           }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
         }, {
           "optionCost" : 20.0,
           "optionID" : 1535,
@@ -4092,13 +3532,6 @@
       }, {
         "unitName" : "[0]Armageddon Pattern Medusa",
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
           "optionCost" : 120.0,
           "optionID" : 1542,
           "optionName" : "Armageddon Pattern Medusa",
@@ -4137,13 +3570,6 @@
       }, {
         "unitName" : "[1]Tarantula Battery",
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
           "optionCost" : 20.0,
           "optionID" : 1516,
           "optionName" : "Tarantula",
@@ -4197,13 +3623,6 @@
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
           "optionName" : "$Pintle Mount",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4232,13 +3651,6 @@
             "Power level" : 0,
             "Command points" : 0
           }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
         }, {
           "optionCost" : 40.0,
           "optionID" : 1503,
@@ -4326,13 +3738,6 @@
         "unitName" : "[1]Minotaur Artillery Tank",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
           "optionID" : 1611,
           "optionName" : "Twin Earthshaker Cannon",
           "autoAddDictionary" : { },
@@ -4372,13 +3777,6 @@
             "Power level" : 0,
             "Command points" : 0
           }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
         }, {
           "optionCost" : 40.0,
           "optionID" : 1583,
@@ -4421,13 +3819,6 @@
         "listOfOptions" : [ {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
           "optionName" : "$Pintle Mount",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4448,13 +3839,6 @@
           "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "$Vehicle Equipment List",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
@@ -4527,13 +3911,6 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
           "optionCost" : 46.0,
           "optionID" : 1521,
           "optionName" : "Tauros",
@@ -4597,13 +3974,6 @@
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
           "optionName" : "$Pintle Mount",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4662,13 +4032,6 @@
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
           "optionName" : "$Pintle Mount",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -4708,13 +4071,6 @@
       }, {
         "unitName" : "[1]Thunderbolt Heavy Fighter",
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
           "optionCost" : 90.0,
           "optionID" : 1526,
           "optionName" : "6 Skystrike Missiles",
@@ -4756,14 +4112,7 @@
         }
       }, {
         "unitName" : "[1]Centaur Light Carrier",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
+        "listOfOptions" : null,
         "unitCategory" : "Dedicated Transport",
         "unitCost" : 50.0,
         "unitID" : 1553,
@@ -4785,13 +4134,6 @@
             "Power level" : 6,
             "Command points" : 0
           }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -4830,13 +4172,6 @@
             "Power level" : 0,
             "Command points" : 0
           }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
         }, {
           "optionCost" : 15.0,
           "optionID" : 1509,
@@ -4903,13 +4238,6 @@
         "unitName" : "[0]Heavy Quad Launcher Battery",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
           "optionID" : 1546,
           "optionName" : "Heavy Quad Launcher Battery",
           "autoAddDictionary" : { },
@@ -4933,13 +4261,6 @@
       }, {
         "unitName" : "[1]Malcador Defender",
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
           "optionCost" : 40.0,
           "optionID" : 1587,
           "optionName" : "2 Lascannons",
@@ -5001,13 +4322,6 @@
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
           "optionName" : "$Pintle Mount",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5040,13 +4354,6 @@
           "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "$Tank Aces",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
@@ -5088,13 +4395,6 @@
             "Power level" : 3,
             "Command points" : 0
           }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
         } ],
         "unitCategory" : "Heavy Support",
         "unitCost" : 0.0,
@@ -5150,13 +4450,6 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
           "optionCost" : 40.0,
           "optionID" : 1597,
           "optionName" : "2 Lascannons",
@@ -5206,13 +4499,6 @@
       }, {
         "unitName" : "[0]Tauros Assault Vehicle",
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
           "optionCost" : 37.0,
           "optionID" : 1518,
           "optionName" : "Tauros",
@@ -5274,13 +4560,6 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honors",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
           "optionCost" : 20.0,
           "optionID" : 1559,
           "optionName" : "4 Heavy Stubbers",
@@ -5314,7 +4593,7 @@
       "listOfEquipmentOptions" : [ {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 9889,
+          "optionID" : 9888,
           "optionName" : "WT (Emperor's Conclave): Fiery Denouncer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5324,7 +4603,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9942,
+          "optionID" : 9941,
           "optionName" : "WT (Tempestus Drop Force): Grave-Chute Commando",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5334,7 +4613,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9892,
+          "optionID" : 9891,
           "optionName" : "WT (Emperor's Fist): Unflinching Resolve",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5344,7 +4623,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9891,
+          "optionID" : 9890,
           "optionName" : "WT (Emperor's Wrath): Lord of Ordnance",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5354,7 +4633,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9869,
+          "optionID" : 9868,
           "optionName" : "WT (Emperor's Blade): Mechanized Commander",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5668,7 +4947,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 15.0,
-          "optionID" : 9873,
+          "optionID" : 9872,
           "optionName" : "Turret-mounted Executioner Plasma Cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5678,7 +4957,7 @@
           }
         }, {
           "optionCost" : 20.0,
-          "optionID" : 9954,
+          "optionID" : 9953,
           "optionName" : "Turret-mounted Demolisher Siege Cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5688,7 +4967,7 @@
           }
         }, {
           "optionCost" : 35.0,
-          "optionID" : 9878,
+          "optionID" : 9877,
           "optionName" : "Turret-mounted Punisher Gatling Cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5771,16 +5050,6 @@
           }
         } ],
         "equipmentName" : "$Main Battle Tank Aces"
-      }, {
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Warlord Traits (BRB)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
-        "equipmentName" : "$Projeny of Conflict Warlord Traits"
       }, {
         "listOfOptions" : [ {
           "optionCost" : 15.0,
@@ -5867,7 +5136,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 9857,
+          "optionID" : 9856,
           "optionName" : "Relic (32nd Thetoid Eagles): Fire of Judgement",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5877,7 +5146,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9858,
+          "optionID" : 9857,
           "optionName" : "Relic (Armageddon): Skull Mask of Acheron",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5887,7 +5156,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9917,
+          "optionID" : 9916,
           "optionName" : "Relic (43rd Iotan Dragons): Emperor's Fury",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5897,7 +5166,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9898,
+          "optionID" : 9897,
           "optionName" : "Relic (Emperor's Conclave): Litanies of The Holy Synod",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5907,7 +5176,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9950,
+          "optionID" : 9949,
           "optionName" : "Relic (Tempestus Drop Force): Cypra Mundi Null-Emitter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5917,7 +5186,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9900,
+          "optionID" : 9899,
           "optionName" : "Relic (Tallarn): Claw of the Desert Tigers",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5927,7 +5196,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9859,
+          "optionID" : 9858,
           "optionName" : "Relic (Vostroyan): The Armour of Graf Toschenko",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5937,7 +5206,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9934,
+          "optionID" : 9933,
           "optionName" : "Relic (Mordian): Order of the Iron Star of Mordian",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5947,7 +5216,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9860,
+          "optionID" : 9859,
           "optionName" : "Relic (9th Iotan Gorgonnes): Blessed Boltgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5957,7 +5226,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9888,
+          "optionID" : 9887,
           "optionName" : "Relic (Emperor's Fist): Hammer of Sunderance",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5967,7 +5236,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9904,
+          "optionID" : 9903,
           "optionName" : "Relic (Cadia): Relic of Lost Cadia",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5977,7 +5246,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9848,
+          "optionID" : 9847,
           "optionName" : "Relic (54th Psian Jackals): The Hounds Teeth",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5987,7 +5256,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9847,
+          "optionID" : 9846,
           "optionName" : "Relic (55th Kappic Eagles): Distraction Charges",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -5997,7 +5266,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9874,
+          "optionID" : 9873,
           "optionName" : "Relic: The Laurels of Command",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -6007,7 +5276,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9907,
+          "optionID" : 9906,
           "optionName" : "Relic: The Deathmask of Ollanius",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -6017,7 +5286,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9852,
+          "optionID" : 9851,
           "optionName" : "Relic (Catachan): Mamorth Tuskblade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -6027,7 +5296,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9926,
+          "optionID" : 9925,
           "optionName" : "Relic (Militarum Tempestus): The Tactical Auto-Reliquary of Tyberius",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -6037,7 +5306,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9854,
+          "optionID" : 9853,
           "optionName" : "Relic (Emperor's Blade): The Shield of Mortwald",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -6047,7 +5316,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9890,
+          "optionID" : 9889,
           "optionName" : "Relic: The Emperor's Benediction",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -6057,7 +5326,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9945,
+          "optionID" : 9944,
           "optionName" : "Relic: The Blade of Conquest",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -6067,7 +5336,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9947,
+          "optionID" : 9946,
           "optionName" : "Relic: The Dagger of Tu'Sakh",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -6077,7 +5346,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9958,
+          "optionID" : 9957,
           "optionName" : "Relic (Emperor's Wrath): Agripinaa-Class Orbital Tracker",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -6087,7 +5356,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9881,
+          "optionID" : 9880,
           "optionName" : "Relic (Valhallan): Pietrov's Mk 45 ",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -6097,7 +5366,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9959,
+          "optionID" : 9958,
           "optionName" : "Relic: Kurov's Aquila",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -6169,7 +5438,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9923,
+          "optionID" : 9922,
           "optionName" : "Regiment: Cadian",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -6179,7 +5448,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9930,
+          "optionID" : 9929,
           "optionName" : "Regiment: Armageddon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -6189,7 +5458,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9933,
+          "optionID" : 9932,
           "optionName" : "Regiment: Vostroyan",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -6199,7 +5468,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9927,
+          "optionID" : 9926,
           "optionName" : "Regiment: Valhallan",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -6219,7 +5488,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9951,
+          "optionID" : 9950,
           "optionName" : "Regiment: Tallarn",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -6229,7 +5498,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9953,
+          "optionID" : 9952,
           "optionName" : "Regiment: Mordian",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -6239,7 +5508,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9920,
+          "optionID" : 9919,
           "optionName" : "Regiment: Catachan",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -6434,7 +5703,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 9955,
+          "optionID" : 9954,
           "optionName" : "Emperor's Fist Tank Company",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -6444,7 +5713,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9956,
+          "optionID" : 9955,
           "optionName" : "Emperor's Blade Assault Company",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -6454,7 +5723,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9910,
+          "optionID" : 9909,
           "optionName" : "Emperor's Wrath Artillery Company",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -6464,7 +5733,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 9960,
+          "optionID" : 9959,
           "optionName" : "Emperor's Conclave Infantry Company",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -6560,16 +5829,6 @@
           }
         } ],
         "equipmentName" : "$Pintle Mount"
-      }, {
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Warlord Traits (BRB)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
-        "equipmentName" : "$Warlord Traits"
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
