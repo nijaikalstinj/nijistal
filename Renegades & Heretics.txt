@@ -7,14 +7,7 @@
         "listOfOptions" : [ {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Vehicle Equipment List",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
+          "optionName" : "$Pintle Mount",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
@@ -31,7 +24,7 @@
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Pintle Mount",
+          "optionName" : "$Vehicle Equipment List",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
@@ -46,9 +39,7 @@
         "unitCategory" : "",
         "unitCost" : 0.0,
         "unitID" : 1008,
-        "autoAddDictionary" : {
-          "1007" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 0,
         "listOfCurrencies" : {
           "Power level" : 0,
@@ -57,27 +48,6 @@
       }, {
         "unitName" : "[0]Hydras",
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Vehicle Equipment List",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Pintle Mount",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
           "optionCost" : 85.0,
           "optionID" : 1009,
           "optionName" : "Hydra",
@@ -90,6 +60,20 @@
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
+          "optionName" : "$Pintle Mount",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Vehicle Equipment List",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
           "optionName" : "$Hull Weapon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -98,9 +82,7 @@
         "unitCategory" : "",
         "unitCost" : 0.0,
         "unitID" : 1010,
-        "autoAddDictionary" : {
-          "1009" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 0,
         "listOfCurrencies" : {
           "Power level" : 0,
@@ -118,20 +100,11 @@
             "Power level" : 3,
             "Command points" : 0
           }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
         } ],
         "unitCategory" : "",
         "unitCost" : 0.0,
         "unitID" : 1020,
-        "autoAddDictionary" : {
-          "1019" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 0,
@@ -140,13 +113,6 @@
       }, {
         "unitName" : "[1]Minotaur Artillery Tank",
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
           "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "$Pintle Mount",
@@ -163,13 +129,21 @@
             "Power level" : 0,
             "Command points" : 0
           }
+        }, {
+          "optionCost" : 8.0,
+          "optionID" : 4524,
+          "optionName" : "Heavy bolter",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "",
         "unitCost" : 280.0,
         "unitID" : 1022,
-        "autoAddDictionary" : {
-          "1021" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 18,
@@ -180,7 +154,7 @@
         "listOfOptions" : [ {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Battle Honours",
+          "optionName" : "$Flyer Weapons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
@@ -194,20 +168,11 @@
             "Power level" : 6,
             "Command points" : 0
           }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Flyer Weapons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
         } ],
         "unitCategory" : "",
         "unitCost" : 0.0,
         "unitID" : 1024,
-        "autoAddDictionary" : {
-          "1023" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 0,
         "listOfCurrencies" : {
           "Power level" : 0,
@@ -216,13 +181,6 @@
       }, {
         "unitName" : "[0]Earthshaker Battery",
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
           "optionCost" : 115.0,
           "optionID" : 1027,
           "optionName" : "Earthshaker Platform",
@@ -236,9 +194,7 @@
         "unitCategory" : "",
         "unitCost" : 0.0,
         "unitID" : 1028,
-        "autoAddDictionary" : {
-          "1027" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 0,
         "listOfCurrencies" : {
           "Power level" : 0,
@@ -247,13 +203,6 @@
       }, {
         "unitName" : "[0]Rapier Laser Destroyer",
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
           "optionCost" : 80.0,
           "optionID" : 1017,
           "optionName" : "Rapier Laser Destroyer",
@@ -267,9 +216,7 @@
         "unitCategory" : "",
         "unitCost" : 0.0,
         "unitID" : 1018,
-        "autoAddDictionary" : {
-          "1017" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 0,
         "listOfCurrencies" : {
           "Power level" : 0,
@@ -278,12 +225,15 @@
       }, {
         "unitName" : "[1]Malcador Defender",
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
+          "optionCost" : 8.0,
+          "optionID" : 4524,
+          "optionName" : "Heavy bolter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -291,6 +241,16 @@
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 20.0,
+          "optionID" : 4535,
+          "optionName" : "Demolisher Siege Cannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "",
         "unitCost" : 200.0,
@@ -304,6 +264,16 @@
       }, {
         "unitName" : "[0]Renegade Ogryn Brutes",
         "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 4522,
+          "optionName" : "Frag grenade",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 30.0,
           "optionID" : 1097,
           "optionName" : "Brutes",
@@ -323,21 +293,11 @@
             "Power level" : 2,
             "Command points" : 0
           }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
         } ],
         "unitCategory" : "",
         "unitCost" : 0.0,
         "unitID" : 1099,
-        "autoAddDictionary" : {
-          "1098" : 0,
-          "1097" : 3
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 0,
         "listOfCurrencies" : {
           "Power level" : 6,
@@ -348,7 +308,7 @@
         "listOfOptions" : [ {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Battle Honours",
+          "optionName" : "$Renegades and Heretics Discipline",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
@@ -362,20 +322,11 @@
             "Power level" : 0,
             "Command points" : 0
           }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$RENEGADES AND HERETICS DISCIPLINE",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
         } ],
         "unitCategory" : "",
         "unitCost" : 0.0,
         "unitID" : 1031,
-        "autoAddDictionary" : {
-          "1030" : 5
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 0,
         "listOfCurrencies" : {
           "Power level" : 3,
@@ -384,70 +335,6 @@
       }, {
         "unitName" : "[0]Renegade Militia Squad",
         "listOfOptions" : [ {
-          "optionCost" : 4.0,
-          "optionID" : 1044,
-          "optionName" : "Renegade Militia with Autogun",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 4.0,
-          "optionID" : 1043,
-          "optionName" : "Renegade Militia w/ Vox-caster",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Ranged Weapons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 4.0,
-          "optionID" : 1046,
-          "optionName" : "Renegade Militia with Lasgun",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 1050,
-          "optionName" : "Autopistol and Brutal assault weapon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Melee Weapons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 4.0,
-          "optionID" : 1042,
-          "optionName" : "Renegade Militia w/ Chaos Sigil",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
           "optionCost" : 4.0,
           "optionID" : 1047,
           "optionName" : "Renegade Militia with Laspistol & Brutal Assault Weapon",
@@ -460,7 +347,7 @@
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Special Weapons",
+          "optionName" : "$Melee Weapons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
@@ -476,14 +363,114 @@
           }
         }, {
           "optionCost" : 0.0,
+          "optionID" : 4522,
+          "optionName" : "Frag grenade",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Battle Honours",
+          "optionName" : "$Ranged Weapons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
+          "optionCost" : 4.0,
+          "optionID" : 1041,
+          "optionName" : "Renegade Militia w/ special weapon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 8.0,
+          "optionID" : 4524,
+          "optionName" : "Heavy bolter",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 0.0,
           "optionID" : 1051,
+          "optionName" : "Laspistol and Brutal assault weapon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 4550,
+          "optionName" : "Vox-caster",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 4.0,
+          "optionID" : 1043,
+          "optionName" : "Renegade Militia w/ Vox-caster",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 4.0,
+          "optionID" : 1044,
+          "optionName" : "Renegade Militia with Autogun",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 1048,
+          "optionName" : "Autopistol and Brutal assault weapon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 15.0,
+          "optionID" : 4553,
+          "optionName" : "Missile launcher",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 9.0,
+          "optionID" : 4526,
+          "optionName" : "Mortar",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 1049,
           "optionName" : "Laspistol and Brutal assault weapon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -502,9 +489,36 @@
             "Command points" : 0
           }
         }, {
+          "optionCost" : 4.0,
+          "optionID" : 1046,
+          "optionName" : "Renegade Militia with Lasgun",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 0.0,
-          "optionID" : 1040,
-          "optionName" : "Renegade Militia Weapon Team",
+          "optionID" : 0,
+          "optionName" : "$Special Weapons",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 4.0,
+          "optionID" : 1042,
+          "optionName" : "Renegade Militia w/ Chaos Sigil",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 1050,
+          "optionName" : "Autopistol and Brutal assault weapon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -512,11 +526,31 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 4.0,
-          "optionID" : 1041,
-          "optionName" : "Renegade Militia w/ special weapon",
+          "optionCost" : 10.0,
+          "optionID" : 4538,
+          "optionName" : "Chaos Sigil",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 1040,
+          "optionName" : "Renegade Militia Weapon Team",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 20.0,
+          "optionID" : 4561,
+          "optionName" : "Lascannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Power level" : 0,
             "Command points" : 0
@@ -525,10 +559,7 @@
         "unitCategory" : "",
         "unitCost" : 0.0,
         "unitID" : 1052,
-        "autoAddDictionary" : {
-          "1039" : 1,
-          "1044" : 9
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 0,
         "listOfCurrencies" : {
           "Power level" : 3,
@@ -546,20 +577,11 @@
             "Power level" : 3,
             "Command points" : 0
           }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
         } ],
         "unitCategory" : "",
         "unitCost" : 0.0,
         "unitID" : 1111,
-        "autoAddDictionary" : {
-          "1110" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 0,
         "listOfCurrencies" : {
           "Power level" : 0,
@@ -568,28 +590,31 @@
       }, {
         "unitName" : "[1]Macharius Omega",
         "listOfOptions" : [ {
-          "optionCost" : 34.0,
-          "optionID" : 1123,
-          "optionName" : "2 Heavy Flamers",
+          "optionCost" : 30.0,
+          "optionID" : 1121,
+          "optionName" : "2 Autocannons",
           "autoAddDictionary" : { },
-          "modelsAdded" : 0,
+          "modelsAdded" : 1,
           "listOfCurrencies" : {
             "Power level" : 0,
             "Command points" : 0
           }
         }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
+          "optionCost" : 16.0,
+          "optionID" : 1122,
+          "optionName" : "2 Heavy Bolters",
           "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
-          "optionCost" : 30.0,
-          "optionID" : 1121,
-          "optionName" : "2 Autocannons",
+          "optionCost" : 34.0,
+          "optionID" : 1123,
+          "optionName" : "2 Heavy Flamers",
           "autoAddDictionary" : { },
-          "modelsAdded" : 0,
+          "modelsAdded" : 1,
           "listOfCurrencies" : {
             "Power level" : 0,
             "Command points" : 0
@@ -601,16 +626,6 @@
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 16.0,
-          "optionID" : 1122,
-          "optionName" : "2 Heavy Bolters",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1120,
@@ -625,9 +640,7 @@
         "unitCategory" : "",
         "unitCost" : 355.0,
         "unitID" : 1124,
-        "autoAddDictionary" : {
-          "1120" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 22,
@@ -645,20 +658,11 @@
             "Power level" : 2,
             "Command points" : 0
           }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
         } ],
         "unitCategory" : "",
         "unitCost" : 0.0,
         "unitID" : 1064,
-        "autoAddDictionary" : {
-          "1063" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 0,
         "listOfCurrencies" : {
           "Power level" : 0,
@@ -669,30 +673,10 @@
         "listOfOptions" : [ {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Special Weapons",
+          "optionName" : "$Heavy Weapons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 10.0,
-          "optionID" : 1072,
-          "optionName" : "Banner of Hate",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 6.0,
-          "optionID" : 1070,
-          "optionName" : "Disciple w/ Banner",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
         }, {
           "optionCost" : 6.0,
           "optionID" : 1066,
@@ -704,18 +688,11 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
+          "optionCost" : 10.0,
+          "optionID" : 1072,
+          "optionName" : "Banner of Hate",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 6.0,
-          "optionID" : 1067,
-          "optionName" : "Disciple with autogun",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
           "listOfCurrencies" : {
             "Power level" : 0,
             "Command points" : 0
@@ -732,8 +709,38 @@
           }
         }, {
           "optionCost" : 0.0,
+          "optionID" : 4522,
+          "optionName" : "Frag grenade",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 6.0,
+          "optionID" : 1067,
+          "optionName" : "Disciple with autogun",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 6.0,
+          "optionID" : 1070,
+          "optionName" : "Disciple w/ Banner",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Heavy Weapons",
+          "optionName" : "$Special Weapons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
@@ -771,9 +778,7 @@
         "unitCategory" : "",
         "unitCost" : 0.0,
         "unitID" : 1073,
-        "autoAddDictionary" : {
-          "1068" : 4
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 0,
         "listOfCurrencies" : {
           "Power level" : 3,
@@ -782,12 +787,15 @@
       }, {
         "unitName" : "[1]Baneblade",
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
+          "optionCost" : 14.0,
+          "optionID" : 4546,
+          "optionName" : "Twin heavy bolter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -807,6 +815,16 @@
           }
         }, {
           "optionCost" : 0.0,
+          "optionID" : 4537,
+          "optionName" : "Adamantium Tracks",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "$Baneblade Sponsons",
           "autoAddDictionary" : { },
@@ -816,9 +834,7 @@
         "unitCategory" : "",
         "unitCost" : 350.0,
         "unitID" : 1012,
-        "autoAddDictionary" : {
-          "1011" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 28,
@@ -827,20 +843,6 @@
       }, {
         "unitName" : "[0]Colossus Bombard",
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Pintle Mount",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
           "optionCost" : 150.0,
           "optionID" : 1025,
           "optionName" : "Colossus Bombard",
@@ -853,6 +855,13 @@
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
+          "optionName" : "$Pintle Mount",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
           "optionName" : "$Hull Weapon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -861,9 +870,7 @@
         "unitCategory" : "",
         "unitCost" : 0.0,
         "unitID" : 1026,
-        "autoAddDictionary" : {
-          "1025" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 0,
         "listOfCurrencies" : {
           "Power level" : 0,
@@ -884,6 +891,26 @@
       }, {
         "unitName" : "[0]Leman Russ Battle Tanks",
         "listOfOptions" : [ {
+          "optionCost" : 15.0,
+          "optionID" : 4528,
+          "optionName" : "Eradicator Nova Cannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 17.0,
+          "optionID" : 4529,
+          "optionName" : "Exterminator Autocannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "$Sponson Weapons",
@@ -891,33 +918,15 @@
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Vehicle Equipment List",
+          "optionCost" : 15.0,
+          "optionID" : 4533,
+          "optionName" : "Vanquisher Battle Cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Russ Hull Weapon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Pintle Mount",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 107.0,
           "optionID" : 1004,
@@ -938,13 +947,62 @@
             "Power level" : 0,
             "Command points" : 0
           }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Russ Hull Weapon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Pintle Mount",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 20.0,
+          "optionID" : 4535,
+          "optionName" : "Demolisher Siege Cannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Vehicle Equipment List",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 30.0,
+          "optionID" : 4549,
+          "optionName" : "Punisher Gatling Cannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 15.0,
+          "optionID" : 4559,
+          "optionName" : "Executioner Plasma Cannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "",
         "unitCost" : 0.0,
         "unitID" : 1006,
-        "autoAddDictionary" : {
-          "1004" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 0,
         "listOfCurrencies" : {
           "Power level" : 0,
@@ -953,12 +1011,15 @@
       }, {
         "unitName" : "[0]Hellhounds",
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Vehicle Equipment List",
+          "optionCost" : 73.0,
+          "optionID" : 995,
+          "optionName" : "Hellhound",
           "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 6,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 73.0,
           "optionID" : 996,
@@ -970,32 +1031,12 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 73.0,
-          "optionID" : 997,
-          "optionName" : "Devil Dog",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 6,
-            "Command points" : 0
-          }
-        }, {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Battle Honours",
+          "optionName" : "$Hellhound Hull Weapon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 73.0,
-          "optionID" : 995,
-          "optionName" : "Hellhound",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 6,
-            "Command points" : 0
-          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -1006,17 +1047,25 @@
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Hellhound Hull Weapon",
+          "optionName" : "$Vehicle Equipment List",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 73.0,
+          "optionID" : 997,
+          "optionName" : "Devil Dog",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 6,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "",
         "unitCost" : 0.0,
         "unitID" : 998,
-        "autoAddDictionary" : {
-          "995" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 0,
         "listOfCurrencies" : {
           "Power level" : 0,
@@ -1025,13 +1074,6 @@
       }, {
         "unitName" : "[0]Armoured Sentinels",
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Sentinel Weapon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
           "optionCost" : 30.0,
           "optionID" : 999,
           "optionName" : "Armoured Sentinel",
@@ -1044,17 +1086,25 @@
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Battle Honours",
+          "optionName" : "$Sentinel Weapon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 2.0,
+          "optionID" : 4544,
+          "optionName" : "Sentinel Chainsaw",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "",
         "unitCost" : 0.0,
         "unitID" : 1000,
-        "autoAddDictionary" : {
-          "999" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 0,
         "listOfCurrencies" : {
           "Power level" : 0,
@@ -1072,20 +1122,11 @@
             "Power level" : 4,
             "Command points" : 0
           }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
         } ],
         "unitCategory" : "",
         "unitCost" : 0.0,
         "unitID" : 1113,
-        "autoAddDictionary" : {
-          "1112" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 0,
         "listOfCurrencies" : {
           "Power level" : 0,
@@ -1094,9 +1135,46 @@
       }, {
         "unitName" : "[1]Macharius Vulcan",
         "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 1132,
+          "optionName" : "Vulcan Mega Bolter",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 16.0,
+          "optionID" : 1134,
+          "optionName" : "2 Heavy Bolters",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 8.0,
           "optionID" : 1133,
           "optionName" : "2 Heavy Stubbers",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Pintle Mount",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 7.0,
+          "optionID" : 1131,
+          "optionName" : "Twin Heavy Stubber",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -1108,51 +1186,7 @@
           "optionID" : 1135,
           "optionName" : "2 Heavy Flamers",
           "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 1132,
-          "optionName" : "Vulcan Mega Bolter",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Pintle Mount",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 16.0,
-          "optionID" : 1134,
-          "optionName" : "2 Heavy Bolters",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 7.0,
-          "optionID" : 1131,
-          "optionName" : "Twin Heavy Stubber",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
+          "modelsAdded" : 1,
           "listOfCurrencies" : {
             "Power level" : 0,
             "Command points" : 0
@@ -1161,10 +1195,7 @@
         "unitCategory" : "",
         "unitCost" : 350.0,
         "unitID" : 1136,
-        "autoAddDictionary" : {
-          "1132" : 1,
-          "1131" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 24,
@@ -1173,6 +1204,23 @@
       }, {
         "unitName" : "[0]Salamander Scout Tank",
         "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Pintle Mount",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 8.0,
+          "optionID" : 4524,
+          "optionName" : "Heavy bolter",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 55.0,
           "optionID" : 1013,
           "optionName" : "Salamander Scout Tank",
@@ -1182,27 +1230,11 @@
             "Power level" : 5,
             "Command points" : 0
           }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Pintle Mount",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
         } ],
         "unitCategory" : "",
         "unitCost" : 0.0,
         "unitID" : 1014,
-        "autoAddDictionary" : {
-          "1013" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 0,
         "listOfCurrencies" : {
           "Power level" : 0,
@@ -1211,13 +1243,6 @@
       }, {
         "unitName" : "[0]Renegade Plague Ogryns",
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
           "optionCost" : 25.0,
           "optionID" : 1100,
           "optionName" : "Plague Ogryn",
@@ -1231,9 +1256,7 @@
         "unitCategory" : "",
         "unitCost" : 0.0,
         "unitID" : 1101,
-        "autoAddDictionary" : {
-          "1100" : 3
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 0,
         "listOfCurrencies" : {
           "Power level" : 7,
@@ -1242,23 +1265,6 @@
       }, {
         "unitName" : "[0]Armageddon Pattern Medusa",
         "listOfOptions" : [ {
-          "optionCost" : 115.0,
-          "optionID" : 1108,
-          "optionName" : "Armageddon Pattern Medusa",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 7,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
           "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "$Pintle Mount",
@@ -1272,13 +1278,21 @@
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 115.0,
+          "optionID" : 1108,
+          "optionName" : "Armageddon Pattern Medusa",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 7,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "",
         "unitCost" : 0.0,
         "unitID" : 1109,
-        "autoAddDictionary" : {
-          "1108" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 0,
         "listOfCurrencies" : {
           "Power level" : 0,
@@ -1287,6 +1301,13 @@
       }, {
         "unitName" : "[0]Renegade Disciple Squad",
         "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Melee Weapons",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
           "optionCost" : 6.0,
           "optionID" : 1080,
           "optionName" : "Disciple with Lasgun",
@@ -1298,8 +1319,18 @@
           }
         }, {
           "optionCost" : 0.0,
+          "optionID" : 4522,
+          "optionName" : "Frag grenade",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Special Weapons",
+          "optionName" : "$Ranged Weapons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
@@ -1314,43 +1345,19 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 6.0,
-          "optionID" : 1078,
-          "optionName" : "Disciple with Voxcaster",
+          "optionCost" : 5.0,
+          "optionID" : 4550,
+          "optionName" : "Vox-caster",
           "autoAddDictionary" : { },
-          "modelsAdded" : 1,
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Power level" : 0,
             "Command points" : 0
           }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Ranged Weapons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
         }, {
           "optionCost" : 6.0,
           "optionID" : 1076,
           "optionName" : "Disciple with special weapon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 6.0,
-          "optionID" : 1074,
-          "optionName" : "Disciple Champion",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
           "listOfCurrencies" : {
@@ -1375,9 +1382,29 @@
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
+          "optionCost" : 6.0,
+          "optionID" : 1078,
+          "optionName" : "Disciple with Voxcaster",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 6.0,
+          "optionID" : 1074,
+          "optionName" : "Disciple Champion",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Melee Weapons",
+          "optionName" : "$Special Weapons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
@@ -1391,14 +1418,21 @@
             "Power level" : 0,
             "Command points" : 0
           }
+        }, {
+          "optionCost" : 10.0,
+          "optionID" : 4538,
+          "optionName" : "Chaos Sigil",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "",
         "unitCost" : 0.0,
         "unitID" : 1081,
-        "autoAddDictionary" : {
-          "1079" : 4,
-          "1074" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 0,
         "listOfCurrencies" : {
           "Power level" : 3,
@@ -1407,38 +1441,21 @@
       }, {
         "unitName" : "[1]Macharius Vanquisher",
         "listOfOptions" : [ {
-          "optionCost" : 8.0,
-          "optionID" : 1127,
-          "optionName" : "2 Heavy Stubber",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
           "optionCost" : 34.0,
           "optionID" : 1129,
           "optionName" : "2 Heavy Flamers",
           "autoAddDictionary" : { },
-          "modelsAdded" : 0,
+          "modelsAdded" : 1,
           "listOfCurrencies" : {
             "Power level" : 0,
             "Command points" : 0
           }
         }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
+          "optionCost" : 16.0,
+          "optionID" : 1128,
+          "optionName" : "2 Heavy Bolters",
           "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 1126,
-          "optionName" : "Vanquisher Cannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
+          "modelsAdded" : 1,
           "listOfCurrencies" : {
             "Power level" : 0,
             "Command points" : 0
@@ -1451,9 +1468,9 @@
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
-          "optionCost" : 16.0,
-          "optionID" : 1128,
-          "optionName" : "2 Heavy Bolters",
+          "optionCost" : 7.0,
+          "optionID" : 1125,
+          "optionName" : "Twin Heavy Stubber",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -1461,9 +1478,19 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 7.0,
-          "optionID" : 1125,
-          "optionName" : "Twin Heavy Stubber",
+          "optionCost" : 8.0,
+          "optionID" : 1127,
+          "optionName" : "2 Heavy Stubber",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 1126,
+          "optionName" : "Vanquisher Cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -1474,10 +1501,7 @@
         "unitCategory" : "",
         "unitCost" : 360.0,
         "unitID" : 1130,
-        "autoAddDictionary" : {
-          "1126" : 1,
-          "1125" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 22,
@@ -1486,13 +1510,6 @@
       }, {
         "unitName" : "[0]Renegade Ogryn Beast Handlers",
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
           "optionCost" : 30.0,
           "optionID" : 1094,
           "optionName" : "Ogryn Pack Master",
@@ -1516,10 +1533,7 @@
         "unitCategory" : "",
         "unitCost" : 0.0,
         "unitID" : 1096,
-        "autoAddDictionary" : {
-          "1095" : 3,
-          "1094" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 0,
         "listOfCurrencies" : {
           "Power level" : 4,
@@ -1528,6 +1542,16 @@
       }, {
         "unitName" : "[1]Renegade Enforcer",
         "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 4532,
+          "optionName" : "Warlord",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "$Melee Weapons",
@@ -1549,13 +1573,6 @@
         "listOfOptions" : [ {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Battle Honours",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
           "optionName" : "$Pintle Mount",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1570,13 +1587,31 @@
             "Power level" : 0,
             "Command points" : 0
           }
+        }, {
+          "optionCost" : 8.0,
+          "optionID" : 4524,
+          "optionName" : "Heavy bolter",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 20.0,
+          "optionID" : 4561,
+          "optionName" : "Lascannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "",
         "unitCost" : 190.0,
         "unitID" : 1105,
-        "autoAddDictionary" : {
-          "1104" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 15,
@@ -1587,10 +1622,30 @@
         "listOfOptions" : [ {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$RENEGADES AND HERETICS DISCIPLINE",
+          "optionName" : "$Renegades and Heretics Discipline",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 4532,
+          "optionName" : "Warlord",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 4547,
+          "optionName" : "Bare Hands",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "",
         "unitCost" : 80.0,
@@ -1604,6 +1659,43 @@
       }, {
         "unitName" : "[1]Renegade Mutant Rabble",
         "listOfOptions" : [ {
+          "optionCost" : 4.0,
+          "optionID" : 1053,
+          "optionName" : "Mutant Champion",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 4.0,
+          "optionID" : 1055,
+          "optionName" : "Mutant with Autopistol",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Melee Weapons",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 4522,
+          "optionName" : "Frag grenade",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 0.0,
           "optionID" : 1061,
           "optionName" : "Autopistol",
@@ -1615,8 +1707,8 @@
           }
         }, {
           "optionCost" : 4.0,
-          "optionID" : 1054,
-          "optionName" : "Mutant with Autogun",
+          "optionID" : 1059,
+          "optionName" : "Mutant with Stubgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
           "listOfCurrencies" : {
@@ -1624,16 +1716,9 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
           "optionCost" : 4.0,
-          "optionID" : 1053,
-          "optionName" : "Mutant Champion",
+          "optionID" : 1054,
+          "optionName" : "Mutant with Autogun",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
           "listOfCurrencies" : {
@@ -1651,12 +1736,15 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Melee Weapons",
+          "optionCost" : 4.0,
+          "optionID" : 1056,
+          "optionName" : "Mutant with Laspistol",
           "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 4.0,
           "optionID" : 1058,
@@ -1677,36 +1765,6 @@
             "Power level" : 0,
             "Command points" : 0
           }
-        }, {
-          "optionCost" : 4.0,
-          "optionID" : 1055,
-          "optionName" : "Mutant with Autopistol",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 4.0,
-          "optionID" : 1056,
-          "optionName" : "Mutant with Laspistol",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 4.0,
-          "optionID" : 1059,
-          "optionName" : "Mutant with Stubgun",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
         } ],
         "unitCategory" : "",
         "unitCost" : 0.0,
@@ -1720,23 +1778,6 @@
       }, {
         "unitName" : "[0]Valkyries",
         "listOfOptions" : [ {
-          "optionCost" : 100.0,
-          "optionID" : 1001,
-          "optionName" : "Valkyrie",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 10,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
           "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "$Wing-mounted Weapons",
@@ -1753,13 +1794,21 @@
             "Power level" : 0,
             "Command points" : 0
           }
+        }, {
+          "optionCost" : 100.0,
+          "optionID" : 1001,
+          "optionName" : "Valkyrie",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 10,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "",
         "unitCost" : 0.0,
         "unitID" : 1003,
-        "autoAddDictionary" : {
-          "1001" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 0,
         "listOfCurrencies" : {
           "Power level" : 0,
@@ -1769,38 +1818,8 @@
         "unitName" : "[0]Renegade Cultists",
         "listOfOptions" : [ {
           "optionCost" : 5.0,
-          "optionID" : 1034,
-          "optionName" : "Renegade Cultist w/ special weapon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 5.0,
-          "optionID" : 1033,
-          "optionName" : "Renegade Cultist w/ Autogun",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 5.0,
           "optionID" : 1032,
           "optionName" : "Renegade Cultist Champion",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 5.0,
-          "optionID" : 1035,
-          "optionName" : "Renegade Cultist w/ autopistol and brutal assault weapon",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
           "listOfCurrencies" : {
@@ -1819,15 +1838,48 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
           "optionID" : 1037,
           "optionName" : "Autopistol & Brutal assault weapon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 1034,
+          "optionName" : "Renegade Cultist w/ special weapon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 1035,
+          "optionName" : "Renegade Cultist w/ autopistol and brutal assault weapon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 1033,
+          "optionName" : "Renegade Cultist w/ Autogun",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 4562,
+          "optionName" : "Brutal assault weapon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -1838,10 +1890,7 @@
         "unitCategory" : "",
         "unitCost" : 0.0,
         "unitID" : 1038,
-        "autoAddDictionary" : {
-          "1033" : 9,
-          "1032" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 0,
         "listOfCurrencies" : {
           "Power level" : 3,
@@ -1850,9 +1899,9 @@
       }, {
         "unitName" : "[1]Macharius Heavy Tank",
         "listOfOptions" : [ {
-          "optionCost" : 8.0,
-          "optionID" : 1116,
-          "optionName" : "2 Heavy Stubbers",
+          "optionCost" : 7.0,
+          "optionID" : 1114,
+          "optionName" : "Twin Heavy Stubber",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -1860,11 +1909,11 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 34.0,
-          "optionID" : 1118,
-          "optionName" : "2 Heavy Flamers",
+          "optionCost" : 16.0,
+          "optionID" : 1117,
+          "optionName" : "2 Heavy Bolters",
           "autoAddDictionary" : { },
-          "modelsAdded" : 0,
+          "modelsAdded" : 1,
           "listOfCurrencies" : {
             "Power level" : 0,
             "Command points" : 0
@@ -1872,10 +1921,20 @@
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Battle Honours",
+          "optionName" : "$Pintle Mount",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 8.0,
+          "optionID" : 1116,
+          "optionName" : "2 Heavy Stubbers",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1115,
@@ -1887,28 +1946,11 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Pintle Mount",
+          "optionCost" : 34.0,
+          "optionID" : 1118,
+          "optionName" : "2 Heavy Flamers",
           "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 16.0,
-          "optionID" : 1117,
-          "optionName" : "2 Heavy Bolters",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 7.0,
-          "optionID" : 1114,
-          "optionName" : "Twin Heavy Stubber",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
+          "modelsAdded" : 1,
           "listOfCurrencies" : {
             "Power level" : 0,
             "Command points" : 0
@@ -1917,10 +1959,7 @@
         "unitCategory" : "",
         "unitCost" : 345.0,
         "unitID" : 1119,
-        "autoAddDictionary" : {
-          "1115" : 1,
-          "1114" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 22,
@@ -1929,6 +1968,23 @@
       }, {
         "unitName" : "[0]Renegade Heavy Weapons Squad",
         "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Heavy Weapons",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 4522,
+          "optionName" : "Frag grenade",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 3.0,
           "optionID" : 1102,
           "optionName" : "Renegade Weapon Team",
@@ -1938,27 +1994,11 @@
             "Power level" : 0,
             "Command points" : 0
           }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Heavy Weapons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
         } ],
         "unitCategory" : "",
         "unitCost" : 0.0,
         "unitID" : 1103,
-        "autoAddDictionary" : {
-          "1102" : 3
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 0,
         "listOfCurrencies" : {
           "Power level" : 3,
@@ -1967,31 +2007,22 @@
       }, {
         "unitName" : "[0]Griffon Carrier",
         "listOfOptions" : [ {
-          "optionCost" : 77.0,
-          "optionID" : 1015,
-          "optionName" : "Griffon Mortar Carrier",
-          "autoAddDictionary" : {
-            "1015" : 1
-          },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 6,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
           "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "$Pintle Mount",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 77.0,
+          "optionID" : 1015,
+          "optionName" : "Griffon Mortar Carrier",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 6,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -2003,9 +2034,7 @@
         "unitCategory" : "",
         "unitCost" : 0.0,
         "unitID" : 1016,
-        "autoAddDictionary" : {
-          "1015" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 0,
         "listOfCurrencies" : {
           "Power level" : 0,
@@ -2014,38 +2043,31 @@
       }, {
         "unitName" : "[1]Renegade Marauder Squad",
         "listOfOptions" : [ {
-          "optionCost" : 30.0,
-          "optionID" : 1082,
-          "optionName" : "Brute",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 1085,
-          "optionName" : "Murder Cultists",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Ranged Weapons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
           "optionCost" : 6.0,
-          "optionID" : 1086,
-          "optionName" : "Marauder Chief",
+          "optionID" : 1088,
+          "optionName" : "Marauder With Lasgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 1083,
+          "optionName" : "Stalkers",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 4519,
+          "optionName" : "Krak grenade",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Power level" : 0,
             "Command points" : 0
@@ -2059,18 +2081,8 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 6.0,
-          "optionID" : 1088,
-          "optionName" : "Marauder With Lasgun",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 6.0,
-          "optionID" : 1089,
-          "optionName" : "Marauder With Shotgun",
+          "optionID" : 1091,
+          "optionName" : "Marauder With Brutal assault weapon/Autopistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
           "listOfCurrencies" : {
@@ -2080,14 +2092,24 @@
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Special Weapons",
+          "optionName" : "$Ranged Weapons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
+          "optionCost" : 0.0,
+          "optionID" : 4522,
+          "optionName" : "Frag grenade",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 6.0,
-          "optionID" : 1090,
-          "optionName" : "Marauder With Brutal assault weapon/Laspistol",
+          "optionID" : 1086,
+          "optionName" : "Marauder Chief",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
           "listOfCurrencies" : {
@@ -2105,26 +2127,19 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
+          "optionCost" : 6.0,
+          "optionID" : 1089,
+          "optionName" : "Marauder With Shotgun",
           "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 1083,
-          "optionName" : "Stalkers",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
+          "modelsAdded" : 1,
           "listOfCurrencies" : {
             "Power level" : 0,
             "Command points" : 0
           }
         }, {
-          "optionCost" : 6.0,
-          "optionID" : 1091,
-          "optionName" : "Marauder With Brutal assault weapon/Autopistol",
+          "optionCost" : 30.0,
+          "optionID" : 1082,
+          "optionName" : "Brute",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
           "listOfCurrencies" : {
@@ -2133,10 +2148,27 @@
           }
         }, {
           "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Special Weapons",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
           "optionID" : 1084,
           "optionName" : "Hereteks",
           "autoAddDictionary" : { },
-          "modelsAdded" : 0,
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 1085,
+          "optionName" : "Murder Cultists",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : {
             "Power level" : 0,
             "Command points" : 0
@@ -2145,6 +2177,16 @@
           "optionCost" : 6.0,
           "optionID" : 1087,
           "optionName" : "Marauder With Autogun",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 6.0,
+          "optionID" : 1090,
+          "optionName" : "Marauder With Brutal assault weapon/Laspistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
           "listOfCurrencies" : {
@@ -2166,28 +2208,7 @@
         "listOfOptions" : [ {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Vehicle Equipment List",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
           "optionName" : "$Turret Weapon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Pintle Mount",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
@@ -2204,6 +2225,20 @@
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
+          "optionName" : "$Pintle Mount",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Vehicle Equipment List",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
           "optionName" : "$Hull Weapon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2212,9 +2247,7 @@
         "unitCategory" : "",
         "unitCost" : 60.0,
         "unitID" : 994,
-        "autoAddDictionary" : {
-          "993" : 2
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 5,
@@ -2223,8 +2256,90 @@
       } ],
       "listOfEquipmentOptions" : [ {
         "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 4554,
+          "optionName" : "Creeping Terror",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 4523,
+          "optionName" : "Warp Flux",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 4541,
+          "optionName" : "Unnatural Vigour",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "equipmentName" : "$Renegades and Heretics Discipline"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 8.0,
+          "optionID" : 4524,
+          "optionName" : "Heavy bolter",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 5.0,
-          "optionID" : 4487,
+          "optionID" : 4543,
+          "optionName" : "Multi Laser",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "equipmentName" : "$Turret Weapon"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 4527,
+          "optionName" : "Brutal Assault weapon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 8.0,
+          "optionID" : 4558,
+          "optionName" : "Power fist",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "equipmentName" : "$Melee Weapons"
+      }, {
+        "listOfOptions" : null,
+        "equipmentName" : "$Hellhound Hull Weapon"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 5.0,
+          "optionID" : 4520,
           "optionName" : "Plasma pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2236,9 +2351,9 @@
         "equipmentName" : "$Ranged Weapons"
       }, {
         "listOfOptions" : [ {
-          "optionCost" : 5.0,
+          "optionCost" : 10.0,
           "optionID" : 0,
-          "optionName" : "Dozer Blade",
+          "optionName" : "Banner of the Apostate",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -2248,7 +2363,30 @@
         }, {
           "optionCost" : 10.0,
           "optionID" : 0,
+          "optionName" : "Banner of Hate",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "equipmentName" : "$Banner Selection"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 10.0,
+          "optionID" : 0,
           "optionName" : "Augur Array",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 0,
+          "optionName" : "Dozer Blade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -2270,7 +2408,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 5.0,
-          "optionID" : 4476,
+          "optionID" : 4543,
           "optionName" : "Multi Laser",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2279,9 +2417,9 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 8.0,
-          "optionID" : 4486,
-          "optionName" : "Heavy bolter",
+          "optionCost" : 20.0,
+          "optionID" : 4561,
+          "optionName" : "Lascannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -2289,11 +2427,31 @@
             "Command points" : 0
           }
         } ],
-        "equipmentName" : "$Turret Weapon"
+        "equipmentName" : "$Sentinel Weapon"
       }, {
         "listOfOptions" : [ {
+          "optionCost" : 8.0,
+          "optionID" : 4524,
+          "optionName" : "Heavy bolter",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 15.0,
+          "optionID" : 4553,
+          "optionName" : "Missile launcher",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 20.0,
-          "optionID" : 4512,
+          "optionID" : 4561,
           "optionName" : "Lascannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2302,9 +2460,9 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 8.0,
-          "optionID" : 4486,
-          "optionName" : "Heavy bolter",
+          "optionCost" : 9.0,
+          "optionID" : 4526,
+          "optionName" : "Mortar",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -2312,12 +2470,12 @@
             "Command points" : 0
           }
         } ],
-        "equipmentName" : "$Russ Hull Weapon"
+        "equipmentName" : "$Heavy Weapons"
       }, {
         "listOfOptions" : [ {
-          "optionCost" : 8.0,
-          "optionID" : 4501,
-          "optionName" : "Power fist",
+          "optionCost" : 25.0,
+          "optionID" : 4530,
+          "optionName" : "Twin autocannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -2325,9 +2483,29 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 0.0,
-          "optionID" : 4490,
-          "optionName" : "Brutal Assault weapon",
+          "optionCost" : 18.0,
+          "optionID" : 4521,
+          "optionName" : "Twin Multi-laser",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 14.0,
+          "optionID" : 0,
+          "optionName" : "Two Twin Heavy Stubber",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 60.0,
+          "optionID" : 0,
+          "optionName" : "Two Hellstrike missiles",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -2335,7 +2513,50 @@
             "Command points" : 0
           }
         } ],
-        "equipmentName" : "$Melee Weapons"
+        "equipmentName" : "$Flyer Weapons"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 30.0,
+          "optionID" : 0,
+          "optionName" : "Multi-meltas",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 28.0,
+          "optionID" : 0,
+          "optionName" : "Heavy Flamers",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 32.0,
+          "optionID" : 0,
+          "optionName" : "Plasma Cannons",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 16.0,
+          "optionID" : 0,
+          "optionName" : "Heavy Bolters",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "equipmentName" : "$Sponson Weapons"
       }, {
         "listOfOptions" : [ {
           "optionCost" : 16.0,
@@ -2360,10 +2581,13 @@
         } ],
         "equipmentName" : "$Wing-mounted Weapons"
       }, {
+        "listOfOptions" : null,
+        "equipmentName" : "$Pintle Mount"
+      }, {
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "2 Lascannon & Twin Heavy Flamer Sponsons",
+          "optionCost" : 8.0,
+          "optionID" : 4524,
+          "optionName" : "Heavy bolter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -2371,9 +2595,9 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "2 Lascannon & Twin Heavy Bolter Sponsons",
+          "optionCost" : 20.0,
+          "optionID" : 4561,
+          "optionName" : "Lascannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -2381,11 +2605,11 @@
             "Command points" : 0
           }
         } ],
-        "equipmentName" : "$Baneblade Sponsons"
+        "equipmentName" : "$Russ Hull Weapon"
       }, {
         "listOfOptions" : [ {
           "optionCost" : 3.0,
-          "optionID" : 4506,
+          "optionID" : 4539,
           "optionName" : "Grenade Launcher",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2397,206 +2621,8 @@
         "equipmentName" : "$Special Weapons"
       }, {
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 4502,
-          "optionName" : "Unnatural Vigour",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 4491,
-          "optionName" : "Creeping Terror",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 4494,
-          "optionName" : "Warp Flux",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "equipmentName" : "$Renegades and Heretics Discipline"
-      }, {
-        "listOfOptions" : [ {
-          "optionCost" : 28.0,
-          "optionID" : 0,
-          "optionName" : "Heavy Flamers",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 16.0,
-          "optionID" : 0,
-          "optionName" : "Heavy Bolters",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 32.0,
-          "optionID" : 0,
-          "optionName" : "Plasma Cannons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 30.0,
-          "optionID" : 0,
-          "optionName" : "Multi-meltas",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "equipmentName" : "$Sponson Weapons"
-      }, {
-        "listOfOptions" : [ {
-          "optionCost" : 15.0,
-          "optionID" : 4499,
-          "optionName" : "Missile launcher",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 20.0,
-          "optionID" : 4512,
-          "optionName" : "Lascannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 5.0,
-          "optionID" : 4476,
-          "optionName" : "Multi Laser",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "equipmentName" : "$Sentinel Weapon"
-      }, {
-        "listOfOptions" : [ {
-          "optionCost" : 15.0,
-          "optionID" : 4499,
-          "optionName" : "Missile launcher",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 20.0,
-          "optionID" : 4512,
-          "optionName" : "Lascannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 9.0,
-          "optionID" : 4475,
-          "optionName" : "Mortar",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
           "optionCost" : 8.0,
-          "optionID" : 4486,
-          "optionName" : "Heavy bolter",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "equipmentName" : "$Heavy Weapons"
-      }, {
-        "listOfOptions" : [ {
-          "optionCost" : 18.0,
-          "optionID" : 4483,
-          "optionName" : "Twin Multi-laser",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 60.0,
-          "optionID" : 0,
-          "optionName" : "Two Hellstrike missiles",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 25.0,
-          "optionID" : 4515,
-          "optionName" : "Twin autocannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 14.0,
-          "optionID" : 0,
-          "optionName" : "Two Twin Heavy Stubber",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "equipmentName" : "$Flyer Weapons"
-      }, {
-        "listOfOptions" : null,
-        "equipmentName" : "$Pintle Mount"
-      }, {
-        "listOfOptions" : [ {
-          "optionCost" : 8.0,
-          "optionID" : 4486,
+          "optionID" : 4524,
           "optionName" : "Heavy bolter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2608,9 +2634,9 @@
         "equipmentName" : "$Hull Weapon"
       }, {
         "listOfOptions" : [ {
-          "optionCost" : 10.0,
+          "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "Banner of Hate",
+          "optionName" : "2 Lascannon & Twin Heavy Bolter Sponsons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -2618,9 +2644,9 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 10.0,
+          "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "Banner of the Apostate",
+          "optionName" : "2 Lascannon & Twin Heavy Flamer Sponsons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -2628,20 +2654,7 @@
             "Command points" : 0
           }
         } ],
-        "equipmentName" : "$Banner Selection"
-      }, {
-        "listOfOptions" : [ {
-          "optionCost" : 8.0,
-          "optionID" : 4486,
-          "optionName" : "Heavy bolter",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "equipmentName" : "$Hellhound Hull Weapon"
+        "equipmentName" : "$Baneblade Sponsons"
       } ],
       "armyName" : "Renegades & Heretics",
       "armyCategories" : [ ]

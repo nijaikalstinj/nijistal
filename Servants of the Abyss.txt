@@ -6,6 +6,26 @@
         "unitName" : "[0]Traitor Guardsmen",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
+          "optionID" : 1162,
+          "optionName" : "Traitor Guardsman",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 1163,
+          "optionName" : "Traitor Guardsman",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
           "optionID" : 1164,
           "optionName" : "Traitor Guardsman",
           "autoAddDictionary" : { },
@@ -24,14 +44,21 @@
             "Power level" : 0,
             "Command points" : 0
           }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 1161,
+          "optionName" : "Traitor Guardsman",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "Troops",
         "unitCost" : 40.0,
         "unitID" : 1165,
-        "autoAddDictionary" : {
-          "1164" : 2,
-          "1160" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 0,
         "listOfCurrencies" : {
           "Power level" : 2,
@@ -41,8 +68,8 @@
         "unitName" : "[0]Cultists of the Abyss",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 1175,
-          "optionName" : "Cultist w/ Grenade Launcher",
+          "optionID" : 1173,
+          "optionName" : "Cultists",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
           "listOfCurrencies" : {
@@ -51,8 +78,18 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 1173,
-          "optionName" : "Cultists",
+          "optionID" : 4566,
+          "optionName" : "Autogun",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 1175,
+          "optionName" : "Cultist w/ Grenade Launcher",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
           "listOfCurrencies" : {
@@ -83,12 +120,7 @@
         "unitCategory" : "Troops",
         "unitCost" : 40.0,
         "unitID" : 1176,
-        "autoAddDictionary" : {
-          "1175" : 1,
-          "1174" : 1,
-          "1173" : 4,
-          "1172" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 0,
         "listOfCurrencies" : {
           "Power level" : 2,
@@ -110,9 +142,7 @@
         "unitCategory" : "Elites",
         "unitCost" : 50.0,
         "unitID" : 1157,
-        "autoAddDictionary" : {
-          "1156" : 4
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 0,
         "listOfCurrencies" : {
           "Power level" : 2,
@@ -130,13 +160,21 @@
             "Power level" : 0,
             "Command points" : 0
           }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 4567,
+          "optionName" : "Warlord",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 130.0,
         "unitID" : 1155,
-        "autoAddDictionary" : {
-          "1154" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 7,
@@ -144,7 +182,17 @@
         }
       }, {
         "unitName" : "[1]Traitor Commissar",
-        "listOfOptions" : null,
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 4567,
+          "optionName" : "Warlord",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
         "unitCategory" : "HQ",
         "unitCost" : 55.0,
         "unitID" : 1168,
@@ -170,9 +218,7 @@
         "unitCategory" : "",
         "unitCost" : 26.0,
         "unitID" : 1167,
-        "autoAddDictionary" : {
-          "1166" : 4
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 1,
@@ -194,9 +240,7 @@
         "unitCategory" : "",
         "unitCost" : 28.0,
         "unitID" : 1159,
-        "autoAddDictionary" : {
-          "1158" : 2
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 0,
         "listOfCurrencies" : {
           "Power level" : 1,
@@ -206,8 +250,8 @@
         "unitName" : "[1]Chaos Ogryn",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 1169,
-          "optionName" : "Scavenged Maul",
+          "optionID" : 1170,
+          "optionName" : "Mutant claw",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -216,8 +260,8 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 1170,
-          "optionName" : "Mutant claw",
+          "optionID" : 1169,
+          "optionName" : "Scavenged Maul",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -228,10 +272,7 @@
         "unitCategory" : "Elites",
         "unitCost" : 70.0,
         "unitID" : 1171,
-        "autoAddDictionary" : {
-          "1169" : 1,
-          "1170" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 4,

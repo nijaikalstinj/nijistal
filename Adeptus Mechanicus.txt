@@ -4,7 +4,17 @@
     "armies" : [ {
       "listOfUnits" : [ {
         "unitName" : "[1]Skitarii Ranger (Arc Rifle)",
-        "listOfOptions" : null,
+        "listOfOptions" : [ {
+          "optionCost" : 5.0,
+          "optionID" : 5285,
+          "optionName" : "Arc Rifle",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
         "unitCategory" : "",
         "unitCost" : 9.0,
         "unitID" : 1438,
@@ -16,7 +26,17 @@
         }
       }, {
         "unitName" : "[1]Skitarii Ranger (Plasma caliver)",
-        "listOfOptions" : null,
+        "listOfOptions" : [ {
+          "optionCost" : 10.0,
+          "optionID" : 5168,
+          "optionName" : "Plasma Caliver",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
         "unitCategory" : "",
         "unitCost" : 9.0,
         "unitID" : 1439,
@@ -28,7 +48,47 @@
         }
       }, {
         "unitName" : "[1]Kataphron Breacher",
-        "listOfOptions" : null,
+        "listOfOptions" : [ {
+          "optionCost" : 5.0,
+          "optionID" : 5181,
+          "optionName" : "Heavy Arc Rifle",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 5189,
+          "optionName" : "Hydraulic Claw",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 10.0,
+          "optionID" : 5246,
+          "optionName" : "Torsion Cannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 5213,
+          "optionName" : "Arc Claw",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
         "unitCategory" : "",
         "unitCost" : 25.0,
         "unitID" : 1421,
@@ -40,7 +100,37 @@
         }
       }, {
         "unitName" : "[1]Serberys Raider",
-        "listOfOptions" : null,
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 5239,
+          "optionName" : "Galvanic Carbine",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5250,
+          "optionName" : "Cavalry Sabre",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5262,
+          "optionName" : "Clawed Limbs",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
         "unitCategory" : "",
         "unitCost" : 16.0,
         "unitID" : 1466,
@@ -52,14 +142,7 @@
         }
       }, {
         "unitName" : "[1]Servitors",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
+        "listOfOptions" : null,
         "unitCategory" : "Elites",
         "unitCost" : 0.0,
         "unitID" : 1406,
@@ -83,7 +166,47 @@
         }
       }, {
         "unitName" : "[3]Kataphron Destroyer",
-        "listOfOptions" : null,
+        "listOfOptions" : [ {
+          "optionCost" : 20.0,
+          "optionID" : 5280,
+          "optionName" : "Heavy Grav-Cannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 30.0,
+          "optionID" : 5137,
+          "optionName" : "Plasma Culverin",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 5230,
+          "optionName" : "Cognis Flamer",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 3.0,
+          "optionID" : 5253,
+          "optionName" : "Phosphor Blaster",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
         "unitCategory" : "",
         "unitCost" : 20.0,
         "unitID" : 1422,
@@ -96,12 +219,15 @@
       }, {
         "unitName" : "[1]Cybernetica Datasmith",
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Field Commander",
+          "optionCost" : 10.0,
+          "optionID" : 5204,
+          "optionName" : "Gamma Pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -111,8 +237,35 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
+          "optionID" : 5227,
+          "optionName" : "Mechanicus Locum",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
+        }, {
+          "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "$Arcana Mechanicum",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5260,
+          "optionName" : "Warlord",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Field Commander",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
@@ -140,7 +293,97 @@
         }
       }, {
         "unitName" : "[1]Hoplite Alpha",
-        "listOfOptions" : null,
+        "listOfOptions" : [ {
+          "optionCost" : 3.0,
+          "optionID" : 5237,
+          "optionName" : "Phosphor Blast Pistol",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 5267,
+          "optionName" : "Arc Pistol",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 5216,
+          "optionName" : "Enhanced Data-Tether",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5130,
+          "optionName" : "Arc Lance",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5242,
+          "optionName" : "Mag-inverter Shield",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 5281,
+          "optionName" : "Arc Maul",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 5191,
+          "optionName" : "Omnispex",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5151,
+          "optionName" : "Radium Pistol",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 5143,
+          "optionName" : "Taser Goad",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
         "unitCategory" : "",
         "unitCost" : 10.0,
         "unitID" : 1424,
@@ -152,7 +395,17 @@
         }
       }, {
         "unitName" : "[1]Serberys Raiders",
-        "listOfOptions" : null,
+        "listOfOptions" : [ {
+          "optionCost" : 5.0,
+          "optionID" : 5216,
+          "optionName" : "Enhanced Data-Tether",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
         "unitCategory" : "Fast Attack",
         "unitCost" : 0.0,
         "unitID" : 1465,
@@ -165,6 +418,16 @@
       }, {
         "unitName" : "[1]X-101",
         "listOfOptions" : [ {
+          "optionCost" : 5.0,
+          "optionID" : 5189,
+          "optionName" : "Hydraulic Claw",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 0.0,
           "optionID" : 1458,
           "optionName" : "Grav gun",
@@ -178,9 +441,7 @@
         "unitCategory" : "Elites",
         "unitCost" : 22.0,
         "unitID" : 1459,
-        "autoAddDictionary" : {
-          "1458" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 1,
@@ -188,7 +449,37 @@
         }
       }, {
         "unitName" : "[1]Pteraxii Sterylizor Alpha",
-        "listOfOptions" : null,
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 5270,
+          "optionName" : "Pteraxii Talons",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5244,
+          "optionName" : "Flechette Blaster",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 5143,
+          "optionName" : "Taser Goad",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
         "unitCategory" : "",
         "unitCost" : 19.0,
         "unitID" : 1473,
@@ -200,7 +491,27 @@
         }
       }, {
         "unitName" : "[1]Sicarian Infiltrator (Stub/Sword)",
-        "listOfOptions" : null,
+        "listOfOptions" : [ {
+          "optionCost" : 5.0,
+          "optionID" : 5276,
+          "optionName" : "Power Sword",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5231,
+          "optionName" : "Stubcarbine",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
         "unitCategory" : "",
         "unitCost" : 15.0,
         "unitID" : 1432,
@@ -213,12 +524,35 @@
       }, {
         "unitName" : "[1]Skorpius Dunerider",
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
+          "optionCost" : 10.0,
+          "optionID" : 5224,
+          "optionName" : "Twin Cognis Heavy Stubber",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5141,
+          "optionName" : "Broad Spectrum Data-tether",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 5252,
+          "optionName" : "Cognis Heavy Stubber",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "Dedicated Transport",
         "unitCost" : 80.0,
@@ -231,7 +565,17 @@
         }
       }, {
         "unitName" : "[1]Skitarii Vanguard (Plasma Caliver)",
-        "listOfOptions" : null,
+        "listOfOptions" : [ {
+          "optionCost" : 10.0,
+          "optionID" : 5168,
+          "optionName" : "Plasma Caliver",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
         "unitCategory" : "",
         "unitCost" : 9.0,
         "unitID" : 1445,
@@ -243,7 +587,17 @@
         }
       }, {
         "unitName" : "[1]Servitor (Servo arm)",
-        "listOfOptions" : null,
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 5124,
+          "optionName" : "Servo-arm",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
         "unitCategory" : "",
         "unitCost" : 7.0,
         "unitID" : 1448,
@@ -255,7 +609,47 @@
         }
       }, {
         "unitName" : "[1]Serberys Sulphurhound (Carbine)",
-        "listOfOptions" : null,
+        "listOfOptions" : [ {
+          "optionCost" : 15.0,
+          "optionID" : 5277,
+          "optionName" : "Phosphor Blast Carbine",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5240,
+          "optionName" : "Phosphor Pistol",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5262,
+          "optionName" : "Clawed Limbs",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5257,
+          "optionName" : "Sulphur breath",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
         "unitCategory" : "",
         "unitCost" : 20.0,
         "unitID" : 1477,
@@ -286,13 +680,6 @@
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
         } ],
         "unitCategory" : "Troops",
         "unitCost" : 0.0,
@@ -305,7 +692,17 @@
         }
       }, {
         "unitName" : "[1]Secutarii Peltast",
-        "listOfOptions" : null,
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 5236,
+          "optionName" : "Galvanic Caster",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
         "unitCategory" : "",
         "unitCost" : 9.0,
         "unitID" : 1425,
@@ -319,11 +716,71 @@
         "unitName" : "[1]Belisarius Cawl",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
+          "optionID" : 5164,
+          "optionName" : "Omnissian Axe",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "$Warlord Trait",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5227,
+          "optionName" : "Mechanicus Locum",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5140,
+          "optionName" : "Solar Atomiser",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5269,
+          "optionName" : "Mechadendrite Hive",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5260,
+          "optionName" : "Warlord",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5163,
+          "optionName" : "Arc Scourge",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 200.0,
@@ -336,14 +793,7 @@
         }
       }, {
         "unitName" : "[1]Corpuscarii Electro-Priests",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
+        "listOfOptions" : null,
         "unitCategory" : "Elites",
         "unitCost" : 0.0,
         "unitID" : 1403,
@@ -355,7 +805,17 @@
         }
       }, {
         "unitName" : "[1]Skitarii Vanguard (Transuranic Arquebus)",
-        "listOfOptions" : null,
+        "listOfOptions" : [ {
+          "optionCost" : 10.0,
+          "optionID" : 5186,
+          "optionName" : "Transuranic Arquebus",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
         "unitCategory" : "",
         "unitCost" : 9.0,
         "unitID" : 1444,
@@ -372,18 +832,41 @@
           "optionID" : 1419,
           "optionName" : "Two Heavy Phosphor Blasters",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 20.0,
+          "optionID" : 5175,
+          "optionName" : "Kastelan Fists",
+          "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Power level" : 0,
             "Command points" : 0
           }
         }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
+          "optionCost" : 15.0,
+          "optionID" : 5169,
+          "optionName" : "Incendine Combustor",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 15.0,
+          "optionID" : 5209,
+          "optionName" : "Heavy Phosphor Blaster",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "",
         "unitCost" : 80.0,
@@ -408,7 +891,17 @@
         }
       }, {
         "unitName" : "[1]Corpuscarii Electro-Priest",
-        "listOfOptions" : null,
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 5136,
+          "optionName" : "Electrostatic Gauntlets",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
         "unitCategory" : "",
         "unitCost" : 14.0,
         "unitID" : 1417,
@@ -421,6 +914,46 @@
       }, {
         "unitName" : "[1]Vanguard Alpha",
         "listOfOptions" : [ {
+          "optionCost" : 3.0,
+          "optionID" : 5237,
+          "optionName" : "Phosphor Blast Pistol",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5254,
+          "optionName" : "Radium Carbine",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5151,
+          "optionName" : "Radium Pistol",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 5267,
+          "optionName" : "Arc Pistol",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "$Melee Weapons",
@@ -439,14 +972,7 @@
         }
       }, {
         "unitName" : "[1]Sicarian Infiltrators",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
+        "listOfOptions" : null,
         "unitCategory" : "Elites",
         "unitCost" : 0.0,
         "unitID" : 1409,
@@ -458,7 +984,37 @@
         }
       }, {
         "unitName" : "[1]Archaeopter Fusilave",
-        "listOfOptions" : null,
+        "listOfOptions" : [ {
+          "optionCost" : 20.0,
+          "optionID" : 5273,
+          "optionName" : "Chaff Launcher",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5187,
+          "optionName" : "Command Uplink",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 5252,
+          "optionName" : "Cognis Heavy Stubber",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
         "unitCategory" : "Flyers",
         "unitCost" : 110.0,
         "unitID" : 1464,
@@ -471,12 +1027,35 @@
       }, {
         "unitName" : "[1]Ironstrider Ballistarius",
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
+          "optionCost" : 40.0,
+          "optionID" : 5263,
+          "optionName" : "Twin Cognis Lascannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 30.0,
+          "optionID" : 5178,
+          "optionName" : "Twin Cognis Autocannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5141,
+          "optionName" : "Broad Spectrum Data-tether",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "",
         "unitCost" : 35.0,
@@ -490,6 +1069,46 @@
       }, {
         "unitName" : "[1]Ranger Alpha",
         "listOfOptions" : [ {
+          "optionCost" : 3.0,
+          "optionID" : 5237,
+          "optionName" : "Phosphor Blast Pistol",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5151,
+          "optionName" : "Radium Pistol",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 5267,
+          "optionName" : "Arc Pistol",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5215,
+          "optionName" : "Galvanic Rifle",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "$Melee Weapons",
@@ -510,11 +1129,24 @@
         "unitName" : "[1]Tech-Priest Dominus",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Field Commander",
+          "optionID" : 5164,
+          "optionName" : "Omnissian Axe",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 2.0,
+          "optionID" : 5158,
+          "optionName" : "Phosphor Serpenta",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -524,11 +1156,68 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
+          "optionID" : 5227,
+          "optionName" : "Mechanicus Locum",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 5176,
+          "optionName" : "Volkite Blaster",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5226,
+          "optionName" : "Macrostubber",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "$Arcana Mechanicum",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5260,
+          "optionName" : "Warlord",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Field Commander",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 10.0,
+          "optionID" : 5195,
+          "optionName" : "Eradication Ray",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 75.0,
@@ -543,11 +1232,14 @@
         "unitName" : "[1]Tech-Priest Enginseer",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Field Commander",
+          "optionID" : 5164,
+          "optionName" : "Omnissian Axe",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -557,8 +1249,45 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
+          "optionID" : 5227,
+          "optionName" : "Mechanicus Locum",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
+        }, {
+          "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "$Arcana Mechanicum",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5260,
+          "optionName" : "Warlord",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5201,
+          "optionName" : "Laspistol",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Field Commander",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
@@ -574,14 +1303,7 @@
         }
       }, {
         "unitName" : "[1]Secutarii Hoplites",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
+        "listOfOptions" : null,
         "unitCategory" : "Elites",
         "unitCost" : 0.0,
         "unitID" : 1415,
@@ -593,14 +1315,7 @@
         }
       }, {
         "unitName" : "[1]Kataphron Breachers",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
+        "listOfOptions" : null,
         "unitCategory" : "Troops",
         "unitCost" : 0.0,
         "unitID" : 1400,
@@ -612,7 +1327,37 @@
         }
       }, {
         "unitName" : "[1]Serberys Sulphurhound (Pistols)",
-        "listOfOptions" : null,
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 5240,
+          "optionName" : "Phosphor Pistol",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5262,
+          "optionName" : "Clawed Limbs",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5257,
+          "optionName" : "Sulphur breath",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
         "unitCategory" : "",
         "unitCost" : 20.0,
         "unitID" : 1475,
@@ -624,7 +1369,17 @@
         }
       }, {
         "unitName" : "[1]Sicarian Ruststalker (Blades)",
-        "listOfOptions" : null,
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 5148,
+          "optionName" : "Transonic Blades",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
         "unitCategory" : "",
         "unitCost" : 14.0,
         "unitID" : 1434,
@@ -637,16 +1392,6 @@
       }, {
         "unitName" : "[1]Daedalosus",
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 1456,
-          "optionName" : "Servo claw",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
           "optionCost" : 0.0,
           "optionID" : 1455,
           "optionName" : "Eradication pistol",
@@ -663,14 +1408,41 @@
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5227,
+          "optionName" : "Mechanicus Locum",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5260,
+          "optionName" : "Warlord",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 1456,
+          "optionName" : "Servo claw",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 55.0,
         "unitID" : 1457,
-        "autoAddDictionary" : {
-          "1456" : 1,
-          "1455" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 3,
@@ -680,45 +1452,8 @@
         "unitName" : "[1]Tech-Priest Manipulus",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Field Commander",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
           "optionID" : 1450,
           "optionName" : "Omnissian Staff",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 1449,
-          "optionName" : "Mechadendrites",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 1451,
-          "optionName" : "Magnarail lance",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 1452,
-          "optionName" : "Transonic cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -734,19 +1469,73 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
+          "optionID" : 5227,
+          "optionName" : "Mechanicus Locum",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
+        }, {
+          "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "$Arcana Mechanicum",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 1452,
+          "optionName" : "Transonic cannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5260,
+          "optionName" : "Warlord",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 1451,
+          "optionName" : "Magnarail lance",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Field Commander",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 1449,
+          "optionName" : "Mechadendrites",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 70.0,
         "unitID" : 1453,
-        "autoAddDictionary" : {
-          "1450" : 1,
-          "1449" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 4,
@@ -754,7 +1543,27 @@
         }
       }, {
         "unitName" : "[1]Infiltrator Princeps (Flechette/Taser)",
-        "listOfOptions" : null,
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 5131,
+          "optionName" : "Flechette Blaster",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 5143,
+          "optionName" : "Taser Goad",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
         "unitCategory" : "",
         "unitCost" : 15.0,
         "unitID" : 1431,
@@ -766,7 +1575,47 @@
         }
       }, {
         "unitName" : "[1]Serberys Raider Alpha",
-        "listOfOptions" : null,
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 5239,
+          "optionName" : "Galvanic Carbine",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5153,
+          "optionName" : "Archeo-revolver",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5250,
+          "optionName" : "Cavalry Sabre",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5262,
+          "optionName" : "Clawed Limbs",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
         "unitCategory" : "",
         "unitCost" : 16.0,
         "unitID" : 1467,
@@ -790,7 +1639,17 @@
         }
       }, {
         "unitName" : "[1]Skitarii Vanguard",
-        "listOfOptions" : null,
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 5199,
+          "optionName" : "Radium Carbine",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
         "unitCategory" : "",
         "unitCost" : 9.0,
         "unitID" : 1442,
@@ -802,7 +1661,27 @@
         }
       }, {
         "unitName" : "[1]Ruststalker Princeps (Blades)",
-        "listOfOptions" : null,
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 5152,
+          "optionName" : "Transonic Blades",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5256,
+          "optionName" : "Chordclaw",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
         "unitCategory" : "",
         "unitCost" : 14.0,
         "unitID" : 1461,
@@ -816,8 +1695,8 @@
         "unitName" : "[1]Onager Dunecrawler",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 1413,
-          "optionName" : "Neutron Laser and Cognis Heavy Stubber",
+          "optionID" : 5265,
+          "optionName" : "Eradication Beamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -826,11 +1705,74 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
+          "optionID" : 5268,
+          "optionName" : "Twin Heavy Phosphor Blaster",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 5252,
+          "optionName" : "Cognis Heavy Stubber",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 10.0,
+          "optionID" : 5255,
+          "optionName" : "Neutron Laser",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 1413,
+          "optionName" : "Neutron Laser and Cognis Heavy Stubber",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5142,
+          "optionName" : "Icarus Array",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5141,
+          "optionName" : "Broad Spectrum Data-tether",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5274,
+          "optionName" : "Smoke Launchers",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "Heavy Support",
         "unitCost" : 115.0,
@@ -843,7 +1785,57 @@
         }
       }, {
         "unitName" : "[1]Archaeopter Stratoraptor",
-        "listOfOptions" : null,
+        "listOfOptions" : [ {
+          "optionCost" : 40.0,
+          "optionID" : 5263,
+          "optionName" : "Twin Cognis Lascannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 15.0,
+          "optionID" : 5209,
+          "optionName" : "Heavy Phosphor Blaster",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 20.0,
+          "optionID" : 5273,
+          "optionName" : "Chaff Launcher",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5187,
+          "optionName" : "Command Uplink",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 5252,
+          "optionName" : "Cognis Heavy Stubber",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
         "unitCategory" : "Flyers",
         "unitCost" : 70.0,
         "unitID" : 1462,
@@ -855,14 +1847,7 @@
         }
       }, {
         "unitName" : "[1]Fulgurite Electro-Priests",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
+        "listOfOptions" : null,
         "unitCategory" : "Elites",
         "unitCost" : 0.0,
         "unitID" : 1402,
@@ -874,7 +1859,17 @@
         }
       }, {
         "unitName" : "[1]Servitor (Multi-Melta)",
-        "listOfOptions" : null,
+        "listOfOptions" : [ {
+          "optionCost" : 20.0,
+          "optionID" : 5271,
+          "optionName" : "Multi-Melta",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
         "unitCategory" : "",
         "unitCost" : 7.0,
         "unitID" : 1428,
@@ -886,7 +1881,17 @@
         }
       }, {
         "unitName" : "[1]Servitor (Heavy Bolter)",
-        "listOfOptions" : null,
+        "listOfOptions" : [ {
+          "optionCost" : 10.0,
+          "optionID" : 5219,
+          "optionName" : "Heavy Bolter",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
         "unitCategory" : "",
         "unitCost" : 7.0,
         "unitID" : 1427,
@@ -898,7 +1903,17 @@
         }
       }, {
         "unitName" : "[1]Pteraxii Skystalker Alpha",
-        "listOfOptions" : null,
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 5244,
+          "optionName" : "Flechette Blaster",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
         "unitCategory" : "",
         "unitCost" : 17.0,
         "unitID" : 1470,
@@ -910,7 +1925,17 @@
         }
       }, {
         "unitName" : "[1]Servitor (Plasma Cannon)",
-        "listOfOptions" : null,
+        "listOfOptions" : [ {
+          "optionCost" : 15.0,
+          "optionID" : 5223,
+          "optionName" : "Plasma Cannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
         "unitCategory" : "",
         "unitCost" : 7.0,
         "unitID" : 1429,
@@ -922,7 +1947,27 @@
         }
       }, {
         "unitName" : "[1]Sicarian Infiltrator (Flechette/Taser)",
-        "listOfOptions" : null,
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 5131,
+          "optionName" : "Flechette Blaster",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 5167,
+          "optionName" : "Taser Goad",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
         "unitCategory" : "",
         "unitCost" : 15.0,
         "unitID" : 1430,
@@ -934,7 +1979,17 @@
         }
       }, {
         "unitName" : "[1]Skitarii Ranger (Transuranic Arquebus)",
-        "listOfOptions" : null,
+        "listOfOptions" : [ {
+          "optionCost" : 10.0,
+          "optionID" : 5186,
+          "optionName" : "Transuranic Arquebus",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
         "unitCategory" : "",
         "unitCost" : 9.0,
         "unitID" : 1440,
@@ -946,7 +2001,27 @@
         }
       }, {
         "unitName" : "[1]Sicarian Ruststalker (Razor/Chordclaw)",
-        "listOfOptions" : null,
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 5264,
+          "optionName" : "Chordclaw",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5171,
+          "optionName" : "Transonic Razor",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
         "unitCategory" : "",
         "unitCost" : 14.0,
         "unitID" : 1435,
@@ -958,7 +2033,27 @@
         }
       }, {
         "unitName" : "[1]Secutarii Hoplite",
-        "listOfOptions" : null,
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 5174,
+          "optionName" : "Arc Lance",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5183,
+          "optionName" : "Mag-inverter Shield",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
         "unitCategory" : "",
         "unitCost" : 10.0,
         "unitID" : 1423,
@@ -970,7 +2065,27 @@
         }
       }, {
         "unitName" : "[1]Pteraxii Sterylizor",
-        "listOfOptions" : null,
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 5270,
+          "optionName" : "Pteraxii Talons",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5184,
+          "optionName" : "Phosphor torch",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
         "unitCategory" : "",
         "unitCost" : 19.0,
         "unitID" : 1472,
@@ -982,14 +2097,7 @@
         }
       }, {
         "unitName" : "[1]Secutarii Peltasts",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
+        "listOfOptions" : null,
         "unitCategory" : "Elites",
         "unitCost" : 0.0,
         "unitID" : 1416,
@@ -1013,7 +2121,37 @@
         }
       }, {
         "unitName" : "[1]Serberys Sulphurhound Alpha",
-        "listOfOptions" : null,
+        "listOfOptions" : [ {
+          "optionCost" : 3.0,
+          "optionID" : 5237,
+          "optionName" : "Phosphor Blast Pistol",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5262,
+          "optionName" : "Clawed Limbs",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5257,
+          "optionName" : "Sulphur breath",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
         "unitCategory" : "",
         "unitCost" : 20.0,
         "unitID" : 1476,
@@ -1025,14 +2163,7 @@
         }
       }, {
         "unitName" : "[1]Kataphron Destroyers",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
+        "listOfOptions" : null,
         "unitCategory" : "Troops",
         "unitCost" : 0.0,
         "unitID" : 1401,
@@ -1051,13 +2182,6 @@
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
         } ],
         "unitCategory" : "Troops",
         "unitCost" : 0.0,
@@ -1070,7 +2194,27 @@
         }
       }, {
         "unitName" : "[1]Ruststalker Princeps (Razor)",
-        "listOfOptions" : null,
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 5165,
+          "optionName" : "Transonic Razor",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5256,
+          "optionName" : "Chordclaw",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
         "unitCategory" : "",
         "unitCost" : 14.0,
         "unitID" : 1433,
@@ -1082,14 +2226,7 @@
         }
       }, {
         "unitName" : "[1]Sicarian Ruststalkers",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
+        "listOfOptions" : null,
         "unitCategory" : "Elites",
         "unitCost" : 0.0,
         "unitID" : 1410,
@@ -1101,7 +2238,17 @@
         }
       }, {
         "unitName" : "[1]Fulgurite Electro-Priest",
-        "listOfOptions" : null,
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 5243,
+          "optionName" : "Electroleech Stave",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
         "unitCategory" : "",
         "unitCost" : 17.0,
         "unitID" : 1447,
@@ -1113,7 +2260,87 @@
         }
       }, {
         "unitName" : "[1]Peltast Alpha",
-        "listOfOptions" : null,
+        "listOfOptions" : [ {
+          "optionCost" : 3.0,
+          "optionID" : 5237,
+          "optionName" : "Phosphor Blast Pistol",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 5267,
+          "optionName" : "Arc Pistol",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 5216,
+          "optionName" : "Enhanced Data-Tether",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 5281,
+          "optionName" : "Arc Maul",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 5191,
+          "optionName" : "Omnispex",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5151,
+          "optionName" : "Radium Pistol",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5248,
+          "optionName" : "Galvanic Caster",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 5143,
+          "optionName" : "Taser Goad",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
         "unitCategory" : "",
         "unitCost" : 9.0,
         "unitID" : 1426,
@@ -1125,7 +2352,17 @@
         }
       }, {
         "unitName" : "[1]Skitarii Vanguard (Arc Rifle)",
-        "listOfOptions" : null,
+        "listOfOptions" : [ {
+          "optionCost" : 5.0,
+          "optionID" : 5285,
+          "optionName" : "Arc Rifle",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
         "unitCategory" : "",
         "unitCost" : 9.0,
         "unitID" : 1443,
@@ -1137,7 +2374,17 @@
         }
       }, {
         "unitName" : "[1]Skitarii Ranger",
-        "listOfOptions" : null,
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 5155,
+          "optionName" : "Galvanic Rifle",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
         "unitCategory" : "",
         "unitCost" : 9.0,
         "unitID" : 1437,
@@ -1149,7 +2396,27 @@
         }
       }, {
         "unitName" : "[1]Infiltrator Princeps (Stub/Sword)",
-        "listOfOptions" : null,
+        "listOfOptions" : [ {
+          "optionCost" : 5.0,
+          "optionID" : 5276,
+          "optionName" : "Power Sword",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5231,
+          "optionName" : "Stubcarbine",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
         "unitCategory" : "",
         "unitCost" : 15.0,
         "unitID" : 1460,
@@ -1163,11 +2430,44 @@
         "unitName" : "[1]Sydonian Dragoon",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
+          "optionID" : 5194,
+          "optionName" : "Radium Jezzail",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 2.0,
+          "optionID" : 5158,
+          "optionName" : "Phosphor Serpenta",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 10.0,
+          "optionID" : 5202,
+          "optionName" : "Taser Lance",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5141,
+          "optionName" : "Broad Spectrum Data-tether",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "",
         "unitCost" : 60.0,
@@ -1180,7 +2480,47 @@
         }
       }, {
         "unitName" : "[1]Archaeopter Transvector",
-        "listOfOptions" : null,
+        "listOfOptions" : [ {
+          "optionCost" : 10.0,
+          "optionID" : 5224,
+          "optionName" : "Twin Cognis Heavy Stubber",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 20.0,
+          "optionID" : 5273,
+          "optionName" : "Chaff Launcher",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5187,
+          "optionName" : "Command Uplink",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 5252,
+          "optionName" : "Cognis Heavy Stubber",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
         "unitCategory" : "Flyers",
         "unitCost" : 100.0,
         "unitID" : 1463,
@@ -1192,7 +2532,17 @@
         }
       }, {
         "unitName" : "[1]Pteraxii Skystalker",
-        "listOfOptions" : null,
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 5133,
+          "optionName" : "Flechette carbine",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
         "unitCategory" : "",
         "unitCost" : 17.0,
         "unitID" : 1469,
@@ -1206,8 +2556,28 @@
         "unitName" : "[1]Lord Inquisitor Kyria Draxus",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
+          "optionID" : 15605,
+          "optionName" : "Stratagem: Inquisitorial Mandate",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
+        }, {
+          "optionCost" : 0.0,
           "optionID" : 2360,
           "optionName" : "Dirgesinger",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15851,
+          "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -1225,9 +2595,7 @@
         "unitCategory" : "Other",
         "unitCost" : 85.0,
         "unitID" : 2361,
-        "autoAddDictionary" : {
-          "2360" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 5,
@@ -1235,19 +2603,10 @@
         }
       } ],
       "listOfEquipmentOptions" : [ {
-        "listOfOptions" : null,
-        "equipmentName" : "$Inquisitor Force Weapons"
-      }, {
-        "listOfOptions" : null,
-        "equipmentName" : "$Archeotech Specialist"
-      }, {
-        "listOfOptions" : null,
-        "equipmentName" : "$Show Stratagems"
-      }, {
         "listOfOptions" : [ {
-          "optionCost" : 5.0,
-          "optionID" : 5220,
-          "optionName" : "Arc Maul",
+          "optionCost" : 15.0,
+          "optionID" : 0,
+          "optionName" : "Incinerator",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -1255,12 +2614,28 @@
             "Command points" : 0
           }
         } ],
-        "equipmentName" : "$Melee Weapons"
+        "equipmentName" : "$Inquisitor Ranged Weapons"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 4.0,
+          "optionID" : 0,
+          "optionName" : "Null Rod [Legends]",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "equipmentName" : "$Inquisitor Melee Weapons"
+      }, {
+        "listOfOptions" : null,
+        "equipmentName" : "$Warlord Trait"
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 5085,
-          "optionName" : "Custom: Expansionist Forge World",
+          "optionID" : 5146,
+          "optionName" : "Relic (Lucius): The Solar Flare",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -1269,8 +2644,8 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 5125,
-          "optionName" : "Dogma: Shroud Protocols",
+          "optionID" : 5249,
+          "optionName" : "Relic: The Omniscient Mask",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -1279,8 +2654,108 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 5194,
-          "optionName" : "Dogma: Staunch Defenders",
+          "optionID" : 5129,
+          "optionName" : "Relic (Agripinaa): The Eye of Xi-Lexum",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5128,
+          "optionName" : "Relic (Stygies VIII): The Omnissiah's Hand",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5208,
+          "optionName" : "Relic (Servitor Maniple): The Genecog Corpus",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5132,
+          "optionName" : "Relic: Anzion's Pseudogenetor",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5232,
+          "optionName" : "Relic (Cybernetica Cohort): Doctrina Foreas Servo Skull",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5233,
+          "optionName" : "Relic (Graia): The Cerebral Techno-Mitre",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 1
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5154,
+          "optionName" : "Relic: Pater Cog-Tooth",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5134,
+          "optionName" : "Relic: Raiment of the Technomartyr",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5173,
+          "optionName" : "Relic: The Uncreator Gauntlet",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5258,
+          "optionName" : "Relic (Metalica): The Adamantine Arm",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5238,
+          "optionName" : "Relic: Phosphoenix",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -1290,7 +2765,7 @@
         }, {
           "optionCost" : 0.0,
           "optionID" : 5197,
-          "optionName" : "Dogma: Red in Cog and Claw",
+          "optionName" : "Relic (Ryza): Weapon XCIX",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -1299,8 +2774,8 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 5144,
-          "optionName" : "Dogma: Glory to the Omnissiah",
+          "optionID" : 5180,
+          "optionName" : "Relic (Mars): The Red Axe",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -1309,8 +2784,8 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 5121,
-          "optionName" : "Dogma: Refusal to Yield",
+          "optionID" : 5185,
+          "optionName" : "Relic: Autocaduceus of Arkhan Land",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -1319,8 +2794,21 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 5093,
-          "optionName" : "Dogma: The Solar Blessing",
+          "optionID" : 5283,
+          "optionName" : "Relic: The Skull of Elder Nikola",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "equipmentName" : "$Arcana Mechanicum"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 15811,
+          "optionName" : "Ignis Judicium",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -1329,7 +2817,159 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 5183,
+          "optionID" : 0,
+          "optionName" : "Bio-corrosive Poisons",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15673,
+          "optionName" : "Tainted Blade",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "Digital Weapons",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15832,
+          "optionName" : "Blade of the Ordo",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "Blackshroud",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "equipmentName" : "$Relics of the Inquisition"
+      }, {
+        "listOfOptions" : null,
+        "equipmentName" : "$Inquisitor Pistol Weapons"
+      }, {
+        "listOfOptions" : null,
+        "equipmentName" : "$Inquisitor Force Weapons"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 5150,
+          "optionName" : "Warlord Trait (Vigilus): Master of Biosplicing",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5235,
+          "optionName" : "Warlord Trait (Vigilus): Adept of the Legio Cybernetica",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "equipmentName" : "$Field Commander"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 5222,
+          "optionName" : "Forge World: Stygies VIII",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5157,
+          "optionName" : "Forge World: Mars",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5125,
+          "optionName" : "Forge World: <Mixed>",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5190,
+          "optionName" : "Custom: Expansionist Forge World",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5229,
+          "optionName" : "Forge World: Metalica",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5218,
+          "optionName" : "Forge World: Agripinaa",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5193,
+          "optionName" : "Forge World: Ryza",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5272,
           "optionName" : "Custom: Rad-saturated Forge World",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1339,8 +2979,8 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 5095,
-          "optionName" : "Custom: Data-Hoard Forge World",
+          "optionID" : 5211,
+          "optionName" : "Forge World: Graia",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -1349,8 +2989,18 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 5165,
-          "optionName" : "Dogma: Relentless March",
+          "optionID" : 5172,
+          "optionName" : "Forge World: Lucius",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5162,
+          "optionName" : "Custom: Data-Hoard Forge World",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -1358,15 +3008,25 @@
             "Command points" : 0
           }
         } ],
-        "equipmentName" : "$Custom Forge World"
+        "equipmentName" : "$Forge World Dogma"
       }, {
         "listOfOptions" : null,
-        "equipmentName" : "$Warlord Trait"
+        "equipmentName" : "$Show Stratagems"
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "5) Psychic Pursuit",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "Hereticus - Ascertainment",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -1396,27 +3056,17 @@
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "6) Castigation",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "Xenos - Psychic Veil",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
           "optionName" : "1) Terrify",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "Malleus - Power Through Knowledge",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -1436,7 +3086,7 @@
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "Hereticus - Ascertainment",
+          "optionName" : "6) Castigation",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -1446,7 +3096,7 @@
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "Malleus - Power Through Knowledge",
+          "optionName" : "Xenos - Psychic Veil",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -1457,9 +3107,19 @@
         "equipmentName" : "$Telethesia Discipline"
       }, {
         "listOfOptions" : [ {
-          "optionCost" : 4.0,
-          "optionID" : 0,
-          "optionName" : "Null Rod [Legends]",
+          "optionCost" : 5.0,
+          "optionID" : 5216,
+          "optionName" : "Enhanced Data-Tether",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 5191,
+          "optionName" : "Omnispex",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -1467,25 +3127,35 @@
             "Command points" : 0
           }
         } ],
-        "equipmentName" : "$Inquisitor Melee Weapons"
+        "equipmentName" : "$Skitarii Wargear"
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 5189,
-          "optionName" : "Warlord Trait (Vigilus): Master of Biosplicing",
+          "optionID" : 5139,
+          "optionName" : "Archeotech Specialist: 2 Extra Relics",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Power level" : 0,
-            "Command points" : 0
+            "Command points" : -3
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5241,
+          "optionName" : "Archeotech Specialist: 1 Extra Relic",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
           }
         } ],
-        "equipmentName" : "$Field Commander"
+        "equipmentName" : "$Archeotech Specialist"
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "Ordo Minoris",
+          "optionName" : "Ordo Hereticus",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -1495,7 +3165,7 @@
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "Ordo Hereticus",
+          "optionName" : "Ordo Minoris",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -1526,201 +3196,9 @@
         "equipmentName" : "$Ordo"
       }, {
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 5085,
-          "optionName" : "Custom: Expansionist Forge World",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 5076,
-          "optionName" : "Forge World: <Mixed>",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 5077,
-          "optionName" : "Forge World: Lucius",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 5086,
-          "optionName" : "Forge World: Stygies VIII",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 5223,
-          "optionName" : "Forge World: Graia",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 5090,
-          "optionName" : "Forge World: Metalica",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 5207,
-          "optionName" : "Forge World: Mars",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 5215,
-          "optionName" : "Forge World: Ryza",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 5183,
-          "optionName" : "Custom: Rad-saturated Forge World",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 5095,
-          "optionName" : "Custom: Data-Hoard Forge World",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 5124,
-          "optionName" : "Forge World: Agripinaa",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "equipmentName" : "$Forge World Dogma"
-      }, {
-        "listOfOptions" : null,
-        "equipmentName" : "$Acolyte Weapon"
-      }, {
-        "listOfOptions" : [ {
-          "optionCost" : 15.0,
-          "optionID" : 0,
-          "optionName" : "Incinerator",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "equipmentName" : "$Inquisitor Ranged Weapons"
-      }, {
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 15485,
-          "optionName" : "Blade of the Ordo",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15443,
-          "optionName" : "Tainted Blade",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "Blackshroud",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15421,
-          "optionName" : "Ignis Judicium",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "Bio-corrosive Poisons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "Digital Weapons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "equipmentName" : "$Relics of the Inquisition"
-      }, {
-        "listOfOptions" : [ {
           "optionCost" : 5.0,
-          "optionID" : 5129,
-          "optionName" : "Enhanced Data-Tether",
+          "optionID" : 5281,
+          "optionName" : "Arc Maul",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -1729,164 +3207,21 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 5192,
-          "optionName" : "Omnispex",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "equipmentName" : "$Skitarii Wargear"
-      }, {
-        "listOfOptions" : null,
-        "equipmentName" : "$Inquisitor Pistol Weapons"
-      }, {
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 5178,
-          "optionName" : "Relic (Stygies VIII): The Omnissiah's Hand",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 5103,
-          "optionName" : "Relic (Mars): The Red Axe",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 5156,
-          "optionName" : "Relic: Autocaduceus of Arkhan Land",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 5214,
-          "optionName" : "Relic: The Omniscient Mask",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 5107,
-          "optionName" : "Relic (Servitor Maniple): The Genecog Corpus",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 5082,
-          "optionName" : "Relic: The Uncreator Gauntlet",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 5108,
-          "optionName" : "Relic (Graia): The Cerebral Techno-Mitre",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 1
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 5162,
-          "optionName" : "Relic (Lucius): The Solar Flare",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 5138,
-          "optionName" : "Relic: The Skull of Elder Nikola",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 5109,
-          "optionName" : "Relic (Agripinaa): The Eye of Xi-Lexum",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 5221,
-          "optionName" : "Relic (Ryza): Weapon XCIX",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 5205,
-          "optionName" : "Relic: Raiment of the Technomartyr",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 5112,
-          "optionName" : "Relic: Phosphoenix",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
           "optionID" : 5143,
-          "optionName" : "Relic: Pater Cog-Tooth",
+          "optionName" : "Taser Goad",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Power level" : 0,
             "Command points" : 0
           }
-        }, {
+        } ],
+        "equipmentName" : "$Melee Weapons"
+      }, {
+        "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 5170,
-          "optionName" : "Relic: Anzion's Pseudogenetor",
+          "optionID" : 5145,
+          "optionName" : "Dogma: Staunch Defenders",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -1896,7 +3231,7 @@
         }, {
           "optionCost" : 0.0,
           "optionID" : 5147,
-          "optionName" : "Relic (Metalica): The Adamantine Arm",
+          "optionName" : "Dogma: The Solar Blessing",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -1905,8 +3240,78 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 5175,
-          "optionName" : "Relic (Cybernetica Cohort): Doctrina Foreas Servo Skull",
+          "optionID" : 5259,
+          "optionName" : "Dogma: Refusal to Yield",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5190,
+          "optionName" : "Custom: Expansionist Forge World",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5159,
+          "optionName" : "Dogma: Red in Cog and Claw",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5272,
+          "optionName" : "Custom: Rad-saturated Forge World",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5162,
+          "optionName" : "Custom: Data-Hoard Forge World",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5196,
+          "optionName" : "Dogma: Glory to the Omnissiah",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5144,
+          "optionName" : "Dogma: Relentless March",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5212,
+          "optionName" : "Dogma: Shroud Protocols",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -1914,7 +3319,10 @@
             "Command points" : 0
           }
         } ],
-        "equipmentName" : "$Arcana Mechanicum"
+        "equipmentName" : "$Custom Forge World"
+      }, {
+        "listOfOptions" : null,
+        "equipmentName" : "$Acolyte Weapon"
       } ],
       "armyName" : "Adeptus Mechanicus",
       "armyCategories" : [ ]

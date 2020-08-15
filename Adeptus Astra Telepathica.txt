@@ -7,17 +7,37 @@
         "listOfOptions" : [ {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Vigilus Field Commander WLT",
+          "optionName" : "$Heirlooms of Conquest",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
+          "optionID" : 10089,
+          "optionName" : "Warlord",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$HEIRLOOMS OF CONQUEST",
+          "optionName" : "$Psykana Discipline",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 10069,
+          "optionName" : "Field Commander",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 1762,
@@ -31,7 +51,7 @@
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Psykana Discipline",
+          "optionName" : "$Vigilus Field Commander WLT",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
@@ -49,10 +69,7 @@
         "unitCategory" : "HQ",
         "unitCost" : 50.0,
         "unitID" : 1763,
-        "autoAddDictionary" : {
-          "1762" : 1,
-          "1761" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 3,
@@ -61,13 +78,6 @@
       }, {
         "unitName" : "[1]Wyrdvane Psykers",
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Psykana Discipline",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
           "optionCost" : 8.0,
           "optionID" : 1764,
           "optionName" : "Wyrdvane Psyker",
@@ -77,13 +87,18 @@
             "Power level" : 0,
             "Command points" : 0
           }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Psykana Discipline",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 0.0,
         "unitID" : 1765,
-        "autoAddDictionary" : {
-          "1764" : 3
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 1,
@@ -105,9 +120,7 @@
         "unitCategory" : "HQ",
         "unitCost" : 45.0,
         "unitID" : 1797,
-        "autoAddDictionary" : {
-          "1796" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 2,
@@ -118,21 +131,51 @@
         "listOfOptions" : [ {
           "optionCost" : 0.0,
           "optionID" : 0,
+          "optionName" : "$Heirlooms of Conquest",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5522,
+          "optionName" : "Telepathica Stave",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 10089,
+          "optionName" : "Warlord",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
           "optionName" : "$Psykana Discipline",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Vigilus Field Commander WLT",
+          "optionID" : 10069,
+          "optionName" : "Field Commander",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Heirlooms of Conquest",
+          "optionName" : "$Vigilus Field Commander WLT",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
@@ -149,26 +192,6 @@
       } ],
       "listOfEquipmentOptions" : [ {
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "Gaze of the Emperor",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "Nightshroud",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
           "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "Terrifying Visions",
@@ -191,6 +214,16 @@
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
+          "optionName" : "Nightshroud",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
           "optionName" : "Psychic Maelstrom",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -202,6 +235,16 @@
           "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "Mental Fortitude",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "Gaze of the Emperor",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {

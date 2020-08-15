@@ -5,6 +5,16 @@
       "listOfUnits" : [ {
         "unitName" : "[0]Prosecutors",
         "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 13519,
+          "optionName" : "Psyk-Out Grenades",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 12.0,
           "optionID" : 2383,
           "optionName" : "Prosecutor",
@@ -28,10 +38,7 @@
         "unitCategory" : "Elites",
         "unitCost" : 0.0,
         "unitID" : 2385,
-        "autoAddDictionary" : {
-          "2384" : 1,
-          "2383" : 4
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 3,
@@ -52,6 +59,26 @@
       }, {
         "unitName" : "[0]Vigilators",
         "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 13519,
+          "optionName" : "Psyk-Out Grenades",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 13521,
+          "optionName" : "Executioner Greatblade",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 17.0,
           "optionID" : 2387,
           "optionName" : "Vigilator",
@@ -75,10 +102,7 @@
         "unitCategory" : "Elites",
         "unitCost" : 0.0,
         "unitID" : 2389,
-        "autoAddDictionary" : {
-          "2388" : 1,
-          "2387" : 4
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 4,
@@ -87,6 +111,16 @@
       }, {
         "unitName" : "[0]Witchseekers",
         "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 13519,
+          "optionName" : "Psyk-Out Grenades",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 18.0,
           "optionID" : 2391,
           "optionName" : "Sister Superior",
@@ -110,10 +144,7 @@
         "unitCategory" : "Elites",
         "unitCost" : 0.0,
         "unitID" : 2392,
-        "autoAddDictionary" : {
-          "2391" : 1,
-          "2390" : 4
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 4,
@@ -122,9 +153,35 @@
       } ],
       "listOfEquipmentOptions" : [ {
         "listOfOptions" : [ {
+          "optionCost" : 15.0,
+          "optionID" : 0,
+          "optionName" : "Incinerator",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "equipmentName" : "$Inquisitor Ranged Weapons"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 4.0,
+          "optionID" : 0,
+          "optionName" : "Null Rod [Legends]",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "equipmentName" : "$Inquisitor Melee Weapons"
+      }, {
+        "listOfOptions" : [ {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "Ordo Minoris",
+          "optionName" : "Ordo Hereticus",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -134,7 +191,7 @@
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "Ordo Hereticus",
+          "optionName" : "Ordo Minoris",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -164,58 +221,9 @@
         } ],
         "equipmentName" : "$Ordo"
       }, {
-        "listOfOptions" : null,
-        "equipmentName" : "$Inquisitor Force Weapons"
-      }, {
-        "listOfOptions" : null,
-        "equipmentName" : "$Acolyte Weapon"
-      }, {
-        "listOfOptions" : [ {
-          "optionCost" : 15.0,
-          "optionID" : 0,
-          "optionName" : "Incinerator",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "equipmentName" : "$Inquisitor Ranged Weapons"
-      }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 15485,
-          "optionName" : "Blade of the Ordo",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15443,
-          "optionName" : "Tainted Blade",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "Blackshroud",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15421,
+          "optionID" : 15811,
           "optionName" : "Ignis Judicium",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -235,8 +243,38 @@
           }
         }, {
           "optionCost" : 0.0,
+          "optionID" : 15673,
+          "optionName" : "Tainted Blade",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "Digital Weapons",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15832,
+          "optionName" : "Blade of the Ordo",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "Blackshroud",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -247,12 +285,28 @@
         "equipmentName" : "$Relics of the Inquisition"
       }, {
         "listOfOptions" : null,
+        "equipmentName" : "$Acolyte Weapon"
+      }, {
+        "listOfOptions" : null,
         "equipmentName" : "$Inquisitor Pistol Weapons"
+      }, {
+        "listOfOptions" : null,
+        "equipmentName" : "$Inquisitor Force Weapons"
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "5) Psychic Pursuit",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "Hereticus - Ascertainment",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -282,27 +336,17 @@
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "6) Castigation",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "Xenos - Psychic Veil",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
           "optionName" : "1) Terrify",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "Malleus - Power Through Knowledge",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -322,7 +366,7 @@
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "Hereticus - Ascertainment",
+          "optionName" : "6) Castigation",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -332,7 +376,7 @@
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "Malleus - Power Through Knowledge",
+          "optionName" : "Xenos - Psychic Veil",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -341,19 +385,6 @@
           }
         } ],
         "equipmentName" : "$Telethesia Discipline"
-      }, {
-        "listOfOptions" : [ {
-          "optionCost" : 4.0,
-          "optionID" : 0,
-          "optionName" : "Null Rod [Legends]",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "equipmentName" : "$Inquisitor Melee Weapons"
       } ],
       "armyName" : "Sisters of Silence",
       "armyCategories" : [ ]

@@ -5,12 +5,35 @@
       "listOfUnits" : [ {
         "unitName" : "[1]AX39 Sun Shark Bomber",
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
+          "optionCost" : 15.0,
+          "optionID" : 16791,
+          "optionName" : "Missile pod",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 16827,
+          "optionName" : "Seeker missile",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16837,
+          "optionName" : "Markerlight",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "Flyers",
         "unitCost" : 100.0,
@@ -24,13 +47,6 @@
       }, {
         "unitName" : "[0]Kroot Hounds",
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
           "optionCost" : 6.0,
           "optionID" : 2989,
           "optionName" : "Kroot Hound",
@@ -40,13 +56,21 @@
             "Power level" : 0,
             "Command points" : 0
           }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16776,
+          "optionName" : "Ripping fangs",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "Fast Attack",
         "unitCost" : 0.0,
         "unitID" : 2990,
-        "autoAddDictionary" : {
-          "2989" : 4
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 0,
         "listOfCurrencies" : {
           "Power level" : 1,
@@ -57,31 +81,20 @@
         "listOfOptions" : [ {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$SigSystems & ProtoWeaponSystems",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Tactical Drones",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
           "optionName" : "$Wargear options (1-3)",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 10.0,
+          "optionID" : 16854,
+          "optionName" : "XV8-02 Crisis Iridium battlesuit",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 33.0,
           "optionID" : 2996,
@@ -92,6 +105,30 @@
             "Power level" : 0,
             "Command points" : 0
           }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Tactical Drones",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16777,
+          "optionName" : "Veteran Cadre",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$SigSystems & ProtoWeaponSystems",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 0.0,
@@ -106,6 +143,36 @@
         "unitName" : "[1]KX139 Ta'unar Supremacy Armour",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
+          "optionID" : 3045,
+          "optionName" : "2x Fusion eradicator",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 25.0,
+          "optionID" : 3046,
+          "optionName" : "Fusion eradicator & Tri-axis ion cannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 8.0,
+          "optionID" : 16853,
+          "optionName" : "Burst cannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
           "optionID" : 3043,
           "optionName" : "Crushing feet",
           "autoAddDictionary" : { },
@@ -116,15 +183,18 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
+          "optionID" : 16796,
+          "optionName" : "Heavy rail cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
-          "optionCost" : 0.0,
-          "optionID" : 3045,
-          "optionName" : "2x Fusion eradicator",
+          "optionCost" : 15.0,
+          "optionID" : 16868,
+          "optionName" : "Smart missile system",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -136,15 +206,25 @@
           "optionID" : 3044,
           "optionName" : "2x Tri-axis ion cannon",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 30.0,
+          "optionID" : 16792,
+          "optionName" : "Nexus meteor missile system",
+          "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Power level" : 0,
             "Command points" : 0
           }
         }, {
-          "optionCost" : 25.0,
-          "optionID" : 3046,
-          "optionName" : "Fusion eradicator & Tri-axis ion cannon",
+          "optionCost" : 0.0,
+          "optionID" : 16764,
+          "optionName" : "Pulse ordnance multi-driver",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -155,9 +235,7 @@
         "unitCategory" : "Lords of War",
         "unitCost" : 1040.0,
         "unitID" : 3047,
-        "autoAddDictionary" : {
-          "3043" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 55,
@@ -165,7 +243,17 @@
         }
       }, {
         "unitName" : "[1]MV7 Marker Drone",
-        "listOfOptions" : null,
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 16837,
+          "optionName" : "Markerlight",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
         "unitCategory" : "",
         "unitCost" : 10.0,
         "unitID" : 2945,
@@ -178,6 +266,13 @@
       }, {
         "unitName" : "[1]Commander in XV85 Enforcer Battlesuit",
         "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Support systems",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
           "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "$Character options",
@@ -206,7 +301,7 @@
         "listOfOptions" : [ {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Support Systems",
+          "optionName" : "$Support systems",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
@@ -217,6 +312,16 @@
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 16783,
+          "optionName" : "Target lock",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -237,12 +342,25 @@
       }, {
         "unitName" : "[1]Orca Dropship",
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
+          "optionCost" : 15.0,
+          "optionID" : 16791,
+          "optionName" : "Missile pod",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16749,
+          "optionName" : "2x Long-barelled burst cannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "Flyers",
         "unitCost" : 325.0,
@@ -262,6 +380,16 @@
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16762,
+          "optionName" : "Honour blade",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 55.0,
@@ -276,22 +404,65 @@
         "unitName" : "[1]XV104 Riptide Battlesuit",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
+          "optionID" : 16775,
+          "optionName" : "Heavy burst cannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "$Support systems",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$SigSystems & ProtoWeaponSystems",
+          "optionCost" : 30.0,
+          "optionID" : 16855,
+          "optionName" : "2x Smart missile system",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 15.0,
+          "optionID" : 16879,
+          "optionName" : "Ion accelerator",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 16.0,
+          "optionID" : 16890,
+          "optionName" : "2x Plasma rifle",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 30.0,
+          "optionID" : 16871,
+          "optionName" : "2x Fusion blaster",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Battle Honours",
+          "optionName" : "$SigSystems & ProtoWeaponSystems",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
@@ -307,7 +478,17 @@
         }
       }, {
         "unitName" : "[1]2x MV1 Gun Drone",
-        "listOfOptions" : null,
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 16845,
+          "optionName" : "Pulse carbine",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
         "unitCategory" : "",
         "unitCost" : 20.0,
         "unitID" : 3080,
@@ -320,25 +501,21 @@
       }, {
         "unitName" : "[0]XV25 Stealth Battlesuits",
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Tactical Drones",
+          "optionCost" : 20.0,
+          "optionID" : 16875,
+          "optionName" : "Homing beacon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
+          "optionCost" : 8.0,
+          "optionID" : 16853,
+          "optionName" : "Burst cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 18.0,
-          "optionID" : 3002,
-          "optionName" : "Stealth Shas'ui w/ Fusion blaster",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
           "listOfCurrencies" : {
             "Power level" : 0,
             "Command points" : 0
@@ -362,6 +539,23 @@
           }
         }, {
           "optionCost" : 18.0,
+          "optionID" : 3002,
+          "optionName" : "Stealth Shas'ui w/ Fusion blaster",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Tactical Drones",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 18.0,
           "optionID" : 3003,
           "optionName" : "Stealth Shas'ui w/ Burst Cannon",
           "autoAddDictionary" : { },
@@ -370,13 +564,31 @@
             "Power level" : 0,
             "Command points" : 0
           }
+        }, {
+          "optionCost" : 15.0,
+          "optionID" : 16811,
+          "optionName" : "Fusion blaster",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 8.0,
+          "optionID" : 16824,
+          "optionName" : "Burst cannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 0.0,
         "unitID" : 3004,
-        "autoAddDictionary" : {
-          "3003" : 3
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 0,
         "listOfCurrencies" : {
           "Power level" : 5,
@@ -384,7 +596,17 @@
         }
       }, {
         "unitName" : "[1]Tidewall Gunrig",
-        "listOfOptions" : null,
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 16847,
+          "optionName" : "Supremacy railgun",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
         "unitCategory" : "Fortification",
         "unitCost" : 125.0,
         "unitID" : 3006,
@@ -399,20 +621,6 @@
         "listOfOptions" : [ {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Hammerhead main weapon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$SigSystems & ProtoWeaponSystems",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
           "optionName" : "$Gunship sponsons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -420,7 +628,24 @@
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Battle Honours",
+          "optionName" : "$Hammerhead main weapon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 16827,
+          "optionName" : "Seeker missile",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$SigSystems & ProtoWeaponSystems",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
@@ -438,11 +663,14 @@
         "unitName" : "[1]XV109 Y'vahra Battlesuit",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
+          "optionID" : 3040,
+          "optionName" : "Fletchette pod",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -452,8 +680,18 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3040,
-          "optionName" : "Fletchette pod",
+          "optionID" : 16883,
+          "optionName" : "Phased plasma-flamer",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16886,
+          "optionName" : "Ionic discharge cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -464,9 +702,7 @@
         "unitCategory" : "Fast Attack",
         "unitCost" : 395.0,
         "unitID" : 3041,
-        "autoAddDictionary" : {
-          "3040" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 20,
@@ -476,11 +712,34 @@
         "unitName" : "[1]XV107 R'varna Battlesuit",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
+          "optionID" : 16766,
+          "optionName" : "Pulse submunitions cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 16843,
+          "optionName" : "Multi-tracker",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 16794,
+          "optionName" : "Advanced targeting system",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "Heavy Support",
         "unitCost" : 430.0,
@@ -495,8 +754,8 @@
         "unitName" : "[0]DX6 Remora Stealth Drone Squadron",
         "listOfOptions" : [ {
           "optionCost" : 60.0,
-          "optionID" : 3060,
-          "optionName" : "DX6 'Remora' Stealth Drone",
+          "optionID" : 3062,
+          "optionName" : "DX6 'Remora' Stealth Drone w/ 2x Seeker missile",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
           "listOfCurrencies" : {
@@ -504,13 +763,13 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 60.0,
-          "optionID" : 3062,
-          "optionName" : "DX6 'Remora' Stealth Drone w/ 2x Seeker missile",
+          "optionCost" : 5.0,
+          "optionID" : 16809,
+          "optionName" : "Seeker missile",
           "autoAddDictionary" : { },
-          "modelsAdded" : 1,
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
-            "Power level" : 3,
+            "Power level" : 0,
             "Command points" : 0
           }
         }, {
@@ -523,13 +782,31 @@
             "Power level" : 3,
             "Command points" : 0
           }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16846,
+          "optionName" : "Long-barelled burst cannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 60.0,
+          "optionID" : 3060,
+          "optionName" : "DX6 'Remora' Stealth Drone",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 3,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "Flyers",
         "unitCost" : 0.0,
         "unitID" : 3063,
-        "autoAddDictionary" : {
-          "3060" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 0,
         "listOfCurrencies" : {
           "Power level" : 0,
@@ -538,16 +815,26 @@
       }, {
         "unitName" : "[1]Commander in XV8 Crisis Battlesuit",
         "listOfOptions" : [ {
+          "optionCost" : 10.0,
+          "optionID" : 16854,
+          "optionName" : "XV8-02 Crisis Iridium battlesuit",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Character options",
+          "optionName" : "$Support systems",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Support systems",
+          "optionName" : "$Character options",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
@@ -577,6 +864,56 @@
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16861,
+          "optionName" : "Pulse carbine",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16891,
+          "optionName" : "Ritual blade",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16819,
+          "optionName" : "Pack Alpha",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16813,
+          "optionName" : "Pulse rifle",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16842,
+          "optionName" : "Kroot rifle",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 25.0,
@@ -589,7 +926,17 @@
         }
       }, {
         "unitName" : "[1]Remote Sensor Tower",
-        "listOfOptions" : null,
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 16760,
+          "optionName" : "High intensity markerlight",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
         "unitCategory" : "Fortification",
         "unitCost" : 33.0,
         "unitID" : 3070,
@@ -602,6 +949,16 @@
       }, {
         "unitName" : "[1]MV84 Shielded Missile Drone",
         "listOfOptions" : [ {
+          "optionCost" : 15.0,
+          "optionID" : 16787,
+          "optionName" : "Missile pod",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 0.0,
           "optionID" : 2953,
           "optionName" : "Shield generator",
@@ -615,9 +972,7 @@
         "unitCategory" : "",
         "unitCost" : 30.0,
         "unitID" : 2954,
-        "autoAddDictionary" : {
-          "2953" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Command points" : 0
@@ -650,6 +1005,26 @@
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16837,
+          "optionName" : "Markerlight",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16797,
+          "optionName" : "Pulse pistol",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 30.0,
@@ -663,6 +1038,16 @@
       }, {
         "unitName" : "[0]Heavy Gun Drone Squadron",
         "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 16837,
+          "optionName" : "Markerlight",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 18.0,
           "optionID" : 3055,
           "optionName" : "Heavy Gun Drone w/ 2x BC",
@@ -670,6 +1055,16 @@
           "modelsAdded" : 1,
           "listOfCurrencies" : {
             "Power level" : 1,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 8.0,
+          "optionID" : 16824,
+          "optionName" : "Burst cannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
             "Command points" : 0
           }
         }, {
@@ -686,9 +1081,7 @@
         "unitCategory" : "Heavy Support",
         "unitCost" : 0.0,
         "unitID" : 3057,
-        "autoAddDictionary" : {
-          "3055" : 2
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 0,
         "listOfCurrencies" : {
           "Power level" : 1,
@@ -697,6 +1090,16 @@
       }, {
         "unitName" : "[1]XV95 Ghostkeel Battlesuit",
         "listOfOptions" : [ {
+          "optionCost" : 10.0,
+          "optionID" : 16830,
+          "optionName" : "2x Flamer",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "$Support systems",
@@ -705,18 +1108,51 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
+          "optionID" : 16807,
+          "optionName" : "Cyclic ion raker",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 16753,
+          "optionName" : "Fusion collider",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 30.0,
+          "optionID" : 16871,
+          "optionName" : "2x Fusion blaster",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "$SigSystems & ProtoWeaponSystems",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
+          "optionCost" : 16.0,
+          "optionID" : 16765,
+          "optionName" : "2x Burst cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 110.0,
@@ -743,9 +1179,7 @@
         "unitCategory" : "",
         "unitCost" : 15.0,
         "unitID" : 2952,
-        "autoAddDictionary" : {
-          "2951" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 0,
@@ -755,11 +1189,14 @@
         "unitName" : "[0]Kroot Carnivores",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
+          "optionID" : 16789,
+          "optionName" : "Kroot rifle",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 6.0,
           "optionID" : 2985,
@@ -774,9 +1211,7 @@
         "unitCategory" : "Troops",
         "unitCost" : 0.0,
         "unitID" : 2986,
-        "autoAddDictionary" : {
-          "2985" : 10
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 0,
         "listOfCurrencies" : {
           "Power level" : 3,
@@ -808,10 +1243,7 @@
         "unitCategory" : "Fortification",
         "unitCost" : 0.0,
         "unitID" : 3010,
-        "autoAddDictionary" : {
-          "3009" : 0,
-          "3008" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 0,
         "listOfCurrencies" : {
           "Power level" : 0,
@@ -819,7 +1251,57 @@
         }
       }, {
         "unitName" : "[1]Manta Super-heavy Dropship",
-        "listOfOptions" : null,
+        "listOfOptions" : [ {
+          "optionCost" : 15.0,
+          "optionID" : 16791,
+          "optionName" : "Missile pod",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16846,
+          "optionName" : "Long-barelled burst cannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 16827,
+          "optionName" : "Seeker missile",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16841,
+          "optionName" : "Long-barelled ion cannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16796,
+          "optionName" : "Heavy rail cannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
         "unitCategory" : "Lords of War",
         "unitCost" : 2000.0,
         "unitID" : 3069,
@@ -833,8 +1315,8 @@
         "unitName" : "[0]The Eight",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 3094,
-          "optionName" : "Broadside Shas'vre Ob'lotai 9-0",
+          "optionID" : 3089,
+          "optionName" : "Commander Brightsword",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
           "listOfCurrencies" : {
@@ -845,6 +1327,56 @@
           "optionCost" : 0.0,
           "optionID" : 3092,
           "optionName" : "Shas'o Arra'kon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 8.0,
+          "optionID" : 16831,
+          "optionName" : "Plasma rifle",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 10.0,
+          "optionID" : 16788,
+          "optionName" : "Shield generator",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 3090,
+          "optionName" : "Commander Bravestorm",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 25.0,
+          "optionID" : 16758,
+          "optionName" : "High-yield missile pod",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 3095,
+          "optionName" : "O'Vesa",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
           "listOfCurrencies" : {
@@ -863,16 +1395,6 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3095,
-          "optionName" : "O'Vesa",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
           "optionID" : 3091,
           "optionName" : "Shas'o Sha'vastos",
           "autoAddDictionary" : { },
@@ -882,19 +1404,19 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 0.0,
-          "optionID" : 3090,
-          "optionName" : "Commander Bravestorm",
+          "optionCost" : 8.0,
+          "optionID" : 16849,
+          "optionName" : "Airbursting fragmentation projector",
           "autoAddDictionary" : { },
-          "modelsAdded" : 1,
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Power level" : 0,
             "Command points" : 0
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3089,
-          "optionName" : "Commander Brightsword",
+          "optionID" : 3094,
+          "optionName" : "Broadside Shas'vre Ob'lotai 9-0",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
           "listOfCurrencies" : {
@@ -905,15 +1427,7 @@
         "unitCategory" : "Lords of War",
         "unitCost" : 1250.0,
         "unitID" : 3096,
-        "autoAddDictionary" : {
-          "3093" : 1,
-          "3092" : 1,
-          "3091" : 1,
-          "3090" : 1,
-          "3089" : 1,
-          "3095" : 1,
-          "3094" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 0,
         "listOfCurrencies" : {
           "Power level" : 62,
@@ -935,9 +1449,7 @@
         "unitCategory" : "Elites",
         "unitCost" : 0.0,
         "unitID" : 3036,
-        "autoAddDictionary" : {
-          "3035" : 2
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 0,
         "listOfCurrencies" : {
           "Power level" : 0,
@@ -959,8 +1471,8 @@
         "unitName" : "[1]Great Knarloc",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 3084,
-          "optionName" : "Crushing Beak",
+          "optionID" : 3083,
+          "optionName" : "Razor talons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -969,8 +1481,28 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3083,
-          "optionName" : "Razor talons",
+          "optionID" : 16876,
+          "optionName" : "Twin kroot gun",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 3084,
+          "optionName" : "Crushing Beak",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16885,
+          "optionName" : "Kroot bolt thrower",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -982,25 +1514,16 @@
           "optionID" : 3085,
           "optionName" : "Baggage Harness",
           "autoAddDictionary" : { },
-          "modelsAdded" : 0,
+          "modelsAdded" : 1,
           "listOfCurrencies" : {
             "Power level" : 0,
             "Command points" : 0
           }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
         } ],
         "unitCategory" : "Heavy Support",
         "unitCost" : 0.0,
         "unitID" : 3086,
-        "autoAddDictionary" : {
-          "3083" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 7,
@@ -1025,13 +1548,21 @@
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16842,
+          "optionName" : "Kroot rifle",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 40.0,
         "unitID" : 3088,
-        "autoAddDictionary" : {
-          "3087" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 2,
@@ -1039,7 +1570,17 @@
         }
       }, {
         "unitName" : "[1]MB3 Recon Drone",
-        "listOfOptions" : null,
+        "listOfOptions" : [ {
+          "optionCost" : 8.0,
+          "optionID" : 16853,
+          "optionName" : "Burst cannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
         "unitCategory" : "",
         "unitCost" : 15.0,
         "unitID" : 2955,
@@ -1053,11 +1594,41 @@
         "unitName" : "[1]Cadre Fireblade",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
+          "optionID" : 16774,
+          "optionName" : "Photon grenades",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "$Character options",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16837,
+          "optionName" : "Markerlight",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16851,
+          "optionName" : "Pulse rifle",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -1078,20 +1649,6 @@
       }, {
         "unitName" : "[0]Strike Team",
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$SigSystems & ProtoWeaponSystems",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Fire Warrior squad options",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
           "optionCost" : 9.0,
           "optionID" : 2966,
           "optionName" : "Fire Warrior w/ Pulse Rifle",
@@ -1102,26 +1659,9 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
           "optionCost" : 9.0,
-          "optionID" : 2967,
-          "optionName" : "Fire Warrior w/ Pulse Pistol + Pulse Carbine",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 9.0,
-          "optionID" : 2964,
-          "optionName" : "Fire Warrior w/ Pulse Carbine",
+          "optionID" : 2968,
+          "optionName" : "Fire Warrior w/ Pulse Pistol + Pulse Rifle",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
           "listOfCurrencies" : {
@@ -1139,81 +1679,82 @@
             "Command points" : 0
           }
         }, {
+          "optionCost" : 0.0,
+          "optionID" : 16845,
+          "optionName" : "Pulse carbine",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16755,
+          "optionName" : "Pulse pistol",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16851,
+          "optionName" : "Pulse rifle",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16774,
+          "optionName" : "Photon grenades",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 9.0,
-          "optionID" : 2968,
-          "optionName" : "Fire Warrior w/ Pulse Pistol + Pulse Rifle",
+          "optionID" : 2964,
+          "optionName" : "Fire Warrior w/ Pulse Carbine",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
           "listOfCurrencies" : {
             "Power level" : 0,
             "Command points" : 0
           }
-        } ],
-        "unitCategory" : "Troops",
-        "unitCost" : 0.0,
-        "unitID" : 2969,
-        "autoAddDictionary" : {
-          "2966" : 5
-        },
-        "startingModels" : 0,
-        "listOfCurrencies" : {
-          "Power level" : 2,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[0]XV9 Hazard Support Team",
-        "listOfOptions" : [ {
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16797,
+          "optionName" : "Pulse pistol",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Tactical Drones",
+          "optionName" : "$Fire Warrior squad options",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Support systems",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 70.0,
-          "optionID" : 3038,
-          "optionName" : "XV9 Hazard Battlesuit",
+          "optionCost" : 9.0,
+          "optionID" : 2967,
+          "optionName" : "Fire Warrior w/ Pulse Pistol + Pulse Carbine",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
           "listOfCurrencies" : {
-            "Power level" : 5,
+            "Power level" : 0,
             "Command points" : 0
           }
-        } ],
-        "unitCategory" : "Elites",
-        "unitCost" : 0.0,
-        "unitID" : 3039,
-        "autoAddDictionary" : {
-          "3038" : 1
-        },
-        "startingModels" : 0,
-        "listOfCurrencies" : {
-          "Power level" : 0,
-          "Command points" : 0
-        }
-      }, {
-        "unitName" : "[1]KV128 Stormsurge",
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Support systems",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -1223,11 +1764,196 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
+          "optionID" : 16786,
+          "optionName" : "Markerlight",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "unitCategory" : "Troops",
+        "unitCost" : 0.0,
+        "unitID" : 2969,
+        "autoAddDictionary" : { },
+        "startingModels" : 0,
+        "listOfCurrencies" : {
+          "Power level" : 2,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "[0]XV9 Hazard Support Team",
+        "listOfOptions" : [ {
+          "optionCost" : 70.0,
+          "optionID" : 3038,
+          "optionName" : "XV9 Hazard Battlesuit",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 5,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Battle Honours",
+          "optionName" : "$Support systems",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 4.0,
+          "optionID" : 16867,
+          "optionName" : "Double-barelled burst cannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 20.0,
+          "optionID" : 16822,
+          "optionName" : "Fusion cascade",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Tactical Drones",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16860,
+          "optionName" : "Phased ion gun",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16857,
+          "optionName" : "Pulse submunitions rifle",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "unitCategory" : "Elites",
+        "unitCost" : 0.0,
+        "unitID" : 3039,
+        "autoAddDictionary" : { },
+        "startingModels" : 0,
+        "listOfCurrencies" : {
+          "Power level" : 0,
+          "Command points" : 0
+        }
+      }, {
+        "unitName" : "[1]KV128 Stormsurge",
+        "listOfOptions" : [ {
+          "optionCost" : 10.0,
+          "optionID" : 16830,
+          "optionName" : "2x Flamer",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Support systems",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16821,
+          "optionName" : "Destroyer missile",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 15.0,
+          "optionID" : 16868,
+          "optionName" : "Smart missile system",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 15.0,
+          "optionID" : 16870,
+          "optionName" : "Cluster rocket system",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$SigSystems & ProtoWeaponSystems",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16850,
+          "optionName" : "Pulse blastcannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 16.0,
+          "optionID" : 16815,
+          "optionName" : "2x Airbursting fragmentation projector",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 10.0,
+          "optionID" : 16804,
+          "optionName" : "Pulse driver cannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 16.0,
+          "optionID" : 16765,
+          "optionName" : "2x Burst cannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "Lords of War",
         "unitCost" : 280.0,
@@ -1252,18 +1978,29 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
+          "optionID" : 16779,
+          "optionName" : "Krootox fists",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16756,
+          "optionName" : "Kroot gun",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 0.0,
         "unitID" : 2988,
-        "autoAddDictionary" : {
-          "2987" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 0,
         "listOfCurrencies" : {
           "Power level" : 1,
@@ -1273,17 +2010,30 @@
         "unitName" : "[1]Tetra Scout Speeder Team",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
+          "optionID" : 16760,
+          "optionName" : "High intensity markerlight",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 45.0,
           "optionID" : 3048,
           "optionName" : "Tetra Scout Speeder",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16851,
+          "optionName" : "Pulse rifle",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Power level" : 0,
             "Command points" : 0
@@ -1302,10 +2052,87 @@
         "unitName" : "[0]Breacher Team",
         "listOfOptions" : [ {
           "optionCost" : 9.0,
+          "optionID" : 2960,
+          "optionName" : "Fire Warrior w/ Pulse Pistol",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16774,
+          "optionName" : "Photon grenades",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 9.0,
           "optionID" : 2962,
           "optionName" : "Fire Warrior",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 9.0,
+          "optionID" : 2961,
+          "optionName" : "Fire Warrior Shas'ui",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16797,
+          "optionName" : "Pulse pistol",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16799,
+          "optionName" : "Pulse blaster",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16869,
+          "optionName" : "Pulse blaster",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Fire Warrior squad options",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16755,
+          "optionName" : "Pulse pistol",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Power level" : 0,
             "Command points" : 0
@@ -1319,34 +2146,10 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Fire Warrior squad options",
+          "optionID" : 16786,
+          "optionName" : "Markerlight",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 9.0,
-          "optionID" : 2961,
-          "optionName" : "Fire Warrior Shas'ui",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 9.0,
-          "optionID" : 2960,
-          "optionName" : "Fire Warrior w/ Pulse Pistol",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
           "listOfCurrencies" : {
             "Power level" : 0,
             "Command points" : 0
@@ -1355,9 +2158,7 @@
         "unitCategory" : "Troops",
         "unitCost" : 0.0,
         "unitID" : 2963,
-        "autoAddDictionary" : {
-          "2962" : 5
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 0,
         "listOfCurrencies" : {
           "Power level" : 2,
@@ -1365,7 +2166,17 @@
         }
       }, {
         "unitName" : "[1]MV17 Interceptor Drone",
-        "listOfOptions" : null,
+        "listOfOptions" : [ {
+          "optionCost" : 5.0,
+          "optionID" : 16752,
+          "optionName" : "Ion rifle",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
         "unitCategory" : "",
         "unitCost" : 15.0,
         "unitID" : 2948,
@@ -1380,17 +2191,30 @@
         "listOfOptions" : [ {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Battle Honours",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
           "optionName" : "$Gunship sponsons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 16827,
+          "optionName" : "Seeker missile",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16786,
+          "optionName" : "Markerlight",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "Heavy Support",
         "unitCost" : 100.0,
@@ -1404,12 +2228,45 @@
       }, {
         "unitName" : "[1]AX3 Razorshark Strike Fighter",
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
+          "optionCost" : 15.0,
+          "optionID" : 16791,
+          "optionName" : "Missile pod",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 8.0,
+          "optionID" : 16853,
+          "optionName" : "Burst cannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 16827,
+          "optionName" : "Seeker missile",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16785,
+          "optionName" : "Quad ion turret",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "Flyers",
         "unitCost" : 100.0,
@@ -1436,9 +2293,7 @@
         "unitCategory" : "",
         "unitCost" : 15.0,
         "unitID" : 2944,
-        "autoAddDictionary" : {
-          "2943" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 0,
@@ -1466,16 +2321,6 @@
       }, {
         "unitName" : "[0]Aun'Va",
         "listOfOptions" : [ {
-          "optionCost" : 5.0,
-          "optionID" : 3026,
-          "optionName" : "Ethereal Guard",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
           "optionCost" : 75.0,
           "optionID" : 3025,
           "optionName" : "Aun'Va",
@@ -1492,14 +2337,31 @@
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 3026,
+          "optionName" : "Ethereal Guard",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16762,
+          "optionName" : "Honour blade",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 0.0,
         "unitID" : 3027,
-        "autoAddDictionary" : {
-          "3026" : 2,
-          "3025" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 0,
         "listOfCurrencies" : {
           "Power level" : 5,
@@ -1508,9 +2370,19 @@
       }, {
         "unitName" : "[1]Commander in XV81 Crisis Battlesuit",
         "listOfOptions" : [ {
+          "optionCost" : 15.0,
+          "optionID" : 16868,
+          "optionName" : "Smart missile system",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Support Systems",
+          "optionName" : "$Support systems",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
@@ -1541,11 +2413,68 @@
       }, {
         "unitName" : "[0]Pathfinder Team",
         "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 16774,
+          "optionName" : "Photon grenades",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 11.0,
+          "optionID" : 2971,
+          "optionName" : "Pathfinder Shas'ui",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16837,
+          "optionName" : "Markerlight",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Tactical Drones",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16845,
+          "optionName" : "Pulse carbine",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 11.0,
           "optionID" : 2970,
           "optionName" : "Pathfinder",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16755,
+          "optionName" : "Pulse pistol",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Power level" : 0,
             "Command points" : 0
@@ -1560,30 +2489,6 @@
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Battle Honours",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Tactical Drones",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 11.0,
-          "optionID" : 2971,
-          "optionName" : "Pathfinder Shas'ui",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
           "optionName" : "$Support Drones (0-2)",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1592,9 +2497,7 @@
         "unitCategory" : "Fast Attack",
         "unitCost" : 0.0,
         "unitID" : 2972,
-        "autoAddDictionary" : {
-          "2970" : 5
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 0,
         "listOfCurrencies" : {
           "Power level" : 3,
@@ -1603,6 +2506,16 @@
       }, {
         "unitName" : "[0]TX4 Piranhas",
         "listOfOptions" : [ {
+          "optionCost" : 8.0,
+          "optionID" : 16853,
+          "optionName" : "Burst cannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 35.0,
           "optionID" : 2976,
           "optionName" : "TX4 Piranha",
@@ -1613,19 +2526,30 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
+          "optionCost" : 15.0,
+          "optionID" : 16811,
+          "optionName" : "Fusion blaster",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 16827,
+          "optionName" : "Seeker missile",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "Fast Attack",
         "unitCost" : 0.0,
         "unitID" : 2977,
-        "autoAddDictionary" : {
-          "2976" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 0,
         "listOfCurrencies" : {
           "Power level" : 0,
@@ -1634,6 +2558,16 @@
       }, {
         "unitName" : "[0]MV71 Sniper Drones",
         "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 16816,
+          "optionName" : "Longshot pulse rifle",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 20.0,
           "optionID" : 2973,
           "optionName" : "MV71 Sniper Drone",
@@ -1647,9 +2581,7 @@
         "unitCategory" : "Heavy Support",
         "unitCost" : 0.0,
         "unitID" : 2974,
-        "autoAddDictionary" : {
-          "2973" : 3
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 0,
         "listOfCurrencies" : {
           "Power level" : 3,
@@ -1658,12 +2590,35 @@
       }, {
         "unitName" : "[1]TY7 Devilfish",
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
+          "optionCost" : 8.0,
+          "optionID" : 16853,
+          "optionName" : "Burst cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 30.0,
+          "optionID" : 16855,
+          "optionName" : "2x Smart missile system",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 16827,
+          "optionName" : "Seeker missile",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "Dedicated Transport",
         "unitCost" : 75.0,
@@ -1678,11 +2633,41 @@
         "unitName" : "[1]Darkstrider",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
+          "optionID" : 16774,
+          "optionName" : "Photon grenades",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16845,
+          "optionName" : "Pulse carbine",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "$Character options (named)",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16837,
+          "optionName" : "Markerlight",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 60.0,
@@ -1696,20 +2681,6 @@
       }, {
         "unitName" : "[0]XV88 Broadside Battlesuits",
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$SigSystems & ProtoWeaponSystems",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Broadside main weapon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
           "optionCost" : 45.0,
           "optionID" : 2999,
           "optionName" : "Broadside Shas'vre",
@@ -1722,14 +2693,7 @@
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Battle Honours",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Tactical Drones",
+          "optionName" : "$Support systems",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
@@ -1746,7 +2710,7 @@
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Support systems",
+          "optionName" : "$Tactical Drones",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
@@ -1757,13 +2721,35 @@
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Broadside main weapon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 16827,
+          "optionName" : "Seeker missile",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$SigSystems & ProtoWeaponSystems",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
         } ],
         "unitCategory" : "Heavy Support",
         "unitCost" : 0.0,
         "unitID" : 3000,
-        "autoAddDictionary" : {
-          "2998" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 0,
         "listOfCurrencies" : {
           "Power level" : 0,
@@ -1772,16 +2758,6 @@
       }, {
         "unitName" : "[0]Commander Shadowsun",
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 3018,
-          "optionName" : "Pulse pistol",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
           "optionCost" : 0.0,
           "optionID" : 3014,
           "optionName" : "Light missile pod",
@@ -1803,10 +2779,20 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3020,
-          "optionName" : "High-energy fusion blaster",
+          "optionID" : 3018,
+          "optionName" : "Pulse pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 10.0,
+          "optionID" : 3016,
+          "optionName" : "MV37 Advanced Guardian Drone",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : {
             "Power level" : 0,
             "Command points" : 0
@@ -1829,9 +2815,9 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 10.0,
-          "optionID" : 3016,
-          "optionName" : "MV37 Advanced Guardian Drone",
+          "optionCost" : 0.0,
+          "optionID" : 3019,
+          "optionName" : "Dispersed fusion blaster",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
           "listOfCurrencies" : {
@@ -1840,10 +2826,10 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3019,
-          "optionName" : "Dispersed fusion blaster",
+          "optionID" : 3020,
+          "optionName" : "High-energy fusion blaster",
           "autoAddDictionary" : { },
-          "modelsAdded" : 0,
+          "modelsAdded" : 1,
           "listOfCurrencies" : {
             "Power level" : 0,
             "Command points" : 0
@@ -1852,13 +2838,7 @@
         "unitCategory" : "HQ",
         "unitCost" : 135.0,
         "unitID" : 3021,
-        "autoAddDictionary" : {
-          "3018" : 1,
-          "3017" : 1,
-          "3016" : 1,
-          "3015" : 1,
-          "3014" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 0,
         "listOfCurrencies" : {
           "Power level" : 8,
@@ -1883,13 +2863,21 @@
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16858,
+          "optionName" : "Double-barelled plasma rifle",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 130.0,
         "unitID" : 3030,
-        "autoAddDictionary" : {
-          "3029" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 7,
@@ -1898,12 +2886,55 @@
       }, {
         "unitName" : "[1]Tiger Shark AX-1-0",
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
+          "optionCost" : 15.0,
+          "optionID" : 16791,
+          "optionName" : "Missile pod",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 16827,
+          "optionName" : "Seeker missile",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16796,
+          "optionName" : "Heavy rail cannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 36.0,
+          "optionID" : 16838,
+          "optionName" : "2x Cyclic ion blaster",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 16.0,
+          "optionID" : 16765,
+          "optionName" : "2x Burst cannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "Flyers",
         "unitCost" : 530.0,
@@ -1916,7 +2947,17 @@
         }
       }, {
         "unitName" : "[1]MV8 Missile Drone",
-        "listOfOptions" : null,
+        "listOfOptions" : [ {
+          "optionCost" : 15.0,
+          "optionID" : 16787,
+          "optionName" : "Missile pod",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
         "unitCategory" : "",
         "unitCost" : 20.0,
         "unitID" : 2947,
@@ -1930,8 +2971,48 @@
         "unitName" : "[1]Tiger Shark",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 3065,
-          "optionName" : "Transport bay",
+          "optionID" : 16805,
+          "optionName" : "2x Skyspear missile rack",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 40.0,
+          "optionID" : 16795,
+          "optionName" : "2x Swiftstrike burst cannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 36.0,
+          "optionID" : 16838,
+          "optionName" : "2x Cyclic ion blaster",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 15.0,
+          "optionID" : 16791,
+          "optionName" : "Missile pod",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 10.0,
+          "optionID" : 16771,
+          "optionName" : "2x Ion cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -1940,11 +3021,44 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
+          "optionID" : 3065,
+          "optionName" : "Transport bay",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 16827,
+          "optionName" : "Seeker missile",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 10.0,
+          "optionID" : 16873,
+          "optionName" : "2x Swiftstrike railgun",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 16.0,
+          "optionID" : 16765,
+          "optionName" : "2x Burst cannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "Flyers",
         "unitCost" : 340.0,
@@ -1958,6 +3072,16 @@
       }, {
         "unitName" : "[0]Vespid Stingwings",
         "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 16852,
+          "optionName" : "Neutron blaster",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 14.0,
           "optionID" : 2957,
           "optionName" : "Vespid Strain Leader",
@@ -1977,20 +3101,11 @@
             "Power level" : 0,
             "Command points" : 0
           }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
         } ],
         "unitCategory" : "Fast Attack",
         "unitCost" : 0.0,
         "unitID" : 2959,
-        "autoAddDictionary" : {
-          "2958" : 4
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 0,
         "listOfCurrencies" : {
           "Power level" : 2,
@@ -1999,6 +3114,26 @@
       }, {
         "unitName" : "[1]Ethereal",
         "listOfOptions" : [ {
+          "optionCost" : 5.0,
+          "optionID" : 16887,
+          "optionName" : "Hover drone",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 1,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16762,
+          "optionName" : "Honour blade",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "$Character options",
@@ -2012,6 +3147,16 @@
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16881,
+          "optionName" : "Equalizers",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 55.0,
@@ -2025,12 +3170,75 @@
       }, {
         "unitName" : "[1]Barracuda AX-5-2",
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
+          "optionCost" : 25.0,
+          "optionID" : 16864,
+          "optionName" : "Swiftstrike burst cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 16888,
+          "optionName" : "Ion cannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16749,
+          "optionName" : "2x Long-barelled burst cannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 36.0,
+          "optionID" : 16838,
+          "optionName" : "2x Cyclic ion blaster",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 15.0,
+          "optionID" : 16791,
+          "optionName" : "Missile pod",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 16827,
+          "optionName" : "Seeker missile",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 16814,
+          "optionName" : "Swiftstrike railgun",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "Flyers",
         "unitCost" : 200.0,
@@ -2043,7 +3251,17 @@
         }
       }, {
         "unitName" : "[1]MV1 Gun Drone",
-        "listOfOptions" : null,
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 16845,
+          "optionName" : "Pulse carbine",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
         "unitCategory" : "",
         "unitCost" : 10.0,
         "unitID" : 3077,
@@ -2056,12 +3274,25 @@
       }, {
         "unitName" : "[1]TX7 Fire Support Hammerhead Gunship",
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
+          "optionCost" : 40.0,
+          "optionID" : 16884,
+          "optionName" : "Twin fusion cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 28.0,
+          "optionID" : 16812,
+          "optionName" : "Twin T'au plasma cannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -2069,6 +3300,26 @@
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 40.0,
+          "optionID" : 16833,
+          "optionName" : "Twin swiftstrike burst cannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 16827,
+          "optionName" : "Seeker missile",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "Heavy Support",
         "unitCost" : 100.0,
@@ -2084,17 +3335,30 @@
         "listOfOptions" : [ {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Battle Honours",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
           "optionName" : "$Gunship sponsons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 25.0,
+          "optionID" : 16758,
+          "optionName" : "High-yield missile pod",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 16827,
+          "optionName" : "Seeker missile",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "Heavy Support",
         "unitCost" : 100.0,
@@ -2120,6 +3384,26 @@
       }, {
         "unitName" : "[0]Drone Sentry Turrets",
         "listOfOptions" : [ {
+          "optionCost" : 15.0,
+          "optionID" : 16787,
+          "optionName" : "Missile pod",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 20.0,
+          "optionID" : 3075,
+          "optionName" : "Drone Sentry Turret w/ 2x Plasma rifle",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 2,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 20.0,
           "optionID" : 3072,
           "optionName" : "Drone Sentry Turret w/ 2x Burst cannon",
@@ -2140,19 +3424,39 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 20.0,
-          "optionID" : 3074,
-          "optionName" : "Drone Sentry Turret w/ 2x Fusion blaster",
+          "optionCost" : 8.0,
+          "optionID" : 16824,
+          "optionName" : "Burst cannon",
           "autoAddDictionary" : { },
-          "modelsAdded" : 1,
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
-            "Power level" : 2,
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 15.0,
+          "optionID" : 16863,
+          "optionName" : "Fusion blaster",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 8.0,
+          "optionID" : 16780,
+          "optionName" : "Plasma rifle",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
             "Command points" : 0
           }
         }, {
           "optionCost" : 20.0,
-          "optionID" : 3075,
-          "optionName" : "Drone Sentry Turret w/ 2x Plasma rifle",
+          "optionID" : 3074,
+          "optionName" : "Drone Sentry Turret w/ 2x Fusion blaster",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
           "listOfCurrencies" : {
@@ -2163,9 +3467,7 @@
         "unitCategory" : "Fortification",
         "unitCost" : 0.0,
         "unitID" : 3076,
-        "autoAddDictionary" : {
-          "3072" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 0,
         "listOfCurrencies" : {
           "Power level" : 0,
@@ -2176,14 +3478,14 @@
         "listOfOptions" : [ {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Character options",
+          "optionName" : "$Support systems",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Support systems",
+          "optionName" : "$Character options",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
@@ -2207,9 +3509,19 @@
       }, {
         "unitName" : "[0]TX-42 Piranha Light Skimmers",
         "listOfOptions" : [ {
+          "optionCost" : 15.0,
+          "optionID" : 16787,
+          "optionName" : "Missile pod",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 70.0,
-          "optionID" : 3052,
-          "optionName" : "TX-42 Piranha w/ 2x Plasma rifle",
+          "optionID" : 3051,
+          "optionName" : "TX-42 Piranha w/ 2x Missile pod",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
           "listOfCurrencies" : {
@@ -2217,12 +3529,15 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
+          "optionCost" : 10.0,
+          "optionID" : 16836,
+          "optionName" : "Rail rifle",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 70.0,
           "optionID" : 3053,
@@ -2231,6 +3546,26 @@
           "modelsAdded" : 1,
           "listOfCurrencies" : {
             "Power level" : 5,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 15.0,
+          "optionID" : 16863,
+          "optionName" : "Fusion blaster",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 8.0,
+          "optionID" : 16780,
+          "optionName" : "Plasma rifle",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
             "Command points" : 0
           }
         }, {
@@ -2245,8 +3580,8 @@
           }
         }, {
           "optionCost" : 70.0,
-          "optionID" : 3051,
-          "optionName" : "TX-42 Piranha w/ 2x Missile pod",
+          "optionID" : 3052,
+          "optionName" : "TX-42 Piranha w/ 2x Plasma rifle",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
           "listOfCurrencies" : {
@@ -2257,9 +3592,7 @@
         "unitCategory" : "Fast Attack",
         "unitCost" : 0.0,
         "unitID" : 3054,
-        "autoAddDictionary" : {
-          "3050" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 0,
         "listOfCurrencies" : {
           "Power level" : 1,
@@ -2269,11 +3602,14 @@
         "unitName" : "[1]Knarloc Riders",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
+          "optionID" : 16789,
+          "optionName" : "Kroot rifle",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 3081,
@@ -2297,16 +3633,6 @@
       }, {
         "unitName" : "[0]Shas'o R'alai",
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 3031,
-          "optionName" : "Experimental pulse submunitions rifle",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
           "optionCost" : 10.0,
           "optionID" : 3032,
           "optionName" : "Blacklight Marker Drone",
@@ -2323,14 +3649,41 @@
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16837,
+          "optionName" : "Markerlight",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 16889,
+          "optionName" : "Drone controller",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 3031,
+          "optionName" : "Experimental pulse submunitions rifle",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 115.0,
         "unitID" : 3033,
-        "autoAddDictionary" : {
-          "3032" : 2,
-          "3031" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 0,
         "listOfCurrencies" : {
           "Power level" : 10,
@@ -2341,14 +3694,14 @@
         "listOfOptions" : [ {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Hammerhead main weapon",
+          "optionName" : "$Gunship sponsons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Gunship sponsons",
+          "optionName" : "$Hammerhead main weapon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
@@ -2359,6 +3712,16 @@
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 16827,
+          "optionName" : "Seeker missile",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 185.0,
@@ -2386,10 +3749,30 @@
         "listOfOptions" : [ {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$SigSystems & ProtoWeaponSystems",
+          "optionName" : "$Wargear options (1-3)",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 10.0,
+          "optionID" : 16854,
+          "optionName" : "XV8-02 Crisis Iridium battlesuit",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 30.0,
+          "optionID" : 2994,
+          "optionName" : "Crisis Shas'vre",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -2399,24 +3782,10 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
+          "optionID" : 16777,
+          "optionName" : "Veteran Cadre",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Wargear options (1-3)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 30.0,
-          "optionID" : 2994,
-          "optionName" : "Crisis Shas'vre",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
           "listOfCurrencies" : {
             "Power level" : 0,
             "Command points" : 0
@@ -2431,13 +3800,18 @@
             "Power level" : 0,
             "Command points" : 0
           }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$SigSystems & ProtoWeaponSystems",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 0.0,
         "unitID" : 2995,
-        "autoAddDictionary" : {
-          "2993" : 3
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 0,
         "listOfCurrencies" : {
           "Power level" : 9,
@@ -2447,8 +3821,8 @@
         "unitName" : "[1]Commander Farsight",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 3022,
-          "optionName" : "High-intensity plasma rifle",
+          "optionID" : 16820,
+          "optionName" : "Dawn blade",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -2462,13 +3836,21 @@
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 3022,
+          "optionName" : "High-intensity plasma rifle",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 130.0,
         "unitID" : 3023,
-        "autoAddDictionary" : {
-          "3022" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 7,
@@ -2476,284 +3858,12 @@
         }
       } ],
       "listOfEquipmentOptions" : [ {
-        "listOfOptions" : [ {
-          "optionCost" : 5.0,
-          "optionID" : 16545,
-          "optionName" : "Ion cannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "equipmentName" : "$Hammerhead main weapon"
-      }, {
-        "listOfOptions" : [ {
-          "optionCost" : 50.0,
-          "optionID" : 16563,
-          "optionName" : "2x High-yield missile pod",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "equipmentName" : "$Broadside main weapon"
-      }, {
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Prototype Weapons Systems",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Signature systems",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
-        "equipmentName" : "$SigSystems & ProtoWeaponSystems"
-      }, {
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 16574,
-          "optionName" : "Academy Luminary (Vior'la Sept)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 16576,
-          "optionName" : "Strength of Belief (T'au Sept)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 16516,
-          "optionName" : "Hero of the Enclaves (Farsight Enclaves)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 16476,
-          "optionName" : "5. Exemplar of the Kauyon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 16528,
-          "optionName" : "3. A Ghost Walks Among Us",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 16570,
-          "optionName" : "2. Through Unity, Devastation",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "equipmentName" : "$Required Trait"
-      }, {
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Support systems",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
+        "listOfOptions" : null,
         "equipmentName" : "$Wargear options (1-3)"
       }, {
         "listOfOptions" : [ {
-          "optionCost" : 5.0,
-          "optionID" : 16510,
-          "optionName" : "Drone controller",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 10.0,
-          "optionID" : 16535,
-          "optionName" : "Counterfire defence system",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 5.0,
-          "optionID" : 16544,
-          "optionName" : "Target lock",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 5.0,
-          "optionID" : 16462,
-          "optionName" : "Advanced targeting system",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 5.0,
-          "optionID" : 16575,
-          "optionName" : "Multi-tracker",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 5.0,
-          "optionID" : 16578,
-          "optionName" : "Early warning override",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 10.0,
-          "optionID" : 16514,
-          "optionName" : "Shield generator",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 5.0,
-          "optionID" : 16543,
-          "optionName" : "Velocity tracker",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "equipmentName" : "$Support systems"
-      }, {
-        "listOfOptions" : null,
-        "equipmentName" : "$Ranged weapons"
-      }, {
-        "listOfOptions" : [ {
-          "optionCost" : 16.0,
-          "optionID" : 16471,
-          "optionName" : "2x Plasma rifle",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 30.0,
-          "optionID" : 16526,
-          "optionName" : "2x Smart missile system",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "equipmentName" : "$Broadside secondary weapons"
-      }, {
-        "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 16485,
-          "optionName" : "Supernova launcher (replaces 1 airbursting fragmentation projector)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 16561,
-          "optionName" : "Vectored manoeuvring thrusters",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 16523,
-          "optionName" : "Plasma accelerator rifle (replaces 1 plasma rifle)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 16525,
-          "optionName" : "Onager gauntlet",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 16564,
-          "optionName" : "Puretide engram neurochip",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 16554,
+          "optionID" : 16757,
           "optionName" : "Dynamic mirror field",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2763,27 +3873,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16560,
-          "optionName" : "Fusion blades (replaces 2 fusion blasters)",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 16491,
-          "optionName" : "Seismic destabiliser",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 16540,
+          "optionID" : 16767,
           "optionName" : "Multi-sensory discouragement array",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2793,7 +3883,17 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16465,
+          "optionID" : 16759,
+          "optionName" : "Solid-image projection unit",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16844,
           "optionName" : "Grav-inhibitor field",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2803,8 +3903,8 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16494,
-          "optionName" : "Thermoneutronic projector (replaces 1 flamer)",
+          "optionID" : 16751,
+          "optionName" : "Plasma accelerator rifle (replaces 1 plasma rifle)",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -2813,8 +3913,68 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 16482,
-          "optionName" : "Solid-image projection unit",
+          "optionID" : 16823,
+          "optionName" : "Fusion blades (replaces 2 fusion blasters)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16772,
+          "optionName" : "Supernova launcher (replaces 1 airbursting fragmentation projector)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16840,
+          "optionName" : "Seismic destabiliser",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16818,
+          "optionName" : "Puretide engram neurochip",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16862,
+          "optionName" : "Vectored manoeuvring thrusters",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16803,
+          "optionName" : "Onager gauntlet",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16784,
+          "optionName" : "Thermoneutronic projector (replaces 1 flamer)",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -2825,8 +3985,226 @@
         "equipmentName" : "$Signature systems"
       }, {
         "listOfOptions" : [ {
+          "optionCost" : 30.0,
+          "optionID" : 16855,
+          "optionName" : "2x Smart missile system",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 16.0,
+          "optionID" : 16765,
+          "optionName" : "2x Burst cannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "equipmentName" : "$Gunship sponsons"
+      }, {
+        "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 16517,
+          "optionID" : 16877,
+          "optionName" : "Academy Luminary (Vior'la Sept)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16878,
+          "optionName" : "3. A Ghost Walks Among Us",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16839,
+          "optionName" : "2. Through Unity, Devastation",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16770,
+          "optionName" : "5. Exemplar of the Kauyon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16798,
+          "optionName" : "Hero of the Enclaves (Farsight Enclaves)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16778,
+          "optionName" : "Strength of Belief (T'au Sept)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "equipmentName" : "$Required Trait"
+      }, {
+        "listOfOptions" : null,
+        "equipmentName" : "$Tactical Drones"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 30.0,
+          "optionID" : 16855,
+          "optionName" : "2x Smart missile system",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 16.0,
+          "optionID" : 16890,
+          "optionName" : "2x Plasma rifle",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "equipmentName" : "$Broadside secondary weapons"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 50.0,
+          "optionID" : 16810,
+          "optionName" : "2x High-yield missile pod",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 25.0,
+          "optionID" : 16781,
+          "optionName" : "Heavy rail rifle",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "equipmentName" : "$Broadside main weapon"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 10.0,
+          "optionID" : 16788,
+          "optionName" : "Shield generator",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 16843,
+          "optionName" : "Multi-tracker",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 16880,
+          "optionName" : "Early warning override",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 16889,
+          "optionName" : "Drone controller",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 10.0,
+          "optionID" : 16801,
+          "optionName" : "Counterfire defence system",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 16794,
+          "optionName" : "Advanced targeting system",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 16848,
+          "optionName" : "Velocity tracker",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 16783,
+          "optionName" : "Target lock",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "equipmentName" : "$Support systems"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 16834,
           "optionName" : "Promising Pupil",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2834,13 +4212,60 @@
             "Power level" : 0,
             "Command points" : -1
           }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16773,
+          "optionName" : "Warlord",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "equipmentName" : "$Character options (named)"
       }, {
-        "listOfOptions" : null,
-        "equipmentName" : "$Support Drones (0-2)"
-      }, {
         "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "High-capacitance railgun",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "Gatling burst cannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "Amplified ion accelerator",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "Networked markerlights",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "Annihilation warheads",
@@ -2863,57 +4288,7 @@
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "High-powered incinerator",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "High-capacitance railgun",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "Advanced EM scrambler",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "Networked markerlights",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "Magna rail rifle",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "Amplified ion accelerator",
+          "optionName" : "Cross-linked stabiliser jets",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -2933,7 +4308,7 @@
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "Cross-linked stabiliser jets",
+          "optionName" : "High-powered incinerator",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -2943,7 +4318,17 @@
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "Gatling burst cannon",
+          "optionName" : "Magna rail rifle",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "Advanced EM scrambler",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -2963,22 +4348,9 @@
         } ],
         "equipmentName" : "$Prototype Weapons Systems"
       }, {
-        "listOfOptions" : null,
-        "equipmentName" : "$Fire Warrior squad options"
-      }, {
-        "listOfOptions" : null,
-        "equipmentName" : "$Tactical Drones"
-      }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$SigSystems & ProtoWeaponSystems",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 16517,
+          "optionID" : 16834,
           "optionName" : "Promising Pupil",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2986,13 +4358,23 @@
             "Power level" : 0,
             "Command points" : -1
           }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 16773,
+          "optionName" : "Warlord",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "equipmentName" : "$Character options"
       }, {
         "listOfOptions" : [ {
-          "optionCost" : 16.0,
-          "optionID" : 16499,
-          "optionName" : "2x Burst cannon",
+          "optionCost" : 5.0,
+          "optionID" : 16888,
+          "optionName" : "Ion cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -3000,9 +4382,9 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 30.0,
-          "optionID" : 16526,
-          "optionName" : "2x Smart missile system",
+          "optionCost" : 0.0,
+          "optionID" : 16859,
+          "optionName" : "Railgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -3010,7 +4392,89 @@
             "Command points" : 0
           }
         } ],
-        "equipmentName" : "$Gunship sponsons"
+        "equipmentName" : "$Hammerhead main weapon"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 18.0,
+          "optionID" : 16829,
+          "optionName" : "Cyclic ion blaster",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 8.0,
+          "optionID" : 16853,
+          "optionName" : "Burst cannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 8.0,
+          "optionID" : 16831,
+          "optionName" : "Plasma rifle",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 16835,
+          "optionName" : "Flamer",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 15.0,
+          "optionID" : 16791,
+          "optionName" : "Missile pod",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 15.0,
+          "optionID" : 16811,
+          "optionName" : "Fusion blaster",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 8.0,
+          "optionID" : 16849,
+          "optionName" : "Airbursting fragmentation projector",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "equipmentName" : "$Ranged weapons"
+      }, {
+        "listOfOptions" : null,
+        "equipmentName" : "$Fire Warrior squad options"
+      }, {
+        "listOfOptions" : null,
+        "equipmentName" : "$SigSystems & ProtoWeaponSystems"
+      }, {
+        "listOfOptions" : null,
+        "equipmentName" : "$Support Drones (0-2)"
       } ],
       "armyName" : "T'au Empire",
       "armyCategories" : [ ]

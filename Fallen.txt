@@ -7,14 +7,21 @@
         "listOfOptions" : [ {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Dark Hereticus discipline",
+          "optionName" : "$Pistols",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Melee Weapons",
+          "optionName" : "$Combi-weapons",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Dark Hereticus discipline",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
@@ -30,11 +37,14 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Pistols",
+          "optionID" : 4766,
+          "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -45,7 +55,7 @@
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Combi-weapons",
+          "optionName" : "$Melee Weapons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
@@ -65,13 +75,6 @@
           "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "$Fallen Champion Equipment",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
@@ -97,8 +100,8 @@
           }
         }, {
           "optionCost" : 14.0,
-          "optionID" : 1264,
-          "optionName" : "Fallen w/ chainsword",
+          "optionID" : 1262,
+          "optionName" : "Fallen Champion",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
           "listOfCurrencies" : {
@@ -107,8 +110,8 @@
           }
         }, {
           "optionCost" : 14.0,
-          "optionID" : 1262,
-          "optionName" : "Fallen Champion",
+          "optionID" : 1264,
+          "optionName" : "Fallen w/ chainsword",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
           "listOfCurrencies" : {
@@ -128,6 +131,16 @@
       }, {
         "unitName" : "[1]Cypher",
         "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 4766,
+          "optionName" : "Warlord",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 0.0,
           "optionID" : 1259,
           "optionName" : "Cypher's plasma pistol",
@@ -151,10 +164,7 @@
         "unitCategory" : "HQ",
         "unitCost" : 85.0,
         "unitID" : 1260,
-        "autoAddDictionary" : {
-          "1259" : 1,
-          "1258" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 5,
@@ -164,11 +174,14 @@
         "unitName" : "[1]Chaos Rhino",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
+          "optionID" : 4773,
+          "optionName" : "Smoke Launchers",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -176,6 +189,16 @@
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 4768,
+          "optionName" : "Havoc launcher",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "Dedicated Transport",
         "unitCost" : 75.0,
@@ -188,68 +211,11 @@
         }
       } ],
       "listOfEquipmentOptions" : [ {
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 4719,
-          "optionName" : "Diabolic Strength",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 4725,
-          "optionName" : "Death Hex",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 4720,
-          "optionName" : "Gift of Chaos",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 4729,
-          "optionName" : "Prescience",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 4721,
-          "optionName" : "Infernal Gaze",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 4731,
-          "optionName" : "Warptime",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "equipmentName" : "$Dark Hereticus discipline"
+        "listOfOptions" : null,
+        "equipmentName" : "$Pistols"
+      }, {
+        "listOfOptions" : null,
+        "equipmentName" : "$Combi-weapons"
       }, {
         "listOfOptions" : [ {
           "optionCost" : 1.0,
@@ -265,9 +231,59 @@
         "equipmentName" : "$Fallen Champion Equipment"
       }, {
         "listOfOptions" : [ {
-          "optionCost" : 1.0,
-          "optionID" : 4727,
-          "optionName" : "Chainaxe",
+          "optionCost" : 0.0,
+          "optionID" : 4771,
+          "optionName" : "Diabolic Strength",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 4762,
+          "optionName" : "Warptime",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 4764,
+          "optionName" : "Infernal Gaze",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 4774,
+          "optionName" : "Prescience",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 4769,
+          "optionName" : "Gift of Chaos",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 4775,
+          "optionName" : "Death Hex",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -275,7 +291,7 @@
             "Command points" : 0
           }
         } ],
-        "equipmentName" : "$Melee Weapons"
+        "equipmentName" : "$Dark Hereticus discipline"
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
@@ -290,20 +306,7 @@
         } ],
         "equipmentName" : "$Specialist Detachments"
       }, {
-        "listOfOptions" : null,
-        "equipmentName" : "$Pistols"
-      }, {
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 4724,
-          "optionName" : "The Black Mace",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
           "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "Ul'o'cca, The Black Axe",
@@ -315,7 +318,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4726,
+          "optionID" : 4763,
           "optionName" : "The Murder Sword",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -325,8 +328,18 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4723,
+          "optionID" : 4765,
           "optionName" : "Caliban Steel Blade",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 4770,
+          "optionName" : "The Black Mace",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -336,8 +349,18 @@
         } ],
         "equipmentName" : "$Artefacts of Chaos"
       }, {
-        "listOfOptions" : null,
-        "equipmentName" : "$Combi-weapons"
+        "listOfOptions" : [ {
+          "optionCost" : 1.0,
+          "optionID" : 4767,
+          "optionName" : "Chainaxe",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "equipmentName" : "$Melee Weapons"
       } ],
       "armyName" : "Fallen",
       "armyCategories" : [ ]

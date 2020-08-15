@@ -6,8 +6,8 @@
         "unitName" : "[1]Corsair Venom",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 371,
-          "optionName" : "Night Shield",
+          "optionID" : 3669,
+          "optionName" : "Twin splinter rifle",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -25,9 +25,19 @@
             "Command points" : 0
           }
         }, {
+          "optionCost" : 15.0,
+          "optionID" : 3692,
+          "optionName" : "Splinter Cannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 0.0,
-          "optionID" : 370,
-          "optionName" : "Flickerfield",
+          "optionID" : 371,
+          "optionName" : "Night Shield",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -41,15 +51,21 @@
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 370,
+          "optionName" : "Flickerfield",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "Dedicated Transport",
         "unitCost" : 60.0,
         "unitID" : 372,
-        "autoAddDictionary" : {
-          "369" : 1,
-          "370" : 1,
-          "371" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 4,
@@ -58,16 +74,6 @@
       }, {
         "unitName" : "[0]Corsair Skyreaver Band",
         "listOfOptions" : [ {
-          "optionCost" : 13.0,
-          "optionID" : 356,
-          "optionName" : "Skyreaver w/ Lasblaster",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
           "optionCost" : 13.0,
           "optionID" : 359,
           "optionName" : "Skyreaver w/ Shardcarbine",
@@ -78,9 +84,60 @@
             "Command points" : 0
           }
         }, {
+          "optionCost" : 0.0,
+          "optionID" : 3658,
+          "optionName" : "Sunburst grenades",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 13.0,
           "optionID" : 357,
           "optionName" : "Skyreaver w/ Heavy Weapon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 13.0,
+          "optionID" : 358,
+          "optionName" : "Skyreaver w/ Shuriken Catapult",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Heavy Weapons",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Corsair Weapons",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Felarch Weapons",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 13.0,
+          "optionID" : 355,
+          "optionName" : "Corsair Skyreaver Felarch",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
           "listOfCurrencies" : {
@@ -98,16 +155,29 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
+          "optionCost" : 5.0,
+          "optionID" : 3668,
+          "optionName" : "Brace of Pistols",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 3688,
+          "optionName" : "Shardcarbine",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 13.0,
-          "optionID" : 355,
-          "optionName" : "Corsair Skyreaver Felarch",
+          "optionID" : 356,
+          "optionName" : "Skyreaver w/ Lasblaster",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
           "listOfCurrencies" : {
@@ -116,31 +186,30 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Skyreaver Felarch Weapons",
+          "optionID" : 3695,
+          "optionName" : "Spar-glaive",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 7.0,
+          "optionID" : 3697,
+          "optionName" : "Lasblaster",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Skyreaver Heavy Weapons",
+          "optionID" : 3702,
+          "optionName" : "Shuriken Catapult",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Corsair Weapons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 13.0,
-          "optionID" : 358,
-          "optionName" : "Skyreaver w/ Shuriken Catapult",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
           "listOfCurrencies" : {
             "Power level" : 0,
             "Command points" : 0
@@ -149,9 +218,7 @@
         "unitCategory" : "Troops",
         "unitCost" : 0.0,
         "unitID" : 361,
-        "autoAddDictionary" : {
-          "356" : 5
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 5,
@@ -180,19 +247,19 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 10.0,
-          "optionID" : 362,
-          "optionName" : "Corsair Reaver Felarch",
+          "optionCost" : 0.0,
+          "optionID" : 3658,
+          "optionName" : "Sunburst grenades",
           "autoAddDictionary" : { },
-          "modelsAdded" : 1,
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Power level" : 0,
             "Command points" : 0
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 366,
-          "optionName" : "Reaver w/ Shardcarbine",
+          "optionID" : 365,
+          "optionName" : "Reaver w/ Shuriken Catapult",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
           "listOfCurrencies" : {
@@ -214,6 +281,53 @@
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Felarch Weapons",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 3668,
+          "optionName" : "Brace of Pistols",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 3688,
+          "optionName" : "Shardcarbine",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 10.0,
+          "optionID" : 362,
+          "optionName" : "Corsair Reaver Felarch",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 3695,
+          "optionName" : "Spar-glaive",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 10.0,
           "optionID" : 364,
           "optionName" : "Reaver w/ Heavy Weapon",
@@ -224,122 +338,8 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 10.0,
-          "optionID" : 365,
-          "optionName" : "Reaver w/ Shuriken Catapult",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 1,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Felarch Weapons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        } ],
-        "unitCategory" : "Troops",
-        "unitCost" : 0.0,
-        "unitID" : 368,
-        "autoAddDictionary" : {
-          "363" : 5
-        },
-        "startingModels" : 1,
-        "listOfCurrencies" : {
-          "Power level" : 4,
-          "Command points" : 0
-        }
-      } ],
-      "listOfEquipmentOptions" : [ {
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 3774,
-          "optionName" : "Favoured of Ynnead",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3768,
-          "optionName" : "Walker of Many Paths",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3776,
-          "optionName" : "Fear of the Grave",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3778,
-          "optionName" : "Lord of Rebirth",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3779,
-          "optionName" : "Warden of Souls",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3772,
-          "optionName" : "Master of Death",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "equipmentName" : "$Warlord Trait (Ynnari)"
-      }, {
-        "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 3651,
-          "optionName" : "Shardcarbine",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 3641,
-          "optionName" : "Shuriken Catapult",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
           "optionCost" : 7.0,
-          "optionID" : 3674,
+          "optionID" : 3697,
           "optionName" : "Lasblaster",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -349,51 +349,8 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3664,
-          "optionName" : "Spar-glaive",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "equipmentName" : "$Corsair Weapons"
-      }, {
-        "listOfOptions" : [ {
-          "optionCost" : 10.0,
-          "optionID" : 3660,
-          "optionName" : "Shuriken Cannon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 8.0,
-          "optionID" : 3642,
-          "optionName" : "Shredder",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 17.0,
-          "optionID" : 3669,
-          "optionName" : "Blaster",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 20.0,
-          "optionID" : 3644,
-          "optionName" : "Aeldari Missile Launcher",
+          "optionID" : 3702,
+          "optionName" : "Shuriken Catapult",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -402,74 +359,30 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 3670,
-          "optionName" : "Splinter Cannon",
+          "optionID" : 366,
+          "optionName" : "Reaver w/ Shardcarbine",
           "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 15.0,
-          "optionID" : 3673,
-          "optionName" : "Dark Lance",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 14.0,
-          "optionID" : 3656,
-          "optionName" : "Fusion Gun",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
+          "modelsAdded" : 1,
           "listOfCurrencies" : {
             "Power level" : 0,
             "Command points" : 0
           }
         } ],
-        "equipmentName" : "$Heavy Weapons"
-      }, {
-        "listOfOptions" : [ {
-          "optionCost" : 5.0,
-          "optionID" : 3668,
-          "optionName" : "Dissonance Pistol",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 10.0,
-          "optionID" : 3645,
-          "optionName" : "Void Sabre",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "equipmentName" : "$Felarch Weapons"
-      }, {
+        "unitCategory" : "Troops",
+        "unitCost" : 0.0,
+        "unitID" : 368,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Power level" : 4,
+          "Command points" : 0
+        }
+      } ],
+      "listOfEquipmentOptions" : [ {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "4. Unbind Souls",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "6. Ancestors' Grace",
+          "optionName" : "1. Gaze of Ynnead",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -489,7 +402,7 @@
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "5. Shield of Ynnead",
+          "optionName" : "6. Ancestors' Grace",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -499,7 +412,17 @@
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "1. Gaze of Ynnead",
+          "optionName" : "4. Unbind Souls",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "5. Shield of Ynnead",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -520,9 +443,72 @@
         "equipmentName" : "$Revenant Discipline"
       }, {
         "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 3803,
+          "optionName" : "Favoured of Ynnead",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 3797,
+          "optionName" : "Walker of Many Paths",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 3807,
+          "optionName" : "Warden of Souls",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 3800,
+          "optionName" : "Lord of Rebirth",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 3808,
+          "optionName" : "Fear of the Grave",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 3809,
+          "optionName" : "Master of Death",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "equipmentName" : "$Warlord Trait (Ynnari)"
+      }, {
+        "listOfOptions" : [ {
           "optionCost" : 10.0,
-          "optionID" : 0,
-          "optionName" : "Spirit Stones",
+          "optionID" : 3677,
+          "optionName" : "Shuriken Cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -530,9 +516,9 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 5.0,
-          "optionID" : 0,
-          "optionName" : "Crystal Targeting Matrix",
+          "optionCost" : 0.0,
+          "optionID" : 3690,
+          "optionName" : "Twin Shuriken Catapult",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -540,6 +526,49 @@
             "Command points" : 0
           }
         }, {
+          "optionCost" : 15.0,
+          "optionID" : 3692,
+          "optionName" : "Splinter Cannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 7.0,
+          "optionID" : 3682,
+          "optionName" : "Scatter Laser",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 20.0,
+          "optionID" : 3703,
+          "optionName" : "Dark Lance",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 20.0,
+          "optionID" : 3684,
+          "optionName" : "Dissonance Cannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "equipmentName" : "$Cloud Dancer Weapons"
+      }, {
+        "listOfOptions" : [ {
           "optionCost" : 2.0,
           "optionID" : 0,
           "optionName" : "Chain Snares",
@@ -550,9 +579,9 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 2.0,
+          "optionCost" : 10.0,
           "optionID" : 0,
-          "optionName" : "Grisly Trophies",
+          "optionName" : "Spirit Stones",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -579,13 +608,33 @@
             "Power level" : 0,
             "Command points" : 0
           }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 0,
+          "optionName" : "Crystal Targeting Matrix",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 2.0,
+          "optionID" : 0,
+          "optionName" : "Grisly Trophies",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "equipmentName" : "$Vehicle Equipment"
       }, {
         "listOfOptions" : [ {
-          "optionCost" : 10.0,
-          "optionID" : 3660,
-          "optionName" : "Shuriken Cannon",
+          "optionCost" : 17.0,
+          "optionID" : 3685,
+          "optionName" : "Blaster",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -594,7 +643,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 3670,
+          "optionID" : 3686,
           "optionName" : "Splinter Cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -603,8 +652,38 @@
             "Command points" : 0
           }
         }, {
+          "optionCost" : 8.0,
+          "optionID" : 3691,
+          "optionName" : "Shredder",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 20.0,
+          "optionID" : 3661,
+          "optionName" : "Aeldari Missile Launcher",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 14.0,
+          "optionID" : 3693,
+          "optionName" : "Fusion Gun",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 15.0,
-          "optionID" : 3673,
+          "optionID" : 3683,
           "optionName" : "Dark Lance",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -614,18 +693,21 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 3657,
-          "optionName" : "Scatter Laser",
+          "optionID" : 3704,
+          "optionName" : "Shuriken Cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Power level" : 0,
             "Command points" : 0
           }
-        }, {
-          "optionCost" : 20.0,
-          "optionID" : 3658,
-          "optionName" : "Dissonance Cannon",
+        } ],
+        "equipmentName" : "$Heavy Weapons"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 3688,
+          "optionName" : "Shardcarbine",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -634,8 +716,28 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 3665,
-          "optionName" : "Twin Shuriken Catapult",
+          "optionID" : 3695,
+          "optionName" : "Spar-glaive",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 7.0,
+          "optionID" : 3697,
+          "optionName" : "Lasblaster",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 3702,
+          "optionName" : "Shuriken Catapult",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -643,7 +745,30 @@
             "Command points" : 0
           }
         } ],
-        "equipmentName" : "$Cloud Dancer Weapons"
+        "equipmentName" : "$Corsair Weapons"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 5.0,
+          "optionID" : 3664,
+          "optionName" : "Dissonance Pistol",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 10.0,
+          "optionID" : 3666,
+          "optionName" : "Void Sabre",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "equipmentName" : "$Felarch Weapons"
       } ],
       "armyName" : "FW Corsairs",
       "armyCategories" : [ ]

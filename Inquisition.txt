@@ -6,6 +6,26 @@
         "unitName" : "[1]Inquisitor Coteaz",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
+          "optionID" : 15605,
+          "optionName" : "Stratagem: Inquisitorial Mandate",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 2328,
+          "optionName" : "Psyber-eagle",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
           "optionID" : 2329,
           "optionName" : "Master-crafted Nemesis Daemon hammer",
           "autoAddDictionary" : { },
@@ -16,8 +36,8 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2328,
-          "optionName" : "Psyber-eagle",
+          "optionID" : 15851,
+          "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -35,10 +55,7 @@
         "unitCategory" : "Other",
         "unitCost" : 95.0,
         "unitID" : 2330,
-        "autoAddDictionary" : {
-          "2328" : 1,
-          "2329" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 5,
@@ -54,20 +71,6 @@
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Battle Honours",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Acolyte Weapon",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
           "optionCost" : 9.0,
           "optionID" : 2337,
           "optionName" : "Acolyte",
@@ -77,13 +80,18 @@
             "Power level" : 1,
             "Command points" : 0
           }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Acolyte Weapon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
         } ],
         "unitCategory" : "Elites",
         "unitCost" : 0.0,
         "unitID" : 2338,
-        "autoAddDictionary" : {
-          "2337" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 0,
@@ -92,13 +100,6 @@
       }, {
         "unitName" : "[1]Inquisition Land Raider Prometheus",
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Ordo",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
           "optionCost" : 60.0,
           "optionID" : 2352,
           "optionName" : "Quad Heavy Bolters",
@@ -108,13 +109,18 @@
             "Power level" : 0,
             "Command points" : 0
           }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Ordo",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
         } ],
         "unitCategory" : "Heavy Support",
         "unitCost" : 180.0,
         "unitID" : 2353,
-        "autoAddDictionary" : {
-          "2352" : 2
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 16,
@@ -124,8 +130,38 @@
         "unitName" : "[1]Inquisitor Eisenhorn",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
+          "optionID" : 15605,
+          "optionName" : "Stratagem: Inquisitorial Mandate",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
+        }, {
+          "optionCost" : 0.0,
           "optionID" : 2356,
           "optionName" : "Runestaff",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 2357,
+          "optionName" : "Electrobane Grenades",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15851,
+          "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -164,16 +200,6 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2357,
-          "optionName" : "Electrobane Grenades",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "$Telethesia Discipline",
           "autoAddDictionary" : { },
@@ -183,12 +209,7 @@
         "unitCategory" : "Other",
         "unitCost" : 85.0,
         "unitID" : 2359,
-        "autoAddDictionary" : {
-          "2357" : 1,
-          "2356" : 1,
-          "2355" : 1,
-          "2354" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 5,
@@ -198,8 +219,28 @@
         "unitName" : "[1]Lord Inquisitor Kyria Draxus",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
+          "optionID" : 15605,
+          "optionName" : "Stratagem: Inquisitorial Mandate",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
+        }, {
+          "optionCost" : 0.0,
           "optionID" : 2360,
           "optionName" : "Dirgesinger",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15851,
+          "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -217,9 +258,7 @@
         "unitCategory" : "Other",
         "unitCost" : 85.0,
         "unitID" : 2361,
-        "autoAddDictionary" : {
-          "2360" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 5,
@@ -229,8 +268,54 @@
         "unitName" : "[1]Ordo Malleus Inquisitor in Terminator Armour",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
+          "optionID" : 15605,
+          "optionName" : "Stratagem: Inquisitorial Mandate",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
+        }, {
+          "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "$Relics of the Inquisition",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15851,
+          "optionName" : "Warlord",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15655,
+          "optionName" : "Alpha-Class Psyker",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Command points" : -1
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15603,
+          "optionName" : "Psyk-out grenades",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Telethesia Discipline",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
@@ -247,6 +332,30 @@
       }, {
         "unitName" : "[1]Inquisitor",
         "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 15605,
+          "optionName" : "Stratagem: Inquisitorial Mandate",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Inquisitor Ranged Weapons",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Inquisitor Melee Weapons",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
           "optionCost" : 0.0,
           "optionID" : 2335,
           "optionName" : "Psyker",
@@ -266,24 +375,20 @@
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Inquisitor Force Weapons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
           "optionName" : "$Relics of the Inquisition",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Inquisitor Ranged Weapons",
+          "optionID" : 15851,
+          "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
-          "listOfCurrencies" : { }
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
@@ -294,14 +399,23 @@
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Telethesia Discipline",
+          "optionName" : "$Inquisitor Force Weapons",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
+          "optionID" : 15655,
+          "optionName" : "Alpha-Class Psyker",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Command points" : -1
+          }
+        }, {
+          "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "$Inquisitor Melee Weapons",
+          "optionName" : "$Telethesia Discipline",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
@@ -341,10 +455,7 @@
         "unitCategory" : "Elites",
         "unitCost" : 25.0,
         "unitID" : 2341,
-        "autoAddDictionary" : {
-          "2339" : 1,
-          "2340" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 1,
@@ -353,6 +464,46 @@
       }, {
         "unitName" : "[1]Inquisitor Greyfax",
         "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 15605,
+          "optionName" : "Stratagem: Inquisitorial Mandate",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 2346,
+          "optionName" : "Hereticus - No Escape",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15851,
+          "optionName" : "Warlord",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15603,
+          "optionName" : "Psyk-out grenades",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 0.0,
           "optionID" : 2344,
           "optionName" : "Master-Crafted Power Sword",
@@ -374,16 +525,6 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2346,
-          "optionName" : "Hereticus - No Escape",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "$Telethesia Discipline",
           "autoAddDictionary" : { },
@@ -393,10 +534,7 @@
         "unitCategory" : "Other",
         "unitCost" : 90.0,
         "unitID" : 2347,
-        "autoAddDictionary" : {
-          "2345" : 1,
-          "2344" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 5,
@@ -405,6 +543,26 @@
       }, {
         "unitName" : "[1]Inquisitor-Lord Solomon Lok",
         "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 2349,
+          "optionName" : "Blade of Surety",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15605,
+          "optionName" : "Stratagem: Inquisitorial Mandate",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
+        }, {
           "optionCost" : 0.0,
           "optionID" : 2350,
           "optionName" : "Psibolt Pistol",
@@ -416,8 +574,8 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2349,
-          "optionName" : "Blade of Surety",
+          "optionID" : 15851,
+          "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -428,10 +586,7 @@
         "unitCategory" : "HQ",
         "unitCost" : 75.0,
         "unitID" : 2351,
-        "autoAddDictionary" : {
-          "2349" : 1,
-          "2350" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 4,
@@ -440,6 +595,26 @@
       }, {
         "unitName" : "[1]Inquisitor Karamazov",
         "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 15605,
+          "optionName" : "Stratagem: Inquisitorial Mandate",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 2331,
+          "optionName" : "Throne of Judgement",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 0.0,
           "optionID" : 2333,
           "optionName" : "Master-Crafted Power Sword",
@@ -451,8 +626,8 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 2331,
-          "optionName" : "Throne of Judgement",
+          "optionID" : 15851,
+          "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -473,11 +648,7 @@
         "unitCategory" : "Other",
         "unitCost" : 125.0,
         "unitID" : 2334,
-        "autoAddDictionary" : {
-          "2333" : 1,
-          "2332" : 1,
-          "2331" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 7,
@@ -506,9 +677,7 @@
         "unitCategory" : "Elites",
         "unitCost" : 20.0,
         "unitID" : 2343,
-        "autoAddDictionary" : {
-          "2342" : 1
-        },
+        "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : {
           "Power level" : 1,
@@ -517,9 +686,35 @@
       } ],
       "listOfEquipmentOptions" : [ {
         "listOfOptions" : [ {
+          "optionCost" : 15.0,
+          "optionID" : 0,
+          "optionName" : "Incinerator",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "equipmentName" : "$Inquisitor Ranged Weapons"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 4.0,
+          "optionID" : 0,
+          "optionName" : "Null Rod [Legends]",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "equipmentName" : "$Inquisitor Melee Weapons"
+      }, {
+        "listOfOptions" : [ {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "Ordo Minoris",
+          "optionName" : "Ordo Hereticus",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -529,7 +724,7 @@
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "Ordo Hereticus",
+          "optionName" : "Ordo Minoris",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -559,58 +754,9 @@
         } ],
         "equipmentName" : "$Ordo"
       }, {
-        "listOfOptions" : null,
-        "equipmentName" : "$Inquisitor Force Weapons"
-      }, {
-        "listOfOptions" : null,
-        "equipmentName" : "$Acolyte Weapon"
-      }, {
-        "listOfOptions" : [ {
-          "optionCost" : 15.0,
-          "optionID" : 0,
-          "optionName" : "Incinerator",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "equipmentName" : "$Inquisitor Ranged Weapons"
-      }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 15485,
-          "optionName" : "Blade of the Ordo",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15443,
-          "optionName" : "Tainted Blade",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "Blackshroud",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 15421,
+          "optionID" : 15811,
           "optionName" : "Ignis Judicium",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -630,8 +776,38 @@
           }
         }, {
           "optionCost" : 0.0,
+          "optionID" : 15673,
+          "optionName" : "Tainted Blade",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "Digital Weapons",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 15832,
+          "optionName" : "Blade of the Ordo",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "Blackshroud",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -642,12 +818,28 @@
         "equipmentName" : "$Relics of the Inquisition"
       }, {
         "listOfOptions" : null,
+        "equipmentName" : "$Acolyte Weapon"
+      }, {
+        "listOfOptions" : null,
         "equipmentName" : "$Inquisitor Pistol Weapons"
+      }, {
+        "listOfOptions" : null,
+        "equipmentName" : "$Inquisitor Force Weapons"
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "5) Psychic Pursuit",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "Hereticus - Ascertainment",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -677,27 +869,17 @@
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "6) Castigation",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "Xenos - Psychic Veil",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
           "optionName" : "1) Terrify",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "Malleus - Power Through Knowledge",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -717,7 +899,7 @@
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "Hereticus - Ascertainment",
+          "optionName" : "6) Castigation",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -727,7 +909,7 @@
         }, {
           "optionCost" : 0.0,
           "optionID" : 0,
-          "optionName" : "Malleus - Power Through Knowledge",
+          "optionName" : "Xenos - Psychic Veil",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -736,19 +918,6 @@
           }
         } ],
         "equipmentName" : "$Telethesia Discipline"
-      }, {
-        "listOfOptions" : [ {
-          "optionCost" : 4.0,
-          "optionID" : 0,
-          "optionName" : "Null Rod [Legends]",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        } ],
-        "equipmentName" : "$Inquisitor Melee Weapons"
       } ],
       "armyName" : "Inquisition",
       "armyCategories" : [ ]
