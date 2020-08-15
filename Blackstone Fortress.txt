@@ -6,6 +6,13 @@
         "unitName" : "[1]Janus Draik",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Warlord Traits",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
           "optionID" : 1798,
           "optionName" : "Heirloom pistol",
           "autoAddDictionary" : { },
@@ -26,7 +33,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6548,
+          "optionID" : 7392,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -68,6 +75,13 @@
           }
         }, {
           "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Warlord Traits",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
           "optionID" : 1804,
           "optionName" : "Mk I assault cannon",
           "autoAddDictionary" : { },
@@ -78,7 +92,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 6548,
+          "optionID" : 7392,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -100,7 +114,24 @@
         "unitName" : "[1]Espern Locarno",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 6548,
+          "optionID" : 0,
+          "optionName" : "$Warlord Traits",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 11062,
+          "optionName" : "Laspistol",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 7392,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -112,6 +143,16 @@
           "optionCost" : 0.0,
           "optionID" : 1802,
           "optionName" : "Force-orb cane",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 18070,
+          "optionName" : "Smite",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -151,7 +192,10 @@
           "Command points" : 0
         }
       } ],
-      "listOfEquipmentOptions" : null,
+      "listOfEquipmentOptions" : [ {
+        "listOfOptions" : null,
+        "equipmentName" : "$Warlord Traits"
+      } ],
       "armyName" : "Blackstone Fortress",
       "armyCategories" : [ ]
     } ],

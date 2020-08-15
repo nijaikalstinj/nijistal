@@ -6,25 +6,8 @@
         "unitName" : "[1]Exalted Sorcerer",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 4591,
+          "optionID" : 4942,
           "optionName" : "Inferno Bolt Pistol",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Sorcerous Arcana",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 4644,
-          "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -40,13 +23,60 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4612,
+          "optionID" : 0,
+          "optionName" : "$Sorcerous Arcana",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5011,
+          "optionName" : "Warlord",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 4970,
           "optionName" : "Magister",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Power level" : 0,
             "Command points" : -1
+          }
+        }, {
+          "optionCost" : 4.0,
+          "optionID" : 13559,
+          "optionName" : "Power sword",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 10640,
+          "optionName" : "Frag & Krak grenades",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 13561,
+          "optionName" : "Plasma pistol",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
           }
         }, {
           "optionCost" : 0.0,
@@ -57,7 +87,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 4660,
+          "optionID" : 5032,
           "optionName" : "Warpflame pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -65,6 +95,23 @@
             "Power level" : 0,
             "Command points" : 0
           }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5005,
+          "optionName" : "Smite",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Warlord Traits",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 100.0,
@@ -79,7 +126,7 @@
         "unitName" : "[0]Rubric Marines",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 4591,
+          "optionID" : 4942,
           "optionName" : "Inferno Bolt Pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -99,7 +146,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 4611,
+          "optionID" : 4969,
           "optionName" : "Icon of Flame",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -136,8 +183,18 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4639,
+          "optionID" : 5005,
           "optionName" : "Smite",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 13561,
+          "optionName" : "Plasma pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -156,7 +213,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 4652,
+          "optionID" : 5023,
           "optionName" : "Soulreaper cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -166,7 +223,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 4660,
+          "optionID" : 5032,
           "optionName" : "Warpflame pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -240,7 +297,7 @@
         "unitName" : "[0]Tzaangor Enlightened",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 4636,
+          "optionID" : 5000,
           "optionName" : "Fatecaster greatbows",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -250,7 +307,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4637,
+          "optionID" : 5002,
           "optionName" : "Blades on Disc of Tzeentch",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -270,7 +327,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4670,
+          "optionID" : 5051,
           "optionName" : "Divining spears",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -312,7 +369,7 @@
         "unitName" : "[1]Sorcerer",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 4591,
+          "optionID" : 4942,
           "optionName" : "Inferno Bolt Pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -329,7 +386,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4644,
+          "optionID" : 5011,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -346,13 +403,33 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4612,
+          "optionID" : 4970,
           "optionName" : "Magister",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Power level" : 0,
             "Command points" : -1
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 10640,
+          "optionName" : "Frag & Krak grenades",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 13561,
+          "optionName" : "Plasma pistol",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
           }
         }, {
           "optionCost" : 0.0,
@@ -363,7 +440,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 4660,
+          "optionID" : 5032,
           "optionName" : "Warpflame pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -371,6 +448,23 @@
             "Power level" : 0,
             "Command points" : 0
           }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5005,
+          "optionName" : "Smite",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Warlord Traits",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 90.0,
@@ -395,6 +489,16 @@
           }
         }, {
           "optionCost" : 20.0,
+          "optionID" : 18036,
+          "optionName" : "Missile launcher",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 20.0,
           "optionID" : 1213,
           "optionName" : "Helbrute plasma cannon",
           "autoAddDictionary" : { },
@@ -404,8 +508,18 @@
             "Command points" : 0
           }
         }, {
+          "optionCost" : 40.0,
+          "optionID" : 18194,
+          "optionName" : "Twin lascannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 20.0,
-          "optionID" : 4643,
+          "optionID" : 5009,
           "optionName" : "Helbrute fist",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -419,6 +533,26 @@
           "optionName" : "Helbrute hammer",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 25.0,
+          "optionID" : 18235,
+          "optionName" : "Multi-melta",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 30.0,
+          "optionID" : 18259,
+          "optionName" : "Twin heavy bolter",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Power level" : 0,
             "Command points" : 0
@@ -454,7 +588,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4644,
+          "optionID" : 5011,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -464,7 +598,7 @@
           }
         }, {
           "optionCost" : 3.0,
-          "optionID" : 4645,
+          "optionID" : 5012,
           "optionName" : "Inferno Combi-bolter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -481,7 +615,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4612,
+          "optionID" : 4970,
           "optionName" : "Magister",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -490,9 +624,36 @@
             "Command points" : -1
           }
         }, {
+          "optionCost" : 4.0,
+          "optionID" : 13559,
+          "optionName" : "Power sword",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "$Dark Hereticus Discipline",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5005,
+          "optionName" : "Smite",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Warlord Traits",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
@@ -569,7 +730,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4644,
+          "optionID" : 5011,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -586,7 +747,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4612,
+          "optionID" : 4970,
           "optionName" : "Magister",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -603,8 +764,25 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
+          "optionID" : 5005,
+          "optionName" : "Smite",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "$Terminator Sorcerer Weapon options",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Warlord Traits",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
@@ -642,7 +820,7 @@
           }
         }, {
           "optionCost" : 3.0,
-          "optionID" : 4645,
+          "optionID" : 5012,
           "optionName" : "Inferno Combi-bolter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -659,8 +837,18 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 15.0,
-          "optionID" : 4664,
+          "optionID" : 5038,
           "optionName" : "Hellfyre Missile Rack",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 4.0,
+          "optionID" : 13559,
+          "optionName" : "Power sword",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -679,7 +867,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4639,
+          "optionID" : 5005,
           "optionName" : "Smite",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -689,7 +877,7 @@
           }
         }, {
           "optionCost" : 10.0,
-          "optionID" : 4652,
+          "optionID" : 5023,
           "optionName" : "Soulreaper cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -761,10 +949,30 @@
           }
         }, {
           "optionCost" : 6.0,
+          "optionID" : 17868,
+          "optionName" : "Flamer",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 6.0,
           "optionID" : 1219,
           "optionName" : "Cultist Champion",
           "autoAddDictionary" : { },
           "modelsAdded" : 1,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 6313,
+          "optionName" : "Autogun",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Power level" : 0,
             "Command points" : 0
@@ -781,8 +989,18 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4596,
+          "optionID" : 4948,
           "optionName" : "Brutal assault weapon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 11050,
+          "optionName" : "Shotgun",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -825,6 +1043,16 @@
         "unitName" : "[0]Tzaangors",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
+          "optionID" : 11075,
+          "optionName" : "Chainsword",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
           "optionID" : 1232,
           "optionName" : "Tzaangor blades",
           "autoAddDictionary" : { },
@@ -835,7 +1063,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 4611,
+          "optionID" : 4969,
           "optionName" : "Icon of Flame",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -921,7 +1149,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4644,
+          "optionID" : 5011,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -938,7 +1166,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4612,
+          "optionID" : 4970,
           "optionName" : "Magister",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -970,6 +1198,23 @@
             "Power level" : 0,
             "Command points" : 0
           }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5005,
+          "optionName" : "Smite",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Warlord Traits",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 146.0,
@@ -984,7 +1229,7 @@
         "unitName" : "[1]Exalted Sorcerer on Disc of Tzeentch",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 4591,
+          "optionID" : 4942,
           "optionName" : "Inferno Bolt Pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -994,24 +1239,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Sorcerous Arcana",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 4644,
-          "optionName" : "Warlord",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 4637,
+          "optionID" : 5002,
           "optionName" : "Blades on Disc of Tzeentch",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1028,13 +1256,60 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4612,
+          "optionID" : 0,
+          "optionName" : "$Sorcerous Arcana",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5011,
+          "optionName" : "Warlord",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 4970,
           "optionName" : "Magister",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Power level" : 0,
             "Command points" : -1
+          }
+        }, {
+          "optionCost" : 4.0,
+          "optionID" : 13559,
+          "optionName" : "Power sword",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 10640,
+          "optionName" : "Frag & Krak grenades",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 13561,
+          "optionName" : "Plasma pistol",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
           }
         }, {
           "optionCost" : 0.0,
@@ -1045,7 +1320,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 4660,
+          "optionID" : 5032,
           "optionName" : "Warpflame pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1053,6 +1328,23 @@
             "Power level" : 0,
             "Command points" : 0
           }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5005,
+          "optionName" : "Smite",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Warlord Traits",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 120.0,
@@ -1074,7 +1366,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4579,
+          "optionID" : 4923,
           "optionName" : "Smoke launchers",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1083,8 +1375,28 @@
             "Command points" : 0
           }
         }, {
+          "optionCost" : 40.0,
+          "optionID" : 18194,
+          "optionName" : "Twin lascannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 30.0,
+          "optionID" : 18259,
+          "optionName" : "Twin heavy bolter",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 5.0,
-          "optionID" : 4661,
+          "optionID" : 5034,
           "optionName" : "Havoc launcher",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1113,7 +1425,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4579,
+          "optionID" : 4923,
           "optionName" : "Smoke launchers",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1123,7 +1435,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 4661,
+          "optionID" : 5034,
           "optionName" : "Havoc launcher",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1145,7 +1457,7 @@
         "unitName" : "[1]Magnus the Red",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 4644,
+          "optionID" : 5011,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1169,7 +1481,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4612,
+          "optionID" : 4970,
           "optionName" : "Magister",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1224,6 +1536,16 @@
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
+          "optionCost" : 20.0,
+          "optionID" : 18266,
+          "optionName" : "Lascannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 0.0,
           "optionID" : 1178,
           "optionName" : "Two heavy bolters",
@@ -1254,8 +1576,28 @@
             "Command points" : 0
           }
         }, {
+          "optionCost" : 15.0,
+          "optionID" : 18061,
+          "optionName" : "Heavy bolter",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 40.0,
+          "optionID" : 18194,
+          "optionName" : "Twin lascannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 5.0,
-          "optionID" : 4661,
+          "optionID" : 5034,
           "optionName" : "Havoc launcher",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1284,7 +1626,17 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4579,
+          "optionID" : 18230,
+          "optionName" : "Demolisher cannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 4923,
           "optionName" : "Smoke launchers",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1294,7 +1646,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 4661,
+          "optionID" : 5034,
           "optionName" : "Havoc launcher",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1330,7 +1682,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4644,
+          "optionID" : 5011,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1357,13 +1709,23 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4612,
+          "optionID" : 4970,
           "optionName" : "Magister",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Power level" : 0,
             "Command points" : -1
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 10640,
+          "optionName" : "Frag & Krak grenades",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
           }
         }, {
           "optionCost" : 0.0,
@@ -1376,6 +1738,23 @@
           "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "$Dark Hereticus Discipline",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5005,
+          "optionName" : "Smite",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Warlord Traits",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
@@ -1425,7 +1804,7 @@
         "unitName" : "[1]Ahriman on Disc of Tzeentch",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 4591,
+          "optionID" : 4942,
           "optionName" : "Inferno Bolt Pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1435,7 +1814,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4644,
+          "optionID" : 5011,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1445,7 +1824,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4637,
+          "optionID" : 5002,
           "optionName" : "Blades on Disc of Tzeentch",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1472,7 +1851,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4612,
+          "optionID" : 4970,
           "optionName" : "Magister",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1482,11 +1861,31 @@
           }
         }, {
           "optionCost" : 0.0,
+          "optionID" : 10640,
+          "optionName" : "Frag & Krak grenades",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "$Dark Hereticus Discipline",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5005,
+          "optionName" : "Smite",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "HQ",
         "unitCost" : 170.0,
@@ -1543,16 +1942,6 @@
         "unitName" : "[1]Tzaangor Shaman",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 4612,
-          "optionName" : "Magister",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : -1
-          }
-        }, {
-          "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "$Sorcerous Arcana",
           "autoAddDictionary" : { },
@@ -1560,7 +1949,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4644,
+          "optionID" : 5011,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1570,7 +1959,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4637,
+          "optionID" : 5002,
           "optionName" : "Blades on Disc of Tzeentch",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1582,6 +1971,33 @@
           "optionCost" : 0.0,
           "optionID" : 0,
           "optionName" : "$Discipline of Change",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 4970,
+          "optionName" : "Magister",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : -1
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5005,
+          "optionName" : "Smite",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Warlord Traits",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
@@ -1599,7 +2015,7 @@
         "unitName" : "[1]Ahriman",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 4591,
+          "optionID" : 4942,
           "optionName" : "Inferno Bolt Pistol",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1609,7 +2025,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4644,
+          "optionID" : 5011,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1626,13 +2042,23 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4612,
+          "optionID" : 4970,
           "optionName" : "Magister",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
             "Power level" : 0,
             "Command points" : -1
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 10640,
+          "optionName" : "Frag & Krak grenades",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
           }
         }, {
           "optionCost" : 0.0,
@@ -1645,6 +2071,16 @@
           "optionCost" : 0.0,
           "optionID" : 1235,
           "optionName" : "Black Staff of Ahriman",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5005,
+          "optionName" : "Smite",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -1671,6 +2107,16 @@
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
+          "optionCost" : 30.0,
+          "optionID" : 17895,
+          "optionName" : "Twin heavy flamer",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 10.0,
           "optionID" : 1183,
           "optionName" : "Defiler scourge",
@@ -1682,7 +2128,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4579,
+          "optionID" : 4923,
           "optionName" : "Smoke launchers",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1702,8 +2148,18 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 4661,
+          "optionID" : 5034,
           "optionName" : "Havoc launcher",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 30.0,
+          "optionID" : 18259,
+          "optionName" : "Twin heavy bolter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -1723,8 +2179,65 @@
       }, {
         "unitName" : "[1]Hellforged Predator",
         "listOfOptions" : [ {
+          "optionCost" : 20.0,
+          "optionID" : 18266,
+          "optionName" : "Lascannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 15.0,
+          "optionID" : 18226,
+          "optionName" : "Heavy flamer",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 4982,
+          "optionName" : "Infernal hunger",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 30.0,
+          "optionID" : 4985,
+          "optionName" : "C-beam cannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 0,
+          "optionName" : "$Combi-weapons",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
           "optionCost" : 40.0,
-          "optionID" : 4599,
+          "optionID" : 4949,
+          "optionName" : "Plasma destroyer",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 40.0,
+          "optionID" : 4951,
           "optionName" : "Magna-melta cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1754,28 +2267,8 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 4601,
+          "optionID" : 4954,
           "optionName" : "Havoc launcher",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 0.0,
-          "optionID" : 4623,
-          "optionName" : "Infernal hunger",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 30.0,
-          "optionID" : 4626,
-          "optionName" : "C-beam cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -1794,7 +2287,7 @@
           }
         }, {
           "optionCost" : 40.0,
-          "optionID" : 4659,
+          "optionID" : 5030,
           "optionName" : "Predator autocannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1803,16 +2296,9 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 0.0,
-          "optionID" : 0,
-          "optionName" : "$Combi-weapons",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : { }
-        }, {
-          "optionCost" : 40.0,
-          "optionID" : 4597,
-          "optionName" : "Plasma destroyer",
+          "optionCost" : 15.0,
+          "optionID" : 18061,
+          "optionName" : "Heavy bolter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -1821,8 +2307,18 @@
           }
         }, {
           "optionCost" : 45.0,
-          "optionID" : 4676,
+          "optionID" : 5057,
           "optionName" : "Infernal flamestorm cannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 40.0,
+          "optionID" : 18194,
+          "optionName" : "Twin lascannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -1842,6 +2338,16 @@
       }, {
         "unitName" : "[1]Hellforged Sicaran Venator",
         "listOfOptions" : [ {
+          "optionCost" : 20.0,
+          "optionID" : 18266,
+          "optionName" : "Lascannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 0.0,
           "optionID" : 941,
           "optionName" : "Heavy bolters",
@@ -1853,7 +2359,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 4601,
+          "optionID" : 4954,
           "optionName" : "Havoc launcher",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1863,7 +2369,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4623,
+          "optionID" : 4982,
           "optionName" : "Infernal hunger",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1889,8 +2395,18 @@
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
+          "optionCost" : 15.0,
+          "optionID" : 18061,
+          "optionName" : "Heavy bolter",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 0.0,
-          "optionID" : 4677,
+          "optionID" : 5058,
           "optionName" : "Malignatas beam laser",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1932,7 +2448,7 @@
           }
         }, {
           "optionCost" : 30.0,
-          "optionID" : 4626,
+          "optionID" : 4985,
           "optionName" : "C-beam cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1952,7 +2468,7 @@
           }
         }, {
           "optionCost" : 35.0,
-          "optionID" : 4635,
+          "optionID" : 4998,
           "optionName" : "Butcher cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1984,7 +2500,7 @@
           }
         }, {
           "optionCost" : 30.0,
-          "optionID" : 4624,
+          "optionID" : 4983,
           "optionName" : "Balefire missiles",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -1994,7 +2510,7 @@
           }
         }, {
           "optionCost" : 30.0,
-          "optionID" : 4595,
+          "optionID" : 4946,
           "optionName" : "Reaper battery",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2014,7 +2530,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4614,
+          "optionID" : 4972,
           "optionName" : "Twin avenger bolt cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2024,7 +2540,7 @@
           }
         }, {
           "optionCost" : 50.0,
-          "optionID" : 4640,
+          "optionID" : 5006,
           "optionName" : "Hellstrike missiles",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2043,8 +2559,18 @@
             "Command points" : 0
           }
         }, {
+          "optionCost" : 40.0,
+          "optionID" : 18194,
+          "optionName" : "Twin lascannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 60.0,
-          "optionID" : 4669,
+          "optionID" : 5045,
           "optionName" : "Quad heavy bolter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2066,7 +2592,7 @@
         "unitName" : "[1]Chaos Thunderhawk Assault Gunship",
         "listOfOptions" : [ {
           "optionCost" : 60.0,
-          "optionID" : 4656,
+          "optionID" : 5027,
           "optionName" : "Thunderhawk cluster bombs",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2076,7 +2602,7 @@
           }
         }, {
           "optionCost" : 30.0,
-          "optionID" : 4624,
+          "optionID" : 4983,
           "optionName" : "Balefire missiles",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2086,7 +2612,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4587,
+          "optionID" : 4936,
           "optionName" : "Turbo-laser destructor",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2096,7 +2622,7 @@
           }
         }, {
           "optionCost" : 30.0,
-          "optionID" : 4595,
+          "optionID" : 4946,
           "optionName" : "Reaper battery",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2106,7 +2632,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4575,
+          "optionID" : 4917,
           "optionName" : "Thunderhawk heavy cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2116,8 +2642,18 @@
           }
         }, {
           "optionCost" : 60.0,
-          "optionID" : 4629,
+          "optionID" : 4989,
           "optionName" : "Hellstrike battery",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 30.0,
+          "optionID" : 18259,
+          "optionName" : "Twin heavy bolter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -2137,18 +2673,8 @@
       }, {
         "unitName" : "[1]Hellforged Contemptor Dreadnought",
         "listOfOptions" : [ {
-          "optionCost" : 5.0,
-          "optionID" : 4601,
-          "optionName" : "Havoc launcher",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
           "optionCost" : 25.0,
-          "optionID" : 4571,
+          "optionID" : 4912,
           "optionName" : "Kheres assault cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2157,28 +2683,8 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 30.0,
-          "optionID" : 4655,
-          "optionName" : "Soulburner",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
-          "optionCost" : 30.0,
-          "optionID" : 4633,
-          "optionName" : "Hellforged chainclaw",
-          "autoAddDictionary" : { },
-          "modelsAdded" : 0,
-          "listOfCurrencies" : {
-            "Power level" : 0,
-            "Command points" : 0
-          }
-        }, {
           "optionCost" : 20.0,
-          "optionID" : 4665,
+          "optionID" : 5040,
           "optionName" : "Hellflamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2188,7 +2694,7 @@
           }
         }, {
           "optionCost" : 30.0,
-          "optionID" : 4626,
+          "optionID" : 4985,
           "optionName" : "C-beam cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2197,8 +2703,68 @@
             "Command points" : 0
           }
         }, {
+          "optionCost" : 30.0,
+          "optionID" : 17848,
+          "optionName" : "Twin autocannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 20.0,
+          "optionID" : 5008,
+          "optionName" : "Ectoplasma cannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 30.0,
+          "optionID" : 18259,
+          "optionName" : "Twin heavy bolter",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 4954,
+          "optionName" : "Havoc launcher",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 30.0,
+          "optionID" : 5026,
+          "optionName" : "Soulburner",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 30.0,
+          "optionID" : 4995,
+          "optionName" : "Hellforged chainclaw",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 10.0,
-          "optionID" : 4646,
+          "optionID" : 5014,
           "optionName" : "Ectoplasma blaster",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2208,7 +2774,7 @@
           }
         }, {
           "optionCost" : 20.0,
-          "optionID" : 4616,
+          "optionID" : 4974,
           "optionName" : "Hellforged deathclaw",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2217,8 +2783,18 @@
             "Command points" : 0
           }
         }, {
+          "optionCost" : 3.0,
+          "optionID" : 4945,
+          "optionName" : "Combi-bolter",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 35.0,
-          "optionID" : 4635,
+          "optionID" : 4998,
           "optionName" : "Butcher cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2227,9 +2803,19 @@
             "Command points" : 0
           }
         }, {
-          "optionCost" : 20.0,
-          "optionID" : 4642,
-          "optionName" : "Ectoplasma cannon",
+          "optionCost" : 40.0,
+          "optionID" : 18194,
+          "optionName" : "Twin lascannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 25.0,
+          "optionID" : 18235,
+          "optionName" : "Multi-melta",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -2250,7 +2836,7 @@
         "unitName" : "[1]Hellforged Dreadclaw Drop Pod",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 4573,
+          "optionID" : 4915,
           "optionName" : "Blade struts",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2260,7 +2846,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4584,
+          "optionID" : 4933,
           "optionName" : "Thermal jets",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2281,8 +2867,18 @@
       }, {
         "unitName" : "[1]Hellforged Cerberus Heavy Destroyer",
         "listOfOptions" : [ {
+          "optionCost" : 20.0,
+          "optionID" : 18266,
+          "optionName" : "Lascannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 5.0,
-          "optionID" : 4601,
+          "optionID" : 4954,
           "optionName" : "Havoc launcher",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2292,7 +2888,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4623,
+          "optionID" : 4982,
           "optionName" : "Infernal hunger",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2312,7 +2908,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4574,
+          "optionID" : 4916,
           "optionName" : "Malignatas beam cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2327,6 +2923,16 @@
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 15.0,
+          "optionID" : 18061,
+          "optionName" : "Heavy bolter",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 955,
@@ -2351,7 +2957,7 @@
         "unitName" : "[1]Hellforged Deredeo Dreadnought",
         "listOfOptions" : [ {
           "optionCost" : 20.0,
-          "optionID" : 4568,
+          "optionID" : 4909,
           "optionName" : "Greater havoc launcher",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2361,8 +2967,18 @@
           }
         }, {
           "optionCost" : 40.0,
-          "optionID" : 4662,
+          "optionID" : 5035,
           "optionName" : "Dual Malignatas saker",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 30.0,
+          "optionID" : 17895,
+          "optionName" : "Twin heavy flamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -2381,7 +2997,7 @@
           }
         }, {
           "optionCost" : 75.0,
-          "optionID" : 4678,
+          "optionID" : 5059,
           "optionName" : "Butcher cannon array",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2390,8 +3006,18 @@
             "Command points" : 0
           }
         }, {
+          "optionCost" : 30.0,
+          "optionID" : 18259,
+          "optionName" : "Twin heavy bolter",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 50.0,
-          "optionID" : 4577,
+          "optionID" : 4921,
           "optionName" : "Ectoplasma battery",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2413,7 +3039,7 @@
         "unitName" : "[1]Hellforged Spartan Assault Tank",
         "listOfOptions" : [ {
           "optionCost" : 60.0,
-          "optionID" : 4580,
+          "optionID" : 4926,
           "optionName" : "Laser destroyer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2422,8 +3048,18 @@
             "Command points" : 0
           }
         }, {
+          "optionCost" : 30.0,
+          "optionID" : 17895,
+          "optionName" : "Twin heavy flamer",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 5.0,
-          "optionID" : 4601,
+          "optionID" : 4954,
           "optionName" : "Havoc launcher",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2433,7 +3069,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4623,
+          "optionID" : 4982,
           "optionName" : "Infernal hunger",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2443,7 +3079,7 @@
           }
         }, {
           "optionCost" : 80.0,
-          "optionID" : 4648,
+          "optionID" : 5019,
           "optionName" : "Quad lascannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2478,6 +3114,16 @@
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 30.0,
+          "optionID" : 18259,
+          "optionName" : "Twin heavy bolter",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "Lords of War",
         "unitCost" : 320.0,
@@ -2492,7 +3138,7 @@
         "unitName" : "[1]Hellforged Mastodon",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 4608,
+          "optionID" : 4965,
           "optionName" : "Eternal hunger",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2501,8 +3147,18 @@
             "Command points" : 0
           }
         }, {
+          "optionCost" : 20.0,
+          "optionID" : 18266,
+          "optionName" : "Lascannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 45.0,
-          "optionID" : 4625,
+          "optionID" : 4984,
           "optionName" : "Skyreaper battery",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2512,7 +3168,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4650,
+          "optionID" : 5021,
           "optionName" : "Siege melta array",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2522,7 +3178,7 @@
           }
         }, {
           "optionCost" : 20.0,
-          "optionID" : 4665,
+          "optionID" : 5040,
           "optionName" : "Hellflamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2544,7 +3200,7 @@
         "unitName" : "[1]Hellforged Leviathan Dreadnought",
         "listOfOptions" : [ {
           "optionCost" : 20.0,
-          "optionID" : 4600,
+          "optionID" : 4952,
           "optionName" : "Hellforged siege claw",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2554,7 +3210,7 @@
           }
         }, {
           "optionCost" : 20.0,
-          "optionID" : 4665,
+          "optionID" : 5040,
           "optionName" : "Hellflamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2564,7 +3220,7 @@
           }
         }, {
           "optionCost" : 65.0,
-          "optionID" : 4613,
+          "optionID" : 4971,
           "optionName" : "Grav-flux bombard",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2574,7 +3230,7 @@
           }
         }, {
           "optionCost" : 70.0,
-          "optionID" : 4589,
+          "optionID" : 4939,
           "optionName" : "Soulburner ribaudkin",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2583,8 +3239,18 @@
             "Command points" : 0
           }
         }, {
+          "optionCost" : 10.0,
+          "optionID" : 17865,
+          "optionName" : "Meltagun",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 30.0,
-          "optionID" : 4667,
+          "optionID" : 5042,
           "optionName" : "Hellforged siege drill",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2594,7 +3260,7 @@
           }
         }, {
           "optionCost" : 75.0,
-          "optionID" : 4678,
+          "optionID" : 5059,
           "optionName" : "Butcher cannon array",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2615,8 +3281,18 @@
       }, {
         "unitName" : "[1]Hellforged Typhon Heavy Siege Tank",
         "listOfOptions" : [ {
+          "optionCost" : 20.0,
+          "optionID" : 18266,
+          "optionName" : "Lascannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 5.0,
-          "optionID" : 4601,
+          "optionID" : 4954,
           "optionName" : "Havoc launcher",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2626,7 +3302,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4623,
+          "optionID" : 4982,
           "optionName" : "Infernal hunger",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2652,6 +3328,16 @@
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
+          "optionCost" : 15.0,
+          "optionID" : 18061,
+          "optionName" : "Heavy bolter",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 0.0,
           "optionID" : 957,
           "optionName" : "Two heavy bolters",
@@ -2663,7 +3349,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4619,
+          "optionID" : 4977,
           "optionName" : "Dreadhammer siege cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2685,7 +3371,7 @@
         "unitName" : "[1]Chaos Sokar Pattern Stormbird Gunship",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 4621,
+          "optionID" : 4980,
           "optionName" : "Dreadstrike missiles",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2694,9 +3380,29 @@
             "Command points" : 0
           }
         }, {
+          "optionCost" : 40.0,
+          "optionID" : 18194,
+          "optionName" : "Twin lascannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 30.0,
-          "optionID" : 4595,
+          "optionID" : 4946,
           "optionName" : "Reaper battery",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 30.0,
+          "optionID" : 18259,
+          "optionName" : "Twin heavy bolter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -2716,8 +3422,18 @@
       }, {
         "unitName" : "[1]Hellforged Land Raider Proteus",
         "listOfOptions" : [ {
+          "optionCost" : 30.0,
+          "optionID" : 17895,
+          "optionName" : "Twin heavy flamer",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 5.0,
-          "optionID" : 4601,
+          "optionID" : 4954,
           "optionName" : "Havoc launcher",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2727,7 +3443,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4623,
+          "optionID" : 4982,
           "optionName" : "Infernal hunger",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2743,9 +3459,29 @@
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
+          "optionCost" : 40.0,
+          "optionID" : 18194,
+          "optionName" : "Twin lascannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 0.0,
           "optionID" : 929,
           "optionName" : "Accursed Phylactery",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 30.0,
+          "optionID" : 18259,
+          "optionName" : "Twin heavy bolter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -2766,7 +3502,7 @@
         "unitName" : "[1]Hellforged Falchion",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 4608,
+          "optionID" : 4965,
           "optionName" : "Eternal hunger",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2786,7 +3522,7 @@
           }
         }, {
           "optionCost" : 60.0,
-          "optionID" : 4580,
+          "optionID" : 4926,
           "optionName" : "Laser destroyer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2795,8 +3531,18 @@
             "Command points" : 0
           }
         }, {
+          "optionCost" : 30.0,
+          "optionID" : 17895,
+          "optionName" : "Twin heavy flamer",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 5.0,
-          "optionID" : 4601,
+          "optionID" : 4954,
           "optionName" : "Havoc launcher",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2806,7 +3552,7 @@
           }
         }, {
           "optionCost" : 80.0,
-          "optionID" : 4648,
+          "optionID" : 5019,
           "optionName" : "Quad lascannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2833,8 +3579,18 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4668,
+          "optionID" : 5044,
           "optionName" : "Twin volcano cannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 30.0,
+          "optionID" : 18259,
+          "optionName" : "Twin heavy bolter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -2854,8 +3610,18 @@
       }, {
         "unitName" : "[1]Chaos Xiphon Interceptor",
         "listOfOptions" : [ {
+          "optionCost" : 40.0,
+          "optionID" : 18194,
+          "optionName" : "Twin lascannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 50.0,
-          "optionID" : 4618,
+          "optionID" : 4976,
           "optionName" : "Soulstalker missiles",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2876,8 +3642,18 @@
       }, {
         "unitName" : "[1]Hellforged Land Raider Achilles",
         "listOfOptions" : [ {
+          "optionCost" : 50.0,
+          "optionID" : 17964,
+          "optionName" : "Twin multi-melta",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 5.0,
-          "optionID" : 4601,
+          "optionID" : 4954,
           "optionName" : "Havoc launcher",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2894,7 +3670,7 @@
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4623,
+          "optionID" : 4982,
           "optionName" : "Infernal hunger",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2904,7 +3680,7 @@
           }
         }, {
           "optionCost" : 90.0,
-          "optionID" : 4607,
+          "optionID" : 4963,
           "optionName" : "Soulburner bombard",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2925,8 +3701,18 @@
       }, {
         "unitName" : "[1]Hellforged Sicaran",
         "listOfOptions" : [ {
+          "optionCost" : 20.0,
+          "optionID" : 18266,
+          "optionName" : "Lascannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 5.0,
-          "optionID" : 4601,
+          "optionID" : 4954,
           "optionName" : "Havoc launcher",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2936,7 +3722,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4623,
+          "optionID" : 4982,
           "optionName" : "Infernal hunger",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2956,7 +3742,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4615,
+          "optionID" : 4973,
           "optionName" : "Twin accelerator autocannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -2971,6 +3757,16 @@
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 15.0,
+          "optionID" : 18061,
+          "optionName" : "Heavy bolter",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         }, {
           "optionCost" : 0.0,
           "optionID" : 938,
@@ -2995,7 +3791,7 @@
         "unitName" : "[1]Chaos Hell Talon",
         "listOfOptions" : [ {
           "optionCost" : 25.0,
-          "optionID" : 4569,
+          "optionID" : 4910,
           "optionName" : "Helstorm cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3035,8 +3831,18 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 4601,
+          "optionID" : 4954,
           "optionName" : "Havoc launcher",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 40.0,
+          "optionID" : 18194,
+          "optionName" : "Twin lascannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -3057,7 +3863,7 @@
         "unitName" : "[1]Hellforged Fellblade",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 4608,
+          "optionID" : 4965,
           "optionName" : "Eternal hunger",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3067,8 +3873,18 @@
           }
         }, {
           "optionCost" : 60.0,
-          "optionID" : 4580,
+          "optionID" : 4926,
           "optionName" : "Laser destroyer",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 30.0,
+          "optionID" : 17895,
+          "optionName" : "Twin heavy flamer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -3087,7 +3903,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 4601,
+          "optionID" : 4954,
           "optionName" : "Havoc launcher",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3097,7 +3913,7 @@
           }
         }, {
           "optionCost" : 80.0,
-          "optionID" : 4648,
+          "optionID" : 5019,
           "optionName" : "Quad lascannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3117,8 +3933,18 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4671,
+          "optionID" : 5052,
           "optionName" : "Fellblade accelerator cannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 18230,
+          "optionName" : "Demolisher cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -3132,6 +3958,16 @@
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 30.0,
+          "optionID" : 18259,
+          "optionName" : "Twin heavy bolter",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
         } ],
         "unitCategory" : "Lords of War",
         "unitCost" : 690.0,
@@ -3146,7 +3982,7 @@
         "unitName" : "[1]Hellforged Kharybdis Assault Claw",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 4573,
+          "optionID" : 4915,
           "optionName" : "Blade struts",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3156,7 +3992,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4632,
+          "optionID" : 4993,
           "optionName" : "Melta cutters",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3166,7 +4002,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4602,
+          "optionID" : 4955,
           "optionName" : "Kharybdis storm launchers",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3176,7 +4012,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4653,
+          "optionID" : 5024,
           "optionName" : "Thermal jet array",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3208,7 +4044,7 @@
           }
         }, {
           "optionCost" : 5.0,
-          "optionID" : 4601,
+          "optionID" : 4954,
           "optionName" : "Havoc launcher",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3218,8 +4054,18 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4623,
+          "optionID" : 4982,
           "optionName" : "Infernal hunger",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 3.0,
+          "optionID" : 4945,
+          "optionName" : "Combi-bolter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -3246,8 +4092,18 @@
       }, {
         "unitName" : "[1]Chaos Hell Blade",
         "listOfOptions" : [ {
+          "optionCost" : 20.0,
+          "optionID" : 18266,
+          "optionName" : "Lascannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 25.0,
-          "optionID" : 4569,
+          "optionID" : 4910,
           "optionName" : "Helstorm cannon",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3298,8 +4154,18 @@
             "Command points" : 0
           }
         }, {
+          "optionCost" : 50.0,
+          "optionID" : 17964,
+          "optionName" : "Twin multi-melta",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 5.0,
-          "optionID" : 4601,
+          "optionID" : 4954,
           "optionName" : "Havoc launcher",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3309,7 +4175,7 @@
           }
         }, {
           "optionCost" : 30.0,
-          "optionID" : 4624,
+          "optionID" : 4983,
           "optionName" : "Balefire missiles",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3319,7 +4185,7 @@
           }
         }, {
           "optionCost" : 30.0,
-          "optionID" : 4666,
+          "optionID" : 5041,
           "optionName" : "Vengeance launcher",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3329,8 +4195,28 @@
           }
         }, {
           "optionCost" : 50.0,
-          "optionID" : 4640,
+          "optionID" : 5006,
           "optionName" : "Hellstrike missiles",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 40.0,
+          "optionID" : 18194,
+          "optionName" : "Twin lascannon",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 30.0,
+          "optionID" : 18259,
+          "optionName" : "Twin heavy bolter",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -3349,12 +4235,32 @@
         }
       } ],
       "listOfEquipmentOptions" : [ {
-        "listOfOptions" : null,
+        "listOfOptions" : [ {
+          "optionCost" : 4.0,
+          "optionID" : 13559,
+          "optionName" : "Power sword",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 10.0,
+          "optionID" : 17976,
+          "optionName" : "Power fist",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
         "equipmentName" : "$Terminator Melee Weapons"
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 4582,
+          "optionID" : 4928,
           "optionName" : "Blades of Putrefaction",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3364,7 +4270,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4586,
+          "optionID" : 4935,
           "optionName" : "Gift of Contagion",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3374,7 +4280,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4649,
+          "optionID" : 5020,
           "optionName" : "Putrescent Vitality",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3384,7 +4290,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4617,
+          "optionID" : 4975,
           "optionName" : "Curse of the Leper",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3394,7 +4300,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4630,
+          "optionID" : 4990,
           "optionName" : "Miasma of Pestilence",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3404,7 +4310,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4631,
+          "optionID" : 4991,
           "optionName" : "Plague Wind",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3417,7 +4323,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 4581,
+          "optionID" : 4927,
           "optionName" : "Boon of Mutation",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3427,7 +4333,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4570,
+          "optionID" : 4911,
           "optionName" : "Doombolt",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3437,7 +4343,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4578,
+          "optionID" : 4922,
           "optionName" : "Tzeentch's Firestorm",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3447,7 +4353,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4606,
+          "optionID" : 4960,
           "optionName" : "Temporal Manipulation",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3457,7 +4363,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4672,
+          "optionID" : 5053,
           "optionName" : "Glamour of Tzeentch",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3467,7 +4373,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4673,
+          "optionID" : 5054,
           "optionName" : "Weaver of Fates",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3478,12 +4384,32 @@
         } ],
         "equipmentName" : "$Discipline of Change"
       }, {
-        "listOfOptions" : null,
+        "listOfOptions" : [ {
+          "optionCost" : 3.0,
+          "optionID" : 4945,
+          "optionName" : "Combi-bolter",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 8.0,
+          "optionID" : 18087,
+          "optionName" : "Combi-flamer",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
         "equipmentName" : "$Combi-weapons"
       }, {
         "listOfOptions" : [ {
           "optionCost" : 30.0,
-          "optionID" : 0,
+          "optionID" : 5001,
           "optionName" : "Helbrute hammer",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3493,7 +4419,7 @@
           }
         }, {
           "optionCost" : 25.0,
-          "optionID" : 0,
+          "optionID" : 5050,
           "optionName" : "Power scourge",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3503,7 +4429,7 @@
           }
         }, {
           "optionCost" : 20.0,
-          "optionID" : 4634,
+          "optionID" : 4996,
           "optionName" : "Helbrute fist",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3519,8 +4445,18 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 3.0,
-          "optionID" : 4594,
+          "optionID" : 4945,
           "optionName" : "Combi-bolter",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 10.0,
+          "optionID" : 9694,
+          "optionName" : "Combi-plasma",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -3532,7 +4468,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 4620,
+          "optionID" : 4979,
           "optionName" : "Coruscator",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3542,7 +4478,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5017,
           "optionName" : "Athenaean Scrolls",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3552,7 +4488,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 4913,
           "optionName" : "Cha'Qi'Thl's Theorem",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3562,7 +4498,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5039,
           "optionName" : "Hourglass of Manat",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3572,7 +4508,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 4918,
           "optionName" : "Arcane Focus",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3582,7 +4518,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 4959,
           "optionName" : "Inceladion's Cry",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3592,7 +4528,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 4962,
           "optionName" : "Pythic Brazier",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3602,7 +4538,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4583,
+          "optionID" : 4932,
           "optionName" : "Seer's Bane",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3612,7 +4548,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5046,
           "optionName" : "Dark Matter Crystal",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3622,7 +4558,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5048,
           "optionName" : "Exalted Mutation",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3632,7 +4568,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 4992,
           "optionName" : "Perfidious Tome",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3642,7 +4578,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 4924,
           "optionName" : "Sorthis' Reflector",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3652,7 +4588,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5033,
           "optionName" : "Helm of the Third Eye",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3662,7 +4598,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 4999,
           "optionName" : "Capricious Chest",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3672,7 +4608,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4647,
+          "optionID" : 5016,
           "optionName" : "The Prismatic Staff",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3683,12 +4619,175 @@
         } ],
         "equipmentName" : "$Sorcerous Arcana"
       }, {
-        "listOfOptions" : null,
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 4986,
+          "optionName" : "Immaterial Echo",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 4947,
+          "optionName" : "5. Otherworldly Prescience",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5043,
+          "optionName" : "2. Undying Form",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 4964,
+          "optionName" : "Grand Schemer",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5010,
+          "optionName" : "3. Aetherstride",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5047,
+          "optionName" : "Beguiling Influence",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 4966,
+          "optionName" : "Devastating Sorcery",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 4994,
+          "optionName" : "6. High Magister",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5049,
+          "optionName" : "Touch of Vicissitude",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5013,
+          "optionName" : "4. Lord of Forbidden Lore",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5015,
+          "optionName" : "Fickle Nature",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 4997,
+          "optionName" : "Duplicitous Tactician",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 5031,
+          "optionName" : "1. Arrogance of Aeons",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 4978,
+          "optionName" : "Guided by the Whispers",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 4925,
+          "optionName" : "Ardent Scholar",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "equipmentName" : "$Warlord Traits (Thousand Sons)"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 16246,
+          "optionName" : "Bolt pistol",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
         "equipmentName" : "$Pistols"
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 4609,
+          "optionID" : 4967,
           "optionName" : "Flickering Flames",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3698,7 +4797,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4654,
+          "optionID" : 5025,
           "optionName" : "Infernal Gateway",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3708,7 +4807,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4593,
+          "optionID" : 4944,
           "optionName" : "Bolt of Change",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3718,7 +4817,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4658,
+          "optionID" : 5029,
           "optionName" : "Treason of Tzeentch",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3728,7 +4827,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4627,
+          "optionID" : 4987,
           "optionName" : "Boon of Change",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3738,7 +4837,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4576,
+          "optionID" : 4920,
           "optionName" : "Gaze of Fate",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3751,7 +4850,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5036,
           "optionName" : "Cult of Time",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3761,7 +4860,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 4953,
           "optionName" : "*No Cult*",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3771,7 +4870,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5018,
           "optionName" : "Cult of Knowledge",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3781,7 +4880,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 4929,
           "optionName" : "Cult of Scheming",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3791,7 +4890,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 4930,
           "optionName" : "Cult of Change",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3801,7 +4900,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 5004,
           "optionName" : "Cult of Mutation",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3811,7 +4910,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 4937,
           "optionName" : "Cult of Prophecy",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3821,7 +4920,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 4931,
           "optionName" : "Cult of Magic",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3831,7 +4930,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 4919,
           "optionName" : "Cult of Duplicity",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3841,7 +4940,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 0,
+          "optionID" : 4940,
           "optionName" : "Cult of Manipulation",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3853,9 +4952,49 @@
         "equipmentName" : "$Cults of the Legion"
       }, {
         "listOfOptions" : [ {
+          "optionCost" : 7.0,
+          "optionID" : 15966,
+          "optionName" : "Lightning Claw",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 19340,
+          "optionName" : "Chainsword",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 10.0,
+          "optionID" : 17976,
+          "optionName" : "Power fist",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
           "optionCost" : 1.0,
-          "optionID" : 0,
+          "optionID" : 4961,
           "optionName" : "Chainaxe",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        }, {
+          "optionCost" : 5.0,
+          "optionID" : 13558,
+          "optionName" : "Power axe",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : {
@@ -3867,7 +5006,7 @@
       }, {
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 4592,
+          "optionID" : 4943,
           "optionName" : "Infernal Gaze",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3877,7 +5016,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4572,
+          "optionID" : 4914,
           "optionName" : "Death Hex",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3887,7 +5026,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4663,
+          "optionID" : 5037,
           "optionName" : "Gift of Chaos",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3897,7 +5036,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4605,
+          "optionID" : 4958,
           "optionName" : "Warptime",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3907,7 +5046,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4588,
+          "optionID" : 4938,
           "optionName" : "Prescience",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3917,7 +5056,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4641,
+          "optionID" : 5007,
           "optionName" : "Diabolic Strength",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -3930,6 +5069,9 @@
       }, {
         "listOfOptions" : null,
         "equipmentName" : "$Special Weapons"
+      }, {
+        "listOfOptions" : null,
+        "equipmentName" : "$Warlord Traits"
       } ],
       "armyName" : "Thousand Sons",
       "armyCategories" : [ ]

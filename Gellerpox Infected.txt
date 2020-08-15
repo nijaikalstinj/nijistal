@@ -26,7 +26,7 @@
           }
         }, {
           "optionCost" : 0.0,
-          "optionID" : 4564,
+          "optionID" : 4905,
           "optionName" : "Hideous Mutations",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -92,7 +92,14 @@
         "unitName" : "[1]Vulgrar Thrice-Cursed",
         "listOfOptions" : [ {
           "optionCost" : 0.0,
-          "optionID" : 4563,
+          "optionID" : 0,
+          "optionName" : "$Warlord Traits",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "optionID" : 4903,
           "optionName" : "Warlord",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
@@ -197,7 +204,20 @@
           "Command points" : 0
         }
       } ],
-      "listOfEquipmentOptions" : null,
+      "listOfEquipmentOptions" : [ {
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "optionID" : 4904,
+          "optionName" : "Twisted Brilliance",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : {
+            "Power level" : 0,
+            "Command points" : 0
+          }
+        } ],
+        "equipmentName" : "$Warlord Traits"
+      } ],
       "armyName" : "Gellerpox Infected",
       "armyCategories" : [ ]
     } ],
